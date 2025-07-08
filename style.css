@@ -1,0 +1,243 @@
+/* Prepariamoci Pupa - Stile centrato e mobile-friendly */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  overflow-x: hidden;
+}
+
+body {
+  display: block;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  margin: 0 auto;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+  overflow: hidden;
+}
+
+.header {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  color: white;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.header h1 {
+  font-size: 26px;
+  margin-bottom: 10px;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.header p {
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.content {
+  padding: 20px;
+}
+
+.page {
+  display: none;
+}
+
+.page.active {
+  display: block;
+}
+
+.btn {
+  width: 100%;
+  padding: 15px;
+  border: none;
+  border-radius: 15px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  margin-bottom: 15px;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+}
+
+.btn-secondary {
+  background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%);
+}
+
+.btn-danger {
+  background: linear-gradient(135deg, #fa709a 0%, #fee140 100%);
+}
+
+.btn-warning {
+  background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%);
+  color: #333;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+}
+
+.subject-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.subject-btn {
+  padding: 20px 10px;
+  border: none;
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  white-space: normal;
+}
+
+.subject-btn:hover {
+  transform: translateY(-2px);
+}
+
+.subject-servizio { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); }
+.subject-etica { background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); }
+.subject-penitenziario { background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); }
+.subject-penale { background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); }
+.subject-amministrativo { background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); }
+
+.quiz-container {
+  text-align: center;
+}
+
+.question-counter, .timer {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+}
+
+.question {
+  background: #f8f9fa;
+  padding: 20px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.question h3 {
+  color: #333;
+  margin-bottom: 15px;
+  line-height: 1.4;
+  font-size: 16px;
+}
+
+.answers {
+  display: grid;
+  gap: 10px;
+}
+
+.answer-btn {
+  padding: 12px;
+  border: 2px solid #e9ecef;
+  border-radius: 10px;
+  background: white;
+  color: #333;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-align: left;
+  font-size: 14px;
+}
+
+.answer-btn:hover {
+  border-color: #667eea;
+  background: #f8f9ff;
+}
+
+.answer-btn.correct {
+  background: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+}
+
+.answer-btn.incorrect {
+  background: #f8d7da;
+  border-color: #dc3545;
+  color: #721c24;
+}
+
+.checkbox-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.results {
+  text-align: center;
+  padding: 20px;
+}
+
+.score {
+  font-size: 36px;
+  margin: 20px 0;
+}
+
+.score.good { color: #28a745; }
+.score.average { color: #ffc107; }
+.score.poor { color: #dc3545; }
+
+.back-btn {
+  background: #6c757d;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+.study-mode {
+  background: #e7f3ff;
+  border-left: 4px solid #007bff;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 5px;
+}
+
+@media (max-width: 480px) {
+  .header h1 {
+    font-size: 20px;
+  }
+  .btn, .answer-btn {
+    font-size: 14px;
+    padding: 12px;
+  }
+  .question h3 {
+    font-size: 15px;
+  }
+}

@@ -1,0 +1,533 @@
+[
+  {
+    "question": "Indicare quale tra le seguenti affermazioni sulla reclusione è corretta.",
+    "options": [
+      "Stabilisce l'art. 23 del c.p. che il condannato alla reclusione, che ha scontato almeno un anno della pena, può essere ammesso al lavoro all'all'esterno.",
+      "Durante la reclusione il lavoro non deve avere carattere affittivo e deve essere remunerato in maniera non superiore a due terzi delle tariffe sindacali.",
+      "Il c.p. prevede il differimento facoltativo della reclusione per la donna incinta."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La pubblicazione e la divulgazione di notizie o immagini idonee a consentire l'identificazione del minorenne comunque coinvolto nel procedimento penale (D.P.R. n. 448/1988, art. 13):",
+    "options": [
+      "Sono, in ogni caso, ammesse se il minorenne ha compiuto i sedici anni.",
+      "Sono ammesse solo con il consenso del minorenne e purchè abbia compiuto i quattordici anni.",
+      "Sono vietate."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è correttamente riferibile al Tribunale ordinario?",
+    "options": [
+      "È un ufficio giudiziario di secondo grado.",
+      "Non è organo di giurisdizione penale.",
+      "Può essere monocratico o collegiale."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I provvedimenti del Giudice, a seconda della forma che assumono, vanno distinti in sentenza, ordinanza e decreto. La sentenza:",
+    "options": [
+      "Non esaurisce mai il rapporto processuale in corso.",
+      "È la decisione che esaurisce il rapporto processuale, o almeno una sua fase.",
+      "È il provvedimento con cui si risolvono questioni incidentali o singoli punti del processo."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi del nuovo comma 5 dell'art. 449 del c.p.p., quando la persona nel corso dell'interrogatorio ha reso confessione il P.M. deve procedere al giudizio direttissimo?",
+    "options": [
+      "No, a seguito delle ultime modifiche apportate nel 2016.",
+      "Si, il P.M. \"può, anche procedere\" con il giudizio direttissimo.",
+      "Si, salvo che pregiudichi gravemente le indagini."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quando concorrono più circostanze aggravanti, ai sensi dell'art. 66 del codice penale, la pena da applicare per effetto degli aumenti, se si tratta di reclusione, può eccedere gli anni trenta?",
+    "options": [
+      "No, non può eccedere gli anni venti.",
+      "No.",
+      "Si, può arrivare fino a trentacinque anni."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Le incapacità all'ufficio tutelare sono indicate dall'art. 350 c.c. Sussiste incapacità, tra gli altri, per:",
+    "options": [
+      "I membri del Sacro collegio.",
+      "Coloro che non hanno la libera amministrazione del proprio patrimonio.",
+      "Chi ha compiuto gli anni sessantacinque."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 47 del codice penale, l'errore sul fatto costituente reato esclude la punibilità del soggetto che lo ha commesso?",
+    "options": [
+      "Si, esclude sempre la punibilità del soggetto che lo ha commesso se il delitto prevede una pena non detentiva.",
+      "Si, esclude la punibilità del soggetto che lo ha commesso salvo che si tratti di errore determinato da colpa, se il fatto è previsto dalla legge come delitto colposo.",
+      "No, non esclude mai la punibilità del soggetto che lo ha commesso."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il codice civile consente al genitore esercente la responsabilità genitoriale sul figlio minore di rendersi direttamente acquirente di suoi beni?",
+    "options": [
+      "Si, previa autorizzazione del giudice tutelare.",
+      "No.",
+      "Si, limitatamente ai beni mobili."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Dispone il comma 5 dell'art. 449 del c.p.p. che quando la persona nel corso dell'interrogatorio ha reso confessione il P.M. procede al giudizio direttissimo. La norma:",
+    "options": [
+      "Prevede una eccezione solo nel caso in cui il giudizio direttissimo pregiudichi gravemente le indagini.",
+      "Può essere derogata solo in caso di richiesta dell'arrestato.",
+      "Non può essere in nessun caso derogata."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le sentenze emesse dal giudice devono essere motivate?",
+    "options": [
+      "Si, a pena di nullità.",
+      "No, salvo i casi espressamente previsti dalla legge.",
+      "No, non necessitano di motivazione, al contrario delle ordinanze."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi di quanto prevede la L. n. 184/1983 (diritto del minore ad una famiglia), il minore adottato....",
+    "options": [
+      "Deve essere informato di tale sua condizione, e, qualora i genitori adottivi non vi provvedano, deve provvedere il Servizio Sociale.",
+      "Non può essere informato di tale sua condizione fino ai diciotto anni.",
+      "É informato di tale sua condizione e i genitori adottivi vi provvedono nei modi e termini che essi ritengono più opportuni."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo quanto previsto dall'attuale normativa in materia d'adozione internazionale di minori (L. n. 476/1998) per la dichiarazione d'adottabilità internazionale le autorità dello Stato d'origine del minore devono accertare la sussistenza di numerose condizioni. Quale tra le seguenti non è una condizione, prevista dalla Convenzione, di cui le autorità debbano accertarsi per poter concedere l'adozione internazionale?",
+    "options": [
+      "Che il consenso della madre, qualora sia richiesto, sia stato prestato solo successivamente alla nascita del minore.",
+      "Che il minore non abbia parenti nello stato di origine che possano economicamente sostenerlo.",
+      "Che il consenso all'adozione da parte dei genitori naturali, o di eventuali altri aventi diritto, non sia stato ottenuto mediante pagamento o contropartita d'alcun genere."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi di quanto previsto dall'art. 44 della legge n. 184/1983, l'adozione di minori che possono essere adottati anche in assenza delle condizioni di cui all'art. 7 della stessa legge, nei casi specificatamente indicati è consentita....",
+    "options": [
+      "Anche a persone singole o comunque non coniugate, con figli o senza.",
+      "Esclusivamente a persone senza figli legittimi.",
+      "Esclusivamente a coppie anche di fatto purché stabilmente conviventi da almeno sei anni."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base a quanto stabilito dal codice civile, la condotta disordinata o riprovevole dell'alimentato può essere causa di cessazione degli alimenti?",
+    "options": [
+      "No, può solo essere causa di riduzione.",
+      "Si.",
+      "In nessun caso la somministrazione degli alimenti può cessare o essere ridotta."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dalla disciplina della misura degli arresti domiciliari contenuta nel codice di procedura penale è dato rilevare che:",
+    "options": [
+      "Si attuano in un ambito territoriale, non in un immobile.",
+      "Gli arresti domiciliari consistono in uno stato di privazione della libertà personale, come tale detraibile dalla pena definitiva.",
+      "Il giudice non può in alcun caso autorizzare l'imputato ad allontanarsi dal luogo in cui avviene l'arresto."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale tra le seguenti è una competenza del giudice tutelare?",
+    "options": [
+      "Procedure per il rimpatrio dei minori sottratti (Convenzione de L'Aja del 25-10-1980).",
+      "Apertura della tutela nei confronti dei minori i cui genitori sono deceduti o per altre cause non possono esercitare la responsabilità genitoriale (art. 343 c.c.).",
+      "Determinazione del coniuge cui i figli devono essere affidati in caso di scioglimento o di cessazione degli effetti civili del matrimonio e ogni altro provvedimento nell'interesse della prole (art 6, 1. 898/1970)."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'arresto e il fermo di polizia giudiziaria hanno una durata temporanea?",
+    "options": [
+      "Si, hanno durata temporanea.",
+      "Solo l'arresto ha durata temporanea.",
+      "No, non hanno durata temporanea."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti pene principali previste dal codice penale si estende da 15 giorni a 24 anni, ed è scontata in uno degli istituti a ciò destinati con l'obbligo del lavoro e con l'isolamento notturno?",
+    "options": [
+      "Arresto.",
+      "Ergastolo.",
+      "Reclusione."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La custodia cautelare in luogo di cura, ai sensi del codice di procedura penale, rappresenta:",
+    "options": [
+      "Una misura coercitiva non custodiale.",
+      "Una misura interdittiva impropria.",
+      "Una misura coercitiva custodiale."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale dei seguenti soggetti è considerato, ai sensi dell'art. 382 del codice di procedura penale, in stato di flagranza?",
+    "options": [
+      "Chi, per le circostanze del reato, appare come l'unica persona che possa averlo commesso.",
+      "Chi, trovandosi nelle adiacenze del luogo ove il reato è stato consumato, non fornisca valida ragione della sua presenza.",
+      "Chi, subito dopo il reato, è inseguito dalla persona offesa o da altre persone."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La pena dell'arresto si estende:",
+    "options": [
+      "Da cinque giorni a tre anni.",
+      "Da dieci giorni a cinque anni.",
+      "Da tre giorni ad un anno."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dispone l'art. 123 del codice civile che il matrimonio può essere impugnato da ciascuno dei coniugi quando gli sposi abbiano convenuto di non adempiere agli obblighi e di non esercitare i diritti da esso discendenti. L'azione non può essere proposta, tra l'altro,....",
+    "options": [
+      "Decorsi tre mesi dalla celebrazione del matrimonio.",
+      "Nel caso in cui i contraenti abbiano convissuto come coniugi successivamente alla celebrazione.",
+      "Decorsi sei mesi dalla celebrazione del matrimonio."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I coniugi possono scegliere il regime della separazione di beni (art. 215 c.c.)?",
+    "options": [
+      "No. i coniugi possono solo costituire un fondo patrimoniale.",
+      "Si, con espressa convenzione possono pattuire che ciascuno di essi conservi la titolarità esclusiva dei beni acquistati durante il matrimonio.",
+      "No. Il regime patrimoniale legale della famiglia è costituito dalla comunione dei beni, non è ammessa la stipula di diversa convenzione."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Giudice penale quando difetta la punibilità dell'imputato:",
+    "options": [
+      "Pronuncia sentenza di condanna.",
+      "Pronuncia sentenza di assoluzione.",
+      "Pronuncia sentenza di non doversi procedere."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Entro quanto tempo dall'inizio dell'esecuzione della custodia cautelare in carcere il giudice che l'ha disposta deve procedere all'interrogatorio (art. 294 c.p.p.)?",
+    "options": [
+      "Non oltre 24 ore.",
+      "Immediatamente e comunque non oltre 5 giorni.",
+      "Non oltre 3 giorni."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Relativamente a quale delle seguenti fattispecie, ai sensi dell'art. 380 del codice di procedura penale, è previsto l'arresto obbligatorio in flagranza?",
+    "options": [
+      "Adulterio previsto dall'art. 559 del c.p.",
+      "Furto (art. 624 c.p.).",
+      "Delitti concernenti sostanze stupefacenti o psicotrope puniti a norma dell'art. 73 del T.U. n. 309/1990, salvo che ricorra la circostanza prevista dal comma 5 del medesimo articolo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In riferimento alla legge 4 maggio 1983, n. 184, \"Disciplina dell'adozione e dell'affidamento dei minori\", l'adottabilità viene dichiarata....",
+    "options": [
+      "Quando la permanenza nella famiglia d'origine è rischiosa per il processo evolutivo del minore.",
+      "Solo quando i genitori del minore sono deceduti.",
+      "Quando un minore è in situazione d'abbandono perché privo di assistenza morale e materiale da parte dei genitori o dei parenti tenuti a provvedervi."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il codice civile consente al tutore di rendersi acquirente, per interposta persona, di beni del minore?",
+    "options": [
+      "No, lo vieta espressamente l'art. 378 c.c.",
+      "Si, se si tratta di beni mobili.",
+      "Si, il codice civile non pone alcun divieto al riguardo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale fonte legislativa ha istituito la giornata italiana per i diritti dell'infanzia e dell'adolescenza, da celebrare il 20 novembre di ogni anno, nella ricorrenza della firma della Convenzione di New York del 20 novembre 1989?",
+    "options": [
+      "La legge n. 451/1997.",
+      "La legge n. 335/1995.",
+      "Il D.Lgs. n. 237/1998."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 452 del codice civile, come può essere provata la morte in caso di distruzione o smarrimento dei registri di stato civile?",
+    "options": [
+      "Può essere provata solo a mezzo di testimonianze rese al presidente del tribunale.",
+      "Può essere provata solo mediante giuramento del dichiarante reso all'ufficiale di stato civile alla presenza di due testimoni.",
+      "Può essere provata con ogni mezzo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A norma di quanto disposto dall'art. 284 (arresti domiciliari) del c.p.p., quali soggetti possono controllare in ogni momento l'osservanza delle prescrizioni imposte all'imputato?",
+    "options": [
+      "Il pubblico ministero e la P.G., anche di propria iniziativa.",
+      "Il pubblico ministero e gli assistenti sociali incaricati dal giudice.",
+      "Il G.U.P. e il magistrato di sorveglianza."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti pene è classificata dal nostro ordinamento come pena principale stabilita per le contravvenzioni?",
+    "options": [
+      "Ammenda.",
+      "Ergastolo.",
+      "Multa."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 414 c.c., deve essere interdetto:",
+    "options": [
+      "Colui che, per prodigalità o per abuso abituale di bevande alcooliche o di stupefacenti, espone sé o la propria famiglia a gravi pregiudizi economici.",
+      "Il maggiore di età che si trovi in condizioni di abituale infermità di mente che lo rende incapace di provvedere ai propri interessi, quando ciò è necessario per assicurargli adeguata protezione.",
+      "Il sordo dalla nascita o dalla prima infanzia, se non ha ricevuto un'educazione sufficiente."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il divieto di cui all'art. 13 del D.P.R. n. 448/1988, di pubblicazione e divulgazione, con qualsiasi mezzo, di notizie o immagini idonee a consentire l'identificazione del minorenne si osserva anche in caso di coinvolgimento a qualunque titolo del minore in procedimenti giudiziari in materie diverse da quella penale?",
+    "options": [
+      "Dispone il D.P.R. n. 448/1988 che è in facoltà del Tribunale per i minorenni applicare o meno il divieto, indipendentemente dall'età del minore.",
+      "Si.",
+      "No, si applica solo nei procedimenti giudiziari penali."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi di quanto dispone il Codice civile, con la maggiore età si acquista la capacità di compiere tutti gli atti per i quali non sia stabilita una età diversa. Quale età è richiesta per prestare il consenso all'azione di dichiarazione della paternità o della maternità naturale?",
+    "options": [
+      "16 anni.",
+      "17 anni.",
+      "14 anni."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il divieto di espatrio, ai sensi del codice di procedura penale, rappresenta:",
+    "options": [
+      "Una misura interdittiva impropria.",
+      "Una misura coercitiva non custodiale.",
+      "Una misura coercitiva custodiale."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale tra le seguenti è una competenza del tribunale per i minorenni?",
+    "options": [
+      "Sentenza che consente il riconoscimento del figlio nato fuori dal matrimonio ove vi sia opposizione da parte dell'altro genitore che abbia già effettuato il riconoscimento (art. 250 c.c.).",
+      "Decreto di esecutività dell'affidamento familiare di minorenne disposto dal servizio locale (art. 4, 1. 184/1983).",
+      "Adozioni internazionali (art. 29 e ss. I. 184/1983)."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'automobilista che, guidando a velocità eccessiva, pur non volendo direttamente l'evento investa un pedone e lo uccida, qualora egli abbia previsto la possibilità di investire qualcuno ma abbia escluso tale possibilità, magari confidando nella propria abilità di guidatore, risponderà:",
+    "options": [
+      "Di omissione di soccorso.",
+      "Di omicidio doloso.",
+      "Di omicidio colposo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi di quanto dispone il codice civile, il giudice tutelare può nominare tutore del minore una persona diversa da quella designata dal genitore che ha esercitato per ultimo la responsabilità genitoriale dei genitori?",
+    "options": [
+      "No, in alcun caso.",
+      "Si, se la designazione non è avvenuta per atto pubblico.",
+      "Si, solo se si oppongono gravi motivi."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La pena della multa:",
+    "options": [
+      "È sempre inflitta dal giudice con sentenza di condanna.",
+      "È pena principale per le contravvenzioni.",
+      "È pena principale sia per i delitti che per le contravvenzioni."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti affermazioni sulla denuncia di reato è corretta?",
+    "options": [
+      "Proviene obbligatoriamente dagli incaricati di pubblico servizio.",
+      "È un atto che può provenire solo dalla persona offesa dal reato.",
+      "È un atto che può provenire anche da persona diversa dall'offeso dal reato."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A norma delle disposizioni contenute nel D.P.R. n. 448/1988, in quale dei seguenti casi può essere applicata la custodia cautelare per un minorenne?",
+    "options": [
+      "Solo in caso di arresto obbligatorio in stato di flagranza, ed in ogni caso per il delitto di violenza carnale.",
+      "Delitti non colposi per i quali la legge stabilisce la pena dell'ergastolo o della reclusione non inferiore nel massimo a nove anni.",
+      "In tutti i casi in cui sia ritenuto necessario dal giudice, purchè il minorenne abbia compiuto i diciassette anni di età."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La custodia cautelare in carcere, ai sensi del codice di procedura penale, rappresenta:",
+    "options": [
+      "Una misura coercitiva non custodiale.",
+      "Una misura interdittiva propria.",
+      "Una misura coercitiva custodiale."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale è una delle forme che può assumere l'elemento soggettivo del reato, consistente nell'atteggiamento mentale dell'agente che lo commette?",
+    "options": [
+      "Continuazione.",
+      "Recidiva.",
+      "Dolo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nel disporre le misure cautelari nei confronti di minori il giudice tiene conto, oltre che dei criteri indicati nell'art. 275 del c.p.p., anche dell'esigenza di non interrompere i processi educativi in atto?",
+    "options": [
+      "No.",
+      "Si, lo prevede espressamente il D.P.R. n. 448/1988.",
+      "Si, ma solo se la misura cautelare applicata sia la permanenza in casa."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale tra le seguenti è una competenza del giudice tutelare?",
+    "options": [
+      "Autorizzazione per i genitori stranieri a permanere in Italia a seguito del minorenne (art. 31, d.lgs. 286/1998).",
+      "Richiamo del figlio minorenne allontanatosi senza permesso dalla casa dei genitori o del genitore esercente la responsabilità genitoriale (art. 318 c.c.).",
+      "Provvedimenti temporanei e urgenti ritenuti opportuni nell'interesse della prole nella prima udienza di comparizione dei coniugi nel giudizio di separazione personale giudiziale (art. 706 c.p.c.)."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La richiesta di giudizio immediato è atto tipico che attribuisce alla persona che ne è oggetto la qualità di:",
+    "options": [
+      "Sospettato.",
+      "Indiziato.",
+      "Imputato."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Con riferimento ai procedimenti speciali, il giudizio abbreviato:",
+    "options": [
+      "È di tipo volontario, presupponendo la richiesta del giudicabile.",
+      "Non ha natura premiale, non essendo prevista alcuna riduzione della pena.",
+      "Non è ammissibile per i delitti ipoteticamente punibili con l'ergastolo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La richiesta di rinvio a giudizio è atto tipico che attribuisce alla persona che ne è oggetto la qualità di:",
+    "options": [
+      "Colpevole.",
+      "Testimone.",
+      "Imputato."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 22 della legge n. 184/1983 le indagini, richieste dal Tribunale per i Minorenni per accertare l'idoneità di una coppia all'adozione, debbono essere concluse....",
+    "options": [
+      "Entro 3 mesi.",
+      "Entro 120 giorni.",
+      "Entro 6 mesi."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il condannato all'ergastolo:",
+    "options": [
+      "Non è in stato di interdizione legale.",
+      "Non decade dalla potestà di genitore.",
+      "È in stato di interdizione legale."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi del novellato art. 348 c.c., prima di procedere alla nomina del tutore il giudice tutelare deve sentire il minore?",
+    "options": [
+      "Si, deve sentire il minore quando ne sia richiesto dagli ascendenti e dai parenti prossimi.",
+      "Si, deve sentire il minore in ogni caso.",
+      "Si, deve sentire il minore che abbia compiuto gli anni dodici e anche di età inferiore ove capace di discernimento."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'istituto dell'indulto:",
+    "options": [
+      "Estingue sempre anche le pene accessorie.",
+      "È un atto di clemenza concesso dal Capo dello Stato.",
+      "Consiste nel condono in tutto o in parte della pena principale ovvero nella sua commutazione in una pena di specie diversa ma dello stesso genere."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La dichiarazione di tendenza a delinquere si estingue per effetto della riabilitazione?",
+    "options": [
+      "Si, lo prevede espressamente il c.p.",
+      "No, non si estingue mai.",
+      "No, non si estingue per effetto della riabilitazione."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel Libro III del c.p. sono disciplinate....",
+    "options": [
+      "I principi generali del diritto penale.",
+      "Le contravvenzioni.",
+      "I delitti."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Tra gli altri, sono dispensati a domanda dall'ufficio di tutore ai sensi dell'art. 351 c.c.:",
+    "options": [
+      "Il Presidente del Consiglio dei ministri.",
+      "I membri del Sacro Collegio.",
+      "Chi esercita altra tutela."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il patteggiamento:",
+    "options": [
+      "È un rito applicabile solo per gli extra comunitari.",
+      "È un rito escluso per il reato di prostituzione minorile.",
+      "È un rito applicabile solo per i reati contro l'opinione."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Indicare quale affermazione sulla misura del divieto di avvicinamento ai luoghi frequentati dalla persona offesa di cui all'art. 282-ter c.p.p. è corretta.",
+    "options": [
+      "È disposta su richiesta del capo dell'Ufficio esecuzione penale esterna.",
+      "Con il provvedimento che dispone il divieto di avvicinamento il giudice prescrive all'imputato di non avvicinarsi a luoghi determinati abitualmente frequentati dalla persona offesa ovvero di mantenere una determinata distanza da tali luoghi o dalla persona offesa.",
+      "È una misura coercitiva custodiale."
+    ],
+    "correctIndex": 1
+  }
+]

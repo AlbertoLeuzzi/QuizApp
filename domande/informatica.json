@@ -1,0 +1,2234 @@
+[
+  {
+    "question": "Nei sistemi di presentazione, cos'è una slide?",
+    "options": [
+      "Equivale a dire 'Diapositiva' ma in inglese",
+      "Un filmato contenente informazioni su un argomento",
+      "Un effetto di animazione di un oggetto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come possiamo meglio descrivere il termine Shareware?",
+    "options": [
+      "Software di prova",
+      "Software senza licenza d'uso",
+      "Software libero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Si possono allargare le colonne di un foglio di calcolo?",
+    "options": [
+      "Si",
+      "No",
+      "Si, se il foglio è completamente vuoto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con riferimento all'unità di misura dell'informazione, individua la relazione corretta:",
+    "options": [
+      "64 bit = 8 byte.",
+      "64 bit 2 byte.",
+      "64 bit 16 byte."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se chiudiamo un foglio di lavoro premendo la 'X' in alto a destra dopo aver modificato una cella, cosa succede?",
+    "options": [
+      "Verrà mostrato un messaggio di conferma",
+      "La cartella di lavoro verrà chiusa assieme al programma",
+      "La cartella di lavoro verrà chiusa assieme al programma, ma le modifiche saranno salvate in automatico con un altro nome"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con il doppio click sinistro del mouse:",
+    "options": [
+      "Apro il file",
+      "Seleziono il file",
+      "Rinomino il file"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio di calcolo, è possibile applicare la stessa formattazione a più celle contemporaneamente?",
+    "options": [
+      "Si, basta selezionarle tutte e poi applicargli la formattazione desiderata",
+      "Solo se sono vicine in quanto non è possibile selezionarle alternate",
+      "Si ma devono avere lo stesso tipo di dato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come dobbiamo procedere, per chiudere un documento al quale si sta lavorando, senza chiudere il programma di elaborazione testi?",
+    "options": [
+      "File > Chiudi",
+      "File > Esci",
+      "File > Riavvia Microsoft Word"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Si può personalizzare la barra multifunzione in Word?",
+    "options": [
+      "Si, cliccandoci sopra col tasto destro e scegliendo la voce personalizza",
+      "Si, aggiungendo i singoli comandi, ma non le schede o i gruppi",
+      "Si, aggiungendo o eliminando non solo dei comandi, ma anche interi gruppi o schede"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio di calcolo, per annullare la correzione di un testo all'interno di una cella, cosa bisogna fare?",
+    "options": [
+      "Premere il tasto Esc",
+      "Spostarsi con la freccia a Destra",
+      "Cliccare sulla 'X' in alto a destra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "È possibile, con l'ultima versione di Excel, aprire un vecchio file con estensione .xls?",
+    "options": [
+      "Si, il programma si occuperà di un'eventuale conversione del file all'ultima versione",
+      "No, è necessario avere la versione 97/2003",
+      "No, è necessario un programma di conversione dalla versione 97/2003 all'ultima disponibile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra le seguenti, è una periferica di input?",
+    "options": [
+      "Mouse",
+      "Notebook",
+      "Hard Disk"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "LAN è l'acronimo utilizzato per indicare:",
+    "options": [
+      "Una rete di area locale",
+      "Una rete di area estesa",
+      "La rete delle reti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, in quale scheda dobbiamo andare per duplicare una diapositiva?",
+    "options": [
+      "Home",
+      "Inserisci",
+      "Presentazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando si apre un nuovo foglio di calcolo, in quale cella ci troviamo posizionati?",
+    "options": [
+      "A1",
+      "A0",
+      "D10"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa fa un computer digitale ?",
+    "options": [
+      "Manipola numeri binari",
+      "Fa calcoli numerici",
+      "Manipola numeri binari per risolvere problemi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per provider di servizi cloud?",
+    "options": [
+      "Società che fornisce servizi di archiviazione, applicazioni, infrastruttura o piattaforma basati sul cloud.",
+      "Configurazione che mette in collegamento un cloud privato e un cloud pubblico.",
+      "La procedura di gestione e monitoraggio della disponibilità di applicazioni software."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che procedura bisogna seguire per chiudere un documento Word, salvandolo con lo stesso nome e nella stessa posizione su disco?",
+    "options": [
+      "File > Chiudi e cliccando Salva sul riquadro che viene mostrato",
+      "File > Esci",
+      "File > Salva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra i seguenti strumenti, ha come scopo principale quello di impedire accessi non autorizzati, via internet, ad un computer?",
+    "options": [
+      "firewall.",
+      "spyware blocker.",
+      "popup blocker."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, se devo inserire del testo in una diapositiva cosa devo fare?",
+    "options": [
+      "Inserire delle caselle di testo in cui scrivere",
+      "Inserire una WordArt e adattarla al testo da inserire",
+      "Inserire una Forma e scriverci sopra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è il bit-rate di una rete?",
+    "options": [
+      "La velocità di trasmissione dei dati all'interno della rete in un'unità di tempo",
+      "Il grado di affidabilità di una rete",
+      "Le recensioni degli utenti su quella particolare rete per verificare quanto sia affidabile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Durante la ricerca di un file, il carattere jolly \"?\", può essere utilizzato:",
+    "options": [
+      "In sostituzione di un singolo carattere del nome",
+      "In sostituzione di più caratteri del nome",
+      "In sostituzione dell'intero nome del file"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per cloud privato?",
+    "options": [
+      "Servizi offerti tramite Internet o tramite una rete interna privata solo a utenti selezionati e non al pubblico generale.",
+      "Servizi offerti tramite la rete Internet pubblica e disponibili per chiunque voglia acquistarli.",
+      "Nessuna delle altre risposte è esatta."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dopo aver avviato Word è possibile iniziare a scrivere subito un documento?",
+    "options": [
+      "Si, dopo aver aperto un nuovo documento contenente una pagina bianca o uno già esistente",
+      "No, bisogna prima scaricare un modello dalla rete",
+      "Si, ma dopo aver premuto per due volte il tasto Invio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per cancellare i dati su una cella, seleziono la cella e ...",
+    "options": [
+      "Premo il tasto canc",
+      "Premo il tasto ALT",
+      "Premo il tasto CTRL"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Avendo aperte più applicazioni, cosa possiamo fare?",
+    "options": [
+      "Possiamo passare dall'una all'altra semplicemente cliccandoci sopra nella barra delle applicazioni",
+      "È possibile lavorare solo su quella aperta per ultima",
+      "Non possiamo aprirne delle altre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Su Windows, cosa bisogna fare per massimizzare la vista di una finestra?",
+    "options": [
+      "Cliccare sul simbolo a forma di quadrato nell'angolo destro della barra del titolo",
+      "Cliccare sul simbolo a forma di \"\" nell'angolo destro della barra del titolo",
+      "Cliccare sul simbolo a forma di \"X\" nell'angolo destro della barra del titolo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il comando Salva:",
+    "options": [
+      "Eseguito su un documento appena creato, equivale al comando Salva con nome",
+      "Apre sempre una finestra di dialogo per confermare il salvataggio",
+      "Si può utilizzare solo quando dobbiamo chiudere il documento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra i seguenti, è una periferica di output?",
+    "options": [
+      "Stampante",
+      "Microfono",
+      "Touchpad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dove si trova il pulsante Start in Windows 10?",
+    "options": [
+      "Nella barra delle applicazioni",
+      "Nella barra del titolo",
+      "Nella barra di stato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, come posso attivare lo zoom in una presentazione?",
+    "options": [
+      "Tramite il dispositivo di scorrimento che si trova a destra nella barra di stato",
+      "Dalla scheda Inserisci > Zoom.",
+      "Digitando un valore da 10 a 400 nella casella della scheda principale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se una presentazione viene salvata in formato RTF...",
+    "options": [
+      "Si perde ogni elemento grafico e viene conservato solo il testo consentendone l'apertura dagli editor di testo",
+      "Le immagini saranno salvate su un secondo file con estensione .png",
+      "I contenuti multimediali saranno salvati su un secondo file con estensione .mp4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quale pagina dobbiamo accedere per inserire un titolo ad un documento Word?",
+    "options": [
+      "File > Informazioni",
+      "File > Titolo",
+      "File > Gestisci"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, da quale scheda impostiamo le transizioni tra diapositive?",
+    "options": [
+      "Dalla scheda Transizioni",
+      "Dalla scheda Opzioni",
+      "Dalla scheda Visualizza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per creare una cartella...",
+    "options": [
+      "Clicco con il tasto destro su un punto vuoto e scelgo nuova cartella",
+      "Clicco con il tasto destro sull'icona dei Documenti e scelgo Nuova Cartella",
+      "Clicco su Start e scelgo Nuova Cartella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale pagina dobbiamo consultare per conoscere il tempo totale di modifica di un documento Word?",
+    "options": [
+      "File > Informazioni",
+      "File > Controlla",
+      "File > Tempo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il cloud computing può essere:",
+    "options": [
+      "Private computing e public computing",
+      "Shared computing",
+      "Solo public computing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, è possibile avere un anteprima degli effetti di transizione per adattarlo meglio alle nostre esigenze?",
+    "options": [
+      "Si, dalla scheda Transizioni pulsante anteprima",
+      "No, si vedrà direttamente durante la presentazione",
+      "Si dalla scheda Visualizza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, cosa succede se si sceglie dalla scheda File la voce Chiudi?",
+    "options": [
+      "Viene chiusa solo la presentazione corrente",
+      "Viene chiuso il programma e tutte le presentazioni aperte",
+      "Si arresta il sistema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è l'estensione standard di un file creato con Word 97-2003?",
+    "options": [
+      ".doc",
+      ".xps",
+      ".docx"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da cosa può essere rappresentato un link?",
+    "options": [
+      "Da immagini e parti di testo che cambiano aspetto quando ci si posiziona sopra",
+      "Da sole parti di testo statiche",
+      "Solitamente tutto il contenuto del web è un link"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa consentono di fare gli strumenti di ingrandimento/zoom?",
+    "options": [
+      "Di ingrandire o diminuire la visualizzazione della pagina lasciando invariate le dimensioni di stampa",
+      "Di ingrandire la dimensione dei caratteri utilizzati",
+      "Di diminuire le dimensioni del foglio per adattarlo alla dimensione dei fogli A4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per Browser?",
+    "options": [
+      "Un programma per navigare tra le pagine web",
+      "Un linguaggio di programmazione",
+      "Un programma per ricevere messaggi istantanei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In ambiente Windows, per chiudere la finestra di un programma di navigazione, cosa bisogna fare?",
+    "options": [
+      "Premere contemporaneamente i tasti Alt e F4",
+      "Premere il pulsante pagina iniziale rappresentato da una stella",
+      "Premere il pulsante pagina iniziale rappresentato da una casetta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per crittografia?",
+    "options": [
+      "Tecnica che permette di nascondere il contenuto di un messaggio",
+      "Tecnica che permette di decodificare il contenuto di un messaggio",
+      "Tecnica che non permette di nascondere il contenuto di un messaggio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cos'è la Posta Elettronica Certificata (PEC)?",
+    "options": [
+      "È un sistema di \"trasporto\" di documenti informatici che presenta delle forti similitudini con il servizio di posta elettronica \"tradizionale\", cui però sono state aggiunte delle caratteristiche tali da fornire agli utenti la certezza, a valore legale, dell'invio e della consegna (o meno) dei messaggi e-mail al destinatario.",
+      "È un sistema di \"trasporto\" di documenti informatici fondamentalmente diverso dal servizio di posta elettronica \"tradizionale\", cui sono state aggiunte delle caratteristiche tali da fornire agli utenti la certezza, a valore legale, dell'invio, della consegna (o meno) dei messaggi e-mail al destinatario ed anche dell'avvenuta lettura del messaggio stesso.",
+      "È un sistema di posta elettronica utilizzato esclusivamente dal ministero della difesa."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come è chiamato il software che controlla il funzionamento dell'hardware?",
+    "options": [
+      "Software di sistema",
+      "Software applicativo",
+      "Software d'interfaccia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un Cavallo di Troia (Trojan Horse) è...",
+    "options": [
+      "Un particolare tipo di virus.",
+      "Una chiamata del sistema operativo nascosta all'utente.",
+      "Un antivirus."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un'unità di rete:",
+    "options": [
+      "Consente l'utilizzo di file e cartelle condivisi dagli altri computer collegati a quella stessa rete",
+      "Consente l'accesso ad Internet, senza avere un abbonamento",
+      "Consente di collegarsi ad Internet senza bisogno di un modem"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come è chiamata l'operazione tramite la quale si prepara per l'uso un supporto di memorizzazione di massa, per renderlo idoneo all'archiviazione di dati, impostando la struttura del file system che vi verrà creato sopra?",
+    "options": [
+      "Formattazione.",
+      "Backup.",
+      "Frammentazione."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è un Doodle di Google?",
+    "options": [
+      "Una decorazione celebrativa del logo di Google",
+      "Un tipo di ricerca particolare di Google",
+      "Un sinonimo del più famoso dei motori di ricerca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Solitamente, per spegnere correttamente un pc con sistema operativo Windows, quale procedura bisogna seguire?",
+    "options": [
+      "Start > Arresta > Arresta il sistema",
+      "Il pulsante situato sul monitor",
+      "Il pulsante dell'alternatore situato dietro il case"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa è Windows?",
+    "options": [
+      "Un sistema operativo",
+      "Un programma di videoscrittura",
+      "Un programma di gestione finestre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando clicco sull'icona NUOVO ...",
+    "options": [
+      "Apro solo un documento vuoto",
+      "Esco dal programma",
+      "Apro un documento vuoto e viene chiuso quello aperto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tipo di programma applicativo è più adatto a scrivere un testo?",
+    "options": [
+      "Un word processor",
+      "Uno spreadsheet",
+      "Un database"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per aprire un documento esistente ...",
+    "options": [
+      "Dalla barra del menù, clicco su file - apri",
+      "Dalla barra del menù, clicco su Finestra - Apri",
+      "Dalla barra del menù, clicco su Modifica - Apri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è Windows Media Player?",
+    "options": [
+      "Il lettore multimediale",
+      "La calcolatrice",
+      "Foglio di calcolo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quanti byte ci vogliono per formare un Kilobyte (kB)?",
+    "options": [
+      "1024 Byte",
+      "1000 Byte",
+      "8 bit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa bisogna fare per espandere a tutto schermo il contenuto di una cartella?",
+    "options": [
+      "Cliccare col tasto destro sulla barra del titolo > Ingrandisci",
+      "Cliccare sul simbolo \" - \" presente in alto sulla destra",
+      "Premere contemporaneamente i tasti Alt + F4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra le seguenti, è una tecnica che consente di proteggere dalla lettura un documento elettronico?",
+    "options": [
+      "crittografia.",
+      "raid.",
+      "checksum."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un file Word, scegliendo dalla scheda File, la voce Chiudi:",
+    "options": [
+      "Viene chiuso il documento corrente",
+      "Viene chiuso il programma e tutti gli eventuali documenti aperti",
+      "Ottengo lo stesso risultato della voce di menu File > Esci"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, quale operazione consente di comprimere la barra multifunzione?",
+    "options": [
+      "Cliccare due volte rapidamente sul nome della scheda attiva",
+      "Cliccare sul pulsante Riduci a icona che si trova nella scheda Visualizza",
+      "Premere contemporaneamente i tasti Alt e F12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da quale parte si sposterà il cursore se inseriamo del testo in un documento di testo?",
+    "options": [
+      "Verso destra",
+      "Il cursore non si sposta",
+      "Verso sinistra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con quale termine si può indicare un tipo di software malevolo che \"spia\" le attività in rete di un utente per capirne codici, azioni, ecc.?",
+    "options": [
+      "Spyware.",
+      "Spoofing.",
+      "Sniffing."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è un DVD-RW?",
+    "options": [
+      "È un supporto di memorizzazione ottico che può essere rimasterizzato",
+      "È la principale unità di memoria fissa",
+      "È un supporto magnetico rimovibile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con 1 click sinistro del mouse:",
+    "options": [
+      "Seleziono il file",
+      "Rinomino il file",
+      "Elimino il file"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cosa serve un certificato digitale?",
+    "options": [
+      "Ad attestare l'identità di un utente o di un sito",
+      "Ad attestare che un sito è protetto dal protocollo PSK",
+      "Ad attestare che un sito contiene materiale protetto dai diritti d'autore"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, utilizzando la funzione Salva con nome, possiamo cambiare il nome di un file esistente?",
+    "options": [
+      "Si, oltre che il formato e la posizione di salvataggio",
+      "No, una volta assegnato un nome non può essere più cambiato",
+      "Si, ma deve mantenere l'estensione .ppsx"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cosa consiste l'operazione chiamata \"drag and drop\"?",
+    "options": [
+      "Nel selezionare un'icona e trascinarla in una nuova posizione",
+      "Nel copiare un'icona e di incollarla in un altro disco",
+      "Nel tagliare un'icona e di incollarla nella nuova posizione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "È possibile eliminare una stampa in corso?",
+    "options": [
+      "Si, sempre",
+      "No, mai",
+      "Solo se si sta stampando un documento dalla rete"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, possiamo cambiare lo sfondo di una diapositiva se abbiamo utilizzato un modello predefinito?",
+    "options": [
+      "Si scegliendo Formato sfondo dalla scheda Progettazione",
+      "Si scegliendo Formato sfondo dalla scheda Presentazione",
+      "Si scegliendo Formato sfondo dalla scheda Animazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è la principale funzione di un sistema operativo?",
+    "options": [
+      "Interfacciarsi tra l'hardware e gli applicativi",
+      "La possibilità di gestire gli archivi elettronici",
+      "L'individuazione e la rimozione di virus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per utilizzare la Guida in linea di Word, quale tra le seguenti procedure è la più corretta?",
+    "options": [
+      "Premere il tasto F1",
+      "Cliccare due volte sull'icona nella barra degli strumenti di cui si vogliono avere informazioni",
+      "Scegliere dalla scheda File prima Guida e poi Guida di Microsoft Office"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per creare un nuovo documento basato sul modello \"Tesina con foto\" occorre compiere il seguente percorso:",
+    "options": [
+      "File > Nuovo > nel riquadro Modelli disponibili scegliere il modello \"Tesina con foto\"",
+      "File > Nuovo > Strumenti> Modelli e aggiunte >Tesine> \"Tesina con foto\"",
+      "File > Nuovo > Inserisci > Immagine> Da file > \"Tesina con foto\""
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio Excel, selezionando una cella e premendo il tasto esc, cosa succede?",
+    "options": [
+      "Non succede nulla",
+      "Si accede alla cella e sarà possibile modificarne il contenuto",
+      "Il contenuto della cella viene cancellato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si chiame il supporto trasmissivo che utilizza la luce per trasmettere informazioni a larga banda?",
+    "options": [
+      "Fibra Ottica.",
+      "ADSL.",
+      "Cavo coassiale."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da quale, tra i seguenti elementi, non è influenzata la prestazione di un computer?",
+    "options": [
+      "La dimensione del monitor",
+      "La quantità di RAM",
+      "Il numero di programmi in esecuzione contemporaneamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, sostituendo il tema corrente, il cambio avverrà solo per la diapositiva selezionata?",
+    "options": [
+      "No, per tutta la presentazione",
+      "Si, infatti va prima attivata la diapositiva che verrà modificata",
+      "No, ma saranno sostituiti tutti gli oggetti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un pc con Windows, come si attiva la Guida in linea?",
+    "options": [
+      "Premendo il tasto F1",
+      "Dal menu Start > Help",
+      "Da Gestione Attività > Servizi >Aiuto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In ambito IT, qual è il principale vantaggio di un Cloud Privato?",
+    "options": [
+      "I servizi vengono forniti da elaboratori che si trovano nel dominio dell'utente e, quindi, questi ha il pieno controllo delle macchine sulle quali sono conservati i dati ed eseguiti i processi.",
+      "I servizi vengono forniti da elaboratori che si trovano in un dominio che non appartiene all'utente, cosi da non avere accesso alle macchine su cui vengono eseguiti i processi.",
+      "I servizi vengono forniti da elaboratori in modo completamente gratuito."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il servizio offerto da DropBox rientra nell'ambito del cloud storage?",
+    "options": [
+      "Vero",
+      "Falso",
+      "Dipende dal sistema operativo utilizzato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In ambito IT, cosa si intende con il termine \"Upload\"?",
+    "options": [
+      "Il caricamento di un file in Internet.",
+      "Lo scaricamento di un file da Internet.",
+      "Lo scaricamento di un file dal proprio computer."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con quale termine si indica una rete locale?",
+    "options": [
+      "Lan",
+      "Wan",
+      "Man"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa sono i malware?",
+    "options": [
+      "Dei programmi, spesso installati all'insaputa della vittima che causano malfunzionamenti e/o permettono l'intrusione di terzi",
+      "Dei bug nei programmi",
+      "Degli hacker programmati per eliminare le fotografie"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Scegliendo Zoom dalla scheda Visualizza:",
+    "options": [
+      "Si aprirà una finestra nella quale troveremo varie possibilità di ingrandimento o riduzione, percentuale e non, del documento",
+      "Il documento verrà visualizzato senza margini, iniziando dal bordo sinistro del foglio",
+      "Il documento verrà ridimensionato e adattato alle diverse dimensioni dei fogli in commercio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un pc con Windows, cosa identifica la lettera \"C:\" tra le periferiche del nostro pc?",
+    "options": [
+      "Il disco fisso principale dove solitamente si trova il sistema operativo",
+      "Le unità CD e/o DVD",
+      "La principale Pendrive USB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Una stampante con un sistema di connessione senza fili è detta:",
+    "options": [
+      "Wireless",
+      "Shareware",
+      "Freeware"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra le seguenti, è una periferica di input?",
+    "options": [
+      "Scanner",
+      "Stampante",
+      "Monitor"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, a cosa serve il layout di una diapositiva?",
+    "options": [
+      "A predisporre la diapositiva con delle voci che ci saranno utili per la nostra presentazione",
+      "A stabilire un ordine tra le forme che andremo ad inserire",
+      "A scegliere il colore di sfondo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Explorer dove si trova l'opzione che permette di ingrandire o rimpicciolire i caratteri della pagina Web?",
+    "options": [
+      "Nel menu visualizza",
+      "Nella Barra di stato",
+      "Nel menù Modifica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale affermazione descrive il termine Shareware?",
+    "options": [
+      "Software che può essere acquistato dopo un periodo di prova",
+      "Software senza Copyright",
+      "Software libero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nell'unitá di misura informatica, un byte....",
+    "options": [
+      "può contenere 256 caratteri diversi.",
+      "contiene caratteri ma non numeri.",
+      "contiene 128 caratteri diversi."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende col termine www?",
+    "options": [
+      "Uno dei principali servizi di internet, che permette di fruire di contenuti come testi e immagini",
+      "Il servizio di posta elettronica",
+      "Il servizio di trasferimento file"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Di cosa ha bisogno un utente per potersi collegare alla rete?",
+    "options": [
+      "Di un dispositivo elettronico, un modem e l'accesso alla rete tramite un Provider",
+      "Un dispositivo elettronico, un cavo di rete coassiale e un Hub da almeno 2 posti",
+      "Un ricevitore, un trasmettitore e un cavo wireless"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "JPEG è un formato per la compressione di:",
+    "options": [
+      "Immagini",
+      "Musica",
+      "Testo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra quelle indicate è una periferica di Input?",
+    "options": [
+      "Mouse",
+      "Monitor",
+      "Stampante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un file Excel, come può essere selezionata un'intera colonna?",
+    "options": [
+      "Cliccando sulle celle grigie con le lettere",
+      "Cliccando sulle celle grigie con i numeri",
+      "Cliccando sulla cella A1 e trascinando sino a A1000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In ambiente Windows, qual è il percorso corretto per andare al file \"Test\", contenuto nella sottocartella \"PROVA\" della cartella Documenti, sul disco fisso principale?",
+    "options": [
+      "C:\\DOCUMENTI\\PROVA\\Test",
+      "A:\\Test\\PROVA\\DOCUMENTI",
+      "C:\\Test\\PROVA\\DOCUMENTI"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa succede se, mentre sto scrivendo un testo su un elaboratore di testi, premo il tasto Invio?",
+    "options": [
+      "Viene creato un paragrafo e si va a capo",
+      "Viene cancellata l'ultima riga",
+      "Si crea un paragrafo ad interlinea singola"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio Excel, selezionando una cella e premendo il tasto F4, cosa succede?",
+    "options": [
+      "Non succede nulla",
+      "Si accede alla cella e sarà possibile modificarne il contenuto",
+      "Il contenuto della cella viene cancellato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è l'estensione di una cartella di lavoro creata con Excel che richiede l'attivazione delle macro?",
+    "options": [
+      ".xlsm",
+      ".xls",
+      ".pptx"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra i seguenti programmi, apre un file PDF?",
+    "options": [
+      "Adobe Reader",
+      "Paint",
+      "iTunes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra le seguenti, è l'unica affermazione corretta?",
+    "options": [
+      "La barra multifunzione contiene le icone corrispondenti alle funzioni più importanti",
+      "La barra multifunzione non può essere personalizzata",
+      "La barra multifunzione non può essere ridotta a icona"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa è un \"gruppo di continuità\"?",
+    "options": [
+      "Un sistema a batterie tampone per sopperire ad eventuali black-out della rete elettrica.",
+      "Un programma per l'elaborazione continua di file multimediali.",
+      "Una periferica per la connessione continua in rete."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa intendiamo per stampante di default?",
+    "options": [
+      "La stampante predefinita",
+      "La stampante che abbiamo utilizzato l'ultima volta",
+      "La stampante più performante tra quelle disponibili"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti definizioni è associabile a uno smartphone?",
+    "options": [
+      "Dispositivo di ridotte dimensioni che può essere utilizzato per accedere ad Internet",
+      "Dispositivo necessario per prelevare contanti dai Bancomat",
+      "Dispositivo dalle ridotte capacità di calcolo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un file Excel, quale simbolo precede l'inserimento di una formula?",
+    "options": [
+      "=",
+      "?",
+      "#"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si definiscono per standard le dimensioni di un monitor?",
+    "options": [
+      "La misura in pollici della diagonale dello schermo",
+      "La misura in millimetri del lato minore dello schermo",
+      "La misura in centimetri quadrati della superficie dello schermo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali comandi devo usare per spostare parte di un testo?",
+    "options": [
+      "Taglia e incolla",
+      "Sposta e Copia",
+      "Copia e Sposta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa è un \"virus\" del computer?",
+    "options": [
+      "È un programma creato per disturbare, in modo più o meno grave, il normale funzionamento dei computer: può essere trasmesso sia via mail che con lo scambio di file \"infetti\".",
+      "È il malfunzionamento di una componente hardware del computer che richiede lo spegnimento e la riaccensione del sistema per consentire il ripristino del normale funzionamento.",
+      "È un programma creato per proteggere il computer dallo Spamming."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da cosa è rappresentato un collegamento sul Desktop?",
+    "options": [
+      "La freccetta ricurva",
+      "La C minuscola",
+      "Il simbolo del dollaro ($)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende con il termine Cyber-Crime?",
+    "options": [
+      "Qualsiasi reato o comportamento delittuoso svolto nell'ambito delle procedure informatiche.",
+      "L'insieme della dottrina, dell'organizzazione e delle attività volte a prevenire, rilevare, limitare e contrastare gli effetti degli attacchi condotti nel e tramite il cyber-space ovvero in danno di uno o più dei suoi elementi costitutivi.",
+      "Condizione in cui il cyber-space risulti protetto rispetto ad eventi, di natura volontaria o accidentale, consistenti nell'acquisizione e nel trasferimento indebiti di dati, nella loro modifica o distruzione illegittime ovvero nel blocco dei sistemi informativi, grazie ad idonee misure di sicurezza fisica, logica e procedurale."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per CD-R",
+    "options": [
+      "Un Compact Disc registrabile",
+      "Un Compact Disc registrabile più volte",
+      "Un Compact Disc video"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un Kilobyte è pari a....",
+    "options": [
+      "1024 byte.",
+      "1024 bit.",
+      "1024 megabyte."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Windows, il file \"Magazzino.mdb\" è un documento che è possibile aprire con il programma?",
+    "options": [
+      "Access",
+      "PowerPoint",
+      "Word"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra le seguenti, è una periferica di input?",
+    "options": [
+      "Tavoletta grafica",
+      "Proiettore",
+      "Desktop"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti è la scienza che studia le metodologie per modificare in modo reversibile i documenti per i quali è richiesta la segretezza o comunque un'alta confidenzialità?",
+    "options": [
+      "Crittografia.",
+      "Criptoanalisi.",
+      "Quantum analysis."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Trojan è:",
+    "options": [
+      "Un tipo di software malevolo",
+      "Un tipo di software benevolo",
+      "Un protocollo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra i seguenti non è un indirizzo valido",
+    "options": [
+      "gomma.matita@penna@foglio.it",
+      "gomma.matita@penna.it",
+      "gomma.matita@foglio.it"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra i seguenti metodi di riconoscimento può essere definito \"biometrico\"?",
+    "options": [
+      "L'impronta vocale.",
+      "Real time password.",
+      "On time password."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il dispositivo radio che fornisce copertura di tipo WiFi su aree limitate è detto?",
+    "options": [
+      "Access Point.",
+      "Router.",
+      "Modem."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è lo sniffing?",
+    "options": [
+      "Attività che prevede di \"intercettare\" i dati che passano su una rete, comprese comunicazioni e password",
+      "L'insieme delle operazioni condotte nel e tramite il cyber-space al fine di negare all'avversario - statuale o non - l'uso efficace di sistemi, armi e strumenti informatici o comunque di infrastrutture e processi da questi controllati",
+      "Condizione in cui il cyber-space risulti protetto rispetto ad eventi, di natura volontaria o accidentale, consistenti nell'acquisizione e nel trasferimento indebiti di dati, nella loro modifica o distruzione illegittime ovvero nel blocco dei sistemi informativi, grazie ad idonee misure di sicurezza fisica, logica e procedurale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è lo sniffing?",
+    "options": [
+      "Attività che prevede di \"intercettare\" i dati che passano su una rete, comprese comunicazioni e password.",
+      "L'insieme delle operazioni condotte nel e tramite il cyber-space al fine di negare all'avversario - statuale o non- l'uso efficace di sistemi, armi e strumenti informatici o comunque di infrastrutture e processi da questi controllati.",
+      "Condizione in cui il cyber-space risulti protetto rispetto ad eventi, di natura volontaria o accidentale, consistenti nell'acquisizione e nel trasferimento indebiti di dati, nella loro modifica o distruzione illegittime ovvero nel blocco dei sistemi informativi, grazie ad idonee misure di sicurezza fisica, logica e procedurale."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per cosa è utilizzato il protocollo HTTPS?",
+    "options": [
+      "Per proteggere il traffico web",
+      "Per il traffico web",
+      "Per permettere il trasferimento di file tra un cliente e un server"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, cosa succede se utilizziamo una transizione a Spinta?",
+    "options": [
+      "La nuova diapositiva si inserirà spostando la precedente nella direzione che avremo scelto",
+      "La nuova presentazione si inserirà spostando la successiva nella direzione che avremo scelto",
+      "La nuova presentazione si inserirà spostando la precedente nella direzione che avremo scelto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Excel, le parentesi in una formula a cosa servono?",
+    "options": [
+      "A stabilire la priorità, tra le operazioni",
+      "Indicano le operazioni che il programma non deve svolgere",
+      "Indicano dati che possono essere modificati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, le Animazioni a cosa si applicano?",
+    "options": [
+      "Agli oggetti in una diapositiva",
+      "Al passaggio tra una slide e l'altra",
+      "Ad una macro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se cerchiamo di chiudere un documento di testo dopo aver apportato delle modifiche, il programma:",
+    "options": [
+      "Consente la chiusura del documento ma chiede prima se vogliamo salvare le modifiche effettuate",
+      "Chiude il documento ma non esegue il salvataggio",
+      "Consente la chiusura del documento e la disconnessione dell'utente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è il significato della sigla \"ICT\"?",
+    "options": [
+      "Information and Communication Technology",
+      "Informazione Telematica",
+      "Information Computer Technology"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In ambiente Windows, come troviamo la posizione esatta di una cartella all'interno del disco fisso?",
+    "options": [
+      "Tasto destro del mouse sulla cartella interessata > Proprietà > Generale",
+      "Doppio clic sulla cartella interessata > menu File > Visualizza",
+      "Posizionando il cursore del mouse sull'icona della cartella e clic sulla rotella del mouse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende con il termine Cyber-Crime?",
+    "options": [
+      "Qualsiasi reato o comportamento delittuoso svolto nell'ambito delle procedure informatiche",
+      "L'insieme della dottrina, dell'organizzazione e delle attività volte a prevenire, rilevare, limitare e contrastare gli effetti degli attacchi condotti nel e tramite il cyber-space ovvero in danno di uno o più dei suoi elementi costitutivi",
+      "Condizione in cui il cyber-space risulti protetto rispetto ad eventi, di natura volontaria o accidentale, consistenti nell'acquisizione e nel trasferimento indebiti di dati, nella loro modifica o distruzione illegittime ovvero nel blocco dei sistemi informativi, grazie ad idonee misure di sicurezza fisica, logica e procedurale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da chi deve essere conosciuta la chiave di decifrazione di un messaggio crittografato?",
+    "options": [
+      "Dal mittente e dal destinatario",
+      "Dal Provider e dal destinatario",
+      "Dal gestore di posta e dal Provider"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se si parla di un software che riconosce la presenza di virus informatici nei file e nelle memorie di massa e cerca di rimuoverli o di neutralizzarli, a cosa si fa riferimento?",
+    "options": [
+      "Antivirus.",
+      "Malware.",
+      "Firewall."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se devo spostare parte di un testo, devo prima selezionarlo?",
+    "options": [
+      "Si, sempre",
+      "E' facoltativo",
+      "Si, se il testo è composto da più di una parola"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale combinazione di tasti consente di chiudere rapidamente da tastiera un file Excel?",
+    "options": [
+      "Alt + F4",
+      "Ctrl + F4",
+      "Ctrl + Alt + Canc"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende con il termine \"Account\"?",
+    "options": [
+      "Il profilo di un utente che corrisponde ad una casella di posta e a un indirizzo di posta.",
+      "L'unità di misura della velocità di trasmissione dei dati.",
+      "L'elenco degli indirizzi dei siti preferiti."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per salvare un documento di testo creato poco prima, come bisogna procedere?",
+    "options": [
+      "File > Salva con nome",
+      "File > Stampa",
+      "Inserisci > File"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa indica l'acronimo DDoS?",
+    "options": [
+      "Attacco informatico sferrato da più computer in contemporanea finalizzati ad interrompere l'erogazione di un servizio di rete.",
+      "Qualsiasi evento in grado di compromettere tramite mezzi informatici la sicurezza, o causare danni a sistemi informativi e dispositivi connessi a Internet, tra cui hardware, software e relative infrastrutture, ai dati processati, trasmessi e contenuti su di essi e dei loro servizi.",
+      "Un software dannoso facilmente reperibile tramite l'acquisto o il download gratuito, che viene utilizzato a scopi malevoli da diverse entità."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nella barra degli strumenti di Excel, a cosa serve l'icona con la scritta 'fx' nella scheda Formule?",
+    "options": [
+      "Ad inserire una funzione",
+      "Ad inserire un campo di testo",
+      "Ad inserire una finestra di controllo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio di calcolo, come si possono inserire i bordi alle celle?",
+    "options": [
+      "Selezionare le celle e scegliere, dalla scheda Home, \"Tutti i bordi\"",
+      "Scheda Inserisci > Cella > Bordo",
+      "Cliccare con l'icona a forma di secchiello sul bordo di ciascuna cella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, si possono inserire degli elenchi in una diapositiva?",
+    "options": [
+      "Si, Puntati e numerati",
+      "Solo puntati",
+      "Solo Numerati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, si possono applicare più Animazioni allo stesso oggetto?",
+    "options": [
+      "Si, selezionando l'oggetto e andando alla scheda Animazioni > Aggiungi animazione",
+      "No, è possibile solo un'animazione per oggetto",
+      "Si, selezionando l'oggetto e andando alla scheda Transizioni > Aggiungi Transizione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A cosa serve il simbolo della graffetta in un programma di posta elettronica?",
+    "options": [
+      "Ad inserire un allegato al documento",
+      "Ad unire due file",
+      "A rispondere velocemente al mittente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è la risoluzione standard di uno monitor Full HD?",
+    "options": [
+      "1920x1080",
+      "3840x2160",
+      "1280x720"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, è possibile spostare per trascinamento un oggetto tra presentazioni aperte?",
+    "options": [
+      "No, funziona solo usando il Taglia e Incolla",
+      "Si, come in tutti i programmi",
+      "Solo premendo contemporaneamente Shift + Ctrl + canc"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, a cosa serve il pulsante con raffigurato il simbolo \"Ω\"?",
+    "options": [
+      "Ad inserire dei simboli non presenti sulla tastiera",
+      "A cambiare il layout della tastiera in greco",
+      "Ad inserire delle formule matematiche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è il comando da utilizzare per salvare il documento appena aperto \"prova.docx\" nella stessa cartella dello stesso disco ma con un altro nome?",
+    "options": [
+      "File > Salva con nome",
+      "File > Salva",
+      "File > Chiudi e cliccando Salva sul riquadro che viene mostrato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale è l'acronimo utilizzato per descrivere una rete di computer situati in un'area limitata, tipicamente nello stesso edificio?",
+    "options": [
+      "LAN.",
+      "MAN.",
+      "PAN."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In che modo possiamo verificare se un sito in cui stiamo navigando è protetto?",
+    "options": [
+      "Dall'indirizzo che inizia con https://",
+      "Da una stellina gialla sulla barra del titolo",
+      "Dall'indirizzo che inizia con http://"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per cosa è utilizzato il protocollo HTTP?",
+    "options": [
+      "Per il traffico web",
+      "Per proteggere il traffico web",
+      "Per permettere il trasferimento di file tra un cliente e un server"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per desktop di un computer?",
+    "options": [
+      "L'area dello schermo che viene visualizzata dopo l'avvio del sistema operativo, che può essere ad interfaccia grafica o linea di comando",
+      "Il contenitore dove si trovano tutti i componenti elettronici del dispositivo",
+      "Un'applicazione per realizzare grafici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Chrome è un:",
+    "options": [
+      "Browser",
+      "Un editor",
+      "Un programma di grafica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le aziende di Information Technology sono tenute a fornire cosa?",
+    "options": [
+      "Servizi di sicurezza alle aziende.",
+      "Servizi di informazione alle aziende.",
+      "Servizi di analisi alle aziende."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, con quale combinazione di tasti possiamo inserire una nuova diapositiva?",
+    "options": [
+      "Ctrl + M",
+      "Ctrl + N",
+      "Ctrl + D"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per cosa può essere utilizzata l'icona a forma di secchiello presente nella barra degli strumenti di un foglio di calcolo?",
+    "options": [
+      "A riempire la cella col colore selezionato",
+      "A reimpostare la scritta di una cella del colore selezionato",
+      "Ad impostare il grassetto di un altro colore"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che tipo di barra ha un foglio di calcolo, che un foglio di elaborazione testo non ha?",
+    "options": [
+      "La barra della formula",
+      "La barra del titolo",
+      "La barra della formattazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale modalità non consente di chiudere un file Word?",
+    "options": [
+      "Premere contemporaneamente i tasti Ctrl e Canc",
+      "Cliccare sulla X che compare nell'angolo alto a destra",
+      "Dalla scheda File scegliere Esci"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali tra questi social network può essere maggiormente considerato come una fonte di dati online?",
+    "options": [
+      "Facebook",
+      "Instagram",
+      "Pinterest"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa si intende con Digital Divide?",
+    "options": [
+      "Si intende il divario esistente tra chi può accedere alle nuove tecnologie (internet, personal computer) e chi no.",
+      "Si intende la divisione fisica realizzata in alcune reti tra il traffico voce (analogico) ed il traffico dati (digitale).",
+      "Si intende la schermatura, realizzata nei computer con clock superiore a 1 GHz., che protegge i segnali digitali dall'interferenza di quelli analogici."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono gli applicativi freeware?",
+    "options": [
+      "Quelli gratuiti",
+      "Quelli che hanno un limitato tempo di utilizzo",
+      "Quelli a pagamento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, si può decidere quanti secondi deve durare un effetto di transizione o animazione?",
+    "options": [
+      "Si, modificando la Durata dalla relativa scheda",
+      "No, i tempi sono fissati per tutti in 2 secondi e non si possono modificare",
+      "Si, ma solo le transizioni tra diapositive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In riferimento ad una stampante a colori, quale tra queste affermazioni è vera?",
+    "options": [
+      "E' possibile stampare in bianco e nero",
+      "E' possibile stampare solo immagini",
+      "Non è possibile stampare grafici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa significa, in informatica, il termine \"quarantena\"?",
+    "options": [
+      "Nella pratica di isolamento dei file corrotti da virus in speciali directory, allo scopo di bloccarne la proliferazione ma consentendone eventualmente l'analisi.",
+      "In un isolamento forzato dell'operatore, tipicamente utilizzato per limitare la diffusione di uno stato pericoloso (spesso una malattia).",
+      "È la durata del periodo di isolamento di un computer infetto da virus."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, quale combinazione di tasti consente di chiudere il programma usando la tastiera?",
+    "options": [
+      "Alt + F4",
+      "Ctrl + F4",
+      "Esc + F4"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa è un cookie?",
+    "options": [
+      "È un insieme di informazioni che un server web memorizza nel disco fisso del computer di un utente collegato ad Internet.",
+      "È un acceleratore grafico.",
+      "È un programma per l'individuazione e la correzione di errori nell'ortografia delle parole."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se ho la necessità di confrontare due cartelle Excel, posso visualizzarle nella stessa schermata di Excel?",
+    "options": [
+      "Si, dalla scheda Visualizza > Disponi tutto",
+      "No, è possibile visualizzarle una per volta",
+      "Si, dalla scheda Visualizza > Blocca riquadri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio di calcolo, dove viene mostrato il contenuto di una cella, quando clicchiamo sopra di essa?",
+    "options": [
+      "Sia nella barra della formula che nella cella attiva",
+      "Nella barra di calcolo",
+      "Nella casella Trova"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Alla creazione di un nuovo foglio Excel, i modelli proposti:",
+    "options": [
+      "Sono già memorizzati nel nostro computer, possono essere creati da noi oppure possono essere scaricati dal web",
+      "Sono quelli proposti dal programma e non è possibile aggiungerne di nuovi",
+      "Non possono essere creati da noi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se utilizziamo Word 2013 dove vengono salvati i documenti, per impostazione predefinita?",
+    "options": [
+      "Nella cartella Documenti",
+      "Nella penna USB collegata al dispositivo che stiamo utilizzando",
+      "Su un Cd-rom"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le e-mail commerciali, non richieste, vengono definite...",
+    "options": [
+      "Spam.",
+      "Junk.",
+      "Phishing."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, come si modifica il layout di una diapositiva?",
+    "options": [
+      "Cliccando sul pulsante Layout della scheda Home",
+      "Cliccando sul pulsante Imposta pagina della scheda Progettazione",
+      "Cliccando sul pulsante Oggetto della scheda Inserisci"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale pagina dobbiamo consultare per conoscere il numero di parole contenute in un documento Word?",
+    "options": [
+      "File > Informazioni",
+      "File > Controlla",
+      "File > Gestisci"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si definisce una periferica che consente la trasmissione dei dati su una linea telefonica?",
+    "options": [
+      "Modem",
+      "Scanner",
+      "Stampante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il Cloud computing può essere:",
+    "options": [
+      "Pubblico",
+      "Remoto",
+      "Dedicato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa è Opera?",
+    "options": [
+      "Un browser",
+      "Un programma di videoscrittura",
+      "Un sistema operativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Windows, il file \"Catalogo.ppt\" è un documento che è possibile aprire con il programma?",
+    "options": [
+      "PowerPoint",
+      "Access",
+      "Word"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un file Excel, come possono essere selezionate delle celle non adiacenti?",
+    "options": [
+      "Cliccare le singole celle tenendo premuto il tasto Ctrl",
+      "Cliccare le singole celle tenendo premuto il tasto Shift",
+      "Cliccare le singole celle tenendo premuto il tasto Ctrl + Alt"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "È possibile aprire simultaneamente più documenti?",
+    "options": [
+      "Si, dipende solo dalla capienza della Ram del computer",
+      "Non più di due",
+      "Dipende dai documenti, devono essere simili come contenuto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, inserendo una nuova diapositiva, come sarà il layout della nuova?",
+    "options": [
+      "Identico alla diapositiva precedente",
+      "Diverso in base alla scelta effettuata",
+      "Diverso da quello della diapositiva successiva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio di calcolo, come si modifica il contenuto di una cella?",
+    "options": [
+      "Fare doppio clic sulla cella, effettuare le correzioni e premere Invio",
+      "Selezionare la cella, premere il tasto Canc e confermare con Tab",
+      "Selezionare la cella, premere il pulsante con le forbici dalla barra degli strumenti e confermare con Ok"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio di calcolo, premendo il tasto Tab, dove viene spostata la selezione?",
+    "options": [
+      "Di una cella a destra",
+      "Di una cella a sinistra",
+      "Nella riga sotto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra i seguenti, non è un software di sistema?",
+    "options": [
+      "Word",
+      "DOS",
+      "Xenix"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra le seguenti estensioni indica un archivio scrivibile su un CD-ROM?",
+    "options": [
+      ".iso",
+      ".inf",
+      ".sys"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se sospendiamo un processo di stampa:",
+    "options": [
+      "Sarà possibile riprenderla nel punto in cui è stata interrotta",
+      "La stampa del documento verrà annullata",
+      "Si crea una seconda coda di stampa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "1 kB, 1 MB e 1 TB corrispondono rispettivamente a:",
+    "options": [
+      "1024 Byte, 1024 KB, 1024 GB",
+      "1000 bit, 1024 KB, 1024 MB",
+      "1024 Byte, 1024 bit, 1000 MB"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si chiama il programma utilizzato dalle periferiche per farsi riconoscere dal sistema operativo e poter dialogare con esso?",
+    "options": [
+      "Driver",
+      "Bluetooth",
+      "Wi-Fi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Windows 10, avendo aperto più applicazioni contemporaneamente, come si passa dall'una all'altra?",
+    "options": [
+      "Selezionandola dalla Barra delle applicazioni quella che appare sottolineata in azzurro e cliccando sopra nella miniatura che viene mostrata",
+      "Spostando la barra di scorrimento orizzontale situata sulla Barra delle applicazioni",
+      "Cliccando sull'apposita barra degli strumenti in esecuzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un pc con Sistema Operativo Windows, dove vengono mostrati i messaggi che riguardano le operazioni che stiamo svolgendo con un'applicazione?",
+    "options": [
+      "Nella Barra di stato",
+      "Nella Barra degli strumenti",
+      "Nella Barra di scorrimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se stampiamo un documento dal Blocco Note:",
+    "options": [
+      "È possibile personalizzare intestazione e piè pagina",
+      "Non possiamo scegliere l'orientamento della pagina",
+      "Non possiamo scegliere l'impostazione dei margini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, se scelgo un valore di Zoom al 50%, cosa accade alla diapositiva selezionata?",
+    "options": [
+      "Verrà visualizzata in un formato ridotto del 50%",
+      "La stampa della diapositiva sarà ingrandita del 50%",
+      "La stampa della diapositiva sarà ridotta al 50%"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nella barra degli strumenti, a cosa serve l'icona con la scritta 'Inserisci' della scheda Home?",
+    "options": [
+      "Ad inserire nella tabella una cella, una riga o una colonna nella posizione della cella attiva",
+      "Ad inserire una formula",
+      "Ad inserire un formato dati del tipo data/ora"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, è possibile annullare l'ultima operazione effettuata se ci rendiamo conto di aver sbagliato?",
+    "options": [
+      "Si, ma solo se non appare in grigio il messaggio 'Impossibile annullare'",
+      "Si, ma solo se abbiamo cambiato del testo",
+      "Si, ma solo se abbiamo inserito un'immagine errata"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un pc con Windows, cosa bisogna fare per eliminare un'icona di collegamento?",
+    "options": [
+      "Selezionarla e premere il tasto \"Canc\" sulla tastiera",
+      "Cliccarci sopra col tasto destro e scegliere la voce \"Invia a\" dall'elenco proposto",
+      "Cliccarci sopra col tasto sinistro e scegliere la voce \"Rimuovi\" dall'elenco proposto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per antivirus?",
+    "options": [
+      "Un software che riconosce la presenza di virus informatici nei file e nelle memorie di massa e cerca di rimuoverli o di neutralizzarli",
+      "Un software pirata inserito in un sistema informatico, generalmente in modo clandestino, con l'intenzione di compromettere la riservatezza, l'integrità o la disponibilità dei dati, delle applicazioni o dei sistemi operativi dell'obiettivo",
+      "Un software malevolo capace di accedere ad un computer e garantire l'accesso all'attaccante, aggirare il controllo da parte dell'amministratore di sistema riuscendo anche a nascondere la propria presenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il termine inglese \"phishing\"....",
+    "options": [
+      "Si riferisce ad e-mail ingannevoli e a siti fraudolenti progettati per indurre gli utenti a rivelare dati personali sensibili.",
+      "Si riferisce ad un tipo di virus.",
+      "Si riferisce alle password con un livello di sicurezza superiore a 7 in una scala da 0 a 10."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è il CDN?",
+    "options": [
+      "Un sistema composto da diversi computer che contengono copie di dati, in cui ogni macchina è localizzata in posti diversi della rete così che gli utenti possano accedere alla copia a loro più vicina.",
+      "La nuvola a cui il singolo utente accede remotamente (tramite un dispositivo connesso a internet) per usufruire di una serie di servizi integrati/unificati.",
+      "Una compagnia che fornisce ad altre organizzazioni e/o individui, di solito sulla base di una tariffa, una piattaforma basata sul cloud e/o infrastrutture, applicazioni, servizi di immagazzinamento cloud."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, posso creare una nuova presentazione utilizzando uno schema predefinito?",
+    "options": [
+      "Si, esistono dei modelli predisposti per agevolare l'utente",
+      "No, viene aperta solamente una pagina bianca",
+      "Si, ma solo se si accede da un notebook"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali comandi devo usare per copiare parte di un testo?",
+    "options": [
+      "Copia e incolla",
+      "Taglia e copia",
+      "Taglia e Incolla"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa sono le emoticon?",
+    "options": [
+      "Riproduzioni stilizzate delle espressioni umane",
+      "Fotografie di espressioni umane adattate dal computer",
+      "Un software usato per modificare le icone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra i seguenti, fa parte dell'hardware di un computer?",
+    "options": [
+      "La memoria ROM",
+      "I programmi installati",
+      "Il sistema operativo Linux"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali passaggi dobbiamo seguire per salvare un documento di testo in un formato diverso?",
+    "options": [
+      "Da File > Salva con nome scegliere posizione e formato > Salva",
+      "Da File > Salva",
+      "Strumenti > Opzioni > Modifica Formato e selezionare il nuovo formato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Choose a word to complete this sentence. Ben is a chef than Michael",
+    "options": [
+      "better",
+      "best",
+      "more good"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se facciamo un doppio clic su un file con estensione .pptx o .ppt, cosa succede?",
+    "options": [
+      "Viene avviato il software di gestione delle presentazioni e aperto il file",
+      "Si apre l'editor di testo del foglio di calcolo",
+      "Si estrae un file compresso da un archivio su disco fisso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per salvare le modifiche ad un documento esistente ...",
+    "options": [
+      "Dalla barra del menù, clicco su file salva",
+      "Dalla barra del menù, clicco su File - Salva con Nome",
+      "Dalla barra del menù, clicco su Modifica - Salva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se clicchiamo sull'icona con il lucchetto chiuso nella barra dell'indirizzo di un browser, cosa viene mostrato?",
+    "options": [
+      "Il certificato digitale del sito e l'ente certificatore",
+      "Niente, il simbolo appare solo se l'indirizzo inizia con http://",
+      "Ci viene mostrato l'indirizzo del sito nel formato originale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per hardware si intende:",
+    "options": [
+      "Tutti i componenti fisici che si possono toccare con mano",
+      "I programmi",
+      "Le app"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, per salvare le diapositive di una presentazione come singole immagini, potremo scegliere di salvarle come...",
+    "options": [
+      "Formato .png",
+      "Formato .http",
+      "Formato .rtf"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con quale termine è possibile indicare una società che fornisce servizi di archiviazione, applicazioni, infrastruttura o piattaforma basati sul cloud?",
+    "options": [
+      "Provider di servizi cloud.",
+      "Grid computing.",
+      "Burst nel cloud."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come viene comunemente chiamata una porta di rete?",
+    "options": [
+      "RJ45 o Lan",
+      "USB",
+      "LPT1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, la dimensione del carattere può essere modificata dal gruppo...",
+    "options": [
+      "Carattere della scheda Home",
+      "Testo della scheda Inserisci",
+      "Zoom della scheda Visualizza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che differenza c'è tra i termini «hardware» e «software»?",
+    "options": [
+      "Hardware indica tutte le parti fisiche, elettroniche e meccaniche di un computer, software indica l'insieme dei programmi che permettono ad un computer di funzionare.",
+      "Nessuna differenza, sono due termini sinonimi di «componente di un computer».",
+      "Hardware indica l'insieme delle periferiche di un computer, software indica tutti i componenti interni ad un computer."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dove troviamo le informazioni sul computer che stiamo utilizzando con Windows 10?",
+    "options": [
+      "Doppio clic sull'icona Questo PC > Tasto destro su Proprietà",
+      "Doppio clic sull'icona Pannello di controllo > Strumenti di amministrazione",
+      "Doppio clic sull'icona Start > Programmi > Info"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cos'è il cloud?",
+    "options": [
+      "Una tecnologia che permette di gestire enormi quantità di dati su sistemi aperti",
+      "Una tecnologia che permette di gestire enormi quantità di dati su sistemi chiusi",
+      "Una tecnologia che permette di gestire una limitata quantità di dati su sistemi chiusi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, da quale scheda si possono inserire Intestazione e Piè di pagina?",
+    "options": [
+      "Inserisci",
+      "Presentazione",
+      "Revisione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In Microsoft PowerPoint, è possibile creare una presentazione in modo che si apra direttamente in modalità dimostrazione?",
+    "options": [
+      "Si, salvando il file con formato .ppsx",
+      "Si, salvando il file con formato .wmf",
+      "Si, salvando il file con formato .pptx"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quale pagina dobbiamo accedere per inserire un tag ad un documento Word?",
+    "options": [
+      "File > Informazioni",
+      "File > Controlla",
+      "File > Gestisci"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un programma rilasciato in prova per un certo periodo, è detto:",
+    "options": [
+      "Shareware",
+      "Open source",
+      "Freeware"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti tecnologie è simile al Wi-Fi?",
+    "options": [
+      "Wi-Max",
+      "TCP/IP",
+      "2G"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale colore viene associato ai programmi di gestione delle presentazioni?",
+    "options": [
+      "Arancione scuro",
+      "Verde chiaro",
+      "Blu"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In alcune tastiere è presente un tasto \"Fn\", a cosa serve?",
+    "options": [
+      "Ad attivare alcuni tasti con doppia funzione, in particolar modo nei laptop",
+      "A scrivere le lettere maiuscole",
+      "A scrivere i simboli delle valute"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nella scheda Revisione di Excel, per cosa può essere utilizzata l'icona con un fumetto?",
+    "options": [
+      "Ad inserire un commento che apparirà quando si clicca sulla cella o ci si posiziona sopra",
+      "Ad inserire una casella di testo",
+      "A marcare come corretta grammaticalmente una frase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un file Word, cosa rappresenta il simbolo ¶?",
+    "options": [
+      "La fine del paragrafo",
+      "Lo spazio bianco",
+      "La tabulazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se dopo aver selezionato una porzione di testo da un documento, premo contemporaneamente i tasti Ctrl + X e poi Ctrl + V, cosa sto effettuando?",
+    "options": [
+      "Spostando il testo",
+      "Selezionando tutto e copiando",
+      "Selezionando tutto e Incollando"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa bisogna fare per rendere visualizzabile dal Blocco Note di Windows un foglio di lavoro Excel?",
+    "options": [
+      "Salvarlo come formato Testo (txt)",
+      "Cliccare sulla scheda Home l'icona con due fogli di testo",
+      "Salvare il file come Cartella di lavoro di Excel 97/2003"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Prima di copiare un testo, quale operazione devo eseguire?",
+    "options": [
+      "Selezionare il testo",
+      "Formattare il testo",
+      "Evidenziare il testo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, qual è la modalità di visualizzazione di default per una presentazione?",
+    "options": [
+      "Quella Normale",
+      "Quella con Visualizzazione Struttura",
+      "Quella con Visualizzazione di lettura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per malware?",
+    "options": [
+      "Un software pirata inserito in un sistema informatico, generalmente in modo clandestino, con l'intenzione di compromettere la riservatezza, l'integrità o la disponibilità dei dati, delle applicazioni o dei sistemi operativi dell'obiettivo",
+      "Un software malevolo capace di accedere ad un computer e garantire l'accesso all'attaccante, aggirare il controllo da parte dell'amministratore di sistema riuscendo anche a nascondere la propria presenza",
+      "Un software che riconosce la presenza di virus informatici nei file e nelle memorie di massa e cerca di rimuoverli o di neutralizzarli"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra le seguenti voci, è considerato un software?",
+    "options": [
+      "Un programma installato sul computer",
+      "L'Hard Disk del computer",
+      "Tutti i componenti fisici che si possono toccare con mano"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, si possono aggiungere nuovi gruppi di pulsanti alla barra multifunzione?",
+    "options": [
+      "Si, cliccandoci sopra col tasto destro e scegliendo Personalizza barra multifunzione",
+      "No, i pulsanti della barra multifunzione sono tutti visualizzati",
+      "No, i pulsanti della barra multifunzione non possono essere raggruppati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa significa che un processore funziona a 2 Gigahertz (GHZ)?",
+    "options": [
+      "Che può eseguire 2 miliardi di operazioni al secondo",
+      "Che può eseguire 2000 operazioni al secondo",
+      "Che può eseguire 2 milioni di operazioni al secondo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Lo spamming è:",
+    "options": [
+      "L'invio indiscriminato e automatizzato di email ad un grande numero di indirizzi di posta elettronica",
+      "Un virus informatico che si propaga attraverso l'invio di posta elettronica",
+      "Un servizio per l'eliminazione di messaggi indesiderati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per CD-R Dual Layer?",
+    "options": [
+      "Che possono essere masterizzate entrambe le facciate del disco",
+      "È un dispositivo composto da due dischi magnetici",
+      "Un Dispositivo ottico non Scrivibile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quale pagina dobbiamo accedere per inserire un commento ad un documento Word?",
+    "options": [
+      "File > Informazioni",
+      "File > Titolo",
+      "File > Aggiungi Commento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il \"Punto esclamativo\" di colore rosso in un messaggio di Outlook, indica ...",
+    "options": [
+      "Un messaggio inviato con \"alta priorità\"",
+      "Che al messaggio è allegato un file",
+      "La presenza di un virus"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Impostare una stampante come predefinita, comporta che:",
+    "options": [
+      "Tutte le stampe verranno inviate ad essa",
+      "Non sarà possibile inviare stampe ad altre stampanti",
+      "Quella stampante stamperà solo i file con estensione \"DOC\""
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per inserire un simbolo su Word, quale funzione dobbiamo utilizzare?",
+    "options": [
+      "Dalla scheda Inserisci, scegliere la voce Simbolo e selezionare il simbolo desiderato",
+      "Dalla scheda Inserisci, scegliere la voce Oggetto e selezionare il simbolo desiderato",
+      "Dalla scheda Inserisci, scegliere la voce Immagine e selezionare il simbolo desiderato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come è possibile spostarsi all'interno delle celle di un foglio elettronico?",
+    "options": [
+      "Utilizzando il mouse, oppure i tasti Tab, Invio e le frecce direzionali dalla tastiera",
+      "Digitando le coordinate nella barra della formula",
+      "Solamente utilizzando il mouse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come viaggiano i dati all'interno di un pc?",
+    "options": [
+      "Nel BUS",
+      "Nella RAM",
+      "Nella CPU"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per Spoofing?",
+    "options": [
+      "Manipolazione di dati telematici quali l'indirizzo IP o l'email del mittente, cosi come l'estensione di file, tali da farli apparire innocui o, comunque, provenienti da soggetti noti o che non generano sospetti",
+      "Attività che prevede di \"intercettare\" i dati che passano su una rete, comprese comunicazioni e password",
+      "Condizione in cui il cyber-space risulti protetto rispetto ad eventi, di natura volontaria o accidentale, consistenti nell'acquisizione e nel trasferimento indebiti di dati, nella loro modifica o distruzione illegittime ovvero nel blocco dei sistemi informativi, grazie ad idonee misure di sicurezza fisica, logica e procedurale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In un foglio di calcolo, per confermare la correzione di un testo all'interno di una cella, cosa bisogna fare?",
+    "options": [
+      "Premere il tasto Invio",
+      "Spostarsi con la freccia a Destra",
+      "Cliccare sulla 'X' in alto a destra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "È possibile spostare le finestre sul desktop?",
+    "options": [
+      "Si, cliccando nella Barra del titolo col pulsante sinistro e mantenendo premuto lo stesso fino a spostarla nella nuova posizione, poi rilasciarlo",
+      "Si, cliccando nella Barra di sistema col pulsante destro e mantenendo premuto lo stesso fino a spostarla nella nuova posizione, poi rilasciarlo",
+      "Si, cliccando nella Barra del titolo col pulsante destro e mantenendo premuto lo stesso fino a spostarla nella nuova posizione, poi rilasciarlo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il modo più sicuro per evitare di infettare un computer con un virus è:",
+    "options": [
+      "Non collegarlo a nessuna rete e non utilizzare memorie removibili",
+      "Non esiste un modo sicuro per non prendere un malware",
+      "Usare la chiavetta Usb che ci ha prestato un amico particolarmente fidato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale dei seguenti formati è possibile salvare un documento di Microsoft Word?",
+    "options": [
+      "Txt - rtf - html",
+      "Gif - bmp - jpg",
+      "Jpg - mdb - mdw"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel gergo di Internet, che cosa è lo spamming?",
+    "options": [
+      "È l'invio di messaggi pubblicitari non richiesti, inviati, tipicamente, tramite mail.",
+      "È un tipo di antivirus.",
+      "È un errore nel codice di controllo di un messaggio di posta elettronica."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si chiama un codice di accesso alla rete valido per una singola operazione?",
+    "options": [
+      "One-time password",
+      "Passcode",
+      "Passfrase"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si chiamano le immagini che rappresentano i file e/o le cartelle?",
+    "options": [
+      "Icone",
+      "Connessioni",
+      "Lettere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei sistemi di presentazione, da quale scheda e gruppo si può cambiare la modalità di visualizzazione delle diapositive?",
+    "options": [
+      "Visualizza > Visualizzazioni presentazione",
+      "Inserisci > Visualizzazioni",
+      "Progettazione > Presentazioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Premendo il tasto INVIO in un file word...",
+    "options": [
+      "Vado a capo riga",
+      "Elimino una riga",
+      "Il documento viene eliminato"
+    ],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,1838 @@
+[
+  {
+    "question": "I honestly think that the time ... come when we should celebrate our success.",
+    "options": [
+      "having",
+      "has",
+      "had"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "You like milk in your tea, .......?",
+    "options": [
+      "don't you",
+      "did you",
+      "have you"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "You'd rather I kept quiet about it, .......?",
+    "options": [
+      "do you",
+      "wouldn't you",
+      "did you"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Andrew's attempts to get into the swimming team have not ... with much success.",
+    "options": [
+      "concluded",
+      "met",
+      "associated"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Why, what.......?",
+    "options": [
+      "happened",
+      "evolved",
+      "occurred"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "... do you like to do on the weekends?",
+    "options": [
+      "What",
+      "Who",
+      "How"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Does anyone honestly ... what a politician says nowadays?",
+    "options": [
+      "believe",
+      "discover",
+      "credit"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of these is an adjective? It is ...",
+    "options": [
+      "hardship",
+      "hard",
+      "hardly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Mike: It's getting very late, we must hurry up. Jane: ...",
+    "options": [
+      "Point held",
+      "Point got",
+      "Point taken"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Scrabble is the world's most popular word game. Alfred Butts, an architect, invented it ... found himself out of ...",
+    "options": [
+      "while/eaming",
+      "when/work",
+      "where/job"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "European cuisine always ... a sense of nostalgia and romance, like running into an old flame.",
+    "options": [
+      "evolves",
+      "evicts",
+      "evokes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "She's always late ...",
+    "options": [
+      "isn't it?",
+      "isn't she?",
+      "was she?"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "You'll notice that as soon as the children come home from school, the dog will jump up and show its great ... for them.",
+    "options": [
+      "affectation",
+      "affection",
+      "protection"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "You said you would .......",
+    "options": [
+      "didn't you?",
+      "would you?",
+      "did you?"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "You shouldn't have done that, .......?",
+    "options": [
+      "could you",
+      "should you",
+      "didn't you"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Yesterday ... was very sunny outside.",
+    "options": [
+      "they",
+      "it",
+      "he"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "You must go ...",
+    "options": [
+      "mustn't you?",
+      "had you?",
+      "have you?"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "He's still getting ... the shock of losing his job.",
+    "options": [
+      "across",
+      "by",
+      "over"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Are you going ....... for your holidays this year?",
+    "options": [
+      "abroad",
+      "outside",
+      "absent"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Some people only read the ....... lines in a newspaper.",
+    "options": [
+      "head",
+      "top",
+      "big"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which of these is an adverb? It is ...",
+    "options": [
+      "quickly",
+      "quickest",
+      "quicker"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "That stupid dog ... all day long.",
+    "options": [
+      "have always barked",
+      "is always barking",
+      "does always bark"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I really appreciate your ... me at this difficult time.",
+    "options": [
+      "help",
+      "helped",
+      "helping"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Oh, come on it's ... not that difficult.",
+    "options": [
+      "quickly",
+      "always",
+      "surely"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "But things will ... tomorrow.",
+    "options": [
+      "improvise",
+      "improve",
+      "increase"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "This form ... be handed in until the end of the week.",
+    "options": [
+      "needn't",
+      "doesn't need",
+      "doesn't have"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The brothers will ... school both together at the end of this year",
+    "options": [
+      "finishes",
+      "finish",
+      "end"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "They're selling their house ...",
+    "options": [
+      "will they?",
+      "have they?",
+      "aren't they?"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Do you want me to ... it easier for you?",
+    "options": [
+      "do",
+      "take",
+      "make"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "That's better I've got a clearer ...",
+    "options": [
+      "sight now",
+      "view now",
+      "vision now"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "At ....... I think she's very pretty.",
+    "options": [
+      "less",
+      "least",
+      "lost"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "There are ... five million people in Scotland, and Edinburgh is ... most famous city.",
+    "options": [
+      "even/my",
+      "between/his",
+      "about/its"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Shirley enjoys science lessons, but all her experiments seem to ... wrong.",
+    "options": [
+      "come",
+      "go",
+      "end"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Do you ... time to go to the store for me?",
+    "options": [
+      "have",
+      "like",
+      "go"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sociologists maintain that some of the films on show today have created a generation of very ... children.",
+    "options": [
+      "frightening",
+      "frightened",
+      "afraid"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "One of that child's teeth is very ... and will soon fall out.",
+    "options": [
+      "loose",
+      "lose",
+      "lost"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "To start ....... we have comedy.",
+    "options": [
+      "with",
+      "out",
+      "in"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "It doesn't really ... now. I just wanted to say how beautiful the bells sounded.",
+    "options": [
+      "matter",
+      "help",
+      "care"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mike: I wonder if you could help me with this problem. Jane: ...",
+    "options": [
+      "Examine me",
+      "Probe me",
+      "Try me"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Why do you ... that?",
+    "options": [
+      "tell",
+      "announce",
+      "say"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Don't you ....... those bells..?",
+    "options": [
+      "ponder",
+      "educate",
+      "think"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "If you're not careful you'll find that because of your generous nature, she'll start taking ... of you.",
+    "options": [
+      "prominence",
+      "part",
+      "advantage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Please come back soon and ... the work you started two weeks ago.",
+    "options": [
+      "finish",
+      "finishes",
+      "finished"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The firm has expanded and they want to ....... on extra staff.",
+    "options": [
+      "get",
+      "do",
+      "take"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "As always his latest play has been a huge success and all the tickets are ... until August.",
+    "options": [
+      "taken out",
+      "put out",
+      "sold out"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I must admit that whenever I've eaten at that restaurant, I've always come away feeling ....... satisfied.",
+    "options": [
+      "full",
+      "completely",
+      "quickly"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "And by early evening the ... country will see the rain.",
+    "options": [
+      "hole",
+      "complete",
+      "whole"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Well, I think it is and I ... it's an impossible question to answer.",
+    "options": [
+      "reckon",
+      "realize",
+      "report"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Because you're in that road ... now.",
+    "options": [
+      "absolutely",
+      "simply",
+      "right"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "He is very lucky to have got himself a ... job.",
+    "options": [
+      "plum",
+      "banana",
+      "lemon"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Excuse me I ... if you can help me.",
+    "options": [
+      "hope",
+      "wonder",
+      "expect"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "That's a good question but I need ... to think about it.",
+    "options": [
+      "width",
+      "time",
+      "length"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "This product must be eaten ... two days of purchase.",
+    "options": [
+      "before",
+      "under",
+      "within"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "After they had shouted at each other, they decided to ... it up.",
+    "options": [
+      "take",
+      "make",
+      "get"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The decorated roof of the ancient palace was ... up by four thin columns.",
+    "options": [
+      "supported",
+      "carried",
+      "held"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "New York has perhaps the ... skyscraper of the world, the Empire State Building.",
+    "options": [
+      "best-known",
+      "first-rate",
+      "top-class"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I expect you think I'm ... because I don't understand that.",
+    "options": [
+      "stupid",
+      "crazy",
+      "deaf"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "They shouldn't be held responsible. The blame for this shameful situation lies ...",
+    "options": [
+      "elsewhere",
+      "anyhow",
+      "somewhere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "How lazy our boy is! He only goes and visits his grandparents ...",
+    "options": [
+      "each time",
+      "once in a while",
+      "at a time"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "UFOs are popularly known as flying saucers, ... that is often the ... they are reported to be.",
+    "options": [
+      "so/type",
+      "although/size",
+      "because/shape"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I'm starting a ... of swimming lessons.",
+    "options": [
+      "course",
+      "line",
+      "row"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "As they always tell you the value of shares can go ....... as well as up.",
+    "options": [
+      "over",
+      "down",
+      "in"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When the building was completed, all the workers were paid ...",
+    "options": [
+      "over",
+      "off",
+      "out"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I don't remember ... the front door when I left home this morning.",
+    "options": [
+      "locked",
+      "locking",
+      "to lock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Yes, I'd very much ... that.",
+    "options": [
+      "appear",
+      "appreciate",
+      "understand"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I have never ... her before.",
+    "options": [
+      "saw",
+      "seen",
+      "see"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I don't think that's going to be ...",
+    "options": [
+      "hard",
+      "hardly",
+      "hazard"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "After the odd outburst, the group of long time friends agreed that Carmela's behaviour on the weekend trip was ...",
+    "options": [
+      "bizarre",
+      "buzzer",
+      "busier"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Have you ....... made a snowman?",
+    "options": [
+      "ever",
+      "forever",
+      "every"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "This will be read by the very pretty ... Penny Lane.",
+    "options": [
+      "newsbringer",
+      "newspaper",
+      "newscaster"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "You must not drink and then ... a car.",
+    "options": [
+      "take",
+      "lead",
+      "drive"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "On my way home I met a friend of mine",
+      "On my way home I met a friend mine of",
+      "I met on my way home a friend of mine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The boss was good enough to ... my mistake.",
+    "options": [
+      "oversee",
+      "overlook",
+      "overdo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Oh, it was a complete .......!",
+    "options": [
+      "event",
+      "disaster",
+      "accident"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "After the children had ... doing their homework, the whole family watched television.",
+    "options": [
+      "finished",
+      "ends",
+      "finishes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Somebody once used her advice and made a ... out of buying shares in a small company that did well.",
+    "options": [
+      "gold",
+      "amount",
+      "fortune"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Can you hear what he is .......?",
+    "options": [
+      "saying",
+      "speaking",
+      "talking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "These muffins are delicious! May I have ..., please?",
+    "options": [
+      "another",
+      "one more",
+      "a more"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "When Sue heard the news she......... very pleased",
+    "options": [
+      "hasn't been",
+      "wasn't",
+      "haven't been"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A boy of sixteen is often ... his father",
+    "options": [
+      "tall like",
+      "so tall as",
+      "as tall as"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "After the accident my friend needed ...",
+    "options": [
+      "surgery",
+      "injury",
+      "backlash"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Select the different meaning sentence",
+    "options": [
+      "Hallo",
+      "See you",
+      "Cheerio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "There is somebody walking behind us, I think ...",
+    "options": [
+      "we are being followed",
+      "we are following",
+      "we are followed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What ... do at the weekend?",
+    "options": [
+      "you are used",
+      "you usually do",
+      "do you usually"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Margaret ... to work yesterday. She wasn't feeling well",
+    "options": [
+      "hasn't gone",
+      "didn't go",
+      "don't go"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "You cannot rely ... that person. He is not trustworthy",
+    "options": [
+      "on",
+      "for",
+      "at"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Please select the best word to complete the following sentence: She has been ... of murdering her husband.",
+    "options": [
+      "charged",
+      "accused",
+      "arrested"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "... I carry the bags for you, Madam?",
+    "options": [
+      "Am",
+      "Shall",
+      "Let's"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The problem is becoming serious. We have to discuss ... it",
+    "options": [
+      "for",
+      "on",
+      "too"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I won't wait ... him a minute more",
+    "options": [
+      "for",
+      "about",
+      "to"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "... to the USA? No, never",
+    "options": [
+      "Did you ever go",
+      "Have you ever been",
+      "Have you ever gone"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "How did you get there? Did you go ... train?",
+    "options": [
+      "by",
+      "in",
+      "onn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The river Rhine flows ... the North Sea",
+    "options": [
+      "over",
+      "into",
+      "on"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "My sister is growing ...",
+    "options": [
+      "always tall",
+      "taller and taller",
+      "more and more tall"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "What ... this summer?",
+    "options": [
+      "are you doing",
+      "you will do",
+      "are you going to go"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "We are late. The film ... by the time we get to the cinema",
+    "options": [
+      "will already have started",
+      "will be already started",
+      "will already start"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A pacifist is a person ... believes that all the wars are wrong",
+    "options": [
+      "who",
+      "where",
+      "whom"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Select the different meaning sentence",
+    "options": [
+      "I am fed up with it",
+      "I have had enough of this",
+      "I'm annoyed by it"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "He ... be silent!",
+    "options": [
+      "must",
+      "has",
+      "musts"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I urge a reply so they promise they ... back to me soon.",
+    "options": [
+      "write",
+      "will write",
+      "are writing"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Can you pass me those ... please?",
+    "options": [
+      "bushies",
+      "brushes",
+      "brush"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I only ... in London for three months",
+    "options": [
+      "lives",
+      "have live",
+      "lived"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "He's not reserved at all. In fact, he's ...",
+    "options": [
+      "easy-going",
+      "good-hearted",
+      "outgoing"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Have you considered ... a job abroad?",
+    "options": [
+      "to get",
+      "of getting",
+      "getting"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I ... to the USA in my life.",
+    "options": [
+      "would like",
+      "have never been",
+      "never went"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I ... him since 1990",
+    "options": [
+      "have known",
+      "have been knowing",
+      "knew"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When my sister goes on holiday, she asks me to look ... her pets",
+    "options": [
+      "on",
+      "before",
+      "after"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Jane is ... hospital now because her son had an accident",
+    "options": [
+      "into the",
+      "in the",
+      "at"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The fire spread through the building quickly but everybody ...",
+    "options": [
+      "was able to escape",
+      "managed in escape",
+      "was able escape"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "What is the date?",
+      "Which is a date?",
+      "What day are we?"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Please select the best word to complete the following sentence: The tree ... by lightning.",
+    "options": [
+      "flashed",
+      "was flashed",
+      "was struck"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "We ... to the gym.",
+    "options": [
+      "often not go",
+      "go not often",
+      "don't often go"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Tim watches television all the time",
+      "Tim television all the time watches",
+      "Tim all the time television watches"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "... you ... to school yesterday?",
+    "options": [
+      "Did/went",
+      "Do/gone",
+      "Did/go"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "How much money do you spend ... food each week?",
+    "options": [
+      "at",
+      "on",
+      "with"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Allison's shyness make her blush alla the time",
+      "Allison's shyness makes blush her all the time",
+      "Allison's shyness makes her blush all the time"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "During the fourteen days cruise, seven days will be spent ... sea, and seven in port",
+    "options": [
+      "on",
+      "at",
+      "by"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I don't live with ... parents anymore",
+    "options": [
+      "my",
+      "me",
+      "the"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I have lived in Frankfurt ... I left Italy three years ago.",
+    "options": [
+      "since",
+      "by the time",
+      "when"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Please select the best word to complete the following sentence: You aren't allowed to use your mobile so ...",
+    "options": [
+      "there's no point in leaving it on",
+      "there's no point to leave it on",
+      "it's no point to leave it on"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Everything is going well. We ... any problems so far",
+    "options": [
+      "didn't have",
+      "hasn't had",
+      "haven't had"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Please select the best word to complete the following sentence: He told me that he ... in Spain the previous year.",
+    "options": [
+      "had been working",
+      "has worked",
+      "has been working"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mark decided to give up sports so that he could concentrate ... his studies",
+    "options": [
+      "into",
+      "on",
+      "in"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "He ... me several questions",
+    "options": [
+      "gave",
+      "made",
+      "asked"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Please select the best word to complete the following sentence: ... to school yesterday?",
+    "options": [
+      "Did you walked",
+      "Did you walk",
+      "Have you walked"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "She works quite hard. You can't accuse her ... being lazy",
+    "options": [
+      "to",
+      "of",
+      "on"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "James ... in Scotland for ten years. Now he lives in London",
+    "options": [
+      "has been living",
+      "lived",
+      "lives"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "He ... me he ... in love with Susan",
+    "options": [
+      "have told had fallen",
+      "told had fallen",
+      "told - had falling"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I was coming out of the room I collided ... somebody who was coming in",
+    "options": [
+      "to",
+      "into",
+      "with"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I saw him ... the road and ... the shop",
+    "options": [
+      "cross - entering",
+      "cross enter",
+      "crossing enter"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "My father is exhausted! He wishes ... a day off!",
+    "options": [
+      "he can take",
+      "he could take",
+      "to taking"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Are you going ... Linda's party next week?",
+    "options": [
+      "to",
+      "on",
+      "at"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Select the wrong sentence:",
+    "options": [
+      "I have any bread",
+      "I have some bread",
+      "I have no bread"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Choose the correct form:",
+    "options": [
+      "His room's window is open",
+      "The window of his room is open",
+      "It's room window is open"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Please answer ... my question",
+    "options": [
+      "at",
+      "at any",
+      "to"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "It was a great party last night. You ... ... come. Why didn't you?",
+    "options": [
+      "had to",
+      "should have",
+      "ought to have"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The convention ... next month",
+    "options": [
+      "start",
+      "is starting",
+      "will start"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The places ... we spent our holidays were really beautiful",
+    "options": [
+      "whom",
+      "where",
+      "who"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Have you got ... tissues?",
+    "options": [
+      "a lot",
+      "any",
+      "some"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The girl is afraid ... the dog",
+    "options": [
+      "for",
+      "of",
+      "from"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Our clients ... to be invited to our conference.",
+    "options": [
+      "would be delight",
+      "are delight",
+      "would be delighted"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Do you often go out in the evening?",
+      "Do you go often out in the evening?",
+      "Do you go out in the evening, often?"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The murder was arrested ... the police.",
+    "options": [
+      "to",
+      "by",
+      "ton"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Young men ... glory and riches",
+    "options": [
+      "dreams/on",
+      "dream/in",
+      "dream/of"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "Those people always helps one another",
+      "Mary and Sue always help each both",
+      "Mary and Sue always help each other"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "... friends came to the party. Only three out of thirty.",
+    "options": [
+      "Many",
+      "Any",
+      "Few"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Please select the best word to complete the following sentence: She ... me to go to school.",
+    "options": [
+      "said",
+      "told",
+      "made"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "He ... speak English very well",
+    "options": [
+      "are able",
+      "cans",
+      "can"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "I got up late and I ... the train",
+    "options": [
+      "lacked",
+      "missed",
+      "lost"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Please select the best word to complete the following sentence: She ... me to go to school.",
+    "options": [
+      "suggested",
+      "told",
+      "said"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "My grandmother remembers ... in the field when she was a child.",
+    "options": [
+      "working",
+      "work",
+      "used to work"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Children ... to go to bed late at night.",
+    "options": [
+      "are supposed",
+      "are not supposed",
+      "are expected"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "He was a successful business manager ... he had very little experience as a CEO.",
+    "options": [
+      "in spite of",
+      "if",
+      "even though"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "The article I was reading was about a man who ... his wife two years before.",
+    "options": [
+      "had murdered",
+      "was murdering",
+      "has murdered"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "We should consider ... their offer.",
+    "options": [
+      "accepting",
+      "we accepted",
+      "to accept"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I would never follow a vegan diet, ... it may be.",
+    "options": [
+      "any good",
+      "however tasty",
+      "good enough"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Finding a good job is getting....",
+    "options": [
+      "harder and harder",
+      "much harder than",
+      "the most difficult"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Some people ... Scotland speak a different language called Gaelic.",
+    "options": [
+      "on",
+      "at",
+      "in"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "... you ... to school yesterday?",
+    "options": [
+      "Did/go",
+      "Did/went",
+      "Do/gone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "It can be dangerous when the children play ... the street",
+    "options": [
+      "in",
+      "off",
+      "on"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Everything is going well. We ... any problems so far",
+    "options": [
+      "haven't had",
+      "hasn't had",
+      "didn't to have"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Mark decided to give up sports so that he could concentrate ... his studies",
+    "options": [
+      "into",
+      "on",
+      "with"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Please select the best word to complete the following sentence: You ... better see a doctor.",
+    "options": [
+      "should",
+      "would",
+      "had"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "He ... me several questions.",
+    "options": [
+      "did",
+      "asked",
+      "made"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "James ... in Scotland for ten years. Now he lives in London",
+    "options": [
+      "lives",
+      "lived",
+      "has lived"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "The Immunization Agenda 2030 (IA2030), ... by the World Health Assembly, is a framework to save millions of lives through more equitable access to existing vaccines for people in all communities.",
+    "options": [
+      "endured",
+      "endorsed",
+      "promulgated"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "If you have a sedentary job, experts advise that you ... stand, move and take breaks for at least two out of every eight hours.",
+    "options": [
+      "should",
+      "must",
+      "need"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "\"Did you manage to get the tickets for the concert?\" \"I am afraid ... , they were sold out in a moment!\"",
+    "options": [
+      "not",
+      "so",
+      "no"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I have been gaining weight lately and I am unhappy about it. It's high time I ... on a diet!",
+    "options": [
+      "will go",
+      "went",
+      "go"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "China's National Space Administration has released ... recorded by the country's Mars probe.",
+    "options": [
+      "simulations",
+      "clipping",
+      "footage"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Current NHS guidelines say there is no \"safe\" level of drinking and that men and women ... not drink more than 14 units of alcohol a week on a regular basis - around six pints of beer.",
+    "options": [
+      "must",
+      "would",
+      "should"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Popular purchases among the super-rich are buying their own private island and their own private jet. A recent National Lottery survey found just under one in five people would choose to buy a private island if they ... scoop the cash.",
+    "options": [
+      "would",
+      "had to",
+      "were to"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Possible side effects of the flu vaccine ... to be few.",
+    "options": [
+      "report",
+      "are reported",
+      "are admitted"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Class 2B ... to the museum this morning",
+    "options": [
+      "is being taken",
+      "does take",
+      "are taken"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I really regretted my mistake. It was one that I ...",
+    "options": [
+      "Ought not to have made",
+      "Ought not to be making",
+      "Had not to make"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which question is grammatically correct?",
+    "options": [
+      "Were you eating an ice cream when the bus arrived?",
+      "Did you eat an ice cream when the bus arrived?",
+      "Were you eating an ice cream when the bus did arrive?"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The old cinema has taken ... a new lease of life since its renovation.",
+    "options": [
+      "On",
+      "Over",
+      "In"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the sentence with the correct preposition (referring to the context). He didn't agree with me at first, but soon he came (....) and followed my advice.",
+    "options": [
+      "Round",
+      "Into",
+      "Through"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "She ate ... cookies as her sister did.",
+    "options": [
+      "Twice as many",
+      "Twice more",
+      "Twice as much"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "My sister is a litigator, which means she argues cases in ...",
+    "options": [
+      "Court",
+      "Justice",
+      "Dock"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the following sentence with the correct option. He ... since he was one year old.",
+    "options": [
+      "'s been talking",
+      "Has talked",
+      "Was talking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Which sentence is grammatically correct?",
+    "options": [
+      "The army needs to change its image if more women are to be recruited",
+      "The army needs to change its image if more women will be recruited",
+      "The army will need to change its image if more women will be recruited"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "When a dog is happy to see you it will probably ... its tail.",
+    "options": [
+      "Wag",
+      "Bark",
+      "Turn"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the following sentence with the correct option. I ... a cup of coffee when the telephone suddenly ...",
+    "options": [
+      "Was having - rang",
+      "Was having - rung",
+      "Had - was ringing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I'm working on two jobs to ... some ... money.",
+    "options": [
+      "Earn / extra",
+      "Gain / extra",
+      "Win / more"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "We were speaking on the phone and then all of a sudden I got cut ...",
+    "options": [
+      "Off",
+      "Down",
+      "In"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the following sentence with the correct option. Unless you ... harder, you ... into that college.",
+    "options": [
+      "Study - 'll never get",
+      "Will study 'll never get",
+      "Won't study - 'll never be getting"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the sentence with the correct preposition (referring to the context). Come on guys, we've lost loads of time chatting. Now we have to make (....) lost time.",
+    "options": [
+      "Up for",
+      "Back into",
+      "To off"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Fill in the blank with the correct option: \"It's not the job of a politician to do only those things ... will be popular.\".",
+    "options": [
+      "Which you think",
+      "What you say",
+      "How they state"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "She felt ... when she first arrived because she had ... to talk to.",
+    "options": [
+      "Lonely / nobody",
+      "Lone / no one",
+      "Lonely / anybody"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the following sentence with the correct option. I ... my parents next month, I ... the train ticket.",
+    "options": [
+      "'m going to visit - 've already bought",
+      "Will visit - already bought",
+      "'m visiting - have already buyed"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Elias has recently started to take a more positive ... to his job and he is doing it quite well.",
+    "options": [
+      "Attitude",
+      "Manner",
+      "Way"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I ... changed job, if my wage ... low.",
+    "options": [
+      "Wouldn't have / hadn't been",
+      "Wouldn't / hadn't been",
+      "Wouldn't have / hadn't"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Choose the correct option to complete the following sentence: Alexandra is so beautiful, she's ...",
+    "options": [
+      "Breathtaking",
+      "Breathmaking",
+      "Breathbreaking"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the sentence with the correct preposition (referring to the context). No one helps her: she has to live (....) her salary, which is not easy.",
+    "options": [
+      "On",
+      "By",
+      "At"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the sentence with one of the following options. I'll give you more details about the reservation when the receptionist of the hotel (......) me back.",
+    "options": [
+      "Phones",
+      "Will phone",
+      "Would phone"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "The market demand is now ... due to a major slowdown.",
+    "options": [
+      "Stagnating",
+      "Looking up",
+      "Downing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Complete the sentence with the correct preposition (referring to the context). As it was very late we changed our minds and made (....) home instead of going to the party.",
+    "options": [
+      "For",
+      "By",
+      "Through to"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "What is the Italian for \"play truant\"?",
+    "options": [
+      "Dare qualcosa per scontato",
+      "Marinare la scuola",
+      "Dormire come un ghiro"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Leggere il brano e rispondere alla seguente domanda. \"Oh Lyn, you can't be serious.\" Bridget Cooper flicked her aubum hair back in a careless gesture that distracted every man within a two-table radius, and glanced at me reprovingly. \"You look like death warmed up, you know. The last thing you should do is take another transatlantic flight.\" With anybody else, I might have argued that I'd slept straight through the New York flight two days ago, and that my next business flight wouldn't be until the twenty-first of January...but with Bridget, I knew, I'd be wasting my breath. Besides, I'd known her long enough to realise this was simply preamble. Bridget never worried about anybody's health except her own. And she never rang me at nine on Monday, suggesting we meet and have lunch, unless she had a reason. Bridget was a one-off, an exceptionally talented writer with a wild imagination that made her books for children instant classic, and a wild nature that drove the poor directors of my literary agency to distraction. In the four years since I'd signed her as a client, Bridget's books had eamed a fortune for the Simon Holland Agency, but her unpredictability had caused much tearing of hair among my colleagues. My favourite of her escapades- the day she'd kicked the BBC presenter- was now a Simon Holland legend. And I, who had survived four years, and one week's holiday in France with Bridget, had risen to the status of a martyr.",
+    "options": [
+      "Lyn is one of the few people who can stand Bridget and cope with her",
+      "Lyn has spent a beautiful time in France with Bridget",
+      "Lyn's colleagues love Bridget very much and it is a pleasure for them to spend time with her"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Leggere il brano e rispondere alla seguente domanda. I really get a lot out of work. We have such a (1) range of products - from beauty and hair care through to (2) and household cleaners - that no two calls are ever the same. With laundry products, for example, we get lots of specific queries, people want to know what to use with certain types of material. We can't always go into details of all the settings of different brands of machine, (3). We also get a lot of calls about skincare from people who want to know about specific ingredients in our products. You also get fascinating insight into the country's lifestyles. For instance, we tend to get lots of calls about cleaning products on Mondays, presumably because people buy them over the weekend. I also long for one-off problems I can really get my (4) into, the ones that come out of blue. We once had a call from a woman who had seen a wedding dress on one of our TV adverts and wanted one identical to it for her big day. We found that it was still at the TV studio and was available for her to (5) for free, which she did. It just goes to show that it's always worth asking. Fill the following gaps with the correct option. (Gap 4).",
+    "options": [
+      "Teeth",
+      "Hips",
+      "Wrinkles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I promised my mum I would ... the grass in the garden before going out.",
+    "options": [
+      "lower",
+      "adjust",
+      "cut"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "That is the train ... I am going to be on when I go to Paris.",
+    "options": [
+      "what",
+      "who",
+      "which"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Fili in the blank. \"... are these boots? Are they Christina's?\"",
+    "options": [
+      "Of whom",
+      "Whose",
+      "Who"
+    ],
+    "correctIndex": 1
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "question": "Quali sono le modalità di acquisto sul Mercato Elettronico della Pubblica Amministrazione?",
+    "options": [
+      "Due diverse modalità: Ordine diretto di acquisto (ODA); Richiesta di offerta (RDO)",
+      "Due diverse modalità: Trattativa diretta e Richiesta di offerta (RDO)",
+      "Tre diverse modalità: Ordine diretto di acquisto (ODA); Richiesta di offerta (RDO); Trattativa diretta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La determinazione a contrarre è assunta di norma...",
+    "options": [
+      "Dal dirigente/responsabile del servizio",
+      "Dal segretario comunale",
+      "Dalla giunta comunale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono i requisiti del contratto?",
+    "options": [
+      "L'oggetto, la data, la firma e la forma, quando risulta che è prescritta dalla legge a pena di nullità",
+      "L'accordo delle parti, la causa, l'oggetto e la forma, quando risulta che è prescritta dalla legge a pena di nullità",
+      "L'accordo delle parti, la causa e l'oggetto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma di quanto dispone il Codice dei contratti pubblici in quale momento le stazioni appaltanti individuano gli elementi essenziali del contratto?",
+    "options": [
+      "Prima dell'avvio delle procedure di affidamento",
+      "Dopo l'avvio delle procedure di affidamento",
+      "Immediatamente prima della stipula del contratto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A norma del codice dei contratti pubblici l'esecuzione di un contratto pubblico può avere inizio prima che lo stesso sia divenuto efficace?",
+    "options": [
+      "No, salvo che, nei casi di urgenza, la stazione appaltante o l'ente aggiudicatore ne chieda l'esecuzione anticipata, nei modi ed alle condizioni previsti per legge",
+      "Si di prassi l'esecuzione del contratto ha inizio prima che lo stesso sia divenuto efficace",
+      "No, in nessun caso l'esecuzione del contratto può avere inizio prima che lo stesso sia divenuto efficace"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'aggiudicazione di un contratto pubblico diviene efficace dopo...",
+    "options": [
+      "La verifica del possesso dei requisiti prescritti",
+      "Trenta giorni dall'apertura delle buste contenenti le offerte economiche",
+      "Trenta giorni dalla firma del verbale di gara"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del D.Lgs. n. 50/2016, a quanto ammonta la garanzia denominata \"garanzia definitiva\", che l'appaltatore deve costituire sotto forma di cauzione o fideiussione per la sottoscrizione del contratto?",
+    "options": [
+      "Al 5% dell'importo contrattuale",
+      "Al 50% dell'importo contrattuale",
+      "Al 10% dell'importo contrattuale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'indizione di una procedura di gara avviene attraverso:",
+    "options": [
+      "Decreto del capo dell'amministrazione",
+      "La determina a contrattare",
+      "Deliberazione di Giunta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In base all'art. 100 del Codice degli appalti (D.Lgs. 50/2016) e s.m.i., le stazioni appaltanti possono richiedere requisiti particolari per l'esecuzione del contratto?",
+    "options": [
+      "Si, senza necessità di precisazione nel bando di gara o nell'invito o nel capitolato d'oneri",
+      "Si, purché siano, tra l'altro, compatibili con il diritto europeo e precisate nel bando di gara o nell'invito o nel capitolato d'oneri",
+      "No, mai in quanto non è conciliabile con il dovere di trasparenza della Pubblica Amministrazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 77 del D.Lgs. 50/2016, nelle procedure di aggiudicazione di contratti di appalti o di concessioni, limitatamente ai casi di aggiudicazione con il criterio dell'offerta economicamente più vantaggiosa...",
+    "options": [
+      "La valutazione delle offerte dal punto di vista tecnico ed economico è affidata a una commissione giudicatrice",
+      "La valutazione delle offerte dal punto di vista tecnico ed economico è affidata al RUP",
+      "La valutazione delle offerte dal punto di vista tecnico è effettuata tenendo conto del criterio del prezzo più basso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 59 del D.Lgs. 50/2016 in tema di contratti, la fase finale della procedura di scelta, da parte di una Pubblica Amministrazione, di un contraente mediante procedura aperta si chiama...",
+    "options": [
+      "Assegnazione",
+      "Aggiudicazione",
+      "Regolazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In base al nuovo Codice dei contratti pubblici (D.Lgs. 50/2016), quali soggetti sono ammessi alle procedure di affidamento dei contratti pubblici?",
+    "options": [
+      "Gli operatori economici stabiliti in altri Stati membri, costituiti conformemente alla legislazione vigente nei rispettivi Paesi",
+      "Gli imprenditori individuali, purché non artigiani",
+      "Le società purché costituite in forma di società di capitali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A norma del D.Lgs. 50/2016 e ss.mm.ii., Il responsabile unico del procedimento svolge tutti i compiti relativi alle procedure di programmazione, progettazione, affidamento ed esecuzione previste dal presente codice?",
+    "options": [
+      "Si, in quanto non è mai possibile attribuirli ad altri organi o soggetti",
+      "No, solo della fase di affidamento",
+      "Si, se non siano specificatamente attribuiti ad altri organi o soggetti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La Richiesta di Offerta (RdO) su MEPA:",
+    "options": [
+      "Può essere solo \"aperta",
+      "Può essere solo \"ad invito\"",
+      "Può essere sia \"aperta\" che \"ad invito'"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "II nominativo del RUP deve essere indicato nel bando o avviso con cui si indice la gara per l'affidamento del contratto di servizi e forniture?",
+    "options": [
+      "No, è facoltà della stazione appaltante indicare o meno io nominativo del RUP nel bando, nell'avviso, ecc",
+      "No, il nominativo del RUP deve essere indicato solo negli atti successivi all'aggiudicazione",
+      "Si, obbligatoriamente per espressa previsione di legge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nei contratti pubblici, ai sensi dell'art. 95 d.lgs, 50/2016, fatte salve le disposizioni legislative, regolamentari o amministrative relative alla remunerazione di servizi specifici, la migliore offerta è selezionata:",
+    "options": [
+      "Solo con il criterio dell'offerta economicamente più vantaggiosa",
+      "Con il criterio dell'offerta economicamente più vantaggiosa e, a determinate condizioni, del minor prezzo",
+      "Esclusivamente con il criterio del minor Prezzo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma quanto dispone l'art. 32 del D.Lgs. 50/2016 l'esecuzione del contratto può avere inizio prima che lo stesso sia divenuto efficace?",
+    "options": [
+      "Si, la stazione appaltante ha sempre la facoltà di chiedere l'esecuzione anticipata",
+      "No, in nessun caso",
+      "No, salvo i casi di urgenza presiti dal Codice dei contratti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Riguardo alle Fasi delle procedure di affidamento, quale delle seguenti affermazioni e' corretta?",
+    "options": [
+      "Ciascun concorrente puo' presentare piu' di un'offerta (come singolo e in forma associata)",
+      "L'aggiudicazione equivale ad accettazione dell'offerta",
+      "Prima dell'avvio delle procedure di affidamento dei contratti pubblici, le stazioni appaltanti, in conformita' ai propri ordinamenti, decretano o determinano di contrarre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 3 del d.lgs. 50/2016, il termine \"operatore economico\" indica:",
+    "options": [
+      "Un'impresa privata singola o un consorzio di imprese",
+      "Una persona fisica o giuridica, un ente pubblico, un raggruppamento di tali persone o enti, compresa l'associazione temporanea di imprese",
+      "La stazione appaltante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 32 del decreto legislativo 50 del2016, quando puo' avere inizio l'esecuzione del contratto?",
+    "options": [
+      "Salvo il caso di esecuzione anticipata per motivi di urgenza, quando il contratto sia divenuto efficace",
+      "Gia' al momento della aggiudicazione",
+      "A partire dal trentesimo giorno dopo la stipula"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A norma del D.Lgs. 50/2016, la garanzia fideiussoria, a scelta dell'appaltatore, da chi può essere rilasciata?",
+    "options": [
+      "Esclusivamente da qualsiasi impresa assicurativa",
+      "Da qualsiasi impresa bancaria, assicurativa o da intermediari e dagli intermediari finanziari che svolgono in via esclusiva o prevalente attività di rilascio di garanzie",
+      "Esclusivamente da qualsiasi impresa bancaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Qual è la differenza tra procedura aperta e procedura ristretta",
+    "options": [
+      "La prima ha luogo previa pubblicazione di un bando di gara, mentre per la seconda no",
+      "Nella prima il criterio di aggiudicazione è quello del prezzo più basso, mentre nella seconda è quello dell'offerta economicamente più vantaggiosa",
+      "Nella procedura aperta tutti gli operatori economici possono partecipare alla gara, mentre in quella ristretta la procedura di aggiudicazione si svolge tra gli operatori economici che sono già stati selezionati e invitati dalla stazione appaltante"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Relativamente alla documentazione di gara, l'art. 81 del D.lgs. 50 del 2016 stabilisce che la documentazione comprovante il possesso dei requisiti di carattere generale, tecnico-professionale ed economico e finanziario...",
+    "options": [
+      "Deve essere fomita interamante dall'operatore economico",
+      "Viene acquisita dal database di Consip",
+      "E' acquisita esclusivamente attraverso la Banca dati centralizzata gestita dal Ministero delle infrastrutture e dei trasporti, denominata Banca dati nazionale degli operatori economici"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi del decreto legislativo 50 del 2016, quando un'offerta appaia anormalmente bassa, la stazione appaltante:",
+    "options": [
+      "Esclude l'offerente dalla gara",
+      "Richiede all'offerente le giustificazioni relative al prezzo o ai costi proposti nell'offerta",
+      "Per evitare l'esclusione dalla gara, dà la possibilità all'operatore di modificare l'offerta con il meccanismo del soccorso istruttorio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nei contratti di cui al d.lgs 50/2016 le stazioni appaltanti valutano la congruità delle offerte",
+    "options": [
+      "Quando il criterio di aggiudicazione è quello dell'offerta economicamente più vantaggiosa",
+      "Quando il criterio di aggiudicazione è quello del prezzo più basso",
+      "Sia nei casi di aggiudicazione al prezzo più basso sia nei casi di aggiudicazione all'offerta economicamente più vantaggiosa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 3 del D.Lgs. n. 50/2016, cosa si intende per \"Mercato elettronico\"?",
+    "options": [
+      "Uno strumento di acquisto e di negoziazione che consente acquisti telematici per importi inferiori alla soglia di rilievo europeo basati su un sistema che attua procedure di scelta del contraente interamente gestite per via telematica",
+      "Uno strumento di acquisto che consente acquisti telematici per importi superiori alla soglia di rilievo europeo basati su un sistema che attua procedure di scelta del contraente parzialmente gestite per via telematica",
+      "Uno strumento di negoziazione che consente acquisti telematici per importi superiori alla soglia di rilievo europeo basati su un sistema che attua procedure di scelta del contraente parzialmente gestite per via telematica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dispone il D.Lgs. 50/2016 e ss.mm.ii., che l'affidamento e l'esecuzione di appalti e concessioni si svolge, tra l'altro, nel rispetto dei principi...",
+    "options": [
+      "Di tempestività e di correttezza",
+      "Solo nel principio della libera concorrenza",
+      "Solo nel principio di economicità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 32 co.6 del D. Lgs. 50/16 e ss.mm.ii., nelle procedure di affidamento dei contratti pubblici, l'aggiudicazione equivale ad accettazione dell'offerta?",
+    "options": [
+      "No, l'aggiudicazione non equivale ad accettazione dell'offerta",
+      "Si, sempre",
+      "Si, ma solo ove la stazione appaltante lo ritenga opportuno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 59 del D.Lgs. n. 50/2016, come sono considerate le offerte il cui prezzo supera l'importo posto dall'amministrazione aggiudicatrice a base di gara, stabilito e documentato prima dell'avvio della procedura di appalto?",
+    "options": [
+      "Irregolari",
+      "Inammissibili",
+      "Invalidi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi del D.Lgs. 50/2016, quando un'offerta appaia anormalmente bassa, gli operatori economici che l'hanno proposta...",
+    "options": [
+      "Non forniscono mai spiegazioni sul prezzo o sui costi proposti, nemmeno su richiesta della stazione appaltante",
+      "Diventano automaticamente aggiudicatari",
+      "Fomiscono, su richiesta della stazione appaltante, spiegazioni sul prezzo o sui costi proposti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il codice dei contratti pubblici, di cui al D.Lgs. 50/2016 e s.m.i., disciplina le seguenti materie (Indicare la risposta ESATTA)...",
+    "options": [
+      "Esclusivamente appalti di servizi",
+      "Esclusivamente appalti di forniture e servizi",
+      "Appalti di servizi, forniture, lavori e opere"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In base al D.Lgs. 50/2016 e ss.mm.ii.. nelle procedure di affidamento di contratti pubblici di lavori, servizi e forniture mediante bando o avviso, il nominativo del responsabile del procedimento...",
+    "options": [
+      "Viene comunicato solo successivamente alla presentazione delle offerte",
+      "Non è mai indicato per motivi di privacy",
+      "È indicato nel bando o nell'avviso"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi del D.Lgs. 50/2016 e ss.mm.ii. I contratti relativi ai servizi sociali e di ristorazione ospedaliera possono essere aggiudicati con il criterio del minor prezzo?",
+    "options": [
+      "No, possono essere aggiudicati esclusivamente sulla base del criterio dell'offerta economicamente più vantaggiosa individuata sulla base del miglior rapporto qualità/prezzo",
+      "È facoltà dell'amministrazione aggiudicatrice stabilire il criterio",
+      "Si, sono aggiudicati solo sulla base del criterio dell'offerta economicamente più bassa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A norma di quanto dispone il D.Lgs. 50/2016 l'offerta presentata in fase di gara è vincolata per il concorrente?",
+    "options": [
+      "Si, è vincolata per il periodo indicato nel bando o nell'invito e, in caso di mancata indicazione, per centottanta giorni dalla scadenza del termine per la sua presentazione",
+      "No, non è vincolata",
+      "L'offerta è vincolata solo se tale indicazione risulta nel bando o nell'invito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'art. 3 del D.Lgs. 50/2016 distingue tra procedure aperte, procedure ristrette, procedure negoziate. Le procedure negoziate...",
+    "options": [
+      "Sono le procedure in cui ogni operatore economico interessato può presentare un'offerta",
+      "Sono procedure di affidamento in cui stazioni appaltanti consultano gli operatori economici da loro scelti e negoziano con uno o più di essi le condizioni dell'appalto",
+      "Sono le procedure di affidamento alle quali ogni operatore economico può chiedere di partecipare e in cui possono presentare un'offerta soltanto gli operatori economici inviati dalle stazioni appaltanti, con le modalità stabilite dal codice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma di quanto dispone l'art. 30 del Codice dei contratti pubblici i criteri di partecipazione alle gare possono essere tali da escludere le medie imprese?",
+    "options": [
+      "No, i criteri di partecipazione alle gare devono essere tali da non escludere il microimprese, le piccole e le medie imprese",
+      "Si, i criteri di partecipazione alle gare devono essere tali da escludere il microimprese, le piccole e le medie imprese",
+      "No, i criteri di partecipazione alle gare devono essere tali da escludere solo il microimprese e le piccole imprese"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 32, comma 4, d.lgs. 50/2016, ciascun concorrente...",
+    "options": [
+      "Può presentare quante offerte desidera",
+      "Può presentare un massimo di tre offerte",
+      "Non può presentare più di un'offerta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 21 d.lgs. 50/2016, le amministrazioni aggiudicatrici adottano...",
+    "options": [
+      "Il programma annuale degli acquisti di beni e servizi e il programma",
+      "Il programma biennale degli acquisti di beni e servizi e il programma triennale dei lavori pubblici",
+      "Il programma triennale degli acquisti di beni e servizi e il programma triennale dei lavori pubblici"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 37 del D. Lgs. 50/16 e ss.mm.ii., le centrali di committenza possono...:",
+    "options": [
+      "Come unico compito, solo stipulare accordi quadro ai quali le stazioni appaltanti qualificate possono ricorrere per l'aggiudicazione dei propri appalti",
+      "Aggiudicare appalti, ma non stipulare ed eseguire i contratti per conto delle amministrazioni aggiudicatrici e degli enti aggiudicatori",
+      "Gestire sistemi dinamici di acquisizione e mercati elettronici"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 32 co. 7 del D. Lgs. 50/16 e ss.mm.ii., nell'ambito delle procedure di affidamento, quando diventa efficace l'aggiudicazione dell'offerta?",
+    "options": [
+      "Nel momento in cui viene effettuata l'aggiudicazione stessa",
+      "Dopo la verifica del possesso dei prescritti requisiti",
+      "Tre giorni dopo l'aggiudicazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale tra le seguenti fasi della procedura ad evidenza pubblica viene per prima rispetto alle altre?",
+    "options": [
+      "Aggiudicazione e stipula del contratto",
+      "Scelta del contraente",
+      "Determinazione a contrattare"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'affidamento e l'esecuzione di lavori, servizi e fomiture devono avvenire secondo i principi enunciati all'art. 30 del Codice dei contratti pubblici. In applicazione di quale principio le stazioni appaltanti devono garantire la congruità dei propri atti rispetto al conseguimento dello scopo e dell'interesse pubblico cui sono preordinati?",
+    "options": [
+      "In applicazione del principio di efficacia",
+      "In applicazione del principio di non discriminazione e di parità di trattamento",
+      "In applicazione del principio di proporzionalità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se l'amministrazione aggiudicatrice decide di avvalersi della procedura ristretta di cui all'art. 61 del Codice dei contratti pubblici",
+    "options": [
+      "Qualsiasi operatore economico interessato può presentare un'offerta",
+      "Solo gli operatori individuati dall'amministrazione aggiudicatrice possono presentare un'offerta",
+      "Solo gli operatori qualificati possono presentare direttamente l'offerta senza previa domanda di partecipazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nell'espletamento delle procedure semplificate di cui all'art. 36, del Codice dei contratti pubblici, le stazioni appaltanti devono garantire, in applicazione del principio di trasparenza e pubblicità:",
+    "options": [
+      "L'esigenza di non dilatare la durata del procedimento di selezione del contraente in assenza di obiettive ragioni",
+      "La conoscibilità delle procedure di gara, nonché l'uso di strumenti che consentano un accesso rapido e agevole alle informazioni relative alle procedure",
+      "L'adeguatezza e idoneità dell'azione rispetto alle finalità e all'importo dell'affidamento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Con riferimento al procedimento ad evidenza pubblica, la determinazione a contrattare:",
+    "options": [
+      "Deve indicare solo i criteri di selezione del contraente",
+      "Non deve indicare gli elementi essenziali del futuro contratto",
+      "Deve indicare, tra l'altro, i criteri di selezione delle offerte"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nell'espletamento delle procedure semplificate di cui all'art. 36, del Codice dei contratti pubblici, le stazioni appaltanti devono garantire, in applicazione del principio di correttezza:",
+    "options": [
+      "Una condotta leale ed improntata a buona fede, sia nella fase di affidamento sia in quella di esecuzione",
+      "La congruità dei propri atti rispetto al conseguimento dello scopo e dell'interesse pubblico cui sono preordinati",
+      "L'esigenza di non dilatare la durata del procedimento di selezione del contraente in assenza di obiettive ragioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale dei citati sistemi di scelta del contraente qualsiasi operatore economico può presentare una domanda di partecipazione in risposta ad un avviso di indizione di una gara fomendo le informazioni richieste dall'amministrazione aggiudicatrice ai fini della selezione qualitativa?",
+    "options": [
+      "Procedura ristretta",
+      "Procedura aperta",
+      "Nessuna delle altre risposte è corretta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per offerta anomala negli appalti pubblici, a norma dell'articolo 97 del D.Lgs. 50/2016?",
+    "options": [
+      "Un'offerta che presenta un prezzo molto alto, rispetto alla media dei prezzi delle offerte concorrenti",
+      "Un'offerta inferiore a una percentuale prefissata dalla stazione appaltante",
+      "Un'offerta che appare anormalmente bassa sulla base di un giudizio tecnico di congruità, serietà, sostenibilità e realizzabilità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 48 comma 7 del D.Lgs. 50/2016, i consorzi sono tenuti a indicare, in sede di offerta, per quali consorziati ciascuno di essi concorre?",
+    "options": [
+      "Si, sempre",
+      "No, mai",
+      "Si, ma solo se ciò sia espressamente richiesto dal bando di gara"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 30 del D. Lgs. 50/16 e ss.mm.ii., l'affidamento e l'esecuzione di appalti e concessioni si svolge, tra l'altro, nel rispetto del principio...:",
+    "options": [
+      "Di rendimento",
+      "Di consapevolezza",
+      "Di correttezza"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 31 co.2 del D. Lgs. 50/16 e ss.mm.ii., per l'affidamento del contratto di lavori, servizi, forniture, nelle procedure in cui non vi sia bando o avviso con cui si indice la gara, dove è indicato il nominativo del RUP?",
+    "options": [
+      "Nella Gazzetta ufficiale della Repubblica italiana",
+      "Nell'invito a presentare un'offerta",
+      "Non è indicato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 32, co. 2, D. Lgs. 50/2016, nell'ambito della formazione di un contratto pubblico, cos'è la delibera a contrarre?",
+    "options": [
+      "L'allegato al contratto contenente le specifiche tecniche delle prestazioni che il contraente deve eseguire",
+      "Un accordo preliminare",
+      "L'atto con cui la P.A. manifesta la volontà di concludere il contratto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 32, comma 8, D.Lgs. 50/2016, entro quanto tempo dalla conclusione della gara si deve, di norma, stipulare il contratto con la P.A.?",
+    "options": [
+      "Entro 150 giorni da quando è divenuta efficace l'aggiudicazione",
+      "Entro 120 giorni da quando è divenuta efficace l'aggiudicazione",
+      "Entro 60 giorni da quando è divenuta efficace l'aggiudicazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La composizione della commissione giudicatrice rientra tra gli atti della procedura di gara che devono essere pubblicati nel sito web istituzionale della S.A. (art. 29, D. Lgs. 50/2016)?",
+    "options": [
+      "No, mai",
+      "Si, sempre",
+      "Esclusivamente se possono sussistere eventuali situazioni di incompatibilità"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale tra le seguenti attività non rientra tra le prerogative del RUP (art. 31 D.Lgs. 50/2016):",
+    "options": [
+      "Attribuire il punteggio, per quanto di sua competenza, alle specifiche delle relazioni tecniche presentate in fase di offerta",
+      "Curare, in ciascuna fase di attuazione degli interventi, il controllo sui livelli di prestazione",
+      "Formulare proposte e fomire dati e informazioni al fine della predisposizione del programma triennale dei lavori pubblici e dei relativi aggiornamenti annuali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In virtù dell'art.32, co. 9, del Codice dei contratti pubblici, cosa comporta la clausola \"stand still\"?",
+    "options": [
+      "II blocco definitivo della stipulazione del contratto",
+      "II blocco temporaneo della stipulazione del contratto",
+      "La nullità del contratto stipulato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 103 co. 3 del D. Lgs. 50/16 e ss.mm.ii., la mancata costituzione della garanzia definitiva determina...:",
+    "options": [
+      "La riforma dell'affidamento",
+      "La decadenza dell'affidamento",
+      "La revoca dell'affidamento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 36 co.1 del D. Lgs. 50/16 e ss.mm.ii., per i contratti sotto soglia, le stazioni appaltanti devono garantire il principio di rotazione degli inviti e degli affidamenti?",
+    "options": [
+      "No",
+      "Si",
+      "No, per i contratti sottosoglia si devono garantire solo i principi di economicità, efficacia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 111 del D. Lgs. 50/16 e ss.mm.ii., la sospensione può essere disposta dal RUP?",
+    "options": [
+      "No",
+      "Si, per ragioni di necessità o di pubblico interesse, tra cui l'interruzione di finanziamenti",
+      "Si, quando non è in accordo con il direttore dei lavori"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 32 co. 14 del D. Lgs. 50/16 e ss.mm.ii., il contratto è stipulato:",
+    "options": [
+      "Solo mediante corrispondenza per gli affidamenti di importo superiore a 40.000 euro",
+      "In forma pubblica amministrativa a cura dell'Ufficiale rogante della stazione appaltante",
+      "Solo mediante atto pubblico notarile informatico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Come si definiscono quei reati che possono essere commessi soltanto da soggetti che rivestono una particolare qualifica come, ad esempio il peculato (art. 314 c.p.) che può essere commesso solo da un pubblico ufficiale o da un incaricato di un pubblico servizio?",
+    "options": [
+      "Reati individuali",
+      "Reati comuni",
+      "Reati propri"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il pubblico dipendente può incorrere in responsabilità penale...",
+    "options": [
+      "Soltanto per reati propri",
+      "Sia per reati propri sia per reati comuni commessi in occasione dell'attività lavorativa",
+      "Solo per reati comuni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 317-bis c.p., qual è la pena accessoria prevista per il caso di condanna per reato di peculato?",
+    "options": [
+      "L'interdizione dai pubblici uffici",
+      "Incapacità di contrattare con le Pubbliche amministrazioni",
+      "Sospensione dagli uffici direttivi delle persone giuridiche e delle imprese"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il rifiuto e l'omissione d'ufficio, la concussione e l'abuso di ufficio sono:",
+    "options": [
+      "Delitti contro la personalità interna dello Stato",
+      "Delitti contro i diritti politici del cittadino",
+      "Delitti contro la Pubblica Amministrazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale dei seguenti è un delitto contro la p.a.?",
+    "options": [
+      "Corruzione di persona incaricata di un pubblico servizio",
+      "Commercio col nemico",
+      "Rapina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il pubblico ufficiale, che, nell'esercizio delle sue funzioni, forma, in tutto o in parte, un atto falso o altera un atto vero, commette il reato di....",
+    "options": [
+      "Falsità materiale commessa dal pubblico ufficiale in atti pubblici",
+      "Malversazione",
+      "Contraffazione del sigillo dello Stato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il d.lgs. 30 marzo 2001, n. 165, definisce amministrazioni pubbliche...",
+    "options": [
+      "Tutte le amministrazioni dello stato, ad eccezione degli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello stato ad ordinamento autonomo, le regioni, le province, i comuni, le comunità montane",
+      "Tutte le amministrazioni dello stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello stato ad ordinamento autonomo, le regioni, le province, i comuni, le comunità montane",
+      "Tutte le amministrazioni dello stato, ivi compresi gli istituti e scuole di ogni ordine e grado e le istituzioni educative, le aziende ed amministrazioni dello stato ad ordinamento autonomo, ad eccezione delle sole regioni, le province, i comuni, le comunità montane"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 55-quater del D. Lgs. 165/2001 e ss.mm.ii., la falsa attestazione della presenza in servizio determina:",
+    "options": [
+      "Il licenziamento senza preavviso disciplinare",
+      "La sospensione dal servizio con privazione della retribuzione fino a dieci giomi",
+      "La sospensione dal servizio con privazione della retribuzione fino a tre mesi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del D. Lgs. 165/2001 e ss.mm.ii. i dipendenti pubblici:",
+    "options": [
+      "Non possono svolgere incarichi retribuiti che non siano stati conferiti o previamente autorizzati dall'amministrazione di appartenenza",
+      "Possono svolgere solo incarichi non retribuiti senza previa autorizzazione dell'amministrazione di appartenenza",
+      "Non necessitano di alcuna autorizzazione da parte dell'amministrazione di appartenenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le falsita' documentali o dichiarative commesse ai fini o in occasione dell'instaurazione di rapporto di lavoro ovvero di progressione di carriera, determinano:",
+    "options": [
+      "L'applicazione della sanzione disciplinare della sospensione dal servizio con privazione della retribuzione fino ad un massimo di 30 giomi",
+      "II licenziamento in sede disciplinare, senza preavviso",
+      "La sanzione disciplinare del richiamo scritto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali fattispecie di responsabilita' sono ricomprese nella piu' generale categoria della responsabilita' patrimoniale dell'impiegato pubblico?",
+    "options": [
+      "Amministrativa, contabile e civile verso i terzi",
+      "Penale e disciplinare",
+      "Amministrativa e penale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da che cosa è regolata la materia del pubblico impiego?",
+    "options": [
+      "Da accordi fra l'impiegato e la pubblica amministrazione",
+      "Da apposite leggi dello Stato",
+      "Da accordi tra pubblica amministrazione e le organizzazioni sindacali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono le fonti normative dei doveri dei pubblici dipendenti?",
+    "options": [
+      "I regolamenti disciplinari dei singoli comparti della pubblica amministrazione e degli enti pubblici",
+      "Le disposizioni del codice penale",
+      "La Costituzione, le leggi sul pubblico impiego, i contratti collettivi, il Codice di comportamento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il rapporto di lavoro del dipendente pubblico con la pubblica amministrazione è disciplinato dalle norme",
+    "options": [
+      "Di diritto amministrativo",
+      "Di diritto privato",
+      "Di diritto pubblico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In base all'art. 51 del D.Lgs. n.165/01 lo Statuto dei Lavoratori si applica alle Pubbliche Amministrazioni:",
+    "options": [
+      "A prescindere dal numero dei dipendenti",
+      "Con personale superiore alle venti unità",
+      "Solo per i dipendenti con contratto a tempo determinato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le disposizioni del decreto legislativo 165 del 2001:",
+    "options": [
+      "Recano una riforma organica della disciplina del rapporto di lavoro dei dipendenti alle amministrazioni pubbliche",
+      "Creano la nuova carriera dirigenziale, articolandola in tre qualifiche gerarchicamente ordinate: primi dirigenti, dirigenti superiori e dirigenti generali",
+      "Disciplinano l'organizzazione degli uffici e i rapporti di lavoro e di impiego alle dipendenze delle amministrazioni pubbliche"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In materia di sanzioni disciplinari e responsabilità, il D.Lgs. n. 165/2001 dispone che:",
+    "options": [
+      "Prima dell'applicazione della sanzione disciplinare il dipendente deve essere sentito a sua difesa con l'eventuale assistenza di un procuratore ovvero di un rappresentante dell'associazione sindacale cui aderisce o conferisce mandato",
+      "Quando le sanzioni da applicare siano il rimprovero verbale, la censura e la multa, il capo della struttura in cui il dipendente lavora provvede direttamente",
+      "Ogni provvedimento disciplinare, compresi il rimprovero verbale e la censura, deve essere adottato previa tempestiva contestazione scritta dell'addebito al dipendente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 46 del D.Lgs. n. 165/2001, a quale soggetto spetta il compito di effettuare il monitoraggio sull'applicazione dei contratti collettivi nazionali e sulla contrattazione collettiva integrativa?",
+    "options": [
+      "Alla Banca d'Italia",
+      "All'ARAN",
+      "Al Ministro dell'Interno"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 63 del D.Lgs. n. 165/2001, le controversie relative ai rapporti di lavoro alle dipendenze delle pubbliche amministrazioni sono devolute:",
+    "options": [
+      "Al giudice ordinario, in funzione di giudice del lavoro, salvo quelle in materia di procedure concorsuali per l'assunzione, nonché, in sede di giurisdizione esclusiva, le controversie relative ai rapporti di lavoro del personale in regime di diritto pubblico",
+      "Tutte al giudice amministrativo",
+      "Al giudice contabile, comprese quelle in materia di procedure concorsuali per l'assunzione, nonché, in sede di giurisdizione esclusiva, le controversie relative ai rapporti di lavoro del personale in regime di diritto pubblico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel settore pubblico:",
+    "options": [
+      "Il potere disciplinare si caratterizza per la sua obbligatorietà",
+      "L'esercizio del potere disciplinare è a discrezionalità dell'ufficio disciplina",
+      "L'esercizio del potere disciplinare è a discrezionalità del dirigente pubblico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 35 D.lgs. 165/2001, le procedure di reclutamento del Personale della P.A., devono rispettare i principi di",
+    "options": [
+      "Trasparenza, decentramento, pubblicità",
+      "Imparzialità, economicità, sussidiarietà",
+      "Buon andamento, legalità e imparzialità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 54-bis del D. Lgs. 165/01 e ss.mm.ii., in tema di tutela del dipendente pubblico che segnala illeciti, a quale ente è comunicata l'eventuale adozione di misure ritenute ritorsive, nei confronti del segnalante?",
+    "options": [
+      "Ministero del Lavoro",
+      "ARAN",
+      "ANAC"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 53 co. 16-ter del D. Lgs. 165/01 e ss.mm.ii., i dipendenti che, negli ultimi tre anni di servizio, hanno esercitato poteri autoritativi o negoziali per conto delle pubbliche amministrazioni...:",
+    "options": [
+      "Non possono svolgere, nei tre anni successivi alla cessazione del rapporto di pubblico impiego, attività lavorativa o professionale presso i soggetti privati destinatari dell'attività della pubblica amministrazione attraverso i medesimi poteri",
+      "Non possono svolgere, nei due anni successivi alla cessazione del rapporto di pubblico impiego, attività lavorativa o professionale presso i soggetti privati destinatari dell'attività della pubblica amministrazione attraverso i medesimi poteri",
+      "Non possono svolgere, nei diciotto mesi successivi alla cessazione del rapporto di pubblico impiego, attività lavorativa o professionale presso i soggetti privati destinatari dell'attività della pubblica amministrazione attraverso i medesimi poteri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per dare corretta attuazione alle disposizioni previste dall'art. 57 del d.lgs. n. 165/2001 in materia di pari opportunità, le Pubbliche Amministrazioni, tra l'altro:",
+    "options": [
+      "Riservano alle donne, salva motivata impossibilità, almeno un terzo dei posti di componente delle commissioni di concorso",
+      "Non riservano alle donne alcuna percentuale nelle commissioni di concorso, al fine di non contravvenire alle disposizioni europee in materia di parità di genere",
+      "Riservano alle donne, salva motivata impossibilità, il cinquanta per cento dei posti in organico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 17 D. Lgs. 165/01 e ss.mm.ii., quali funzioni non spettano ai dirigenti?",
+    "options": [
+      "Curare i rapporti con gli Uffici dell'Unione Europea e degli organismi intemazionali nelle materie di competenza",
+      "Formulare proposte ed esprimere pareri",
+      "Curare l'attuazione dei progetti e delle gestioni ad essi assegnati compresa l'economicità nell'utilizzo dei servizi di rete, di interoperabilità e di supporto alla cooperazione applicativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra i seguenti, è un compito dell'Agenzia per la rappresentanza negoziale delle pubbliche amministrazioni (ARAN), a norma del D.Lgs. 165/2001?",
+    "options": [
+      "Curare l'attività di studio necessaria all'esercizio della contrattazione collettiva",
+      "Costituire i comitati di settore",
+      "Identificare i dirigenti che rappresentano legalmente le pubbliche amministrazioni nella contrattazione collettiva nazionale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 55-bis co. 6 del D. Lgs. 165/01 e ss.mm.ii., nel corso dell'istruttoria, l'ufficio per i procedimenti disciplinari può acquisire da altre P. A. dei documenti?",
+    "options": [
+      "Si, può acquisire informazioni e documenti rilevanti per la definizione del procedimento",
+      "No, può acquisire solo informazioni",
+      "Si, ma non può acquisire informazioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 11 del D. Lgs. 165/01 e ss.mm.ii., come sono chiamati gli uffici che provvedono alla ricerca ed analisi finalizzate alla formulazione di proposte alla propria amministrazione sugli aspetti organizzativi e logistici del rapporto con l'utenza?",
+    "options": [
+      "Uffici per la risoluzione del contenzioso",
+      "Uffici per le relazioni con il pubblico",
+      "Uffici di pubblica rappresentanza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La responsabilita' del dipendente pubblico puo' essere civile, penale, amministrativo-contabile e disciplinare. Quando è disciplinare?",
+    "options": [
+      "Se si cagiona alla P.A. un danno erariale diretto o indiretto",
+      "Se si violano gli obblighi di condotta sanciti direttamente dalla legge, dal codice di comportamento o dal contratto collettivo nazionale di lavoro",
+      "Quando si è tenuto un comportamento delittuoso con effetti pregiudizievoli per la pubblica amministrazione di appartenenza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "I funzionari e i dipendenti dello stato e degli enti pubblici sono direttamente responsabili degli atti compiuti in violazione di diritti?",
+    "options": [
+      "Si, in base all'art. 28 della Costituzione",
+      "Si, ma solo nel caso di responsabililta' civile",
+      "No, mai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è l'elemento che caratterizza la responsabilita' amministrativa del dipendente pubblico?",
+    "options": [
+      "L'esistenza di un rapporto di servizio",
+      "La qualifica di funzionario",
+      "Nessuno, la responsabilita' amministrativa non differisce dalla comune responsabilita' civile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Di chi può avvalersi la Corte dei conti, ai sensi dell'art. 48 del D.Lgs. 165/2001, al fine verificare periodicamente gli andamenti della spesa per il personale delle Pubbliche Amministrazioni?",
+    "options": [
+      "Oltre che dei servizi di controllo interno o nuclei di valutazione anche di esperti designati a sua richiesta da Amministrazione ed Enti Pubblici",
+      "Non può avvalersi di nessuno, in quanto trattasi di ispezioni soggette a segreto di stato",
+      "Esclusivamente di esperti esterni designati dal Ministro dell'Interno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo quanto disposto dal D.Lgs. 165/2001, i contratti e accordi collettivi nazionali sono pubblicati:",
+    "options": [
+      "Nella Gazzetta Ufficiale della Repubblica italiana, oltre che sul sito dell'ARAN e delle amministrazioni interessate",
+      "Nel Bollettino Regionale, oltre che sul sito delle amministrazioni interessate",
+      "Su tutti i quotidiani a diffusione nazionale, in via esclusiva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo quanto riportato dal D.Lgs. 165/2001, in base a quali criteri le amministrazioni pubbliche definiscono le linee fondamentali di organizzazione degli uffici?",
+    "options": [
+      "Secondo principi generali fissati da disposizioni di legge e, sulla base dei medesimi, mediante atti organizzativi secondo i rispettivi ordinamenti",
+      "Secondo principi particolari fissati da disposizioni personali e, sulla base dei medesimi, mediante atti organizzativi secondo i rispettivi ordinamenti",
+      "Secondo principi generali fissati da disposizioni di legge prescindendo dai rispettivi ordinamenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "II D.Lgs. 165/2001, in materia di costo del lavoro dispone che, le Amministrazioni Pubbliche adottano tutte le misure affinché...",
+    "options": [
+      "...la spesa per il proprio personale sia proporzionata e condizionata",
+      "...la spesa per il proprio personale sia segreta",
+      "...La spesa per il proprio personale si evidente, certa e prevedibile nella evoluzione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo quanto previsto dal D.Lgs. 165/2001, cosa fanno le Amministrazioni Pubbliche per assicurare la conoscenza di normative, servizi e strutture?",
+    "options": [
+      "Pianificano ed affidano iniziative di utilità pubblica e privata",
+      "Propongono al Ministero dello sviluppo economico progetti e programmi di comunicazione istituzionale",
+      "Programmano ed attuano iniziative di comunicazione di pubblica utilità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 35 del D.Lgs. 165/2001, l'assunzione nelle Amministrazioni Pubbliche avviene con contratto individuale di lavoro,...",
+    "options": [
+      "...Esclusivamente tramite avviamento degli iscritti nelle liste di collocamento",
+      "...Tramite procedure selettive o mediante avviamento degli iscritti nelle liste di collocamento",
+      "...In via prioritaria ed esclusiva tramite le procedure di stabilizzazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 3 co. 6 del DPR 62/13 e ss.mm.ii., in che modo il dipendente pubblico dimostra la sua massima disponibilità e collaborazione nei rapporti con le altre pubbliche amministrazioni?",
+    "options": [
+      "Assicurando lo scambio e la trasmissione delle informazioni e dei dati in qualsiasi forma anche telematica, nel rispetto della normativa vigente",
+      "Astenendosi da azioni che possano produrre effetti negativi sui destinatari dell'azione amministrativa",
+      "Assicurando la propria disponibilità per ogni chiarimento in merito agli atti della propria amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 del DPR 62/13 e ss.mm.ii., il codice di comportamento dei dipendenti pubblici definisce i doveri minimi di...:",
+    "options": [
+      "diligenza, lealtà, imparzialità e buona condotta che i pubblici dipendenti sono tenuti ad osservare",
+      "diligenza, lealtà, imparzialità e buona condotta che solo i dirigenti sono tenuti ad osservare",
+      "diligenza, imparzialità e buona condotta che lavoratori del terzo settore sono tenuti ad osservare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 co. 4 del DPR 62/13 e ss.mm.ii., il dipendente pubblico può anticipare l'esito di decisioni o azioni proprie o altrui inerenti all'ufficio?",
+    "options": [
+      "No, al di fuori dei casi espressamente consentiti",
+      "Si, sempre",
+      "Si, se lo ritiene utile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 3 co. 6 del DPR 62/13 e ss.mm.ii., il dipendente dimostra la massima disponibilità e collaborazione nei rapporti con le altre pubbliche amministrazioni...:",
+    "options": [
+      "assicurando lo scambio e la trasmissione delle informazioni e dei dati in qualsiasi forma",
+      "assicurando la necessaria neutralità e terzietà finanziaria",
+      "garantendo l'imparzialità e la trasparenza dell'azione amministrativa, anche attraverso l'istituzione di apposite strutture per l'informazione ai cittadini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 7 del DPR 62/13 e ss.mm.ii., nei confronti di chi NON si estrinseca l'obbligo di astensione del dipendente?",
+    "options": [
+      "Affini entro il terzo grado",
+      "Soggetti od organizzazioni con cui egli o il coniuge abbia causa pendente o grave inimicizia",
+      "Coniuge o conviventi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 co. 1 del DPR 62/13 e ss.mm.ii., nelle operazioni da svolgersi e nella trattazione delle pratiche il dipendente...:",
+    "options": [
+      "rispetta, salvo diverse esigenze di servizio o diverso ordine di priorità stabilito dall'amministrazione, l'ordine cronologico e non rifiuta prestazioni a cui sia tenuto con motivazioni generiche",
+      "non rispetta l'ordine cronologico",
+      "può rifiutare con motivazione generica le prestazioni a cui sia tenuto e affida ad ogni pratica un ordine di priorità in base a criteri soggettivi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 co. 5 del DPR 62/13 e ss.mm.ii., il dipendente, qualora non sia competente a provvedere in merito alla richiesta, cura....",
+    "options": [
+      "sulla base delle disposizioni interne, che la stessa venga inoltrata all'ufficio competente della medesima amministrazione",
+      "sulla base delle disposizioni del ministero, che la stessa venga inoltrata all'ufficio competente della medesima amministrazione",
+      "che la pratica sia elaborata dal dipendente apparentemente più idoneo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 co. 5 del DPR 62/13 e ss.mm.ii., cosa deve fare il dipendente pubblico al quale sia richiesto oralmente di fomire informazioni non accessibili tutelate dal segreto di ufficio o dalle disposizioni in materia di dati personali?",
+    "options": [
+      "Informare il richiedente dei motivi che ostano all'accoglimento della richiesta",
+      "Chiedere al richiedente di presentare la richiesta per iscritto",
+      "Fornire le informazioni richieste"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 co. 1 del DPR 62/13 e ss.mm.ii., il dipendente in rapporto con il pubblico si fa riconoscere...:",
+    "options": [
+      "attraverso l'esposizione in modo visibile del badge od altro supporto identificativo messo a disposizione dall'amministrazione",
+      "dall'addetto al riconoscimento presso il front office",
+      "attraverso accordi previamente intercorsi con l'interlocutore via posta elettronica certificata"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 16 co. 3 del DPR 62/13 e ss.mm.ii., la comminazione del licenziamento senza preavviso resta ferma per i casi già previsti dalla legge?",
+    "options": [
+      "Si, e dai regolamenti e dai contratti collettivi",
+      "No, solo nei casi in cui è prevista dai regolamenti",
+      "No, solo nei casi in cui è prevista dai contratti collettivi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 17 co. 1 del DPR 62/13 e ss.mm.ii., l'amministrazione contestualmente alla sottoscrizione del contratto di lavoro consegna e fa sottoscrivere ai nuovi assunti...:",
+    "options": [
+      "copia del codice di comportamento",
+      "la dichiarazione di fedeltà alla legge dello Stato italiano",
+      "copia del contratto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 16 co. 2 del DPR 62/13 e ss.mm.ii., le sanzioni applicabili sono quelle previste dalla legge, dai regolamenti e dai contratti collettivi...:",
+    "options": [
+      "incluse quelle espulsive che possono essere applicate esclusivamente nei casi, da valutare in relazione alla gravità, di violazione delle disposizioni previste dalla norma",
+      "ad esclusione di quelle espulsive",
+      "incluse quelle espulsive che possono essere applicate ogni qual volta lo si ritenga necessario"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 3 co. 2 del DPR 62/13 e ss.mm.ii., il dipendente pubblico agisce in posizione di...:",
+    "options": [
+      "indipendenza e imparzialità",
+      "giudizio e professionalità",
+      "professionalità e terzietà"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 8 del DPR 62/13 e ss.mm.ii., in tema di prevenzione della corruzione, il dipendente pubblico:",
+    "options": [
+      "fermo restando l'obbligo di denuncia all'autorità giudiziaria, segnala al proprio superiore gerarchico eventuali situazioni di illecito nell'amministrazione di cui sia venuto a conoscenza",
+      "segnala ai propri colleghi eventuali situazioni di illecito nell'amministrazione",
+      "ha l'obbligo di controllare il lavoro dei colleghi e segnalare al proprio superiore gerarchico qualsiasi minimo sospetto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 4 co. 2 del DPR 62/13 e ss.mm.ii., il dipendente pubblico accetta regali o altre utilità?",
+    "options": [
+      "No, salvo quelli d'uso di modico valore effettuati occasionalmente nell'ambito delle normali relazioni di cortesia e nell'ambito delle consuetudini internazionali",
+      "Si, sempre",
+      "Si, previa autorizzazione del proprio responsabile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 9 co. 2 del DPR 62/13 e ss.mm.ii., la tracciabilità dei processi decisionali adottati dai dipendenti pubblici...:",
+    "options": [
+      "deve essere, in tutti i casi, garantita attraverso un adeguato supporto documentale, che consenta in ogni momento la replicabilità",
+      "non è consentita, salvo nei casi espressamente previsti dalla legge",
+      "deve essere, in tutti i casi, garantita attraverso un adeguato supporto documentale, senza consentime la replicabilità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 3 co. 6 del DPR 62/13 e ss.mm.ii., il dipendente deve dimostrare la massima disponibilità e collaborazione nei rapporti con le altre pubbliche amministrazioni?",
+    "options": [
+      "Si",
+      "E' facoltativo",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 co. 3 del DPR 62/13 e ss.mm.ii., il dipendente pubblico opera al fine di assicurare la continuità del servizio?",
+    "options": [
+      "Si",
+      "No",
+      "E' facoltativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 16 co. 2 del DPR 62/13 e ss.mm.ii., ai fini della determinazione del tipo e dell'entità della sanzione disciplinare concretamente applicabile, la violazione è valutata...",
+    "options": [
+      "in ogni singolo caso con riguardo alla gravità del comportamento e all'entità del pregiudizio, anche morale, derivatone al decoro o al prestigio dell'amministrazione di appartenenza",
+      "in ogni singolo caso con riguardo alla gravità del comportamento e all'entità del pregiudizio, escluso quello morale, derivatone al decoro o al prestigio dell'amministrazione di appartenenza",
+      "esclusivamente verificando il pregiudizio morale derivatone al decoro o al prestigio dell'amministrazione di appartenenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 co. 1 del DPR 62/13 e ss.mm.ii., il Codice di comportamento si applica...:",
+    "options": [
+      "ai dipendenti delle pubbliche amministrazioni",
+      "a tutti i lavoratori dipendenti, pubblici e privati",
+      "solo ai collaboratori occasionali della P.A."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo il Codice di Comportamento dei dipendenti pubblici DPR 62/2013, quando il dipendente pubblico deve comunicare al proprio responsabile eventuali conflitti di interesse?",
+    "options": [
+      "Mai",
+      "Per rapporti di collaborazione con soggetti privati, diretti e indiretti avuti negli ultimi tre anni",
+      "Solo per rapporti diretti avuti con soggetti privati"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In base all'art. 54 del d.lgs. 165 del 2001, è corretto affermare che il Codice di comportamento dei dipendenti delle P.A. contiene anche disposizioni che riguardano la qualita' dei servizi che devono essere resi ai cittadini?",
+    "options": [
+      "No, il codice contiene solamente norme comportamentali di carattere generale riferite ai pubblici dipendenti",
+      "No. II Codice contiene principalmente norme volte alla prevenzione dei fenomeni di corruzione",
+      "Si. II Codice è definito anche in funzione delle misure di organizzazione necessarie per garantire la qualita' dei servizi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La violazione dei doveri sanciti dal Codice di comportamento dei dipendenti pubblici (D.P.R. n. 62/13):",
+    "options": [
+      "Non rileva ai fini della della responsabilita' amministrativa e contabile",
+      "E' fonte unicamente di responsabilita' disciplinare",
+      "E' fonte di responsabilita' disciplinare, nonchè rilevante ai fini della responsabilita' civile, amministrativa e contabile"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 8 d.p.r. 62/2013, il dipendente che venga a conoscenza di eventuali situazioni d'illecito nell'amministrazione...",
+    "options": [
+      "Ha esclusivamente un obbligo di denuncia all'autorita' giudiziaria",
+      "Ha un obbligo di denuncia all'autorita' giudiziaria e di segnalazione al proprio superiore gerarchico",
+      "Ha esclusivamente un obbligo di segnalazione nei confronti del superiore gerarchico che provvedera' alla denuncia all'autorita' giudiziaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 1 del Codice di comportamento dei dipendenti pubblici (DPR n. 62/2013), il Codice di Comportamento dei dipendenti pubblici (DPR n. 62/2013) definisce...",
+    "options": [
+      "I doveri minimi di diligenza, lealtà, imparzialità e buona condotta che esclusivamente i dirigenti pubblici sono tenuti ad osservare",
+      "I diritti minimi di diligenza, lealtà, imparzialità e buona condotta che i pubblici dipendenti possono vantare nei confronti dei loro superiori",
+      "I doveri minimi di diligenza, lealtà, imparzialità e buona condotta che i pubblici dipendenti sono tenuti ad osservare"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi del Codice di comportamento dei dipendenti pubblici (DPR n. 62/2013), i dirigenti...",
+    "options": [
+      "Non devono dare comunicazione di tutti i rapporti, diretti o indiretti, di collaborazione avuti con soggetti privati negli ultimi quattro anni e in qualunque modo retribuiti, tranne di quelli con i quali sussistano ancora rapporti finanziari",
+      "Possono prendere decisioni o svolgere attività inerenti le sue mansioni in situazioni di conflitto, anche potenziale, di interessi di qualsiasi natura, nel caso in cui non siano patrimoniali",
+      "Hanno il dovere, nei limiti delle loro possibilità, di evitare che si diffondano notizie non rispondenti al vero sull'organizzazione, sull'attività e sugli altri dipendenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il dirigente, ai sensi dell'art. 13 del Codice di comportamento dei dipendenti pubblici (DPR n. 62/2013), svolge...",
+    "options": [
+      "La valutazione del personale assegnato alla struttura cui è preposto con imparzialità e rispettando le indicazioni ed i tempi prescritti",
+      "La valutazione di tutto il personale, anche quello non assegnato alla propria struttura, con imparzialità e autonomia",
+      "La valutazione del personale assegnato alla struttura cui è preposto con discrezionalità e senza obbligo di rispettare indicazioni o tempi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 13 del Codice di comportamento dei dipendenti pubblici (DPR n. 62/2013), negli enti privi di dirigenza a chi si applicano le disposizioni particolari per i dirigenti?",
+    "options": [
+      "Non essendoci dirigenti le disposizioni non sono applicabili",
+      "Ai funzionari responsabili di posizione organizzativa",
+      "Ad un funzionario designato dall'Autorità Nazionale Anticorruzione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 7 d.p.r. 62/2013, il dipendente si astiene dal partecipare all'adozione di decisioni o ad attività che possano coinvolgere...",
+    "options": [
+      "Esclusivamente i propri interessi",
+      "Interessi propri, ovvero di suoi parenti, affini entro il quarto grado, del coniuge o di conviventi, oppure di persone con le quali abbia rapporti di frequentazione abituale",
+      "Interessi propri, ovvero di suoi parenti, affini entro il secondo grado, del coniuge o di conviventi, oppure di persone con le quali abbia rapporti di frequentazione abituale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In applicazione di quale dovere previsto dal Codice di comportamento dei dipendenti pubblici, nei rapporti privati, comprese le relazioni extra lavorative con pubblici ufficiali nell'esercizio delle loro funzioni, il dipendente non sfrutta, né menziona la posizione che ricopre per ottenere utilità che non gli spettino e non assume nessun altro comportamento che possa nuocere all'immagine della p.a.?",
+    "options": [
+      "Comunicazione degli interessi finanziari e conflitti d'interesse",
+      "Dovere di diligenza",
+      "Comportamento nei rapporti privati"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 11 co. 1 del DPR 62/13 e ss.mm.ii., per quanto riguarda il comportamento in servizio, il dipendente pubblico, fermo restando il rispetto dei termini del procedimento amministrativo:",
+    "options": [
+      "Salvo giustificato motivo, non ritarda né adotta comportamenti tali da far ricadere su altri dipendenti il compimento di attività o l'adozione di decisioni di propria spettanza",
+      "Può delegare ai sottoposti il compimento di attività o l'adozione di decisioni di propria spettanza con l'accordo di questi ultimi",
+      "Può far ricadere sui sottoposti il compimento di attività ma non l'adozione di decisioni di propria spettanza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 co. 2 del DPR 62/13 e ss.mm.ii., il dipendente...:",
+    "options": [
+      "Non conclude, per conto dell'Amministrazione, contratti di appalto, fornitura, servizio, finanziamento o assicurazione con imprese con le quali abbia stipulato contratti a titolo privato o ricevuto altre utilità nel biennio precedente",
+      "Non conclude, per conto dell'Amministrazione, contratti di appalto, fornitura, servizio, finanziamento o assicurazione con imprese con le quali abbia stipulato contratti a titolo privato o ricevuto altre utilità nel quinquennio precedente",
+      "Non conclude, per conto dell'Amministrazione, contratti di appalto, fornitura, servizio, finanziamento o assicurazione con imprese con le quali abbia stipulato contratti a titolo privato o ricevuto altre utilità nel triennio precedente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 13 del Codice di comportamento dei dipendenti pubblici (DPR n. 62/2013), negli enti privi di dirigenza a chi si applicano le disposizioni particolari per i dirigenti?",
+    "options": [
+      "Ai funzionari responsabili di posizione organizzativa",
+      "Non essendoci dirigenti le disposizioni non sono applicabili",
+      "Ad un funzionario designato dall'Autorità Nazionale Anticorruzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del Codice di comportamento dei dipendenti pubblici (DPR n. 62/2013), sull'applicazione dei codici dovranno vigilare...",
+    "options": [
+      "I dirigenti, le strutture di controllo interno e gli uffici di disciplina",
+      "I Funzionari del Ministero del Lavoro e delle politiche Sociali",
+      "I delegati della Corte dei Contabili"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 9 co. 2 del DPR 62/13 e ss.mm.ii., la tracciabilità dei processi decisionali adottati dai dipendenti pubblici deve essere garantita?",
+    "options": [
+      "Si, in tutti i casi, attraverso un adeguato supporto documentale, che consenta in ogni momento la replicabilità",
+      "Si, ma solo in determinati casi individuati dal regolamento interno",
+      "Si, in tutti i casi, attraverso un adeguato supporto documentale, ma non è consentita la replicabilità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 co. 5 del DPR 62/13 e ss.mm.ii., il dipendente che riceva, da persone fisiche o giuridiche partecipanti a procedure negoziali nelle quali sia parte l'Amministrazione, rimostranze orali o scritte sull'operato dell'ufficio, chi informa?",
+    "options": [
+      "Informa immediatamente, di regola per iscritto, il proprio superiore gerarchico o funzionale",
+      "Informa immediatamente, solamente oralmente, il proprio superiore gerarchico o funzionale",
+      "Condivide l'accaduto con i colleghi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 16 co. 2 del DPR 62/13 e ss.mm.ii., come viene valutata una violazione ai fini della determinazione del tipo e dell'entità della sanzione disciplinare?",
+    "options": [
+      "In ogni singolo caso con riguardo alla gravità del comportamento e all'entità del pregiudizio, anche morale, derivatone al decoro o al prestigio dell'Amministrazione di appartenenza",
+      "In modo oggettivo, indipendentemente dalla gravità del comportamento e dall'entità del pregiudizio derivatone al decoro o al prestigio dell'Amministrazione di appartenenza",
+      "Esclusivamente considerando il danno economico in capo all'Amministrazione anche non di appartenenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base al Codice di comportamento dei dipendenti pubblici tra i doveri che i pubblici dipendenti sono tenuti ad osservare rientrano anche i doveri minimi di lealtà?",
+    "options": [
+      "Si",
+      "No, rientrano solo i doveri minimi di buona condotta e imparzialità",
+      "Si, insieme ai doveri minimi di efficienza e trasparenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 17 co. 1 del DPR 62/13 e ss.mm.ii., le amministrazioni danno la più ampia diffusione al Codice di comportamento dei dipendenti pubblici...:",
+    "options": [
+      "Pubblicandolo sul proprio sito internet istituzionale e nella rete intranet, ma è esclusa la trasmissione tramite e-mail a tutti i propri dipendenti e ai titolari di contratti di consulenza o collaborazione",
+      "Pubblicandolo sul proprio sito internet istituzionale e nella rete intranet, nonché trasmettendolo tramite e-mail a tutti i propri dipendenti e ai titolari di contratti di consulenza o collaborazione",
+      "Pubblicandolo facoltativamente sul proprio sito internet ed inviandolo obbligatoriamente tramite pec-mail"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi del DPR 62/13 e ss.mm.ii., per quello che riguarda il comportamento in servizio, il dipendente pubblico, fermo restando il rispetto dei termini del procedimento amministrativo:",
+    "options": [
+      "Adotta comportamenti tali da far ricadere su altri dipendenti il compimento di attività",
+      "Deve adottare comportamenti tali da far ricadere su altri dipendenti l'adozione di decisioni di propria spettanza",
+      "Non adotta comportamenti tali da far ricadere su altri dipendenti il compimento di attività o l'adozione di decisioni di propria spettanza"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 11 co. 3 del DPR 62/13 e ss.mm.ii., il dipendente pubblico utilizza il materiale o le attrezzature di cui dispone per motivi di ufficio:",
+    "options": [
+      "Nel rispetto dei vincoli posti dall'amministrazione",
+      "Nella maniera che ritiene più idonea",
+      "Secondo l'esigenza dell'ufficio e quella personale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 11 co.3 del DPR 62/13 e ss.mm.ii, il dipendente pubblico può trasportare terzi se sta utilizzando i mezzi di trasporto dell'amministrazione a sua disposizione?",
+    "options": [
+      "Si, se non ha a disposizione mezzi propri",
+      "No, se non per motivi di ufficio",
+      "Solo i colleghi anche per motivi non inerenti al lavoro"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In base all'art. 3 co.6 del DPR 62/13 e ss.mm.ii., il dipendente dimostra la massima disponibilità e collaborazione nei rapporti con le altre pubbliche amministrazioni?",
+    "options": [
+      "No",
+      "Si, assicurando lo scambio e la trasmissione delle informazioni e dei dati solo in forma cartacea",
+      "Si, assicurando lo scambio e la trasmissione delle informazioni e dei dati in qualsiasi forma anche telematica"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 12 co. 2 del DPR 62/13 e ss.mm.ii., il dipendente nel rapportarsi con il pubblico:",
+    "options": [
+      "Può effettuare dichiarazioni pubbliche offensive nei confronti dell'amministrazione in qualsiasi momento",
+      "Deve adeguare il suo linguaggio a quello dell'interlocutore",
+      "Deve astenersi da dichiarazioni pubbliche offensive nei confronti dell'amministrazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In base all'art. 10 del DPR 62/13 e ss.mm.ii., in che modo deve comportarsi il dipendente pubblico nei rapporti privati?",
+    "options": [
+      "Può sfruttare la posizione che ricopre nell'amministrazione a suo favore per migliorare la propria posizione socio-economica",
+      "Deve menzionare le informazioni di cui è a conoscenza per la posizione che ricopre nell'amministrazione al fine di avvantaggiare i suoi cari",
+      "Non deve sfruttare, né menzionare la posizione che ricopre nell'amministrazione per ottenere utilità che non gli spettino"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In base all'art.8 del DPR 62/13 e ss.mm.ii., il dipendente in che modo collabora con il responsabile?",
+    "options": [
+      "Segnalando ai propri colleghi eventuali situazioni di illecito, fermo restando l'obbligo di denuncia all'autorità giudiziaria",
+      "Segnalando al proprio superiore gerarchico eventuali situazioni di illecito, fermo restando l'obbligo di denuncia all'autorità giudiziaria",
+      "Non segnalando al proprio superiore gerarchico eventuali situazioni di illecito, fermo restando l'obbligo di denuncia all'autorità giudiziari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La violazione dei doveri contenuti nel codice di comportamento, compresi quelli relativi all'attuazione del Piano di prevenzione della corruzione:",
+    "options": [
+      "E' rilevante anche ai fini della responsabilita' civile, amministrativa e contabile ogniqualvolta le stesse responsabilita' siano collegate alla violazione di doveri, obblighi, leggi o regolamenti",
+      "E' fonte unicamente di responsabilita' disciplinare",
+      "Non ha rilevanza dal punto di vista disciplinare ma e' determinante per quanto riguarda la responsabilita' amministrativa e contabile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 8 d.p.r. 62/2013, il dipendente che venga a conoscenza di eventuali situazioni d'illecito nell'amministrazione...",
+    "options": [
+      "Ha esclusivamente un obbligo di denuncia all'autorita' giudiziaria",
+      "Ha un obbligo di denuncia all'autorita' giudiziaria e di segnalazione al proprio superiore gerarchico",
+      "Ha esclusivamente un obbligo di segnalazione nei confronti del superiore gerarchico che provvedera' alla denuncia all'autorita' giudiziaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "II DPR n. 62/2013 definisce, ai fini dell'articolo 54 del D.Lgs. n. 165/2001, i doveri...",
+    "options": [
+      "......Massimi di diligenza, lealtà, imparzialità e buona condotta che i pubblici dipendenti sono tenuti ad osservare",
+      "...Minimi di diligenza, lealtà, imparzialità e buona condotta che i pubblici dipendenti sono tenuti ad osservare",
+      "...Di diligenza, lealtà, imparzialità e buona condotta che moralmente i professionisti sono tenuti ad osservare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 10 del Codice di comportamento dei dipendenti pubblici (DPR n. 62/2013), il dipendente nei rapporti privati:",
+    "options": [
+      "Non sfrutta e non menziona la posizione che ricopre nell'Amministrazione per ottenere utilità che non gli spettino",
+      "Può menzionare la posizione che ricopre nell'Amministrazione per ottenere utilità che non gli spettino",
+      "Può sfruttare la posizione che ricopre nell'Amministrazione per ottenere utilità che non gli spettino"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa s'intende per \"immedesimazione organica\"?",
+    "options": [
+      "Il dipendente e l'amministrazione cui lo stesso appartiene possono essere chiamati in solido a rispondere dei danni causati a terzi dalla condotta del primo posta in essere nell'ambito delle proprie attribuzioni e comunque rivolta alla realizzazione dei fini istituzionali dell'ente di appartenenza",
+      "Soltanto l'amministrazione può essere chiamata a rispondere del danno causato a terzi dalla condotta del dipendente posta in essere nell'ambito delle proprie attribuzioni e comunque rivolta alla realizzazione dei fini istituzionali dell'ente di appartenenza",
+      "Soltanto il dipendente pubblico può essere chiamato a rispondere del danno causato a terzi dalla sua condotta posta in essere nell'ambito delle proprie attribuzioni e comunque rivolta alla realizzazione dei fini istituzionali dell'ente di appartenenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'art. 19, VI comma, del D.Lgs. n. 165/2001 prescrive che gli incarichi di funzione dirigenziale nelle amministrazioni dello Stato, anche ad ordinamento autonomo, possono essere conferiti, da ciascuna amministrazione:",
+    "options": [
+      "entro il limite del 10 per cento della dotazione organica dei dirigenti appartenenti alla prima fascia dei ruoli e dell'8 per cento della dotazione organica di quelli appartenenti alla seconda fascia, a tempo determinato ai soggetti indicati dal presente comma",
+      "entro il limite del 15 per cento della dotazione organica dei dirigenti appartenenti alla prima fascia dei ruoli e del 9 per cento della dotazione organica di quelli appartenenti alla seconda fascia, a tempo determinato ai soggetti indicati dal presente comma",
+      "entro il limite dell'8 per cento della dotazione organica dei dirigenti appartenenti alla prima fascia dei ruoli e dell'5 per cento della dotazione organica di quelli appartenenti alla seconda fascia, a tempo determinato ai soggetti indicati dal presente comma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo quanto disposto dall'art. 19, VI comma, del D.Lgs. n. 165/2001, quale è la durata degli incarichi di direzione degli uffici di livello dirigenziale?",
+    "options": [
+      "Cinque anni",
+      "Due anni",
+      "Tre anni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In materia di organizzazione di uffici e fabbisogni di personale, alla luce dell'art. 6, II comma, del D.Lgs. n. 165/2001, quale articolo del presente decreto si applica se sono individuate eccedenze di personale?",
+    "options": [
+      "L'art. 33",
+      "L'art. 30",
+      "L'art. 35"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'art. 6, II comma, del D.Lgs. n. 165/2001 dispone che le amministrazioni pubbliche adottano il piano triennale dei fabbisogni di personale, in coerenza con la pianificazione pluriennale delle attività e della performance e con le linee di indirizzo, al fine di:",
+    "options": [
+      "ottimizzare l'impiego delle risorse pubbliche disponibili e perseguire obiettivi di performance organizzativa, efficienza, economicità e qualità dei servizi ai cittadini",
+      "assicurare un contenimento della spesa complessiva per il personale, diretta e indiretta, entro i vincoli di finanza pubblica",
+      "perseguire finalità di razionalizzazione del costo del lavoro pubblico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 11 d.p.r. 62/2013, il dipendente utilizza i mezzi di trasporto dell'amministrazione a sua disposizione...",
+    "options": [
+      "Soltanto per lo svolgimento dei compiti d'ufficio astenendosi dal trasportare terzi, se non per motivi d'ufficio",
+      "Soltanto per lo svolgimento dei compiti d'ufficio astenendosi, in ogni caso, dal trasportare terzi",
+      "Anche per fini personali, purchè leciti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del D.P.R. N. 62 del 2013, il dipendente si astiene dal prendere decisioni o svolgere attività inerenti alle sue mansioni in situazioni di:",
+    "options": [
+      "conflitto, anche potenziale, di interessi con interessi personali, del coniuge, di conviventi, di parenti, di affini entro il secondo grado. II conflitto può riguardare interessi di qualsiasi natura, anche non patrimoniali, come quelli derivanti dall'intento di voler assecondare pressioni politiche, sindacali o dei superiori gerarchici",
+      "conflitto di interessi effettivo e reale rispetto ad interessi personali, del coniuge, di conviventi, di parenti, di affini entro il terzo grado. II conflitto può riguardare interessi di qualsiasi natura, anche non patrimoniali, come quelli derivanti dall'intento di voler assecondare pressioni politiche, sindacali o dei superiori gerarchici",
+      "conflitto di interessi, reale effettivo o anche potenziale, rispetto ad interessi personali, del coniuge, di parenti, di affini entro il quarto grado. Il conflitto deve riguardare interessi di natura patrimoniale o finanziaria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 d.p.r. 62/2013, il dipendente fomisce le spiegazioni che gli siano richieste in ordine al comportamento proprio e di altri dipendenti dell'ufficio dei quali ha la responsabilità od il coordinamento?",
+    "options": [
+      "Si, fatte salve le norme sul segreto d'ufficio",
+      "Si, sempre",
+      "No, mai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 d.p.r. 62/2013, nella conclusione di accordi e negozi e nella stipulazione di contratti per conto dell'amministrazione, nonché nella fase di esecuzione degli stessi, il dipendente...",
+    "options": [
+      "Non ricorre a mediazione di terzi, salvo che l'amministrazione abbia deciso di ricorrere all'attività di intermediazione professionale",
+      "Deve ricorrere a mediazione di terzi",
+      "Può ricorrere a mediazione di terzi"
+    ],
+    "correctIndex": 0
+  }
+]

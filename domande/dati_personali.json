@@ -1,0 +1,146 @@
+[
+  {
+    "N.": 1,
+    "Domanda": "Ai sensi dell'art. 5 del Regolamento (UE) 2016/679, i dati personali sono...",
+    "A": "Trattati in modo lecito, corretto e trasparente nei confronti dell'interessato, ma solo se i dati sono gestiti da una pubblica amministrazione",
+    "B": "Trattati in modo lecito, corretto e trasparente nei confronti dell'interessato, ma solo se i dati sono gestiti da un soggetto privato",
+    "C": "Trattati in modo lecito, corretto e trasparente nei confronti dell'interessato",
+    "es": "C"
+  },
+  {
+    "N.": 2,
+    "Domanda": "Ai sensi dell'art. 4 del D.Lgs. n. 196/2003, cosa si intende per <dato personale>?",
+    "A": "Qualunque informazione relativa a una persona fisica, giuridica, ente od associazione, identificati o identificabili, anche indirettamente, mediante riferimento a qualsiasi altra informazione, ivi compreso un numero di identificazione personale",
+    "B": "Qualsiasi complesso di informazioni su privati, riportati su uno o più supporti e dislocate in uno o più siti, organizzato secondo una pluralità di criteri determinati tali da facilitarne il trattamento",
+    "C": "Qualunque informazione relativa a una persona giuridica, ente od associazione, identificati o identificabili, anche indirettamente, mediante riferimento a qualsiasi altra informazione, ivi compreso un numero di identificazione personale",
+    "es": "C"
+  },
+  {
+    "N.": 3,
+    "Domanda": "In materia di trattamento di dati personali, in ipotesi di violazioni amministrative commesse dal titolare, per l'applicazione delle sanzioni del trattamento, chi è competente ad irrogare la relativa sanzione?",
+    "A": "Il T.A.R. territorialmente competente",
+    "B": "Il Tribunale penale competente per territorio",
+    "C": "Il Garante per la protezione dei dati personali",
+    "es": "C"
+  },
+  {
+    "N.": 4,
+    "Domanda": "Per Trattamento di dati personali si intende:",
+    "A": "Qualunque operazione o complesso di operazioni, effettuate sui dati personali, anche senza l'ausilio di strumenti elettronici",
+    "B": "L'elaborazione di tabulati e report effettuata con l'ausilio di strumenti elettronici a partire da una banca dati contenente dati personali",
+    "C": "La conservazione di dati personali nei locali dell'azienda",
+    "es": "A"
+  },
+  {
+    "N.": 5,
+    "Domanda": "A norma del D.Lgs. n. 196/2003, l'informativa da dare all'interessato può non comprendere gli elementi la cui conoscenza può ostacolare in concreto l'espletamento, da parte di un soggetto pubblico, di funzioni ispettive o di controllo?",
+    "A": "Si, ma solo se già noti all'interessato",
+    "B": "No",
+    "C": "Si, se svolte per finalità di difesa o sicurezza dello Stato oppure di prevenzione, accertamento o repressione di reati",
+    "es": "C"
+  },
+  {
+    "N.": 6,
+    "Domanda": "A norma di quanto dispone l'art. 20 del D.Lgs. n. 196/2003 il trattamento dei dati sensibili da parte di soggetti pubblici è consentito...",
+    "A": "Solo se autorizzato da espressa disposizione di legge nella quale sono specificati i tipi di dati che possono essere trattati e di operazioni eseguibili e le finalità di rilevante interesse pubblico perseguite",
+    "B": "Solo previa autorizzazione dell'organo di vertice dell'amministrazione",
+    "C": "Per lo svolgimento delle funzioni istituzionali",
+    "es": "A"
+  },
+  {
+    "N.": 7,
+    "Domanda": "A norma dell'articolo 21 del Regolamento UE 2016/679 (GDPR), se l'interessato si oppone al trattamento dei dati personali che lo riguardano, il titolare del trattamento si può sempre astenere dal trattare ulteriormente i dati?",
+    "A": "Si, sempre",
+    "B": "No, per questo fine occorre che il titolare del trattamento dimostri la prevalenza del motivo per cui si oppone ovvero il trattamento rispetto al diritto al trattamento del titolare",
+    "C": "No, se dimostra l'esistenza di motivi legittimi cogenti per procedere al trattamento",
+    "es": "C"
+  },
+  {
+    "N.": 8,
+    "Domanda": "Secondo il GdPR il Responsabile del trattamento dei dati:",
+    "A": "E' competente in via esclusiva per la predisposizione delle misure tecniche e organizzative adeguate per garantire, ed essere in grado di dimostrare, che il trattamento è effettuato conformemente alle norme sulla protezione dei dati",
+    "B": "Coincide sempre con la figura del Titolare del trattamento",
+    "C": "E' la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che tratta dati personali per conto del titolare del trattamento",
+    "es": "C"
+  },
+  {
+    "N.": 9,
+    "Domanda": "Secondo l'art. 7 GdPR, è sempre necessario che il titolare del trattamento sia in grado di dimostrare che l'interessato ha prestato il proprio consenso al trattamento dei propri dati personali?",
+    "A": "Solo se si tratta di dati sensibili",
+    "B": "Si, in ogni caso",
+    "C": "E' necessario solo se il trattamento è basato sul consenso",
+    "es": "C"
+  },
+  {
+    "N.": 10,
+    "Domanda": "Secondo il regolamento UE sulla Privacy (GDPR), il titolare del trattamento...",
+    "A": "E' la persona fisica o giuridica, l'autorita' pubblica, il servizio o altro organismo che tratta dati personali per conto del titolare del trattamento",
+    "B": "E' la persona fisica o giuridica, l'autorità pubblica, il servizio o altro organismo che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali",
+    "C": "Deve essere una persona fisica che, singolarmente o insieme ad altri, determina le finalità e i mezzi del trattamento di dati personali",
+    "es": "B"
+  },
+  {
+    "N.": 11,
+    "Domanda": "La visione degli atti del procedimento incontra limiti nei diritti di privacy?",
+    "A": "No",
+    "B": "Solo in casi particolari, da valutare volta per volta",
+    "C": "Si, quando riguarda esclusivamente le persone fisiche",
+    "es": "B"
+  },
+  {
+    "N.": 12,
+    "Domanda": "Qualora il trattamento di dati personali riguardi dati registrati in apposite banche di dati gestite con strumenti elettronici e relative a comportamenti illeciti o fraudolenti il titolare deve notificare al Garante detto trattamento?",
+    "A": "Si, lo prevede espressamente l'art. 37 del D.Lgs. n. 196/2003",
+    "B": "No, mai",
+    "C": "No, salvo rare eccezioni",
+    "es": "A"
+  },
+  {
+    "N.": 13,
+    "Domanda": "Ai sensi dell'art. 26 del D.Lgs. n. 196/2003, il trattamento dei dati sensibili da parte di soggetti pubblici...",
+    "A": "È consentito sempre",
+    "B": "Non è consentito anche se autorizzato da espressa disposizione di legge nella quale sono specificati i tipi di dati che possono essere trattati e di operazioni eseguibili e le finalità di rilevante interesse pubblico perseguite",
+    "C": "È consentito solo se autorizzato da espressa disposizione di legge nella quale sono specificati i tipi di dati che possono essere trattati e di operazioni eseguibili e le finalità di rilevante interesse pubblico perseguite",
+    "es": "C"
+  },
+  {
+    "N.": 14,
+    "Domanda": "In materia di protezione dei dati personali con quali strumenti è consentita la tutela dei diritti dell'interessato?",
+    "A": "Sia la presentazione del ricorso al garante che la proposizione di ricorso dinanzi all'autorità giudiziaria sono utilizzati parti per il medesimo oggetto",
+    "B": "Devono essere aditi dalle parti per il medesimo atto l'autorità giudiziaria sia il garante",
+    "C": "Possono essere fatti valere dinanzi all'autorità giudiziaria o con ricorso al garante",
+    "es": "C"
+  },
+  {
+    "N.": 15,
+    "Domanda": "Ai sensi dell'art. 16 del Regolamento UE 679/16 (GDPR) il titolare del trattamento deve procedere senza ingiustificato ritardo:",
+    "A": "Alla rettifica dei dati personali inesatti riguardanti l'interessato",
+    "B": "Alla rettifica dei propri dati personali",
+    "C": "Alla correzione dei dati incompleti",
+    "es": "A"
+  },
+  {
+    "N.": 16,
+    "Domanda": "A cosa definisce l'art. 28 del Regolamento UE n. 679/16 (GDPR), ch mette in atto misure tecniche e organizzative adeguate per garantire la sicurezza del trattamento?",
+    "A": "Il solo titolare del trattamento",
+    "B": "Il solo responsabile del trattamento",
+    "C": "Il titolare del trattamento e il responsabile del trattamento",
+    "es": "C"
+  },
+  {
+    "N.": 17,
+    "Domanda": "In materia di privacy cos'è l'informativa?",
+    "A": "Secondo il GdPR si tratta dello strumento utilizzato da un'azienda per informare l'interessato, tra le altre cose, delle finalità del trattamento cui sono destinati i suoi dati, nonchè la base giuridica del trattamento",
+    "B": "Secondo il GdPR si tratta del documento che ogni azienda deve far firmare per iscritto a tutti i dipendenti",
+    "C": "Secondo il GdPR si tratta del documento nel quale sono elencati gli strumenti informatici e le misure organizzative adottati dall'azienda per la tutela dei dati personali",
+    "es": "A"
+  },
+  {
+    "N.": 18,
+    "Domanda": "Nei casi in cui norme di legge o di regolamento prevedano la pubblicazione di atti o documenti, le pubbliche amministrazioni provvedono a rendere non intelligibili:",
+    "A": "Tutti i dati personal",
+    "B": "Esclusivamente i dati genetici e biometrici di cui all'art. 9 del GDPR",
+    "C": "I dati personali non pertinenti o, se sensibili o giudiziari, non indispensabili rispetto alle specifiche finalità di trasparenza della pubblicazione",
+    "es": "C"
+  }
+]

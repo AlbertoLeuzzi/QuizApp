@@ -1,0 +1,2268 @@
+[
+  {
+    "question": "Oltre all'osservazione della personalità del condannato quale è l'altro requisito richiesto per l'ammissione alla misura dell'affidamento in prova al servizio sociale?",
+    "options": [
+      "Pena detentiva o restrittiva della libertà non superiore a sei anni",
+      "Pena detentiva o restrittiva della libertà non superiore a tre anni",
+      "Pena detentiva o restrittiva della libertà non superiore a quattro anni",
+      "Pena detentiva della libertà non superiore a tre anni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale è lo strumento tipico dell'assistente sociale, finalizzato a conoscere la persona e le condizioni in cui vive il minore valutando l'esistenza di rischi o di danni per il suo sviluppo psicofisico?",
+    "options": [
+      "Test psicoattitudinali",
+      "Indagine psico-sociale",
+      "Test proiettivi",
+      "Indagine ipotetica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il colloquio di servizio sociale è:",
+    "options": [
+      "uno strumento occasionale che, non necessariamente, avviene all'interno di un contesto relazionale ed è condotto dall'assistente sociale il quale ha una preparazione che lo definisce uno specialista delle dinamiche",
+      "una forma di comunicazione in cui una persona fa domande su un certo argomento cercando di cogliere sfumature sulla psiche",
+      "uno strumento relazionale che, con degli obiettivi, avviene all'interno di un contesto istituzionale, è condotto dall'utente all'assistente sociale",
+      "uno strumento in cui si dialoga liberamente, per assicurare la sua soddisfazione nell'ambito del welfare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Durante il colloquio un soggetto ha una propensione a focalizzare le proprie esperienze percettive sul mondo e il tentativo di controllarle; questo atteggiamento è riconducibile a un meccanismo di difesa, ovvero:",
+    "options": [
+      "l'intellettualizzazione",
+      "la proiezione",
+      "il ritiro emotivo",
+      "l'autismo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La distinzione tra memoria episodica e memoria semantica si deve a:",
+    "options": [
+      "Ebbinghaus",
+      "Galton",
+      "Binet",
+      "Tulving"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Per metacognizione si intende:",
+    "options": [
+      "l'insieme delle conoscenze fattuali sul mondo",
+      "la coscienza di sé",
+      "lo studio dei processi cognitivi",
+      "la conoscenza e il controllo del proprio funzionamento cognitivo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Per \"devianza minorile\" si intende la condizione di:",
+    "options": [
+      "giovani emarginati",
+      "giovani svantaggiati",
+      "giovani indisciplinati",
+      "giovani che sono a rischio di violazione delle norme sociali"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Col termine Coping si fa riferimento:",
+    "options": [
+      "alle pratiche dell'intervento sociale basato su modelli stereotipati",
+      "all'attività atta a determinare, tramite l'adattamento e l'adeguatezza ed eliminare istruzioni operative, specifiche richieste ed altri requisiti funzionali per verificare l'applicazione",
+      "agli sforzi cognitivi e comportamentali, compiuti da un individuo, per \"fronteggiare\" situazioni stressanti che comportano una sfida, una minaccia, perdita o sfida per il soggetto stesso",
+      "all'accompagnamento di un individuo, di un gruppo o un'intera, da parte di uno specialista nel cambiamento. è una metodologia di collaborazione, finalizzata al raggiungimento di obiettivi personali, relazionali, professionali"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il cosiddetto approccio/concertativo-partecipato\" alla progettazione di interventi nel sociale:",
+    "options": [
+      "si focalizza sull'attivazione di reti di relazioni e risorse mobilitate (anche finanziamenti) all'approvazione del progetto, anche con un'alleanza con il committente",
+      "non è più usato poiché tende ad annichilire l'autonomia, rendendolo sterile di bisogni",
+      "parte dall'assunto che la conoscenza non è un'osservazione della realtà esterna, ma una costruzione di un osservatore",
+      "pone l'enfasi su aspetti connessi all'utilizzo di programmi molto strutturati e percorsi predefiniti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Un soggetto che durante il colloquio cerca sempre di offrire qualche cosa all'assistente sociale in modo tale da far restare il colloquio sul piano della concretezza, probabilmente ha attivato una \"misura di sicurezza\" definito:",
+    "options": [
+      "Di introiezione",
+      "Di seduzione",
+      "Di ribellione",
+      "Delfinzione"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Il ragionamento deduttivo:",
+    "options": [
+      "parte da premesse assunte come vere",
+      "porta a conclusioni certe e generalizzabili",
+      "si basa sull'osservazione di fatti oggettivi",
+      "va dal particolare al generale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con il termine anamnesi s'intende:",
+    "options": [
+      "La storia di un caso successiva alla cura",
+      "Una prima ipotesi diagnostica",
+      "La ricostruzione del passato",
+      "La previsione sull'evoluzione del fenomeno"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La capacità di \"mettersi nei panni dell'altro\" per comprendere cosa sta provando è:",
+    "options": [
+      "l'empatia",
+      "la sinergia",
+      "la condivisione",
+      "l'identificazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La relazione scritta di servizio sociale:",
+    "options": [
+      "è il primo approccio diretto con il cliente/utente",
+      "è la sintesi dei contatti che l'assistente sociale ha con istituzioni esterne",
+      "è la semplice registrazione dell'andamento dei colloqui con l'utente",
+      "permette di trasmettere informazioni inerenti l'intervento di aiuto ad altri enti, oppure internamente per fini valutativi e amministrativi; gestionali"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "L'osservazione partecipante è:",
+    "options": [
+      "una registrazione differita dei dati",
+      "una tecnica d'indagine condotta fin dalla condizione, da parte dei soggetti, dei momenti di vita non coincidenti con la popolazione osservata",
+      "un metodo comparativo per studiare le caratteristiche di vari gruppi di individui",
+      "una tecnica d'indagine condotta fin dalla condizione, da parte dei soggetti, dei momenti di vita coincidenti con la popolazione osservata"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Cosa si intende in sociologia per insieme di norme e valori che distinguono un gruppo sociale dalla società dalla quale si trova il gruppo?",
+    "options": [
+      "Opposizione",
+      "Sottocultura",
+      "Relativismo culturale",
+      "Adattamento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La tendenza di un soggetto durante un colloquio a non percepire percezioni, desideri o pensieri spiacevoli può essere indicativa di quale meccanismo di difesa?",
+    "options": [
+      "La negazione",
+      "La regressione",
+      "La proiezione",
+      "La sublimazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa significa \"outsider\", in sociologia?",
+    "options": [
+      "Un individuo disagiato",
+      "Il deviante rispetto alle norme di un gruppo",
+      "Un individuo diverso dal gruppo",
+      "Un individuo integrato in un gruppo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il concetto di \"rinforzo\" deriva da una branca particolare della psicologia chiamata:",
+    "options": [
+      "associazionismo",
+      "cognitivismo",
+      "comportamentismo",
+      "relativismo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La segnalazione all'autorità pubblica della madre in abbandono di un minore può provenire:",
+    "options": [
+      "solo dal Procuratore della Repubblica presso il Tribunale per i Minorenni",
+      "in modo esclusivo da un suo parente di massimo secondo grado di parentela",
+      "da chiunque",
+      "esclusivamente da un assistente sociale iscritto all'albo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Come viene definito il processo che si realizza quando un servizio socio-educativo si rivolge costantemente e pubblicamente, ad esempio, ad un gruppo di \"ragazzi difficili\"?",
+    "options": [
+      "Stigmatizzazione",
+      "Biasimo",
+      "Etichettamento",
+      "Focalizzazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo la teoria di Edwards sulle motivazioni, gli individui agiscono in base:",
+    "options": [
+      "Al bisogno di potere",
+      "Al valore dell'azione socialmente percepito",
+      "Alle aspettative personali",
+      "All'utilità in termini oggettivi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le informazioni immagazzinate nella memoria semantica si riferiscono a:",
+    "options": [
+      "Informazioni relative ad eventi accaduti in un dato contesto",
+      "Informazioni autobiografiche",
+      "Conoscenze decontestualizzate il cui momento di acquisizione può essere indefinito",
+      "Conoscenze di accadimenti significativi per il soggetto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L' \"intellettualizzazione\" è prevalentemente utilizzata:",
+    "options": [
+      "dal bambino",
+      "dall'adolescente",
+      "dall'anziano",
+      "dall'adulto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In quanto meccanismo di difesa il \"ritiro emotivo\" consiste in un processo per cui:",
+    "options": [
+      "si aboliscono dalla coscienza desideri e pensieri dolorosi",
+      "si rivolgono atteggiamenti socialmente accettabili ma che sono il contrario della spinta reale",
+      "si pretende da se stessi e dagli altri di più elevati standard di performance",
+      "si determina una responsività ridotta agli stimoli emozionali del mondo esterno"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Per «processo di aiuto» si intende l'insieme di tutte le azioni che l'assistente sociale mette in atto per migliorare, superare o rimuovere una problematica o bisogno di una famiglia o di una persona singola, di una famiglia o di una comunità. Quale fase fonda il \"processo di aiuto\"?",
+    "options": [
+      "Esclusivamente su basi teoriche (teorie e scienze)",
+      "Su basi etiche (valori e principi), teoriche (teorie e scienze) e tecniche (metodologia e organizzazione)",
+      "Esclusivamente su basi tecniche (metodologia e organizzazione)",
+      "Esclusivamente su basi etiche (valori e principi)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nell'esercizio della sua professione, l'assistente sociale si può trovare a dover scegliere tra più opzioni. Il colloquio che ha come obiettivo principale quello di aiutare la persona a determinare notizie che, nel caso dei soggetti adulti, sono relative ai servizi disponibili, quali prestazioni erogabili e da chi; e, nel caso dei minori, sono insorte delle difficoltà ulteriori da ambo le parti, ma nel contempo si è interessati sono venuti fuori idee su come affrontare la situazione, sono detti:",
+    "options": [
+      "colloquio di monitoraggio/di verifica in itinere",
+      "colloquio informativo di segretariato sociale",
+      "colloquio di prima accoglienza/di primo contatto",
+      "colloquio per la valutazione conclusiva (assessment)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La psicologia analitica è una teoria psicologica basata sull'analisi dei dati del profondo elaborata da:",
+    "options": [
+      "S. Freud",
+      "M. Klein",
+      "C. G. Jung",
+      "J.Piaget"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Come si chiama in sociologia il conformarsi ai modi di vita di una popolazione con una frequenza in una data popolazione?",
+    "options": [
+      "Assimilazione",
+      "Acculturazione",
+      "Normalità",
+      "Civiltà"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La cosiddetta \"popolazione bersaglio\" è costituita:",
+    "options": [
+      "da immigrati",
+      "da una popolazione colpita da una calamità naturale",
+      "dalle persone oggetto di processi di disaggregazione sociale",
+      "dai beneficiari di un intervento di ricerca sociale"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quale tra le seguenti non è una fase dello sviluppo del bambino teorizzata da Freud?",
+    "options": [
+      "Fase di latenza",
+      "Fase genitale",
+      "Fase onirica",
+      "Fase orale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nella \"dinamica maltrattante\" l'assenza di empatia/cura nei nuclei familiari dove si genera violenza sui figli si creano, oltre, segnale del disagio familiare:",
+    "options": [
+      "si esprime attraverso un conflitto coniugale in cui il figlio è un semplice spettatore",
+      "è l'assenza di uno dei due genitori",
+      "è una situazione in cui il figlio è alleato con un genitore ed esprime ostilità verso l'altro",
+      "è l'assenza di entrambi i genitori"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se entrambi i genitori sono morti o per altra causa non possono esercitare la potestà dei genitori:",
+    "options": [
+      "si apre la tutela in favore del minore",
+      "il minore può essere adottato",
+      "si provvede ad inserire il minore in una casa famiglia",
+      "il minore viene dichiarato in stato di abbandono"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel nostro ordinamento, in riferimento a situazioni connotate da deficit che possono originare forme di abuso o maltrattamento di minori, l'ordinamento considera il ricorso ai genitori i doveri verso i figli come un:",
+    "options": [
+      "Educazione maltrattante",
+      "cattiva educazione",
+      "uso improprio di correzione",
+      "abuso dei mezzi di correzione o disciplina"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "L'operazione con cui il soggetto attribuisce all'altro ciò che rifiuta o non vuole riconoscere in se stesso (pensieri, sentimenti, desideri, tratti di personalità), è il meccanismo di difesa chiamato:",
+    "options": [
+      "proiezione",
+      "proibizione",
+      "identificazione",
+      "negazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa è il Terzo Settore?",
+    "options": [
+      "L'insieme di organismi privati che forniscono beni e servizi alla collettività, senza scopi di lucro",
+      "Un gruppo di Stati membri che cooperano per lo sviluppo economico del territorio",
+      "L'insieme delle comunità di immigrati di diverse nazionalità",
+      "L'insieme dei servizi pubblici sociali e sanitari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La famiglia in cui vi è un vincolo di sangue fra genitori e figli, non accompagnato dal rapporto di matrimonio tra i genitori è detta:",
+    "options": [
+      "famiglia in senso ampio",
+      "famiglia allargata",
+      "famiglia naturale",
+      "famiglia affidataria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cos'è il Problem Solving?",
+    "options": [
+      "Si tratta del Codice deontologico dell'Assistente Sociale",
+      "La sequenza di fasi metodologiche e la conseguente individuazione degli strumenti e dei mezzi necessari per portare a termine il trattamento assistenziale",
+      "Un metodo centrato sull'apprendimento di abilità e competenze per la soluzione del problema, nel medio e lungo periodo, nell'ottica del Servizio Sociale",
+      "La successione di fasi che portano, aventi le loro uniche radici in un pensiero più profondo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nell'esercizio della sua professione, l'assistente sociale si può trovare a dover scegliere tra più opzioni. Il colloquio che ha come obiettivo principale quello di aiutare la persona a determinare notizie che, nel caso dei soggetti adulti, sono relative ai servizi disponibili, quali prestazioni erogabili e da chi; e, nel caso dei minori, se sono insorte delle difficoltà ulteriori da ambo le parti, ma nel contempo si è interessati sono venuti fuori idee su come affrontare la situazione, sono detti:",
+    "options": [
+      "colloqui di segretariato sociale",
+      "colloqui di monitoraggio/di verifica in itinere",
+      "colloqui di prima accoglienza/di primo contatto",
+      "colloqui di valutazione (o di assessment)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nell'ambito del servizio sociale, con l'accezione progetto si fa riferimento:",
+    "options": [
+      "al documento che contiene le linee specifiche di sviluppo",
+      "alla sequenza dei compiti da svolgere assegnati d'autorità",
+      "al documento che indica le linee generali di sviluppo",
+      "all'insieme delle azioni da intraprendere per raggiungere uno specifico obiettivo, in un periodo di tempo definito e con le risorse prefissate"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Barnes definisce una famiglia \"ricostituita\" quando:",
+    "options": [
+      "due adulti formano una nuova famiglia in cui uno (o loro) o ambedue portano un bambino avuto da una precedente relazione",
+      "alla morte dei genitori (o due o più) i figli decidono di vivere insieme formando un nucleo familiare di fatto",
+      "una coppia senza figli si riunisce dopo un precedente divorzio e adotta un bambino",
+      "una coppia con o senza figli si riunisce dopo il precedente divorzio, contraendo un nuovo matrimonio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale approccio, in psicologia, ha come oggetto di studio il comportamento osservabile?",
+    "options": [
+      "l'empirismo",
+      "il behaviorismo",
+      "il pragmatismo",
+      "la gestalt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In materia di \"patologie\" della famiglia, la famiglia scismatica è:",
+    "options": [
+      "quella in cui i ruoli sono in competizione, non vi è un chiaro disegno gerarchico, ciascun genitore tende a screditare l'altro agli occhi dei figli, cercando di...",
+      "quella famiglia in cui i genitori si alleano per affrontare la separazione dai figli",
+      "quella famiglia immatura, rigida e iperprotettiva che non consente ai suoi membri di esprimere libere opinioni",
+      "quella famiglia in cui prevale una barriera dell'isolamento. I membri tendono a convivere evitando ogni confronto e di confrontarsi tra loro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il complesso di poteri e doveri attribuito ai genitori a protezione e tutela dei figli minori viene definito:",
+    "options": [
+      "potestà genitoriale",
+      "affidamento familiare",
+      "curatela",
+      "tutela"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando si parla di \"universale culturale\" cosa si intende?",
+    "options": [
+      "Un elemento comune a tutte le culture",
+      "Un Melting Pot",
+      "Un elemento simile in diverse parti del mondo",
+      "Il processo di negoziazione, attraverso cui i significati sono condivisi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è il processo di comparazione sociale?",
+    "options": [
+      "Il processo secondo cui si arriva a conoscere se stessi confrontando i propri comportamenti con quelli altrui",
+      "Il processo secondo cui dal confronto nascono le istituzioni sociali",
+      "Il processo secondo cui il gruppo di riferimento con cui ci si opera il confronto rimane invariato nel tempo",
+      "Un processo in cui gli altri, il principale strumento di confronto è il proprio punto di vista."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra le seguenti, è definita la disciplina che studia l'uso che le persone fanno dello spazio nello spazio nell'organizzazione sociale e come questo si riflette nelle relazioni interpersonali?",
+    "options": [
+      "La psicologia ambientale",
+      "La psicoanalisi",
+      "La psicolinguistica",
+      "La prossemica"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Secondo le teorie costruttiviste della memoria i ricordi:",
+    "options": [
+      "possono subire trasformazioni solo in fase di codifica",
+      "possono essere elaborati una volta che approdano alla memoria a lungo termine",
+      "non solo vengono codificati in modo personale dal soggetto ma subiscono ulteriori modifiche nel corso del tempo",
+      "non possono essere ristabiliti dal soggetto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Le informazioni immagazzinate nella memoria procedurale a cosa si riferiscono?",
+    "options": [
+      "A procedure concettuali",
+      "Ad una sequenza di azioni apprese",
+      "Al significato delle parole",
+      "A procedure cognitive"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il termine \"care\" cosa connota?",
+    "options": [
+      "L'intervento terapeutico nell'ambito medico",
+      "Il prendersi cura con sollecitudine e premura, attività di aiuto e sostegno dei bisogni di una persona",
+      "L'attuazione di un trattamento riabilitativo",
+      "La predisposizione di un programma riabilitativo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'iter metodologico prevede in sequenza le fasi di:",
+    "options": [
+      "Verifica del programma e valutazione del piano d'intervento",
+      "Analisi della situazione, valutazione sociale e programmazione e realizzazione del piano d'intervento",
+      "Valutazione sociale del problema, analisi della situazione, realizzazione del piano d'intervento",
+      "Verifica del programma, analisi della situazione e realizzazione del piano d'intervento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale tra le seguenti indica una \"forma di prepotenza giovanile in cui la vittima è posta in una condizione di asimmetrico rispetto al suo aggressore, sperimenta una situazione di inferiorità fisica e psicologica, dovuta all'impossibilità di sfuggire per prolungati di tempo\"?",
+    "options": [
+      "Acting-out",
+      "Bullismo",
+      "Overpowering",
+      "Empowerment"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Perché vi sia organizzazione dell'identità, occorre un processo di adattamento, un processo che comporta il collegamento tra accomodamento e assimilazione. Chi ha introdotto questi concetti in psicologia?",
+    "options": [
+      "M. Mead",
+      "S. Freud",
+      "C. G. Jung",
+      "J. Piaget"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Il modello di attaccamento secondo Bowlby si basa sull'idea che il bisogno più importante del processo di crescita e di sviluppo del bambino per il benessere, in che modo si manifesta?",
+    "options": [
+      "Acquisendo una costruttiva capacità di relazione, centrata sull'empatia",
+      "Verso quelle persone che, nell'ascolto, gratificano i suoi bisogni, soprattutto bisogni",
+      "Dopo aver acquisito la consapevolezza non solo del proprio io, ma anche quello degli altri",
+      "Acquisendo sicurezza e fiducia nelle istituzioni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale tra i seguenti bisogni è inserito nel gradino più basso della famosa piramide di Maslow?",
+    "options": [
+      "Bisogno d'affetto",
+      "Bisogni di autorealizzazione",
+      "Bisogno di stima",
+      "Bisogno di autocontrollo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Disparità di trattamento rispetto agli altri, opinione precostituita e di giustificazione per la diversità di trattamento sono un fenomeno caratterizzano da un punto di vista sociologico?",
+    "options": [
+      "Il pregiudizio",
+      "La discriminazione",
+      "L'emblema",
+      "Lo stereotipo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il Test di Rorschach è un test:",
+    "options": [
+      "che misura il quoziente intellettivo",
+      "proiettivo",
+      "attitudinale",
+      "di autovalutazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cos'è l'anomia?",
+    "options": [
+      "la mancanza di identità",
+      "la mancanza di regole",
+      "l'assenza di norme",
+      "Una teoria psicologica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Com'è detta una delle tecniche per mantenere l'informazione nella memoria a breve termine?",
+    "options": [
+      "Ripetizione o rehearsal",
+      "Pre-selezione",
+      "Previsione o priming",
+      "Rievocazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le informazioni immagazzinate nella memoria episodica a cosa si riferiscono?",
+    "options": [
+      "Eventi accaduti in un dato contesto",
+      "Periodi della vita passata, solitamente l'infanzia",
+      "Significati di parole",
+      "Conoscenze fattuali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La zona di sicurezza entro la quale un estraneo può addentrarsi, durante il colloquio, nel nostro spazio senza creare disagio com'è definita?",
+    "options": [
+      "Distanza pubblica",
+      "Distanza sociale",
+      "Distanza personale",
+      "Distanza intima"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo le teorie psicologiche, detto Mosaici, che cosa dipende la capacità di assimilazione selettiva delle caratteristiche presenti nel gruppo?",
+    "options": [
+      "Dai contrasti",
+      "Dal livello di desiderabilità sociale presente nel gruppo",
+      "Dalla formazione di sottogruppi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In linea con la teoria della dissonanza cognitiva di Leon Festinger, l'individuo in stato di disagio emotivo e a fronte di suoi comportamenti contradditori, a quale processo ricorre al fine di risolvere i suoi problemi?",
+    "options": [
+      "Al fine di ristabilire una situazione interiore di coerenza cognitiva",
+      "Al fine di ristabilire un ordine mentale distinguendo tra soluzioni e problemi",
+      "Al fine di ripristinare uno stato di pace interiore dettato da una situazione esterna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è, tra gli altri, un sintomo della sindrome del Burnout ?",
+    "options": [
+      "La depersonalizzazione degli utenti del servizio",
+      "La percezione dell'utente come nemico",
+      "La percezione dei colleghi di lavoro come nemici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo Jean Piaget, i rapporti tra genitori e figli sono più democratici rispetto a quelli che si riscontrano all'interno dei gruppi dei pari ?",
+    "options": [
+      "No, sono meno democratici",
+      "Si",
+      "Presentano il medesimo grado di democraticità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per lo psicanalista Donald Winnicott che cos'è la creatività ?",
+    "options": [
+      "Una funzione dell'attività dell'individuo",
+      "Una funzione dell'attività estroversa dell'individuo",
+      "Una funzione dell'attività introversa dell'individuo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo U. Bronfenbrenner, quanti sono i sistemi strutturali (noti e distinti tra sé, ma non inclusi negli altri) che influiscono sullo sviluppo delle persone ?",
+    "options": [
+      "Quattro",
+      "Tre",
+      "Cinque"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è la caratteristica che contraddistingue l'osservatore che effettua una osservazione di tipo \"naturalistico\" ?",
+    "options": [
+      "L'osservatore resta praticamente nascosto",
+      "L'osservatore interferisce con la realtà osservata",
+      "L'osservatore è parte integrante della realtà che osserva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale caso è possibile la scelta di un nucleo familiare ristretto rispetto a quello ordinario ?",
+    "options": [
+      "Nel caso di prestazione agevolate di natura sociosanitaria",
+      "Mai",
+      "Nel caso di prestazioni per il diritto allo studio universitario o accademico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sono da considerarsi patologici i meccanismi di difesa predisposti dal soggetto per far fronte ai propri conflitti interni ?",
+    "options": [
+      "Sì, ma solo potenzialmente",
+      "Sì, sempre e concretamente",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei suoi studi sui meccanismi della mente, Edward De Bono come ha definito i metodi più idonei alla risoluzione dei problemi della persona umana ?",
+    "options": [
+      "Apparentemente illogici",
+      "Tendenzialmente dialettici",
+      "Apparentemente razionali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono le caratteristiche-base dell'intelligenza emotiva ?",
+    "options": [
+      "Consapevolezza di sé, dominio di sé, empatia, abilità sociale",
+      "Consapevolezza di sé, motivazione, empatia, abilità sociale",
+      "Dominio di sé, motivazione, abilità sociale, determinazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando i meccanismi di difesa, predisposti dal soggetto per far fronte ai propri conflitti interni, diventano effettivamente un fenomeno patologico ?",
+    "options": [
+      "Quando essi determinano la perdita del contatto con la realtà",
+      "Quando essi determinano l'indebolimento dei cinque sensi",
+      "Quando essi determinano la perdita della memoria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Di che cosa si intende per \"empatia\" ?",
+    "options": [
+      "La capacità di porsi nella situazione di un'altra persona",
+      "La capacità di interpretare lo stato d'animo di una persona attraverso i suoi gesti",
+      "La capacità di interpretare lo stato d'animo di una persona attraverso alcune espressioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Di norma, che cosa si intende per disabilità ?",
+    "options": [
+      "Riduzione dell'abilità dovuta a patologia",
+      "Cessazione della mobilità dovuta a patologia",
+      "Condizionamento di una patologia sulla normale vita"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che concetto è incluso dalla definizione di \"pensiero divergente\" proposta da J. P. Guilford ?",
+    "options": [
+      "La produzione di possibili soluzioni alternative ad una data questione",
+      "L'individuazione di un'unica soluzione per più questioni",
+      "L'individuazione di una soluzione logicamente razionale per più questioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con \"behaviours\" si intende:",
+    "options": [
+      "I Comportamenti",
+      "le Attitudini",
+      "le Competenze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa si intende per \"cinesica\" ?",
+    "options": [
+      "Lo studio sul piano psicologico della mimica e della gestualità",
+      "Lo studio sul piano psicologico dei significati delle diverse tonalità di voce",
+      "Lo studio sul piano psicologico dei significati delle posture assunte dalle gambe nell'atto di stare seduti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quante categorie si distinguono le dialettali del linguaggio?",
+    "options": [
+      "4",
+      "3",
+      "5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale fase dell'evoluzione interna alle dinamiche dei gruppi dei pari ?",
+    "options": [
+      "Tre",
+      "Cinque",
+      "Quattro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che concetto si spiega attraverso la teoria dell'inerzia sociale, elaborata da B. Latanè e M. Dabbs ?",
+    "options": [
+      "Maggiore è il numero dei presenti, maggiore è la probabilità che qualcuno soccorra in aiuto",
+      "I maggiori problemi sono il risultato di un diffuso egoismo",
+      "Maggiore è il reddito pro-capite, minore è l'impegno sociale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli atteggiamenti scientificamente definiti come \"centrali\" sono....:",
+    "options": [
+      "quelli più resistenti alle influenze esterne",
+      "quelli meno resistenti alle influenze esterne",
+      "quelli innati e quindi immodificabili"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo E. T. Hall, quanti sono i livelli di distanza che possono frapporsi tra le persone ?",
+    "options": [
+      "Quattro",
+      "Cinque",
+      "Sei"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono le forme dell'intervista ?",
+    "options": [
+      "Non strutturata, semi-strutturata, strutturata",
+      "Non strutturata, strutturata, pianificata",
+      "Semi-strutturata, strutturata, pianificata"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Facendo riferimento alle scienze sociali, qual è la definizione normalmente assegnata alla socializzazione ?",
+    "options": [
+      "La proposta e la corrispettiva accettazione di modelli",
+      "L'assegnazione e la corrispettiva accettazione di valori",
+      "La proposta e la corrispettiva accettazione di parametri interpretativi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Conformemente al modello elaborato da B. W. Tuckman, che cosa accade per fase di \"storming\" della vita di un gruppo sociale ?",
+    "options": [
+      "La fase in cui l'interno del gruppo è più forte, con la conseguente costituzione di sottogruppi",
+      "La fase in cui i membri del gruppo definiscono i propri ruoli e le proprie regole",
+      "La fase in cui il gruppo avvia una fase di riflessione sulla reale utilità del lavoro intrapreso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è, tra gli altri, un sintomo della sindrome del burnout ?",
+    "options": [
+      "L'esaurimento emotivo",
+      "Lo stato di stanchezza fisica continua",
+      "Lo stato di alterazione e distorsione dei sensi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In molti casi, quale relazione intercorre tra menomazione e disabilità ?",
+    "options": [
+      "Le disabilità possono manifestarsi come conseguenza diretta di una menomazione",
+      "Le menomazioni sono sempre conseguenza diretta di una disabilità",
+      "Le menomazioni possono manifestarsi come conseguenza di una disabilità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo gli studiosi, con quale rimedio si rimuovono gli atteggiamenti di pregiudizio ?",
+    "options": [
+      "Attraverso l'autoregolazione",
+      "Attraverso l'apertura mentale",
+      "Attraverso l'abbattimento di i limiti interni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per \"categorie molari della osservazione partecipante\" si intende:",
+    "options": [
+      "i comportamenti che si manifestano nel monolito di una durata di tempo e che hanno un significato",
+      "i comportamenti osservati da un soggetto esterno e terzo che risultano apparentemente illogici",
+      "i comportamenti osservati da un soggetto interno e che risultano apparentemente razionali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è il codice della Laurea magistrale in Servizio sociale e politiche sociali ?",
+    "options": [
+      "LM-87",
+      "LM-53",
+      "LM-78"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa si intende per \"sindrome del burnout\" ?",
+    "options": [
+      "Lo stato di esaurimento sul piano emotivo, fisico e mentale",
+      "Lo stato di stanchezza fisica continua",
+      "Lo stato di alterazione e distorsione della realtà"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa significa \"intervista strutturata\" ?",
+    "options": [
+      "Un'intervista nella quale le domande da porre all'intervistato sono contenute in un determinato ordine precedentemente stabilito",
+      "Un'intervista nella quale le domande all'intervistato sono formulate in un colloquio in un ordine precedentemente stabilito",
+      "Un'intervista nella quale le domande somministrate all'intervistato si susseguono sulle argomentazioni formulate da lui"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa sono, in psicologia sociale, le \"biases\" ?",
+    "options": [
+      "Le valutazioni errate degli altri e di se stessi",
+      "Le acquisizioni cognitive e sensoriali realizzate in modo superficiale",
+      "Esclusivamente le valutazioni errate degli altri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è, secondo E. T. Hall, il livello detto \"distanza sociale\" che intercorre normalmente nelle situazioni di lavoro ?",
+    "options": [
+      "Da 120 a 360 centimetri",
+      "Da 360 centimetri in su",
+      "Da 100 a 250 centimetri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa si intende per \"prossemica\" ?",
+    "options": [
+      "Lo studio sul piano psicologico delle distanze materiali che le persone interpongono tra sé e gli altri",
+      "Lo studio sul piano psicologico dei significati delle diverse tonalità di voce",
+      "Lo studio sul piano psicologico dei significati delle posture assunte dalle gambe nell'atto di stare seduti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa s'intende per \"modello clinico del servizio sociale\" ?",
+    "options": [
+      "Lo schema teorico fondato sullo studio, sull'indagine e sul trattamento dell'assistito, indipendentemente dall'ambiente",
+      "Lo schema teorico fondato sullo studio, sulla diagnosi e sul trattamento dell'assistito alla luce della psicologia e dell'ambiente",
+      "Lo schema fondato sulla relazione di aiuto e superamento della situazione di disagio interno alla persona dell'assistito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nell'ambito di un esperimento condotto sulla realtà sociale, che cosa si intende per variabili dipendenti ?",
+    "options": [
+      "Gli effetti delle manipolazioni sperimentali sui comportamenti umani",
+      "Quei fattori utilizzabili nella maggior parte delle situazioni",
+      "Gli effetti derivanti dai comportamenti più diffusi in un dato gruppo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Facendo riferimento alle scienze sociali, che cosa si intende per \"gruppo dei pari\" ?",
+    "options": [
+      "Quei gruppi sociali sull'abolizione delle differenze sociali all'interno di essi",
+      "Quei gruppi sociali non dotati di regole",
+      "Quei gruppi sociali fondati su componenti in competizione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In riferimento alle scienze sociali, qual è la definizione normalmente assegnata all'educazione ?",
+    "options": [
+      "L'assegnazione e la corrispettiva accettazione di valori",
+      "L'assegnazione e la corrispettiva accettazione di presupposti etici",
+      "La proposta e la corrispettiva accettazione di parametri interpretativi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In riferimento alle dinamiche sociali, che cosa si intende per \"effetto alone\" ?",
+    "options": [
+      "La tendenza a sovrastimare l'omogeneità degli attributi di una persona",
+      "La tendenza a sottostimare l'omogeneità degli attributi di una persona",
+      "La tendenza ad uniformarci ai giudizi prevalenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Di norma, quando inizia il processo di socializzazione secondaria dell'individuo ?",
+    "options": [
+      "Dopo il quarto o quinto anno di vita",
+      "Dopo il settimo o ottavo anno di vita",
+      "Dopo il decimo o l'undicesimo anno di vita"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nell'ambito delle dinamiche sociali, che cosa si intende per \"effetto pigmalione\" ?",
+    "options": [
+      "Il creare negli altri ciò che si aspetta di trovare",
+      "Uno stato di privazione della realtà",
+      "Il riversare le proprie insoddisfazioni sull'ambiente sociale circostante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'indagine psico-sociale:",
+    "options": [
+      "può essere svolta dal servizio sociale esclusivamente su richiesta del Tribunale per i Minorenni o del Tribunale ordinario o dal giudice tutelare",
+      "può essere svolta dal servizio sociale unicamente di fronte a situazioni di bisogno e di aiuto da parte della famiglia stessa",
+      "non può prevedere, da parte del servizio sociale, la formulazione di proposte alla magistratura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo i più recenti studi psicologici, possono essere considerate \"dipendenze\":",
+    "options": [
+      "non solo l'assunzione di sostanze, ma anche comportamenti ripetitivi quale il gioco d'azzardo o l'uso di internet, della televisione/internet",
+      "non solo l'assunzione di sostanze, ma anche l'espulsione di sostanze connesse alle convulsioni delle stesse",
+      "i soli consumi di sostanze che alterano la percezione della realtà"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cos'è l'aprassia?",
+    "options": [
+      "È un disturbo neuropsicologico per cui una persona è incapace di ricordare alcuni eventi",
+      "È un disturbo neuropsicologico per cui un soggetto è incapace di eseguire ragionamenti in maniera veloce",
+      "È un disturbo neuropsicologico per cui un soggetto sperimenta una difficoltà o incapacità nell'eseguire movimenti volontari"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per l'assistente sociale accettare la persona significa:",
+    "options": [
+      "evitare qualsisi confronto, accondiscendere a schemi prefissati",
+      "accondiscendere a qualsiasi mutamento o comportamento dell'utente",
+      "esimersi dall'indurre cambiamenti nell'utente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Una tipica metodologia di lavoro dell'assistente sociale prevede:",
+    "options": [
+      "colloquio-visita domiciliare-raccolta documentale-diagnosi pattern relazionali individuazione degli eventi sentinella-visita per eseguire gli interventi e assicurare poi di superare le crisi familiari",
+      "colloquio-visita domiciliare-raccolta della storia-relazione al tribunale dei minori o al tribunale per territorio",
+      "colloquio-visita domiciliare-raccolta della storia-relazione agli enti sanitari competenti esecuzione degli interventi indicati dalla direzione sanitaria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono i soggetti implicati nel processo d'aiuto?",
+    "options": [
+      "L'unitarietà, la specificità, la circolarità e la specificità",
+      "L'utente, l'assistente sociale, la comunità di vita e l'ambiente sociale",
+      "L'individuo e la società"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il termine \"status\" e il termine \"ruolo\", nello studio dei gruppi",
+    "options": [
+      "definiscono rispettivamente la posizione del singolo individuo all'interno della struttura di un gruppo sociale e la funzione che tale individuo svolge (ruolo)",
+      "definiscono rispettivamente la posizione del singolo individuo all'interno del gruppo (status) e i compiti a lui assegnati per il buon funzionamento del gruppo stesso (ruolo)",
+      "sono due termini sinonimi fra loro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Un elemento indispensabile del colloquio praticato dall'assistente sociale è la circolarità:",
+    "options": [
+      "che permette di individuare le varie parti di un sistema, partendo dall'assunto che è la somma di tutti i punti di vista di tutti i soggetti inclusi nel contesto relazionale del problema",
+      "in virtù del quale l'assistente sociale non deve essere schierarsi a favore di una parte vulnerabile, così da poter esprimere la propria idea progettuale",
+      "in virtù della quale l'assistente sociale deve sviluppare risposte certe alle cause della situazione problematica, escludendo i punti di vista contrastanti di una famiglia, per non subire le influenze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando c'è un attacco diretto del bullo sotto forma di violenza fisica verso le interposte persone, di che tipo di bullismo si parla?",
+    "options": [
+      "Bullismo diretto",
+      "Cyberbullying",
+      "Bullismo individuale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nell'esercizio della sua professione l'assistente sociale può svolgere il colloquio di valutazione o di assessment, finalizzato a:",
+    "options": [
+      "raccogliere le notizie sulle situazioni, per impostare un programma o effettuare un'indagine sociale",
+      "ragionare insieme agli interessati sui cambiamenti e interventi e sui risultati da raggiungere",
+      "ascoltare la persona per farsi un'idea dell'aiuto da offrirle o orientandola infine ai Centri Psichiatrici Sociali (CPS) del territorio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tecnica largamente utilizzata in campo socio-educativo ha base teorica nella teoria della cultura, del potenziale delle persone e dell'assistenza a una cultura organizzativa per migliorare le competenze e le risorse di individui e ambienti di vita?",
+    "options": [
+      "Groupwork",
+      "Case management",
+      "Empowerment"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La segnalazione all'Autorità Giudiziaria relativa a minori è da intendersi obbligatoria quando:",
+    "options": [
+      "un minorenne si trova in situazione di abbandono e di eventuale dichiarazione del suo stato di adottabilità",
+      "la sua famiglia si trova sotto processo penale per sfruttamento abitativo",
+      "la famiglia si trova in una situazione di indigenza economica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'inconscio, secondo la ripartizione degli stati della mente elaborata da Sigmund Freud, è la sede:",
+    "options": [
+      "della coscienza",
+      "della razionalità",
+      "di desideri, impulsi e ricordi rimossi",
+      "della morale soggettiva"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Albert Bandura parla della teoria social-cognitiva di:",
+    "options": [
+      "autoefficacia percepita",
+      "influenza di genere",
+      "autoreferenzialità",
+      "resilienza individuale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per \"stratificazione sociale\" si intende:",
+    "options": [
+      "un tipo di azione sociale individuato da Max Weber",
+      "l'insieme delle disuguaglianze accumulate da una persona nel corso della sua storia",
+      "un aspetto della teoria evoluzionistica",
+      "il modo in cui individui e gruppi sociali sono disposti in strati e ordinati nella scala sociale"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "La legge 119/2001 dispone:",
+    "options": [
+      "la realizzazione del progetto globale di vita della persona con disabilità",
+      "l'obbligo del segreto professionale per gli assistenti sociali iscritti all'Albo, riconosciuto in capo al professione",
+      "l'istituto giuridico dell'affidamento familiare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'abilitato all'esercizio della professione sociale NON ancora iscritto all'albo:",
+    "options": [
+      "può esercitare solo con la supervisione di un tutor",
+      "non può esercitare",
+      "può esercitare"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Indicare quale, tra le altre, è un delle possibili risposte dell'assistente sociale alla richiesta di intervento dell'assistente sociale?",
+    "options": [
+      "l'inviante disinteressato",
+      "l'inviante specializzato",
+      "l'inviante neutrale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dopo il conseguimento della laurea, qual è il primo passo per l'accesso all'esercizio della professione di assistente sociale ?",
+    "options": [
+      "Il superamento dell'esame di Stato e l'iscrizione all'Albo professionale",
+      "Il conseguimento della laurea magistrale",
+      "Il superamento del concorso pubblico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali prove si sostengono ai fini del conseguimento dell'abilitazione all'esercizio della professione e dell'iscrizione all'Albo professionale degli assistenti sociali, sezione A - assistente sociale specialista ?",
+    "options": [
+      "Una prima prova scritta, una seconda prova scritta, una prova orale",
+      "Una prova orale, una prova scritta",
+      "Esclusivamente una prova orale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Chi promuove la richiesta dell'intervento dell'assistente sociale ?",
+    "options": [
+      "L'interessato o gli invianti",
+      "L'interessato o l'autorità giudiziaria",
+      "L'interessato o l'autorità di Pubblica Sicurezza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quale rischio psicosociale, tra gli altri, possono essere soggetti gli assistenti sociali nell'esercizio della propria attività?",
+    "options": [
+      "A sindrome del burnout",
+      "A stress da lavoro correlato",
+      "A mobbing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nei confronti dell'assistito, quando e in che misura è fatta valere l'autorità dell'assistente sociale ?",
+    "options": [
+      "Occasionalmente e mai in termini coercitivi",
+      "Nei casi di necessità e in termini coercitivi",
+      "Nei casi di necessità e sempre in termini relazionali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quante sezioni è suddiviso l'Albo professionale degli assistenti sociali ?",
+    "options": [
+      "2",
+      "1",
+      "3"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A chi è assegnata l'attività di informazione, decodifica e supero delle persone in situazioni di bisogno ?",
+    "options": [
+      "All'assistente sociale",
+      "Al medico psichiatra",
+      "Allo psicologo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nell'organizzazione del lavoro, l'assistente sociale che riveste ruoli dirigenziali...",
+    "options": [
+      "concorre al mantenimento delle funzioni tecniche e giuridiche attribuite agli assistenti sociali",
+      "segnala all'Ente di appartenenza l'eccessivo carico di lavoro",
+      "segnala all'Ente di appartenenza direttive incompatibili con il corretto esercizio della professione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In riferimento al primo colloquio tra l'assistente sociale e l'utente, che cosa s'intende per \"ipotizzazione\" ?",
+    "options": [
+      "Lo sviluppo di ipotesi sulle cause della situazione problematica",
+      "Lo sviluppo di ipotesi sulle cause dei risultati negativi dell'intervento",
+      "Lo sviluppo di ipotesi sulle cause dei conflitti interni ed esterni all'utente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale caso è definito \"meta\" l'inviante della richiesta di intervento dell'assistente sociale ?",
+    "options": [
+      "Nel caso in cui l'inviante è inserito in un contesto gerarchico dell'assistente sociale, cerca di orientare l'attività di servizio",
+      "Nel caso in cui l'inviante ha un pari livello dell'assistente sociale, cerca di orientare l'attività di servizio",
+      "Nel caso in cui l'inviante è un magistrato che orienta l'attività di servizio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è la manifestazione pratica che consente di verificare ex post il successo o l'insuccesso dell'intervento di sostegno attivato dall'assistente sociale per il soggetto in situazione di disagio ?",
+    "options": [
+      "Cambiamento significativo",
+      "Cambiamento logico e razionale",
+      "Inversione di tendenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quante tempo si svolgono gli esami di Stato per il conseguimento dell'abilitazione all'esercizio della professione degli assistenti sociali ?",
+    "options": [
+      "Ogni anno",
+      "Ogni due anni",
+      "Ogni sei mesi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da chi è assegnato l'esercizio della funzione di controllo all'assistente sociale?",
+    "options": [
+      "Dall'autorità giudiziaria",
+      "Dal Comune",
+      "Dalla ASL"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Su cosa verte la prova orale dell'esame di Stato per il conseguimento dell'abilitazione all'esercizio della professione e dell'iscrizione all'Albo professionale degli assistenti sociali, sezione A - assistente sociale specialista ?",
+    "options": [
+      "Su argomenti teorico-pratici relativi all'attività svolta durante il tirocinio",
+      "Sulla valutazione di un caso affidato ai servizi sociali",
+      "Sugli ordinamenti sociali dello Stato e della Regione di residenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono i soggetti del processo di aiuto attivato dall'assistente sociale ?",
+    "options": [
+      "Utente, assistente sociale, istituzioni, rete territoriale dell'utente, comunità",
+      "Utente, assistente sociale, staff tecnico, rete territoriale dell'utente, comunità",
+      "Utente, assistente sociale, rete sociale dell'utente, comunità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che tipo di atto si implica con la presa in carico del problema da parte dell'assistente sociale ?",
+    "options": [
+      "Un atto formale di tipo amministrativo e professionale",
+      "Un atto morale di tipo umanitario",
+      "Un atto professionale ad implicazioni psicologiche ed etiche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dopo il superamento dell'esame di Stato, chi accede alla sezione B dell'Albo professionale degli assistenti sociali ?",
+    "options": [
+      "Tutti coloro in possesso di laurea triennale del Servizio sociale (classe L-39)",
+      "Tutti coloro in possesso di laurea magistrale in Servizio sociale e Politiche sociali (classe LM-87)",
+      "Tutti coloro in possesso di laurea triennale in Servizio sociale (classe L-39) o in Scienze politiche (classe L-36)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali prove si sostengono ai fini del conseguimento dell'abilitazione all'esercizio della professione e dell'iscrizione all'Albo professionale degli assistenti sociali, sezione B - assistente sociale ?",
+    "options": [
+      "Una prima prova scritta, una seconda prova scritta, una prova orale",
+      "Una prova orale, una prova scritta",
+      "Una prima prova scritta, una seconda prova pratica, una prova orale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Di che natura giuridica è l'Ordine degli assistenti sociali ?",
+    "options": [
+      "Ente pubblico non economico",
+      "Ente privato non economico",
+      "Ente privato economico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali caratteristiche devono avere gli obiettivi dell'intervento dell'assistente sociale ?",
+    "options": [
+      "Attuabili, specifici, misurabili, generalizzati, correlati al tempo a disposizione",
+      "Attuabili, effettivi, concreti, misurabili, generalizzati, correlati al tempo a disposizione",
+      "Specifici, concreti, misurabili, generalizzati, correlati al tempo a disposizione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che atteggiamento deve essere osservato in ordine al rapporto gerarchico degli assistenti sociali ?",
+    "options": [
+      "Un atteggiamento di rispetto delle rispettive prerogative",
+      "Un atteggiamento di autonomia",
+      "Un atteggiamento di controllo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nell'esercizio della propria attività di auto e sostegno, a quale rischio psicosociale, tra gli altri, possono risultare soggetti gli assistenti sociali ?",
+    "options": [
+      "A traumatizzazione vicaria",
+      "A stress",
+      "A mobbing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "E' un dovere professionale dell'assistente sociale quello di confrontarsi sia con il proprio professionista e nei confronti dell'utenza con:",
+    "options": [
+      "Il progetto",
+      "La solidarietà",
+      "La supervisione",
+      "La fedeltà"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il principio che implica, da parte dell'assistente sociale, l'accettazione e un ascolto attivo dell'altro, che deve poter manifestare i propri bisogni ed essere senza sentirsi giudicato è definito:",
+    "options": [
+      "principio di accettazione",
+      "principio di personalizzazione",
+      "principio del rispetto",
+      "principio di autodeterminazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'insieme di tutte le azioni che l'assistente sociale mette in atto per migliorare, superare o rimuovere una problematica o bisogno di una persona singola, di una famiglia o di una comunità è definito:",
+    "options": [
+      "processo di sostentamento",
+      "processo direttivo",
+      "processo biunivoco",
+      "processo di aiuto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Quanti e quali sono i soggetti del processo di aiuto attivato dall'assistente sociale ?",
+    "options": [
+      "Cinque. Utente, assistente sociale, istituzioni, rete territoriale dell'utente, comunità",
+      "Cinque. Utente, assistente sociale, staff tecnico, rete territoriale dell'utente, comunità",
+      "Quattro. Utente, assistente sociale, rete sociale dell'utente, comunità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale caso l'inviante della richiesta di intervento dell'assistente sociale è definito come \"meta\" ?",
+    "options": [
+      "Nel caso in cui l'inviante, superiore gerarchico dell'assistente sociale, cerca di orientare l'attività di servizio",
+      "Nel caso in cui l'inviante, collega di pari livello dell'assistente sociale, cerca di orientare l'attività di servizio",
+      "Nel caso in cui l'inviante è un magistrato che orienta l'attività di servizio in una direzione determinata"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che caratteristica devono avere gli obiettivi dell'intervento dell'assistente sociale ?",
+    "options": [
+      "Attuabili, specifici, misurabili, generalizzati, correlati al tempo a disposizione",
+      "Attuabili, effettivi, concreti, misurabili, generalizzati, correlati al tempo a disposizione",
+      "Specifici, concreti, misurabili, generalizzati, correlati al tempo a disposizione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Su quali argomenti verte la prova orale dell'esame di Stato per il conseguimento dell'abilitazione all'esercizio della professione degli assistenti sociali, sezione A - assistente sociale specialista?",
+    "options": [
+      "Sugli argomenti teorico-pratici relativi all'attività svolta durante il tirocinio",
+      "Sulla valutazione di un caso di gestione dei servizi sociali",
+      "Sugli ordinamenti sociali dello Stato e della Regione di residenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è la manifestazione pratica che consente di verificare ex post il successo o l'insuccesso dell'intervento di sostegno attivato dall'assistente sociale per il soggetto in situazione di disagio ?",
+    "options": [
+      "Il cambiamento significativo",
+      "Il cambiamento percettibile",
+      "L'inversione di tendenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa s'intende per \"ipotizzazione\" nell'ambito del primo colloquio tra l'assistente sociale e l'utente ?",
+    "options": [
+      "Lo sviluppo di ipotesi sulle cause della situazione problematica",
+      "Lo sviluppo di ipotesi sulle cause di risultati negativi dell'intervento",
+      "Lo sviluppo di ipotesi sulle cause dei conflitti interpersonali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che tipo di atto si implica con la presa in carico del problema da parte dell'assistente sociale ?",
+    "options": [
+      "Un atto formale di tipo amministrativo e professionale",
+      "Un atto morale di tipo solidaristico",
+      "Un atto professionale ad implicazioni psicologiche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da chi è assegnato all'assistente sociale l'esercizio della funzione di controllo ?",
+    "options": [
+      "Dall'autorità giudiziaria",
+      "Dal Comune",
+      "Dalla ASL"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale, tra le altre, è una delle principali categorie di invianti della richiesta di intervento dell'assistente sociale ?",
+    "options": [
+      "L'inviante invischiato",
+      "L'inviante nemico",
+      "L'inviante neutrale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da chi è promossa la richiesta dell'intervento dell'assistente sociale ?",
+    "options": [
+      "Dall'interessato o dagli invianti",
+      "Dall'interessato o dall'autorità giudiziaria",
+      "Dall'interessato o dall'autorità di Pubblica Sicurezza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è il primo passo per l'accesso all'esercizio della professione di assistente sociale, dopo il conseguimento della laurea ?",
+    "options": [
+      "Il superamento dell'esame di Stato e l'iscrizione all'Albo professionale",
+      "Il conseguimento della laurea magistrale",
+      "Il superamento del concorso pubblico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali categorie si sostengono ai fini del superamento dell'abilitazione all'esercizio della professione di assistente sociale ?",
+    "options": [
+      "L'inviante disinteressato",
+      "L'inviante inviato",
+      "L'inviante neutrale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali prove si sostengono ai fini del superamento dell'abilitazione all'esercizio della professione e dell'iscrizione all'Albo professionale degli assistenti sociali, sezione A - assistente sociale specialista ?",
+    "options": [
+      "Una prima prova scritta, una seconda prova scritta, una prova orale",
+      "Una prova scritta, una prova orale",
+      "Tre prove scritte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali prove si sostengono ai fini del superamento dell'abilitazione all'esercizio della professione e dell'iscrizione all'Albo professionale degli assistenti sociali, sezione B - assistente sociale ?",
+    "options": [
+      "Una prima prova scritta, una seconda prova pratica, una seconda prova orale",
+      "Una prova scritta, una prova orale",
+      "Tre prove scritte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando e in che misura è fatta valere l'autorità dell'assistente sociale nei confronti dell'assistito ?",
+    "options": [
+      "Occasionalmente e mai in termini coercitivi",
+      "Nei casi di necessità, anche in termini coercitivi",
+      "Nei casi di necessità e sempre in termini relazionali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quante e quali sezioni è suddiviso l'albo professionale degli assistenti sociali ?",
+    "options": [
+      "Due. Sezione A - assistente sociale specialista e sezione B - assistente sociale",
+      "Due. Sezione A - assistente sociale specialista e sezione B - assistente sociale ospedaliero",
+      "Due. Sezione A - assistente sociale specialista e sezione B - assistente sociale ospedaliero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ogni quanto tempo si svolgono gli esami di Stato per il conseguimento dell'abilitazione all'esercizio della professione e dell'iscrizione all'Albo professionale degli assistenti sociali?",
+    "options": [
+      "Ogni anno in due sessioni",
+      "Ogni due anni in una sessione",
+      "Ogni anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quale rischio psicosociale, tra gli altri, possono risultare soggetti gli assistenti sociali nell'esercizio della propria attività di aiuto e sostegno ?",
+    "options": [
+      "A traumatizzazione vicaria",
+      "A stress da lavoro correlato",
+      "A mobbing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali laureati accedono alla sezione B dell'Albo professionale degli assistenti sociali dopo il superamento dell'esame di Stato ?",
+    "options": [
+      "Quelli in possesso di laurea triennale in Servizio sociale (classe L-39)",
+      "Quelli in possesso di laurea magistrale in Servizio sociale e Politiche sociali (classe LM-87)",
+      "Quelli in possesso di laurea triennale in Servizio sociale (classe L-39) o in Scienze politiche (classe L-36)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è la natura giuridica dell'Ordine degli assistenti sociali ?",
+    "options": [
+      "Ente pubblico non economico",
+      "Ente privato non economico",
+      "Ente pubblico economico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quale rischio psicosociale, tra gli altri, possono essere soggetti gli assistenti sociali nell'esercizio della propria attività?",
+    "options": [
+      "A sindrome del burnout",
+      "A stress da lavoro correlato",
+      "A mobbing"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale rapporto numerico tra assistenti sociali e impegni nel servizi territoriali e socio-sanitari è indicato nel recente Legge di bilancio 2021, ai fini del raggiungimento di un livello essenziale delle prestazioni e dei servizi sociali ?",
+    "options": [
+      "1 : 5.000",
+      "1 : 6.000",
+      "1 : 6.500"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come definì lo studioso maltese Edward De Bono i suoi studi sui meccanismi della mente, i metodi più idonei alla risoluzione dei problemi della persona umana ?",
+    "options": [
+      "Apparentemente illogici",
+      "Tendenzialmente dialettici",
+      "Chiaramente provocatori"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Su quale presupposto si fonda la teoria della dissonanza cognitiva elaborata da Leon Festinger nel 1957 ?",
+    "options": [
+      "In situazioni di disagio emotivo e a fronte di suoi comportamenti contradditori, l'individuo è spinto a trovare una soluzione, anche trasformando uno degli elementi",
+      "In situazioni di disagio emotivo e a fronte di suoi comportamenti contradditori, l'individuo è spinto a trovare una soluzione anche in assenza di prove, fino alla fase di contraddizione",
+      "In situazioni di disagio emotivo e a fronte di suoi comportamenti contradditori, l'individuo è spinto a trovare una soluzione nel comportamento cronologicamente più radicato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quante e quali fasi, secondo il modello elaborato nel 1965 da B. W. Tuckman, caratterizzano lo specifico ciclo di vita di qualsiasi gruppo sociale ?",
+    "options": [
+      "Cinque. Forming, storming, norming, performing, adjourning",
+      "Tre. Forming, performing, adjourning",
+      "Cinque. Forming, storming, filling, performing, adjourning"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con l'espressione \"effetto Pigmalione\", in pedagogia ci si riferisce:",
+    "options": [
+      "Al rapporto fra le aspettative degli insegnanti e la qualità dei bambini",
+      "Al rapporto fra le aspettative degli insegnanti e le competenze dei bambini",
+      "Al rapporto fra le aspettative degli insegnanti e il comportamento dei bambini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Si indichi quale tra le seguenti affermazioni non è uno dei \"fondamenti del metodo Montessori\":",
+    "options": [
+      "L'insegnante è facilitatore dei processi di scoperta del fanciullo, non più dispensatore di un sapere adulto e prima possibile",
+      "Compito principale dell'educatore è quello di aiutare il bambino nella fase dello sviluppo adulto e prima possibile",
+      "La scuola serve per la vita e non deve essere separata"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Al congresso torinese del 1898 Maria Montessori sostenne che, secondo lei, la questione dei deficienti era principalmente:",
+    "options": [
+      "Pedagogica più che medica",
+      "Medica più che pedagogica",
+      "Pedagogica, ma anche sociologica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è il principio basilare nel lavoro sociale che compone, per l'assistente sociale, il suo assetto etico-deontologico e relazionale-professionale?",
+    "options": [
+      "Tolleranza ed elasticità nell'agire",
+      "Autorevolezza",
+      "Accettazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Completare con l'opzione corretta: è una malattia neuropsichiatrica che compare generalmente in infanzia, caratterizzata da emissione di rumori e suoni incontrollati e involontari, con tic associati o meno, quali smorfie del viso e/o degli arti detti tic.\"",
+    "options": [
+      "La sindrome di Asperger",
+      "La sindrome di Tourette",
+      "La sindrome di Bioccolima"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Indicare in quale ordine, a partire dal basso, sono ordinati i cinque ordini diversi bisogni secondo la teoria di Maslow:",
+    "options": [
+      "Bisogni di affetto; bisogni fisiologici; bisogni di sicurezza; bisogni di stima; autorealizzazione",
+      "Bisogni fisiologici; bisogni di stima; bisogni di affetto; bisogni di autorealizzazione; bisogni di sicurezza",
+      "Bisogni fisiologici; bisogni di sicurezza; bisogni di affetto; bisogni di stima; autorealizzazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gordon Allport, fu uno tra i primi studiosi a sostenere che la personalità è una struttura dinamica e va considerata come una combinazione di tratti. Quale definizione dà di tratto nel 1937?",
+    "options": [
+      "Il tratto è una predisposizione relativamente stabile a rispondere in un sistematico modo in particolare",
+      "Il tratto è una predisposizione a rispondere positivamente o negativamente ad un particolare quadro dell'attività fisica",
+      "Il tratto è un dato conoscitivo relativo ad un oggetto o un evento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo la classificazione dell'OMS del 1980, indica qualsiasi qualsiasi alterazione o deviazione da parte di una funzione psicologica, fisiologica o anatomica.",
+    "options": [
+      "disabilità",
+      "menomazione",
+      "nessuna delle altre risposte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo la classificazione dell'OMS del 1980, indica qualsiasi limitazione o perdita (conseguente a menomazione) della capacità di compiere un'attività nel modo o nell'ampiezza considerati normali per un essere umano",
+    "options": [
+      "handicap",
+      "menomazione",
+      "disabilità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il mentoring è:",
+    "options": [
+      "un metodo concreto orientato al sapere",
+      "un metodo di formazione basato sull'apprendimento cooperativo",
+      "un metodo di formazione basato sulla relazione tra un soggetto esperto e uno più giovane"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il cooperative learning prevede:",
+    "options": [
+      "lo sviluppo delle competenze di ciascun partecipante, relativamente al singolo traguardo raggiunto",
+      "l'organizzazione del lavoro in gruppo: ogni discente riceverà una parte del lavoro, terrà conto del proprio operato in relazione al risultato finale dell'intero gruppo",
+      "l'assegnazione ad ogni studente di una parte del compito da svolgere, individuata in base alle sue abilità e dai suoi interessi specifici"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La natura fiduciaria della relazione con utenti o clienti obbliga l'assistente sociale a non rivelare le informazioni a lui riguardanti gli stessi, ma è cui può derogare nel loro esclusivo interesse.",
+    "options": [
+      "non necessariamente deve ricevere l'assenso degli interessati, o dei loro legali rappresentanti",
+      "deve ricevere l'assenso degli interessati, o dei loro legali rappresentanti, senza alcuna eccezione per i casi previsti dalla legge",
+      "deve ricevere l'assenso degli interessati, o dei loro legali rappresentanti, ad eccezione dei casi previsti dalla legge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'assistenza sociale deve salvaguardare la segretezza della documentazione relativa agli utenti ed ai clienti, in quanto è tenuta, come qualsiasi altra professione, a tutela da ogni indiscrezione.",
+    "options": [
+      "anche nel caso riguardi ex utenti o clienti, anche se deceduti",
+      "anche nel caso riguardi ex utenti o clienti, anche se deceduti",
+      "solo se sono utenti che ha tuttora in carico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Rientra nella funzione della \"diagnosi\" del servizio sociale il modello dei rendiconti psico-sociali, elaborato da:",
+    "options": [
+      "H. Perlman",
+      "F. Hollis",
+      "R. Smalley"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nell'ambito dei modelli teorici di servizio sociale, il modello funzionale che si diffonde, negli Stati Uniti, negli anni '60, è stato teorizzato da",
+    "options": [
+      "H. Perlman",
+      "R. Smalley",
+      "F. Hollis"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il principio della non direttività di Carl Rogers in cosa consiste nell'ambito educativo?",
+    "options": [
+      "Consiste in un atteggiamento, da parte dell'educatore, positivo, accogliente, empatico, non giudicante, fiducioso che non si pone come dispensatore di sapere",
+      "Il principio della non direttività di Carl Rogers consiste nell'impostare relazioni libere e spontanee",
+      "Il principio della non direttività di Carl Rogers consiste nell'accogliere tutti senza distinzione alcuna, ma esclusivamente nell'ambito di gruppi con regole chiare e seguite da tutti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il metodo fondamentale di insegnamento di Sutherland Neill prevede:",
+    "options": [
+      "Una pedagogia NON direttiva, cioè un'educazione che lascia il bambino libero di fare quello per quel che è",
+      "Una pedagogia parzialmente direttiva, cioè un'educazione che lascia il bambino abbastanza libero",
+      "Una pedagogia guidata che aiuta il bambino a migliorarsi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La pedagogia, secondo Dewey, deve mirare:",
+    "options": [
+      "Al pensiero convergente",
+      "Al metodo e all'abbandono di ogni contenuto prefissato",
+      "Alle reali capacità dell'allievo di trasmettere e comunicare"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nel modello unitario centrato sul compito:",
+    "options": [
+      "L'assistente sociale non strutura l'intervento professionale",
+      "L'assistente sociale non considera il lavoro di rete",
+      "L'assistente sociale ha un ruolo menageriale che attiva fra bisogni e risorse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il lavoro dell'assistente sociale con i gruppi:",
+    "options": [
+      "Ha un approccio standardizzato e si applica per il gruppi-utenti che la legge raggruppa-risorse",
+      "Rappresenta una modalità d'intervento indirizzata a una molteplicità di persone anziché a un singolo",
+      "Postula l'esigenza di risposte analoghe a quelle dell'azione individuale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'unicità e l'irripetibilità della persona richiedono che l'assistente sociale:",
+    "options": [
+      "Applichi ai singoli casi risposte standardizzate",
+      "Applichi sempre le stesse tecniche d'intervento",
+      "Adatti le risposte individuali alle situazioni di bisogno"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per metacognizione si intende:",
+    "options": [
+      "La conoscenza sui propri processi cognitivi e sul loro monitoraggio e di corretti processi",
+      "La capacità di intervenire e fronteggiare, organizzando, la propria vita a seguito di un evento traumatico",
+      "Le strategie cognitive e comportamentali utilizzate per fronteggiare situazioni difficili e nuove"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I neuroni specchio sono:",
+    "options": [
+      "Una classe di neuroni che si attivano selettivamente sia quando si compie un'azione sia quando la si osserva mentre è compiuta da altri",
+      "Una classe di neuroni che si attivano solo quando un individuo osserva un'azione compiuta da altri e cerca di riprodurla",
+      "Una classe di neuroni che si attivano solo quando si osserva un'azione che provoca piacere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come viene definita la forza psichica che spinge a una soddisfazione immediata gratificazione di qualsiasi impulso:",
+    "options": [
+      "Principio della frustrazione",
+      "Principio di piacere",
+      "Principio di realtà"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Di quale corrente pedagogica furono esponenti le sorelle Agazzi?",
+    "options": [
+      "Del cognitivismo",
+      "Dell'attivismo italiano",
+      "Del behaviorismo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nella prospettiva della pedagogia dell'infanzia, Susanna Mantovani sostiene che:",
+    "options": [
+      "Tanto meno si parla di formazione professionale degli educatori, tanto più i servizi possono essere trasformati",
+      "Non è importante ciò che gli educatori pensano di sapere ma è piuttosto la politica sociale che deve essere capace di trasformare i servizi",
+      "La conoscenza di base degli educatori pensano di sapere non è sufficiente per favorire e trasformative dei servizi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In \"Lettera a una professoressa\", Don Lorenzo Milani:",
+    "options": [
+      "Esprime un'aspra denuncia della scuola e dei suoi metodi educativi relativi a una classe sociale svantaggiata",
+      "Fornisce una serie di indicazioni sui metodi sociali svantaggiate",
+      "Descrive metodi per realizzare progetti sociali svantaggiate"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'assistente sociale ha facoltà di astenersi dal rendere testimonianza?",
+    "options": [
+      "Sì, lo prevede espressamente il punto 36 del Codice deontologico e non è sanzionabile se depone su quanto gli è stato confidato o ha conosciuto nell'esercizio della professione, salvo i casi previsti dalla legge",
+      "No, il punto 36 del Codice deontologico prevede sempre l'obbligo di rendere testimonianza",
+      "No, il punto 36 del Codice deontologico dell'assistente sociale prevede sempre l'obbligo di testimonianza ed è sempre obbligata a testimoniare se il fatto è stato confidato nell'esercizio della professione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è il nome del complesso di tecniche diagnostiche ed operative con finalità preventive e riabilitative, riferite a contesti e gruppi sociali?",
+    "options": [
+      "Case Work",
+      "Community Work",
+      "Group Work"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Non è una caratteristica specifica del processo d'aiuto attivato dall'assistente sociale:",
+    "options": [
+      "La globalità",
+      "L'unitarietà",
+      "L'individualità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tra gli strumenti di lavoro dell'assistente sociale esiste il \"colloquio di indagine\", che si utilizza:",
+    "options": [
+      "Principalmente per esigenze di carattere professionale",
+      "Principalmente per aiutare l'utente a risolvere i suoi problemi",
+      "Per effettuare un inchiesta eziologica per rispondere a richieste dell'autorità giudiziaria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nel modello sistemico-relazionale:",
+    "options": [
+      "L'assistente sociale concentra l'attenzione sul rapporto fra i diversi sottosistemi",
+      "L'assistente sociale sposta l'attenzione dall'individuo al contesto in cui egli vive",
+      "L'assistente sociale concentra l'attenzione sul rapporto tecnico- operativo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Che cosa afferma la teoria dei \"concetti somiglianza di famiglia\" ?",
+    "options": [
+      "I membri di una data categoria non posseggono caratteristiche tipiche, che devono possono anche non essere possedute da ogni membro della categoria stessa",
+      "I membri di una data categoria non posseggono certe caratteristiche tipiche, che devono essere possedute da ogni membro della categoria che possiede caratteristiche peculiari",
+      "I membri di una data categoria non presentano caratteristiche tipiche, che devono essere possedute da ogni membro della categoria stessa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Facendo riferimento alla teoria del condizionamento operante di Skinner, individuare l'affermazione corretta:",
+    "options": [
+      "Se l'eliminazione di uno stimolo aumenta la probabilità che un determinato comportamento sia messo in atto, si parla di rinforzo positivo",
+      "Se la presentazione di uno stimolo aumenta la probabilità che un determinato comportamento sia messo in atto, si parla di rinforzo positivo",
+      "Se la presentazione di uno stimolo diminuisce la probabilità che un determinato comportamento sia messo in atto, si parla di punizione negativa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali sono le emozioni che il celebre psicologo Paul Ekman identificò come primarie?",
+    "options": [
+      "Rabbia - Tristezza - Delusione - Vergogna - Colpa - Malinconia",
+      "Rabbia - Tristezza - Contentezza - Colpa - Invidia - Disprezzo - Nostalgia",
+      "Rabbia - Paura - Tristezza - Felicità - Sorpresa - Disgusto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il brainstorming:",
+    "options": [
+      "È una tecnica comunemente utilizzata per identificare le cause di un problema",
+      "È una tecnica comunemente utilizzata per appianare i conflitti",
+      "È una tecnica comunemente utilizzata per la produzione di soluzioni possibili"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 622 del codice penale, quale delle seguenti configura il reato di violazione del segreto professionale?",
+    "options": [
+      "Si configura il reato di violazione del segreto professionale ogni qual volta il professionista pubblica le informazioni delle quali è a conoscenza per motivi di lavoro",
+      "Si configura il reato di violazione del segreto professionale quando la rivelazione dei segreti, la stessa deriva un nocumento, pregiudizio o danno giuridicamente rilevante per la persona",
+      "Si configura il reato di violazione del segreto professionale quando il professionista rivela ad operatori le informazioni delle quali è a conoscenza per motivi di lavoro"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'Assistente sociale che ha avuto notizia di un reato commesso da un adulto in danno di un minore, ai sensi dell'art. 609-decies del Codice Penale, a darne immediata comunicazione:",
+    "options": [
+      "Al Tribunale per i minorenni",
+      "Che esercitano la professione in regime dipendente, sia pubblico che privato",
+      "Alla Procura della Repubblica presso il Tribunale per i minorenni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi della Legge 3 aprile 2001, n. 119, l'obbligo del segreto professionale interessa gli Assistenti Sociali:",
+    "options": [
+      "Che esercitano la professione in regime di dipendenza, sia pubblico che privato",
+      "Che esercitano la professione in regime dipendente, sia pubblico che privato e in regime di lavoro autonomo libero-professionale",
+      "Lavoratori dipendenti pubblici se iscritti all'Albo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il professionista radiato dall'albo può essere di nuovo iscritto all'albo?",
+    "options": [
+      "No, in nessun caso",
+      "Sì, non prima di dieci anni dalla data di efficacia del provvedimento di radiazione, qualora siano venute meno le ragioni che hanno determinato la radiazione",
+      "Sì, non prima di cinque anni dalla data di efficacia del provvedimento di radiazione, qualora siano venute meno le ragioni che hanno determinato la radiazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il concetto di \"empowerment\" costituisce l'aspetto più importante del lavoro di Rete sociale nel senso di...",
+    "options": [
+      "Risolvere un problema",
+      "Scegliere i propri collaboratori e motivarli",
+      "Essere in grado di attivare una strategia operativa finalizzata ad un processo di crescita"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Inclusione sociale significa:",
+    "options": [
+      "L'estensione all'intero nucleo familiare delle prestazioni erogate al singolo utente",
+      "Il ricongiungimento dell'emigrato con il suo nucleo",
+      "Il superamento di una condizione di marginalità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Come si rapporta l'assistente sociale con i mezzi di informazione?",
+    "options": [
+      "Nei rapporti con la stampa e con gli altri mezzi di diffusione l'assistente sociale, oltre che ispirarsi a criteri di equilibrio e misura nel rilasciare dichiarazioni o interviste, è tenuto al rispetto della riservatezza e del segreto professionale",
+      "Nei rapporti con la stampa e con gli altri mezzi di diffusione l'assistente sociale non può mai rilasciare dichiarazioni",
+      "Nei rapporti con la stampa e con gli altri mezzi di diffusione l'assistente sociale non è tenuto al rispetto della riservatezza e del segreto professionale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il procedimento disciplinare a carico dell'assistente sociale è promosso...",
+    "options": [
+      "Soltanto a seguito di denuncia",
+      "Soltanto a seguito di segnalazione all'autorità giudiziaria",
+      "D'ufficio nonché a seguito di denuncia o di segnalazioni provenienti dall'autorità giudiziaria o di denuncia o di segnalazioni sottoscritte provenienti da enti o da privati"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'assistente sociale può essere obbligato a deporre su quanto gli è stato confidato o ha conosciuto nella professione?",
+    "options": [
+      "Si",
+      "No, salvo i casi previsti dalla legge",
+      "No, mai"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'assistente sociale ha l'obbligo del segreto professionale anche dopo che ha conosciuto per ragione della sua professione esercitata.",
+    "options": [
+      "Sia in regime di lavoro dipendente, pubblico o privato, sia in regime di lavoro autonomo libero professionale",
+      "Solo in regime di lavoro dipendente pubblico",
+      "Solo in regime di lavoro autonomo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'assistente sociale nel rapporto con enti,",
+    "options": [
+      "Non fornisce alcuna informazione",
+      "Fornisce tutte le informazioni in suo possesso",
+      "Fornisce unicamente dati e informazioni strettamente attinenti e indispensabili alla definizione dell'intervento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Gli obblighi di riservatezza e segreto d'ufficio...",
+    "options": [
+      "Vengono meno nel caso di sospensione dall'esercizio della professione",
+      "Vengono meno nel caso di cancellazione dall'Albo",
+      "Non vengono meno né in caso di sospensione dall'esercizio della professione né in caso di cancellazione dall'Albo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Qualora la situazione sia particolarmente complessa cosa deve fare l'assistente sociale?",
+    "options": [
+      "Disporre che se ne occupi la polizia",
+      "Rifiutarla",
+      "Consultarsi con altri professionisti competenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale tra le seguenti funzioni dell'assistente sociale viene svolta su mandato di un'autorità giudiziaria?",
+    "options": [
+      "La funzione di programmazione, organizzazione e gestione dei servizi sociali",
+      "La funzione di aiuto",
+      "La funzione di controllo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La presa in carico:",
+    "options": [
+      "Corrisponde a un atto formale attraverso il quale avviene l'accoglimento della domanda d'aiuto da parte dell'assistente sociale",
+      "Corrisponde a quella fase del processo d'aiuto in cui l'assistente sociale procede al riepilogo dei risultati ottenuti",
+      "Dipende dalla natura della richiesta d'aiuto, sia spontanea o frutto di una segnalazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per équipe si intende:",
+    "options": [
+      "Un gruppo di lavoro multidisciplinare in cui lo psicologo ha un ruolo di supremazia",
+      "Un gruppo di lavoro composto da professionisti di diverse discipline coordinati dalla supervisione di un assistente sociale",
+      "Un gruppo di lavoro composto da operatori di diversa professionalità che collaborano per raggiungere comuni obiettivi relativi sul territorio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'assistente sociale nell'esercizio della professione:",
+    "options": [
+      "Non esprime giudizi di valore sulla persona in base alle sue caratteristiche o orientamenti e non impone il proprio sistema di valori",
+      "È tenuto a dare giudizi di valore sulle persone in base ai loro comportamenti",
+      "Non esprime giudizi di valore sulla persona in base alle sue caratteristiche o orientamenti ma può imporre il proprio sistema di valori"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è la cartella sociale o del servizio?",
+    "options": [
+      "Un fascicolo importante tutti i dati inerenti la situazione di presa in carico, i colloqui, il contratto con l'utente, le verifiche e la riprogettazioni",
+      "Una cartella che può essere predisposta per costituire un sistema informativo ed è strutturata in sottofascicoli, ognuno dei quali è destinato ad informazioni diverse e di flusso, per la quale non è consentito l'accesso al cittadino",
+      "Un fascicolo contenente elementi documentari di una certa situazione, in cui l'assistente sociale e il sistema di cui fa parte raccoglie e struttura i dati ed informazioni inerenti ad un percorso d'aiuto, i suoi aggiornamenti, tale cartella fa parte di un motore del lavoro giudiziario"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale normativa reca le \"Disposizioni in materia di professione di assistente sociale e istituzione dell'obbligo del segreto professionale per gli assistenti sociali\"?",
+    "options": [
+      "Legge 3 aprile 2001, n. 119",
+      "Legge 23 marzo 1993, n. 84",
+      "Legge 5 giugno 2001, n. 328"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'obbligo del segreto professionale previsto dalla legge 3 aprile 2001, n. 119:",
+    "options": [
+      "Riguarda gli assistenti sociali che lavorano presso un ente pubblico o privato",
+      "Riguarda gli assistenti sociali che lavorano come dipendenti, pubblici o privati, e in regime di lavoro autonomo professionale",
+      "Riguarda gli assistenti sociali che lavorano in regime di lavoro autonomo professionale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Uno tra gli strumenti dell'assistente sociale:",
+    "options": [
+      "La raccolta dati",
+      "Il colloquio professionale",
+      "Il colloquio clinico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nella detenzione domiciliare l'assistente sociale ha compiti di ......",
+    "options": [
+      "Predisposizione degli interventi sanitari specialistici",
+      "Controllo e vigilanza",
+      "Aiuto e collegamento con i servizi e le risorse del territorio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La 'presa in carico' professionale comporta un approccio:",
+    "options": [
+      "Clinico e specialistico",
+      "Specialistico ed unitario ai bisogni della persona",
+      "Clinico",
+      "Globale ed unitario ai bisogni della persona"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "I termini 'assistito','cliente', 'utente' sono sinonimi?",
+    "options": [
+      "Si",
+      "No, l'uso del termine 'cliente' è più appropriato nel linguaggio della professione riguardano diverse posizioni che la persona può assumere nel sistema di Welfare",
+      "No, l'uso del termine 'cliente' è più appropriato nel linguaggio della Pubblica Amministrazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il concetto di 'empowerment' costituisce l'aspetto più importante del lavoro di rete sociale nel senso di...",
+    "options": [
+      "Essere in grado di attivare una strategia operativa finalizzata ad un processo di crescita",
+      "Valutare bisogni e risorse",
+      "Ascolto delle esigenze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da chi è composta la rete sociale primaria o naturale di una persona?",
+    "options": [
+      "Esclusivamente dai servizi sociali comunali.",
+      "Dai servizi sociali del Comune e dalle aziende sanitarie locali.",
+      "Da tutti i soggetti che non fanno parte della rete dei servizi e che sono legati alla persona da vincoli parentali fino al quarto grado.",
+      "Dai familiari e dalle persone che gravitano intorno all'individuo per vicinanza affettiva o geografica."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "question": "Nella conduzione di un colloquio con la famiglia del richiedente l'assistente sociale deve:",
+    "options": [
+      "Mostrare un atteggiamento empatico",
+      "Essere freddo o distaccato con tutti",
+      "Mostrare un atteggiamento realistico"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La coesione, il conformismo, le resistenze al cambiamento caratterizzano",
+    "options": [
+      "La dinamica di gruppo",
+      "La leadership gerarchica del gruppo",
+      "La socio-emotiva del gruppo",
+      "La distribuzione dei ruoli all'interno del gruppo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per ascolto vigile si intende:",
+    "options": [
+      "la capacità di ascolto, ponendo attenzione ai significati delle cose che si dicono",
+      "la capacità di ascoltare evitando esclusivamente una funzione di controllo",
+      "la capacità di ascolto, dirigendo il colloquio in posizione di autorità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il procedimento metodologico del servizio sociale:",
+    "options": [
+      "è l'insieme delle azioni che sostanzia il percorso che l'assistente sociale compie di fronte ad una situazione di bisogno al fine di raggiungere un obiettivo di fronteggiata o superarla",
+      "è l'insieme delle azioni che sostanziano il percorso che l'assistente sociale compie secondo le regole stabilite dalle organizzazioni",
+      "è l'insieme delle azioni che sostanzia il percorso che l'assistente sociale compie di fronte ad una situazione di bisogno economico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'iscrizione obbligatoria all'albo professionale è disciplinata dalla professione di assistente sociale è prevista",
+    "options": [
+      "dalla Legge 84/1993",
+      "dalla Legge 328/2000",
+      "dalla Legge 93/1984"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'assistente Sociale può chiedere al datore di lavoro, su istanza motivata, di essere sollevato dall'incarico:",
+    "options": [
+      "quando l'interesse prevalente della persona e le esigenze, per gravi motivi, facciano venire meno la relazione di fiducia",
+      "solo quando l'Assistente Sociale è dipendente della Pubblica Amministrazione",
+      "solo quando l'Assistente Sociale ha rapporti di lavoro di almeno dieci anni continuativi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono le fasi operative di intervento per l'assistente sociale che opera all'interno del percorso RdC?",
+    "options": [
+      "analisi preliminare, valutazione motivazionale, attivazione equipe multidisciplinare, avvio patto d'inclusione sociale",
+      "analisi, valutazione sociale, stipula contratto di aiuto, avvio patto d'inclusione sociale",
+      "valutazione sociale, predisposizione contratto di aiuto, definizione patto d'inclusione sociale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'assistente sociale nell'esercizio delle proprie funzioni incorra in una omissione di un atto o di un progetto che può danneggiare l'utente o il cliente e la sua famiglia...",
+    "options": [
+      "Non è tenuto ad informare l'interessato ed esperire ogni tentativo per rimediare",
+      "Deve informare l'interessato ma non esperire tentativi per rimediare",
+      "Deve informare l'interessato ed esperire ogni tentativo per rimediare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per le gravi e reiterate testimonianze l'assistente sociale può astenersi?",
+    "options": [
+      "No, mai",
+      "Si",
+      "Soltanto in casi tassativi."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nel caso l'interesse prevalente dell'assistito lo esiga, o per gravi motivi venga meno il rapporto fiduciario, o qualora sussista un grave rischio per l'incolumità dell'assistente sociale.",
+    "options": [
+      "Lo stesso vi rinuncia comunicandolo al cliente motivato",
+      "Lo comunica all'ordine professionale e all'incaricato",
+      "Si attiva per l'individuazione di un sostituto, con consenso informato e attivo del cliente motivato, il caso ad altro collega, fornendo ogni elemento utile alla continuità del processo di aiuto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'approccio olistico alla cura e all'assistenza della persona anziana si caratterizza per la crescente attenzione rivolta:",
+    "options": [
+      "anche ai componenti del nucleo familiare anziano e ai caregiver",
+      "esclusivamente al soggetto anziano",
+      "soprattutto la famiglia del soggetto anziano privilegiando la relazione con eventuali nipoti"
+    ],
+    "correctIndex": 0
+  }
+]

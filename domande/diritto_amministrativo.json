@@ -1,0 +1,3836 @@
+[
+  {
+    "question": "Ai sensi della L. 241/1990 e s.m.i., quale tra le seguenti alternative costituisce motivo di revoca del provvedimento?",
+    "options": [
+      "Nuova valutazione dell'interesse pubblico originario",
+      "Contraddittorietà della motivazione",
+      "Vizi di legittimità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'annullamento d'ufficio in sede di controllo....",
+    "options": [
+      "E' un controllo di legittimità e di merito, previsto dalla legge in sostituzione o in aggiunta all'approvazione",
+      "E' un controllo successivo di legittimità",
+      "E' un atto di controllo che tende a rimuovere un ostacolo all'esercizio di un diritto o di un potere già appartenente al soggetto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In tema di principi generali dell'attività amministrativa, è corretto asserire che....",
+    "options": [
+      "L'attività amministrativa persegue i fini determinati dalla legge ed è retta da criteri di economicità, di efficienza e di trasparenza",
+      "L'attività amministrativa persegue i fini determinati dalla legge ed è retta da criteri di economicità, di efficacia, di pubblicità e di trasparenza",
+      "La pubblica amministrazione non può aggravare il procedimento se non per le normali esigenze imposte dallo svolgimento dell'istruttoria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Gli elementi dell'atto amministrativo si distinguono in: essenziali, accidentali e naturali. É un elemento accidentale....",
+    "options": [
+      "Condizione",
+      "Contenuto",
+      "Finalità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti vizi di legittimità produce l'annullabilità dell'atto amministrativo per violazione di legge?",
+    "options": [
+      "Vizi della volontà",
+      "Erronea valutazione dei fatti",
+      "Contenuto illegittimo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ciascun atto amministrativo presenta una struttura formale generalmente composta da....",
+    "options": [
+      "Intestazione, preambolo, dispositivo, luogo e data",
+      "Preambolo, motivazione, dispositivo, luogo e sottoscrizione",
+      "Intestazione, preambolo, motivazione, dispositivo, luogo, data e sottoscrizione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quando è prevista la motivazione del provvedimento amministrativo",
+    "options": [
+      "Sempre, salvo le eccezioni di legge",
+      "Sempre, salvo i casi di necessità",
+      "Sempre, salvo i casi di urgenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'atto amministrativo illegittimo per la presenza di vizi di legittimità....",
+    "options": [
+      "Può essere sanato, ma non ratificato",
+      "E' giuridicamente esistente",
+      "E' inesecutorio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La legge n. 241/90 ha introdotto, in materia di procedimento amministrativo, il \"principio dell'efficacia\". Di che cosa si tratta?",
+    "options": [
+      "Del dovere da parte della Pubblica Amministrazione di rendere accessibili agli interessati notizie e documenti concernenti l'operato dei pubblici poteri in ossequio al principio della trasparenza",
+      "Del corretto rapporto che vi deve essere tra risorse impiegate e risultati ottenuti in ossequio al principio della buona amministrazione",
+      "Del corretto rapporto che vi deve essere tra risultati ottenuti e obiettivi prestabiliti in ossequio al principio della buona amministrazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ha facoltà di intervenire nel procedimento",
+    "options": [
+      "Qualunque soggetto, portatore di interessi pubblici o privati, che vi abbia interesse",
+      "Qualunque soggetto, portatore di interessi pubblici o privati, nonché i portatori di interessi diffusi costituiti in associazioni o comitati, previa comunicazione all'amministrazione",
+      "Qualunque soggetto, portatore di interessi pubblici o privati, nonché i portatori di interessi diffusi costituiti in associazioni o comitati, cui possa derivare un pregiudizio dal provvedimento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In tema di diritto di accesso, con il termine \"controinteressati\" si intende",
+    "options": [
+      "Tutti i soggetti, individuati o facilmente individuabili in base alla natura del documento richiesto, che dall'esercizio dell'accesso vedrebbero compromesso il loro diritto alla riservatezza",
+      "Tutti i soggetti di diritto pubblico e i soggetti di diritto privato limitatamente alla loro attività di pubblico interesse disciplinata dal diritto nazionale o comunitario",
+      "Tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento al quale è chiesto l'accesso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La motivazione del provvedimento amministrativo deve indicare:",
+    "options": [
+      "I presupposti di fatto e le ragioni giuridiche che hanno determinato la decisione dell'amministrazione, in relazione alle risultanze dell'istruttoria",
+      "Gli elementi essenziali dell'atto e, qualora presenti, quelli accidentali",
+      "I requisiti di legittimità dell'atto amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La revoca di un atto amministrativo avviene:",
+    "options": [
+      "Solo per vizi di legittimità",
+      "Per vizi di legittimità e di merito",
+      "Solo per vizi di merito"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il verificarsi delle condizioni risolutive di un atto amministrativo si considera come causa di:",
+    "options": [
+      "Cessazione dell'efficacia",
+      "Inizio dell'efficacia",
+      "Modificazione dell'efficacia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Di quale principio è espressione l'obbligo di comunicare l'avvio del procedimento?",
+    "options": [
+      "La partecipazione al procedimento amministrativo",
+      "La semplificazione amministrativa",
+      "La segretezza dell'azione amministrativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cosa consiste la fase istruttoria del procedimento amministrativo?",
+    "options": [
+      "E' la fase in cui vengono svolti tutti gli accertamenti di fatto o valutativi che servono alla decisione finale",
+      "E' la fase in cui viene adottata la decisione finale",
+      "E' la fase con cui si dà avvio al procedimento amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per efficienza dell'azione amministrativa?",
+    "options": [
+      "II raffronto tra i risultati programmati ed i risultati raggiunti",
+      "La produzione della massima quantità di determinati beni o servizi in rapporto ad una data. quantità di risorse",
+      "L'immediata e facile controllabilità dell'operato della pubblica amministrazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La legge n. 241/90 stabilisce che la richiesta di accesso ai documenti amministrativi deve essere motivata?",
+    "options": [
+      "Si, se la richiesta di accesso proviene da un privato",
+      "Si, indipendentemente dalla forma dell'istanza",
+      "Si, se l'istanza ha la forma scritta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il diritto di accesso ai documenti amministrativi è riconosciuto dalla legge 241/90 e successive modificazioni ed integrazioni:",
+    "options": [
+      "Al fine di favorire la partecipazione e di assicurare l'imparzialità e la trasparenza dell'attività amministrativa",
+      "Al fine di attribuire carattere di efficacia all'azione amministrativa",
+      "Solo al fine di consentire il controllo sulla gestione delle spese"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Chi è tenuto, ai sensi della legge n. 241/90, a consentire l'esercizio del diritto di accesso?",
+    "options": [
+      "Solamente le Amministrazioni dello Stato ed i concessionari di pubblici servizi",
+      "Sia le Amministrazioni dello Stato, che gli Enti pubblici che i concessionari di pubblici servizi",
+      "Solamente le Amministrazioni dello Stato e gli Enti pubblici"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il rilascio di copie dei documenti amministrativi in sede di diritto di accesso:",
+    "options": [
+      "E' subordinato soltanto al rimborso del costo di riproduzione, salve le disposizioni vigenti in materia di bollo, nonché i diritti di ricerca e di visura",
+      "E' gratuito",
+      "E' soggetto solo all'imposta di bollo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si esercita il diritto di accesso ai documenti amministrativi?",
+    "options": [
+      "Per il tramite del T.A.R",
+      "Mediante esame ed estrazione di copia",
+      "Esclusivamente mediante esame dei documenti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma dell'art. 22 della L. 241/1990, quali sono i limiti temporali per l'esercizio del diritto di accesso?",
+    "options": [
+      "Il diritto è esercitabile fino a quando la pubblica amministrazione ha l'obbligo di detenere i documenti amministrativi ai quali si chiede di accedere",
+      "Il diritto è esercitabile anche quando cessa l'obbligo della P.A. di detenere i documenti amministrativi ai quali si chiede di accedere",
+      "Il diritto va esercitato entro sessanta giorni dall'adozione del provvedimento finale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In conseguenza dell'inosservanza del termine di conclusione del procedimento:",
+    "options": [
+      "L'amministrazione è tenuta al risarcimento del danno ingiusto solo se l'inosservanza e' stata dolosa",
+      "L'amministrazione è tenuta al risarcimento del danno ingiusto se l'inosservanza è stata dolosa o colposa",
+      "L'amministrazione non è tenuta al risarcimento del danno bensi alla corresponsione di un indennizzo nei confronti dell'istante se il danno ingiusto è derivato da inosservanza dolosa o colposa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale parte dell'atto amministrativo indica gli interessi coinvolti nel procedimento e spiega le ragioni per le quali ha preferito soddisfare un interesse piuttosto che un altro?",
+    "options": [
+      "II Preambolo",
+      "IL Dispositivo",
+      "La Motivazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale dei seguenti vizi di legittimità produce l'annullabilità dell'atto per eccesso di potere?",
+    "options": [
+      "Il vizio di forma",
+      "L'erronea valutazione dei fatti",
+      "Il contenuto illegittimo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La Pubblica Amministrazione è tenuta a determinare, per ciascun procedimento, l'unità organizzativa responsabile dell'istruttoria?",
+    "options": [
+      "Si, l'Amministrazione è obbligata ad individuare il responsabile del procedimento",
+      "La determinazione del responsabile del procedimento è un obbligo solo per i provvedimenti a rilevanza esterna",
+      "No, non è un obbligo dell'Amministrazione ma solo una facoltà"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando si differisce il termine di efficacia di un precedente provvedimento amministrativo:",
+    "options": [
+      "Si pone in essere un provvedimento di abrogazione",
+      "Si pone in essere un provvedimento di proroga",
+      "Si pone in essere un provvedimento di sospensione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma di quanto dispone la legge n. 241/1990, il differimento all'accesso dei documenti amministrativi:",
+    "options": [
+      "Qualora adottato, deve essere opportunamente motivato",
+      "Non e' previsto epressamente dalla legge",
+      "Qualora adottato, non necessita di una specifica motivazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 della legge n. 241/1990, per quale delle attivita' elencate di seguito l'amministrazione e' obbligata a predeterminare i criteri e le modalita' cui attenersi?",
+    "options": [
+      "Qualunque spesa che ecceda gli stanziamenti di bilancio",
+      "L'attribuzione di vantaggi economici di qualunque genere",
+      "In generale l'effettuazione di spese pubbliche"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quale parte dell'atto amministrativo indica gli interessi coinvolti nel procedimento e spiega le ragioni per le quali ha preferito soddisfare un interesse piuttosto che un altro?",
+    "options": [
+      "II Preambolo",
+      "II Dispositivo",
+      "La Motivazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 3 della legge 7 agosto 1990, n. 241, cosa deve indicare la motivazione dei provvedimenti amministrativi?",
+    "options": [
+      "Gli elementi essenziali dell'atto e, laddove siano presenti, gli elementi accidentali",
+      "Solo i presupposti di fatto e di diritto che hanno determinato l'amministrazione pubblica ad iniziare il procedimento",
+      "I presupposti di fatto e le ragioni giuridiche che hanno determinato la decisione dell'amministrazione, in relazione alle risultanze dell'istruttoria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il contenuto precettivo della proposta approvata, ovvero la concreta manifestazione di volonta', fanno parte:",
+    "options": [
+      "Del preambolo della proposta di delibera",
+      "Della motivazione della proposta di delibera",
+      "Della parte dispositiva della proposta di delibera approvata nei modi di legge"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi della L. n° 241/1990, l'ufficio responsabile del procedimento deve essere specificato nella comunicazione di avvio del procedimento?",
+    "options": [
+      "La norma prescrive che sia obbligatoriamente indicata solo la persona responsabile del provvedimento",
+      "Non e' espressamente previsto dalla norma, ma puo' essere indicato a discrezione dell'ente procedente",
+      "Si', obbligatoriamente, con la specifica indicazione della persona responsabile del procedimento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La capacita' del provvedimento amministrativo di produrre effetti in modo automatico ed immediato una volta divenuto efficace, indipendentemente dal fatto che lo stesso sia valido o invalido si definisce come:",
+    "options": [
+      "Esecutivita' del provvedimento",
+      "Imperativita' o autoritarieta'",
+      "Inoppugnabilita'"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando nel provvedimento non e' indicato il destinatario:",
+    "options": [
+      "L'atto e' nullo",
+      "L'atto e'annulabile",
+      "L'atto e' irregolare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "E' annullabile il provvedimento amministrativo:",
+    "options": [
+      "Viziato da eccesso di potere",
+      "Che e' viziato da difetto assoluto di attribuzione",
+      "Adottato in violazione del giudicato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'esame dei documenti, ai sensi dell'art. 25 1.241/1990 è...",
+    "options": [
+      "Gratuito",
+      "Subordinato al pagamento di una marca da bollo",
+      "Subordinato al pagamento di una somma stabilità con regolamento dalla P.A."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La richiesta di accesso ai documenti amministrativi, ai sensi dell'art. 25, comma 2 della 1.241/1990 deve essere rivolta...",
+    "options": [
+      "All'amministrazione che ha formato il documento o che lo detiene stabilmente",
+      "Esclusivamente all'amministrazione che ha formato il documento",
+      "Esclusivamente al responsabile del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 22 1. 241/1990, per \"interessati\" s'intende...",
+    "options": [
+      "Tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento al quale è chiesto l'accesso",
+      "Tutti i soggetti privati, compresi quelli portatori di interessi pubblici, ma esclusi quelli portatori di interessi diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento al quale è chiesto l'accesso",
+      "Tutti i soggetti privati, esclusi quelli portatori di interessi pubblici o diffusi, che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata al documento al quale è chiesto l'accesso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La partecipazione del cittadino al procedimento amministrativo è prevista nella fase:",
+    "options": [
+      "Dispositiva",
+      "Istruttoria",
+      "Esecutiva"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'atto nullo può essere revocato?",
+    "options": [
+      "No. Può essere solo abrogato",
+      "Si, sempre",
+      "No. Può soltanto intervenire un atto meramente dichiarativo di nullità"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In quali casi un atto amministrativo è annullabile?",
+    "options": [
+      "Quando è illecito",
+      "Quando è ineseguibile",
+      "Quando presenta vizi di legittimità che incidono sugli elementi essenziali"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il diritto di accesso ai documenti amministrativi soddisfa i criteri di:",
+    "options": [
+      "Economicità ed efficienza",
+      "Diligenza ed equità",
+      "Imparzialità e trasparenza"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ove il procedimento consegua obbligatoriamente ad una istanza, ovvero debba essere iniziato d'ufficio la Pubblica Amministrazione:",
+    "options": [
+      "Ha il dovere di concluderlo con un provvedimento espresso",
+      "Ha la facoltà di concluderlo con un provvedimento tacito",
+      "Ha il dovere di concluderlo entro il termine stabilito dallo Statuto dell'Ente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In caso di nuova valutazione dell'interesse pubblico originario, il provvedimento amministrativo ad efficacia durevole può essere:",
+    "options": [
+      "Convalidato",
+      "Revocato",
+      "Autorizzato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Perché si parla di \"esecutività del provvedimento amministrativo\"?",
+    "options": [
+      "Perché l'amministrazione può dare esecuzione alla propria decisione anche senza la collaborazione del destinatario e senza la mediazione del giudice",
+      "Perché i provvedimenti amministrazione sono espressione del potere esecutivo",
+      "Perché l'amministrazione pubblica ha il dovere di dare esecuzione ai propri provvedimenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Perché il provvedimento amministrativo è unilaterale?",
+    "options": [
+      "Perché non si caratterizza dal perseguimento di interessi pubblici",
+      "Perché è caratterizzato dal perseguimento unilaterale di interessi pubblici",
+      "Perché è un atto di alta amministrazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Possono intervenire in un procedimento amministrativo anche:",
+    "options": [
+      "Portatori di interessi diffusi, se costituiti in associazioni riconosciute",
+      "Portatori di interessi diffusi costituiti in associazioni o comitati",
+      "Solo gli interessati al procedimento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In che modo opera l'annullamento in sede di riesame?",
+    "options": [
+      "Sostituisce l'atto amministrativo viziato",
+      "Rimuove con efficacia ex tunc l'atto amministrativo viziato, oggetto di annullamento",
+      "Sospende temporaneamente l'efficacia dell'atto amministrativo annullato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Che cos'è un procedimento amministrativo?",
+    "options": [
+      "Una serie di atti tra lorо connessi e concatenati che si concretizzano in un provvedimento amministrativo finale",
+      "Un insieme di atti separati tra loro da altri atti che li integrano e li modificano",
+      "Un obbligo per la P.A. di intervenire in un provvedimento amministrativo contro privati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'organo dell'ente pubblico è:",
+    "options": [
+      "La persona fisica titolare della funzione pubblica",
+      "La persona o il complesso di persone preposte ad un determinato centro di imputazione di competenza amministrativa",
+      "Un'entità distinta, avente funzioni di ausilio dell'ente"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 3 della legge 7 agosto 1990, n. 241, cosa deve indicare la motivazione dei provvedimenti amministrativi?",
+    "options": [
+      "I presupposti di fatto e le ragioni giuridiche che hanno determinato la decisione dell'amministrazione, in relazione alle risultanze dell'istruttoria",
+      "Gli elementi essenziali dell'atto e, laddove siano presenti, gli elementi accidentali",
+      "Solo i presupposti di fatto e di diritto che hanno determinato l'amministrazione pubblica ad iniziare il procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2, comma 1 della legge 241/1990 e ss.mm.ii., ove il procedimento consegua obbligatoriamente ad un'istanza, ovvero debba essere iniziato d'ufficio, le pubbliche amministrazioni hanno il dovere di concluderlo:",
+    "options": [
+      "Mediante l'istituto del silenzio-assenso",
+      "Mediante l'adozione di un provvedimento espresso",
+      "Mediante l'adozione di un provvedimento legale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'organo competente ad adottare il provvedimento finale, se diverso dal responsabile del procedimento:",
+    "options": [
+      "Puo' discostarsi dalle risultanze dell'istruttoria condotta dal responsabile del procedimento, ma deve indicame la motivazione nel provvedimento finale",
+      "Non puo' mai discostarsi dalle risultanze dell'istruttoria condotta dal responsabile del procedimento",
+      "Puo' arbitrariamente discostarsi dalle risultanze dell'istruttoria condotta dal responsabile del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quali casi puo' essere omessa la comunicazione di avvio del procedimento di cui alla L. 241/90?",
+    "options": [
+      "In nessun caso",
+      "Quando da un provvedimento possa derivare un pregiudizio a soggetti individuati o facilmente individuabili, diversi dai suoi diretti destinatari",
+      "Quando sussistano particolari esigenze di celerita' del procedimento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi della l. 241/1990, quale tra le seguenti alternative costituisce motivo di revoca del provvedimento?",
+    "options": [
+      "Contraddittorieta' della motivazione",
+      "Vizi di legittimita'",
+      "Nuova valutazione dell'interesse pubblico originario"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il procedimento amministrativo si articola in quattro fasi: fase d'iniziativa, fase istruttoria, fase decisoria, fase integrativa dell'efficacia. Cos'e' la fase d'iniziativa?",
+    "options": [
+      "E' la fase propulsiva del procedimento",
+      "E' diretta esclusivamente ad acquisire e valutare i singoli dati pertinenti e rilevanti ai fini dell'emanazione dell'atto",
+      "E' quella che determina il contenuto dell'atto da adottare e la conseguente formazione ed emanazione dell'atto stesso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della legge 241/90 chi puo' esercitare il diritto di accesso ai documenti amministrativi?",
+    "options": [
+      "I portatori di qualsiasi interesse, anche solo di fatto",
+      "Coloro che vi abbiano interesse per la tutela esclusiva di una situazione giuridica di interesse legittimo",
+      "Coloro che vi abbiano interesse per la tutela di situazioni giuridicamente rilevanti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 8 della L. 241/90 e ss.mm.ii., l'oggetto del procedimento promosso deve essere indicato in ogni caso, nella comunicazione dell'avvio del procedimento amministrativo?",
+    "options": [
+      "Si",
+      "Solo in alcuni casi indicati dalla norma",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'atto amministrativo è perfetto quando...",
+    "options": [
+      "Si è concluso il procedimento prescritto per la sua giuridica esistenza",
+      "E' immune da vizi",
+      "E' idoneo a produrre effetti giuridici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per diritto di accesso ai documenti amministrativi?",
+    "options": [
+      "Il diritto degli interessati di prendere visione e di estrarre copia degli atti e dei documenti amministrativi",
+      "Il potere del giudice amministrativo di prendere visione degli atti amministrativi impugnati e di quelli la cui conoscenza sia necessaria ai fini della risoluzione della controversia",
+      "Il diritto dei funzionari pubblici di accedere agli atti ed ai documenti necessari ai fini dell'adozione di un determinato provvedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Pubblica Amministrazione, riguardo alla richiesta presentata per l'esercizio del diritto di accesso a documenti amministrativi, può, ai sensi della legge n. 241/90:",
+    "options": [
+      "Solo limitarla ad una parte dei documenti",
+      "Solo rifiutarla o differirla per un determinato periodo di tempo",
+      "Limitarla ad una parte dei documenti, rifiutarla o differirla per un determinato periodo di tempo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il diritto di accesso ai documenti amministrativi è:",
+    "options": [
+      "Un diritto di tutti i cittadini",
+      "Riconosciuto solo al titolare di un diritto soggettivo",
+      "Riconosciuto a chiunque vi abbia un interesse personale e concreto per la tutela di situazioni giuridicamente rilevanti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il diritto di accesso ai documenti amministrativi è espressione del principio di:",
+    "options": [
+      "Efficacia",
+      "Economicità",
+      "Trasparenza"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art.4 della L. 241/90 e ss.mm.ii., le pubbliche amministrazioni che cosa sono tenute a determinare per ciascun tipo di procedimento relativo ad atti di loro competenza?",
+    "options": [
+      "L'unità organizzativa responsabile solo del provvedimento finale",
+      "L'unità organizzativa responsabile della istruttoria e di ogni altro adempimento procedimentale, nonché dell'adozione del provvedimento finale",
+      "L'unità organizzativa responsabile della istruttoria e di ogni altro adempimento procedimentale, ma non dell'adozione del provvedimento finale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 21-octies della legge 241/1990 e ss.mm.ii., il provvedimento amministrativo è annullabile:",
+    "options": [
+      "Quando è adottato in violazione di legge o viziato da eccesso di potere o da incompetenza",
+      "Quando in premessa richiama norme di legge non coerenti con il suo contenuto dispositivo",
+      "Su segnalazione del cittadino, portatore di interesse, tramite la partecipazione al procedimento amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale dei seguenti casi non è legittima la revoca del provvedimento?",
+    "options": [
+      "Per sopravvenuti motivi di pubblico interesse",
+      "Nel caso di mutamento della situazione di fatto o di nuova valutazione dell'interesse pubblico originario",
+      "Nel caso in cui il provvedimento violi una legge intervenuta successivamente al momento della sua adozione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Cosa s'intende per sussidiarietà verticale?",
+    "options": [
+      "L'allocazione delle attribuzioni fra livelli di governo differenti deve avvenire in maniera tale che alle autorità territorialmente più vicine ai cittadini sia attribuita la generalità dei compiti che esigenze di carattere unitario non impongono di radicare a livello più alto",
+      "L'allocazione delle attribuzioni fra livelli di governo differenti deve avvenire in maniera tale che alle autorità poste a livello più elevato sia attribuita la generalità dei compiti",
+      "L'allocazione delle attribuzioni fra livelli di governo differenti deve avvenire in maniera proporzionale in base all'autorità dei diversi livelli"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ciascun atto amministrativo presenta una struttura formale generalmente composta da",
+    "options": [
+      "Intestazione, preambolo, dispositivo, luogo e data",
+      "Preambolo, motivazione, dispositivo, luogo e sottoscrizione",
+      "Intestazione, preambolo, motivazione, dispositivo, luogo, data e sottoscrizione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In un provvedimento amministrativo la proposta è...",
+    "options": [
+      "Una manifestazione di giudizio dell'organo propulsivo circa il contenuto da dare all'atto",
+      "Una manifestazione di volontà dell'organo propulsivo circa il contenuto da dare all'atto",
+      "Una manifestazione di conoscenza dell'organo propulsivo circa il contenuto da dare all'atto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli organi di indirizzo politico:",
+    "options": [
+      "Non possono revocare, riformare, riservare o avocare a sé, o altrimenti adottare un provvedimento o atto di competenza dei dirigenti",
+      "Possono revocare, riformare, riservare o avocare a sé, o altrimenti adottare un provvedimento o atto di competenza dei dirigenti",
+      "Possono revocare, riformare, riservare o avocare a sé, o altrimenti adottare un provvedimento o atto di competenza dei dirigenti ma solo in caso di assenza del dirigente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Agli organi di governo dell'amministrazione spetta, tra l'altro:",
+    "options": [
+      "Il potere di adozione di ogni provvedimento",
+      "La definizione di obiettivi, priorità, piani, programmi e direttive generali per l'azione amministrativa e per la gestione",
+      "La responsabilità di ogni procedimento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 14, comma 3, 1.241/1990, per progetti di particolare complessità e di insediamenti produttivi di beni e servizi l'amministrazione procedente...",
+    "options": [
+      "Su motivata richiesta dell'interessato, corredata da uno studio di fattibilità, può indire una conferenza preliminare",
+      "Soltanto d'ufficio, corredata da uno studio di fattibilità, può indire una conferenza preliminare",
+      "Su motivata richiesta dell'interessato, corredata da uno studio di fattibilità, deve indire una conferenza preliminare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 12 della L. 241/90 e ss.mm.ii., l'amministrazione è obbligata a predeterminare e rendere preventivamente pubblici i criteri e le modalità cui attenersi:",
+    "options": [
+      "Per qualunque spesa i cui oneri siano a totale carico del bilancio dell'ente",
+      "Per la concessione di sovvenzioni, contributi, sussidi ed ausili finanziari e l'attribuzione di vantaggi economici di qualunque genere a persone ed enti pubblici e privati",
+      "Per qualunque spesa che ecceda gli stanziamenti di bilancio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 25 co. 3 della L. 241/90 e ss.mm.ii., il differimento all'accesso dei documenti amministrativi deve essere motivato?",
+    "options": [
+      "Si",
+      "No, solo il rifiuto deve essere motivato",
+      "No, l'amministrazione decide se motivare o meno il differimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 24 co. 6 della L. 241/90 e ss.mm.ii., il divieto di accesso ai documenti amministrativi riguarda, tra l'altro:",
+    "options": [
+      "I documenti concernenti l'attività del Governo",
+      "I documenti concernenti situazioni patrimoniali",
+      "I documenti volti a salvaguardare la sicurezza e la difesa nazionale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 22 co. 2 della L. 241/90 e ss.mm.ii., l'accesso ai documenti amministrativi, attese le sue rilevanti finalità di pubblico interesse, costituisce:",
+    "options": [
+      "Principio generale dell'attività amministrativa al fine di favorire la partecipazione e di assicurarne l'imparzialità e la trasparenza",
+      "Principio esclusivo dell'attività amministrativa al fine di favorire la partecipazione e di assicurarne efficacia ed efficienza",
+      "Principio accessorio dell'attività amministrativa al fine di favorire la partecipazione e di assicurarne legittimità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa è il principio di sussidiarietà?",
+    "options": [
+      "Il principio che demanda ai livelli di governo superiori l'individuazione delle funzioni da affidare ai livelli inferiori",
+      "Il principio che impone l'adozione delle decisioni al livello più vicino ai cittadini",
+      "Il principio che prevede che le attività amministrative devono essere svolte direttamente a livello legislativo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Il responsabile del procedimento amministrativo può adottare il provvedimento finale?",
+    "options": [
+      "No, perché il responsabile del procedimento può solo svolgere la fase istruttoria del procedimento",
+      "No, perché il provvedimento finale è di esclusiva competenza del dirigente dell'unità organizzativa",
+      "Si, se il dirigente dell'unità organizzativa gli ha assegnato la responsabilità per l'adozione del provvedimento finale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi della legge n. 241/90, il soggetto diverso dal destinatario che possa subire un pregiudizio dal provvedimento, ha il diritto di presentare memorie scritte e documenti all'amministrazione?",
+    "options": [
+      "Si e l'amministrazione ha l'obbligo di valutarli ove siano pertinenti all'oggetto del procedimento",
+      "No, in quanto si tratta di una prerogativa riconosciuta solo al destinatario diretto dell'atto",
+      "Si. In ogni caso l'amministrazione non ha alcun l'obbligo di valutarli anche nel caso siano pertinenti all'oggetto del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 della L. 241/90 e ss.mm.ii., la Conferenza dei servizi viene convocata:",
+    "options": [
+      "Per effettuare un esame contestuale dei vari interessi pubblici coinvolti in un procedimento amministrativo",
+      "Per predisporre la progettazione di opere di manutenzione ordinaria",
+      "Per l'acquisizione di informazioni o di certificazioni relative a fatti, stati o qualità non attestati in documenti già in possesso dell'amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'art. 1, co. 1, della I. n. 241/1990 stabilisce che l'azione amministrativa deve essere improntata ad alcuni principi, tra cui economicità, efficacia e pubblicità. Il criterio di economicità:",
+    "options": [
+      "Indica il rapporto tra risultati ottenuti e obiettivi prestabiliti",
+      "È un'articolazione del principio costituzionale di buon andamento dell'azione amministrativa",
+      "Impone l'obbligo di rendere noto il termine entro il quale deve concludersi il procedimento amministrativo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'accesso ai documenti amministrativi, attese le sue rilevanti finalità di pubblico interesse, costituisce (art. 22, comma 2, I. n. 241/1990):",
+    "options": [
+      "Principio generale dell'attività amministrativa al fine di favorire la partecipazione e di assicurarne l'imparzialità e la trasparenza",
+      "Un controllo su tutta l'attività amministrativa",
+      "Un diritto riconosciuto a tutti i cittadini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con riferimento alla fase dell'iniziativa del procedimento amministrativo, nasce un obbligo a provvedere per la pubblica amministrazione nel caso di:",
+    "options": [
+      "Richiesta",
+      "Proposta non vincolante",
+      "Voti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La pubblica amministrazione può rifiutare l'accesso ai documenti amministrativi?",
+    "options": [
+      "No, in nessun caso",
+      "Si, nei casi e nei limiti stabiliti dalla legge n. 241/1990",
+      "Si, l'amministrazione decide a suo insindacabile giudizio se e quali documenti possano essere sottratti all'accesso"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Con riferimento alle principali fasi del procedimento amministrativo si individui, per la fase istruttoria, l'affermazione corretta.",
+    "options": [
+      "Soggiace al principio di non aggravamento del procedimento",
+      "Quanto a competenza spetta ordinariamente ad autorità diversa da quella cui compete l'adozione del provvedimento finale",
+      "È la fase deliberativa del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nella legge sul procedimento amministrativo vige:",
+    "options": [
+      "II divieto di compiere accertamenti tecnici ed ispezioni",
+      "II divieto di agire secondo le norme di diritto privato",
+      "II divieto di aggravare il procedimento se non per straordinarie e motivate esigenze imposte dallo svolgimento dell'istruttoria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 10 della L. 241/90 e ss.mm.ii., gli interessati nel corso del procedimento possono presentare documenti?",
+    "options": [
+      "No",
+      "Si, solo se costituiti in associazioni o comitati",
+      "Si, possono presentare memorie scritte e documenti, che l'amministrazione ha l'obbligo di valutare ove siano pertinenti all'oggetto del procedimento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 15 della Legge 241/1990, le Pubbliche Amministrazioni possono concludere accordi tra loro?",
+    "options": [
+      "Si, per disciplinare lo svolgimento in collaborazione di attività di interesse comune",
+      "Si, ma solo se si tratta di amministrazioni di rango diverso (Accordo Stato Regione; Accordo Regione-Provincia, etc.)",
+      "No, salvo determinati casi tassativamente elencati dalla legge stessa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 6 della L. n. 241/1990, quale soggetto valuta ai fini istruttori i presupposti che siano rilevanti per l'emanazione del provvedimento?",
+    "options": [
+      "Il responsabile del procedimento",
+      "Un consulente estemo nominato dall'organo di indirizzo politico della pubblica amministrazione",
+      "L'organo di indirizzo politico della pubblica amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il diritto di accesso si esercita...",
+    "options": [
+      "Nei confronti delle pubbliche amministrazioni, delle aziende autonome e speciali, degli enti pubblici e dei gestori di pubblici servizi",
+      "Esclusivamente nei confronti delle pubbliche amministrazioni",
+      "Esclusivamente nei confronti delle aziende autonome e speciali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della L. 241/1990, chi può far valere l'omissione di taluna delle comunicazioni prescritte per l'avvio del procedimento?",
+    "options": [
+      "Solo il dirigente del settore a cui afferisce il procedimento",
+      "Solo il soggetto nel cui interesse la comunicazione è prevista",
+      "Tutti i soggetti, eccetto quelli interessati dalla comunicazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma dell'articolo 2, comma 9 bis, della legge 241/1990, il soggetto a cui è attribuito il potere sostitutivo in caso di inerzia da parte di un dirigente di una P.A. nell'emanazione di un provvedimento, viene individuato:",
+    "options": [
+      "dall'organo di controllo",
+      "dal dirigente preposto all'ufficio",
+      "dall'organo di governo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 8 comma 1 della L. 241/1990, in quale modo l'Amministrazione comunica l'avvio del procedimento amministrativo?",
+    "options": [
+      "Con qualsiasi forma di pubblicità",
+      "Con comunicazione personale",
+      "Con pubblicazione all'Albo pretorio dell'informativa relativa all'avvio del procedimento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Cosa dispone la Legge 241/1990 all'art. 7, in materia di comunicazione di avvio del procedimento?",
+    "options": [
+      "L'amministrazione è tenuta a comunicare l'avvio del procedimento ai soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti ed a quelli che per legge debbono intervenirvi",
+      "L'amministrazione è tenuta a comunicare l'avvio del procedimento esclusivamente ai soggetti che per legge sono tenuti ad intervenirvi",
+      "L'amministrazione è tenuta a comunicare l'avvio del procedimento solo ai soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La sanatoria dell'atto amministrativo è",
+    "options": [
+      "Un provvedimento con il quale viene perfezionato ex-post un atto o un presupposto di legittimità del procedimento, mancante al momento dell'emanazione del procedimento",
+      "Un provvedimento nuovo, autonomo, costitutivo, con cui viene eliminato il vizio di incompetenza relativa da parte dell'autorità astrattamente competente, la quale si appropria di un atto emesso da autorità incompetente dello stesso ramo",
+      "Un provvedimento nuovo, autonomo, costitutivo con cui vengono eliminati i vizi di legittimità di un atto invalido precedentemente emanato dalla stessa autorità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-bis della L. 241/90 e ss.mm.ii., l'efficacia di un provvedimento limitativo della sfera giuridica dei privati acquista efficacia nei confronti di ciascun destinatario:",
+    "options": [
+      "Dalla pubblicazione dell'atto sulla Gazzetta Ufficiale",
+      "Dalla rituale impugnazione dinanzi al Giudice Amministrativo",
+      "Dalla comunicazione agli interessati del provvedimento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "È nullo il provvedimento amministrativo:",
+    "options": [
+      "Quando manca degli elementi essenziali, nonché negli altri casi espressamente previsti dalla legge",
+      "Quando manca degli elementi essenziali, quando è viziato da difetto assoluto di attribuzione, quando è stato adottato in violazione o elusione del giudicato, nonché negli altri casi espressamente previsti dalla legge",
+      "Quando manca degli elementi essenziali e quando è viziato da difetto assoluto di attribuzione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 22 della L. 241/90 e ss.mm.ii., nell'ambito di un procedimento amministrativo è consentito prendere visione di documenti amministrativi?",
+    "options": [
+      "Si, ai soggetti interessati",
+      "No",
+      "Si, è un diritto di tutti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono gli atti amministrativi tipici con cui i dirigenti assumono le decisioni necessarie per realizzare gli obiettivi stabiliti dagli indirizzi e dalle programmazioni dell'ente?",
+    "options": [
+      "Le deliberazioni",
+      "Le ordinanze gestionali",
+      "Le determinazioni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In attuazione della legge n. 241/1990, l'amministrazione provvede a dare notizia dell'avvio del procedimento amministrativo mediante comunicazione personale, nella quale deve indicare, tra l'altro, quali dati?",
+    "options": [
+      "Le tipologie di atti di cui è possibile prendere visione",
+      "L'ufficio e la persona responsabile del procedimento",
+      "II nominativo di tutte le persone interessate al procedimento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Decorso il termine per la formazione del silenzio-assenso, la P.A.:",
+    "options": [
+      "Perde il potere di incidere sugli effetti illegittimi del silenzio-assenso agendo in autotutela",
+      "Conserva il potere di provvedere in maniera espressa",
+      "Perde il potere di provvedere in maniera espressa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'art. 2 della legge n. 241/1990, stabilisce che il termine legale di conclusione del procedimento amministrativo è di trenta giorni. Detto termine:",
+    "options": [
+      "Opera qualora le pubbliche amministrazioni non individuino un termine diverso",
+      "È tassativo per le sole amministrazioni statali",
+      "È tassativo per tutte le amministrazioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali sono gli atti con cui si esercita il controllo sui provvedimenti amministrativi?",
+    "options": [
+      "Esclusivamente l'annullamento in sede di controllo preventivo e successivo",
+      "II visto, l'approvazione, l'omologazione, l'annullamento in sede di controllo, la richiesta di riesame",
+      "La sola richiesta di riesame su istanza di parte"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma della Legge 241/1990, qualora, per il numero dei destinatari, la comunicazione personale dell'avvio del procedimento amministrativo non sia possibile o sia particolarmente gravosa, l'amministrazione:",
+    "options": [
+      "Provvede mediante forme di pubblicità idonee di volta in volta stabilite dall'amministrazione medesima",
+      "Provvede mediante notificazione per pubblici proclami",
+      "Provvede mediante affissione all'albo dell'amministrazione stessa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della Legge 241/1990, le controversie relative all'accesso ai documenti amministrativi sono disciplinate:",
+    "options": [
+      "Dai regolamenti interni",
+      "Dagli usi e consuetudini",
+      "Dal codice del processo amministrativo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quale tra queste definizioni è più appropriata al concetto di govemance?",
+    "options": [
+      "Modello di co-finanziamento delle politiche pubbliche locali",
+      "Sistema di governo democratico contrapposto a sistemi autoritari",
+      "Modalità di governare e prendere le decisioni tra più attori, pubblici e privati"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 20 della Legge 241/1990, \"Nei procedimenti ad istanza di parte per il rilascio di provvedimenti amministrativi il silenzio dell'Amministrazione competente... ...",
+    "options": [
+      "...Equivale a provvedimento di diniego della domanda\"",
+      "...Comporta una automatica riapertura dei termini fissata in sessanta giorni\"",
+      "Equivale a provvedimento di accoglimento della domanda"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Riguardo alla formazione di un documento informatico, quale delle seguenti affermazioni è da ritenersi NON corretta?",
+    "options": [
+      "Il documento informatico puo' essere formato tramite acquisizione della copia per immagine su supporto informatico di un documento analogico",
+      "Il documento informatico puo' essere formato solo tramite l'utilizzo di strumenti software o servizi cloud qualificati che assicurino la produzione di documenti nei formati standard internazionali",
+      "Il documento informatico puo' essere formato anche tramite generazione o raggruppamento anche in via automatica di un insieme di dati o registrazioni, provenienti da una o piu' banche dati"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo l'art. 2 co. 5 della L. 241/90 e ss.mm.ii., _________ disciplinano, in conformità ai propri ordinamenti, i termini di conclusione dei procedimenti di rispettiva competenza",
+    "options": [
+      "le autorità di garanzia e di vigilanza",
+      "le pubbliche amministrazioni",
+      "le camere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-octies della L. 241/90 e ss.mm.ii., è annullabile il provvedimento...:",
+    "options": [
+      "viziato da eccesso di potere",
+      "viziato da difetto assoluto di attribuzione",
+      "adottato in violazione del giudicato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 29 della L. 241/90 e ss.mm.ii., le disposizioni della presente legge si applicano alle amministrazioni statali e agli enti pubblici nazionali?",
+    "options": [
+      "Si, si applicano altresi alle società con totale o prevalente capitale pubblico, limitatamente all'esercizio delle funzioni amministrative",
+      "Si, ma non si applicano alle società con totale o prevalente capitale pubblico",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 della L. 241/90 e ss.mm.ii., da quali principi, tra gli altri, è regolata l'attività amministrativa ?",
+    "options": [
+      "Dai principi di trasparenza",
+      "Dai principi di uguaglianza",
+      "Dai principi di leale concorrenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 2-bis della L. 241/90 e ss.mm.ii., i rapporti tra _________ sono improntati ai principi della collaborazione e della buona fede",
+    "options": [
+      "il cittadino e la pubblica amministrazione",
+      "le imprese e la pubblica amministrazione",
+      "il cittadino e gli enti pubblici e privati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-octies della L. 241/90 e ss.mm.ii., il provvedimento amministrativo adottato in violazione di legge è....",
+    "options": [
+      "annullabile",
+      "inopportuno",
+      "annullabile esclusivamente d'ufficio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-nonies co. 2 della L. 241/90 e ss.mm.ii., è fatta salva la possibilità di convalida del provvedimento annullabile...:",
+    "options": [
+      "sussistendone le ragioni di interesse pubblico ed entro un termine ragionevole",
+      "sussistendone le ragioni di interesse privato ed entro un termine ragionevole",
+      "sussistendone le ragioni di interesse pubblico ed in qualunque momento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-octies della L. 241/90 e ss.mm.ii., l'incompetenza è vizio che determina l'annullabilità del provvedimento?",
+    "options": [
+      "Si",
+      "No, è vizio che viene sempre sanato",
+      "L'incompetenza non è un vizio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 1-ter della L. 241/90 e ss.mm.ii., i soggetti privati preposti all'esercizio di attività amministrative...:",
+    "options": [
+      "assicurano il rispetto dei criteri e dei principi di economicità e trasparenza con un livello di garanzia non inferiore a quello a cui sono tenute le P. A",
+      "assicurano il rispetto dei criteri e dei principi di profitto e legalità con un livello di garanzia inferiore a quello a cui sono tenute le P. A",
+      "non sono tenuti ad assicurare il rispetto dei criteri e dei principi di economicità e trasparenza cui sono tenute le P. A"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 co. 9 della L. 241/90 e ss.mm.ii., la mancata o tardiva emanazione del provvedimento costituisce..:",
+    "options": [
+      "elemento di valutazione della performance individuale, di responsabilità disciplinare e amministrativo-contabile del dirigente e del funzionario inadempiente",
+      "esclusivamente elemento di valutazione di responsabilità disciplinare e amministrativo-contabile del dirigente e del funzionario inadempiente",
+      "esclusivamente elemento di valutazione della performance individuale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 della L. 241/90 e ss.mm.ii., i soggetti destinatari della comunicazione di avvio del procedimento hanno diritto:",
+    "options": [
+      "di prendere visione degli atti e di presentare memorie e documenti che, se pertinenti, la P.A. ha l'obbligo di valutare",
+      "di prendere visione degli atti ed essere ascoltati, a loro richiesta, su circostanze rilevanti ai fini dell'adozione del provvedimento finale",
+      "di produrre documenti e di estemare oralmente le proprie difese prima della discussione finale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 2 co. 6 della L. 241/90 e ss.mm.ii., i termini per la conclusione del procedimento decorrono...:",
+    "options": [
+      "dall'inizio del procedimento d'ufficio o dal ricevimento della domanda, se il procedimento è ad iniziativa di parte",
+      "dall'inizio del procedimento d'ufficio o dal ricevimento della domanda, se il procedimento non è ad iniziativa di parte",
+      "dalla pubblicazione nel sito internet istituzionale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Conformemente all'art. 21-quinquies della L. 241/90 e ss.mm.ii., il provvedimento amministrativo ad efficacia durevole può essere revocato ?",
+    "options": [
+      "Si, per sopravvenuti motivi di pubblico interesse",
+      "No, mai",
+      "Si, esclusivamente nel caso di mutamento della situazione di fatto prevedibile al momento dell'adozione del provvedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Conformemente all'art. 21-quater della L. 241/90 e ss.mm.ii., il termine della sospensione dell'efficacia ovvero dell'esecuzione del provvedimento amministrativo può essere prorogato...:",
+    "options": [
+      "una sola volta",
+      "tre volte",
+      "quante volte si renda necessario"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-septies della L. 241/90 e ss.mm.ii., è ________ il provvedimento amministrativo che manca degli elementi essenziali",
+    "options": [
+      "nullo",
+      "annullabile",
+      "illecito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 8 co. 2 della L. 241/90 e ss.mm.ii., nella comunicazione di avvio del procedimento ad iniziativa di parte, debbono essere indicati:",
+    "options": [
+      "la data di presentazione della relativa istanza",
+      "esclusivamente l'ufficio",
+      "esclusivamente la data entro la quale deve iniziare il procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-bis della L. 241/90 e ss.mm.ii., tra i provvedimenti limitativi della sfera giuridica dei privati, quali sono immediatamente efficaci ?",
+    "options": [
+      "Quelli che hanno carattere cautelare ed urgente",
+      "Quelli che hanno carattere sanzionatorio",
+      "Quelli che non hanno carattere sanzionatorio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 2-bis della L. 241/90 e ss.mm.ii., i rapporti tra il cittadino e la pubblica amministrazione sono improntati ai principi...:",
+    "options": [
+      "della collaborazione e della buona fede",
+      "dell'organizzazione e della lealtà",
+      "della trasparenza e dell'educazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-quater co. 2 della L. 241/90 e ss.mm.ii., l'efficacia, ovvero l'esecuzione del provvedimento amministrativo può essere sospesa...:",
+    "options": [
+      "per gravi ragioni e per il tempo strettamente necessario dallo stesso organo emanante o da altro organo previsto dalla legge",
+      "per gravi ragioni, esclusivamente da un organo diverso da quello emanante",
+      "per un termine massimo di dieci giorni, da un organo diverso da quello emanante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 18-bis della L. 241/90 e ss.mm.ii., dell'avvenuta presentazione di istanze è rilasciata immediatamente una ricevuta, che attesta l'avvenuta presentazione dell'istanza e indica i termini entro i quali l'amministrazione è tenuta, ove previsto, a rispondere, o entro i quali il silenzio dell'amministrazione equivale a...:",
+    "options": [
+      "accoglimento dell'istanza",
+      "rigetto dell'istanza",
+      "accoglimento dell'istanza con riserva di ulteriori controlli tecnici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 9 della L. 241/90 e ss.mm.ii., chi può esercitare il diritto di intervento nel procedimento amministrativo?",
+    "options": [
+      "Qualunque soggetto cui possa derivare un pregiudizio dal provvedimento",
+      "Esclusivamente i portatori di interessi diffusi",
+      "Solo i portatori di interessi personalissimi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 2 co. 2 della L. 241/90 e ss.mm.ii., i procedimenti amministrativi di competenza delle amministrazioni statali e degli enti pubblici nazionali devono concludersi entro il termine di _________ giomi",
+    "options": [
+      "trenta",
+      "novanta",
+      "sessanta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-nonies della L. 241/90 e ss.mm.ii., il provvedimento amministrativo illegittimo può essere annullato d'ufficio, sussistendone le ragioni di interesse pubblico, entro un termine ragionevole, comunque non superiore a ...:",
+    "options": [
+      "dodici mesi dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici",
+      "dieci mesi dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici",
+      "ventiquattro mesi dal momento dell'adozione dei provvedimenti di autorizzazione o di attribuzione di vantaggi economici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 1 della L. 241/90 e ss.mm.ii., quale tra i seguenti NON è contemplato come criterio direttivo dell'attività amministrativa?",
+    "options": [
+      "Efficienza",
+      "Economicità",
+      "Imparzialità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 2 co. 7 della L. 241/90 e ss.mm.ii., i termini per la conclusione del procedimento quante volte possono essere sospesi?",
+    "options": [
+      "Per una sola volta e per un periodo non superiore a 30 giorni",
+      "Per due volte e per un periodo non superiore a 25 giomi",
+      "Per due volte e per un periodo non superiore a 30 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 8 della L. 241/90 e ss.mm.ii., l'amministrazione provvede a dare notizia dell'avvio del procedimento...:",
+    "options": [
+      "mediante comunicazione personale",
+      "tramite pubblicazione sul sito internet dell'amministrazione, nella sezione \"Amministrazione trasparente\"",
+      "tramite pubblicazione sull'albo pretorio del comune"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-bis della L. 241/90 e ss.mm.ii., il provvedimento limitativo della sfera giuridica dei privati acquista efficacia nei confronti del destinatario...:",
+    "options": [
+      "con la comunicazione allo stesso",
+      "con la pubblicazione sul sito internet, nel settore \"amministrazione trasparente\"",
+      "con la rituale impugnazione dinanzi al Giudice Amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 7 co. 2 della L. 241/90 e ss.mm.ii., in materia di comunicazione di avvio del procedimento, l'amministrazione può adottare provvedimenti cautelari?",
+    "options": [
+      "Si, anche prima della effettuazione delle comunicazioni",
+      "Si, ma esclusivamente dopo la effettuazione delle comunicazioni",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 8 co. 2 della L. 241/90 e ss.mm.ii., nella comunicazione di avvio del procedimento amministrativo deve essere indicato l'oggetto del procedimento promosso?",
+    "options": [
+      "Si, deve essere indicato",
+      "No, non deve essere necessariamente indicato",
+      "Si, ma solo se si tratta di procedimento d'ufficio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 co. 8 della L. 241/90 e ss.mm.ii., come sono trasmesse alla Corte dei Conti le sentenze passate in giudicato che accolgono il ricorso proposto avverso il silenzio inadempimento dell'amministrazione?",
+    "options": [
+      "Per via telematica",
+      "Nel modo che si ritiene più idoneo",
+      "Per fax"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 della L. 241/90 e ss.mm.ii., dove il procedimento debba essere iniziato d'ufficio, le pubbliche amministrazioni...:",
+    "options": [
+      "hanno il dovere di concluderlo mediante l'adozione di un provvedimento espresso",
+      "hanno il dovere di concluderlo entro il termine di quaranta giorni",
+      "hanno il dovere di concluderlo entro il termine di sessanta giorni, solo per provvedimenti ad iniziativa di parte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 della L. 241/90 e ss.mm.ii., l'attività amministrativa è regolata, tra gli altri, da quali principi?",
+    "options": [
+      "Dai principi di imparzialità",
+      "Dai principi di uguaglianza",
+      "Dai principi di leale concorrenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 18 della L. 241/90 e ss.mm.ii., quali documenti, necessari per l'istruttoria del procedimento, sono acquisibili d'ufficio?",
+    "options": [
+      "I documenti attestanti atti, fatti, qualità e stati soggettivi, quando sono in possesso dell'amministrazione procedente ovvero detenuti, istituzionalmente, da altre P.A.",
+      "I documenti attestanti atti, fatti, qualità e stati soggettivi, esclusivamente quando in possesso dell'amministrazione procedente",
+      "I documenti attestanti atti, fatti, qualità e stati soggettivi, esclusivamente quando detenuti, istituzionalmente, da altre P.A."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 bis della 241/90 e ss.mm.ii., nei procedimenti ad istanza di parte il responsabile del procedimento prima della formale adozione di un provvedimento negativo deve...:",
+    "options": [
+      "comunicare tempestivamente agli istanti i motivi che ostano all'accoglimento della domanda",
+      "pubblicare tempestivamente all'albo pretorio i motivi che ostano all'accoglimento della domanda",
+      "omettere qualsiasi comunicazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-bis della L. 24 1/90 e ss.mm.ii., come sono i provvedimenti limitativi della sfera giuridica dei privati aventi carattere cautelare ed urgente?",
+    "options": [
+      "Immediatamente efficaci",
+      "Efficaci con riserva",
+      "Non sono efficaci"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 11 della L. 241/90 e ss.mm.ii., come devono essere stipulati gli accordi integrativi o sostitutivi del provvedimento ?",
+    "options": [
+      "Per atto scritto, pena nullità",
+      "Preferibilmente per atto scritto",
+      "Come si ritiene più utile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-sexies della L. 241/90 e ss.mm.ii., il recesso unilaterale dai contratti della P.A. ...:",
+    "options": [
+      "è ammesso nei casi previsti dalla legge o dal contratto",
+      "non è mai ammesso dalla legge",
+      "è sempre ammesso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 co. 8 della L. 241/90 e ss.mm.ii., la tutela in materia di silenzio dell'amministrazione è disciplinata...:",
+    "options": [
+      "dal codice del processo amministrativo",
+      "dal codice di procedura penale",
+      "dal codice civile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 co. 4-bis della L. 241/90 e ss.mm.ii., le pubbliche amministrazioni dove pubblicano i tempi effettivi di conclusione dei procedimenti amministrativi di maggiore impatto per i cittadini e per le imprese?",
+    "options": [
+      "Nel proprio sito internet istituzionale nella sezione \"Amministrazione trasparente\"",
+      "Nella gazzetta ufficiale",
+      "Nella bacheca dell'ufficio del responsabile del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21-quater della L. 241/90 e ss.mm.ii., i provvedimenti amministrativi efficaci vengono eseguiti immediatamente?",
+    "options": [
+      "Si, salvo che sia diversamente stabilito dalla legge o dal provvedimento medesimo",
+      "No, possono essere eseguiti solo dopo che siano trascorsi venti giorni",
+      "No, possono essere eseguiti solo dopo che siano trascorsi trenta giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della L. 241 del 1990, è annullabile il provvedimento amministrativo:",
+    "options": [
+      "adottato in violazione di legge o viziato da eccesso di potere o da incompetenza",
+      "adottato nei soli casi esclusivamente stabiliti dalla legge",
+      "viziato da incompetenza assoluta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "II procedimento amministrativo si articola in quattro fasi: fase d'iniziativa, fase istruttoria, fase decisoria, fase integrativa dell'efficacia. È ricompreso nella fase dell'iniziativa:",
+    "options": [
+      "La proposta vincolante",
+      "L'accertamento dei requisiti di legittimazione",
+      "L'accertamento delle circostanze di fatto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'Art. 1 bis, della legge n. 241 del 1990, come modificata dalla legge 15 del 2005, esistono dei casi in cui l'amministrazione pubblica deve osservare le norme di diritto privato?",
+    "options": [
+      "Si, nell'adozione di atti di natura non autoritativa",
+      "No, la P.A. deve attenersi esclusivamente alle norme di diritto pubblico",
+      "Si, nell'adozione di atti unilaterali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se la somma dovuta a titolo di indennizzo per mero ritardo, di cui al comma 1bis dell'art. 2bis 1.241/1990, non viene liquidata...",
+    "options": [
+      "Essa potrà essere richiesta al Giudice amministrativo con procedura semplificata",
+      "Essa potrà essere richiesta al Giudice ordinario con procedura semplificata",
+      "Essa potrà essere richiesta al Giudice ordinario con procedura di esecuzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando siamo in presenza di pareri parzialmente vincolanti?",
+    "options": [
+      "Quando l'organo di amministrazione attiva può adottare un provvedimento difforme al parere, ma soltanto seguendo un procedimento determinato",
+      "Quando la P.A. ha il potere discrezionale di provvedere o meno all'istanza per la quale è obbligata a richiedere il parere, ma se decide di emanare l'atto deve conformarsi ad esso",
+      "Quando l'organo di amministrazione attiva è obbligato a richiedere il parere, ma può anche discostarsene con il proprio operato, motivandone le regioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli organi consultivi delle pubbliche amministrazioni sono tenuti a rendere i pareri ad essi obbligatoriamente richiesti entro i termini prestabiliti dall'art. 16 comma 4 della legge n. 241/1990. Tali termini, qualora l'organo interpellato abbia rappresentato esigenze istruttorie, possono essere interrotti?",
+    "options": [
+      "Si, una sola volta. Il parere deve essere reso definitivamente entro quindici giorni dalla ricezione degli elementi istruttori da parte delle amministrazioni interessate.",
+      "Si, possono essere interrotti per non più di due volte e il parere deve essere reso definitivamente entro trenta giorni dalla ricezione degli elementi istruttori da parte delle amministrazioni interessate.",
+      "Si, possono essere interrotti per una sola volta e per un termine comunque non superiore a novanta giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dispone l'art. 1 della legge n. 241/1990 che la Pubblica Amministrazione nell'adozione di atti di natura non autoritativa:",
+    "options": [
+      "Agisce secondo le norme di diritto privato salvo che la legge disponga diversamente",
+      "Agisce sempre secondo le norme di diritto pubblico",
+      "Agisce secondo le norme di diritto pubblico salvo che la legge disponga diversamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo la legge 241/1990, le pubbliche amministrazioni e i soggetti privati preposti all'esercizio di attività amministrative, sono tenuti al risarcimento del danno ingiusto cagionato in conseguenza dell'inosservanza del termine di conclusione del procedimento?",
+    "options": [
+      "Si, sono tenuti al risarcimento in conseguenza dell'inosservanza dolosa o colposa del termine",
+      "Si, ma solo in caso di condotta dolosa",
+      "L'art 2-bis della legge 241/1990 prevede che a tale risarcimento sono tenute le amministrazioni pubbliche, ma non fa cenno dei soggetti privati preposti all'esercizio di attività amministrative"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa deve fare, nel formulare la richiesta, colui che sia interessato ad esercitare il diritto d'access ai documenti amministrativi?",
+    "options": [
+      "Motivare la richiesta medesima",
+      "Inviare la richiesta medesima mediante pec",
+      "Attendere 12 mesi dal momento della formazione dell'atto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti atti non appartiene alla fase decisoria, nel procedimento amministrativo?",
+    "options": [
+      "La nomina del Responsabile del procedimento",
+      "Le deliberazioni preparatorie",
+      "Gli accordi preliminari"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'omessa comunicazione dell'avvio del procedimento, di cui all'art. 7 1.241/1990, determina l'illegittimità del provvedimento per...",
+    "options": [
+      "Violazione di legge",
+      "Incompetenza",
+      "Eccesso di potere"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2bis I. 241/1990, si prevede in capo alla p.a. una responsabilità per l'ipotesi di inosservanza del termine di conclusione del procedimento...",
+    "options": [
+      "Sia essa dolosa o colposa",
+      "Esclusivamente qualora essa sia dolosa, nel caso di colpa è previsto un indennizzo e non il risarcimento del danno",
+      "Esclusivamente qualora essa sia colposa, nel caso di dolo è previsto un indennizzo e non il risarcimento del danno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 23 1.241/1990, il diritto di accesso si esercita nei confronti...",
+    "options": [
+      "Delle pubbliche amministrazioni, delle aziende autonome e speciali, degli enti pubblici e dei gestori di pubblici servizi.",
+      "Dei privati",
+      "Delle pubbliche amministrazioni, delle aziende autonome e speciali, ma non degli enti pubblici e dei gestori di pubblici servizi."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 20 1.241/1990, fatta salva l'applicazione dell'articolo 19, nei procedimenti ad istanza di parte per il rilascio di provvedimenti amministrativi, il silenzio dell'amministrazione competente...",
+    "options": [
+      "Equivale a provvedimento di accoglimento della domanda, senza necessità di ulteriori istanze o diffide, se la medesima amministrazione non comunica all'interessato, nel termine di trenta giomi o del termine individuato con d.p.c.m., il provvedimento di diniego, ovvero non indice, entro trenta giorni dalla presentazione dell'istanza, una conferenza di servizi",
+      "Equivale a provvedimento di accoglimento della domanda, con la necessità, tuttavia, di ulteriori istanze o diffide, se la medesima amministrazione non comunica all'interessato, nel termine di trenta giorni o del termine individuato con d.p.c.m., il provvedimento di diniego, ovvero non indice, entro trenta giomi dalla presentazione dell'istanza, una conferenza di servizi",
+      "Equivale a provvedimento di rigetto della domanda, senza necessità di ulteriori istanze o diffide, se la medesima amministrazione non comunica all'interessato, nel termine di trenta giorni o del termine individuato con d.p.c.m., il provvedimento di diniego, ovvero non indice, entro trenta giorni dalla presentazione dell'istanza, una conferenza di servizi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della Legge 241 del 1990, i termini per la conclusione del procedimento decorrono:",
+    "options": [
+      "dall'inizio del procedimento d'ufficio o dal ricevimento della domanda, se il procedimento è ad iniziativa di parte",
+      "dal ricevimento della domanda sia in caso di procedimento ad iniziativa di parte sia in caso di procedimento d'ufficio",
+      "dall'inizio del procedimento determinato dal protocollo di arrivo della domanda, sia nei casi di procedimento d'ufficio che nei casi di procedimento ad iniziativa di parte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La nullità degli atti amministrativi...",
+    "options": [
+      "È sempre testuale",
+      "È virtuale",
+      "Sussiste esclusivamente nelle ipotesi di nullità strutturale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quale fase del procedimento amministrativo è riconducibile la nomina del responsabile:",
+    "options": [
+      "Istruttoria",
+      "Decisoria",
+      "Dispositiva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa stabilisce l'art. 15 della legge n. 241/1990 in merito agli accordi tra le pubbliche amministrazioni?",
+    "options": [
+      "Che vengono stipulati per disciplinare lo svolgimento in collaborazione di attività di interesse comune",
+      "Che essi possono essere stipulati per realizzare, attraverso l'esame contestuale di vari interessi coinvolti, la semplificazione di alcuni procedimenti amministrativi complessi",
+      "Che possono essere stipulati solo per disciplinare attività meramente esecutive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La legge 241/1990, prevede che tra i compiti del responsabile del procedimento amministrativo, rientra:",
+    "options": [
+      "La cura delle notificazioni, delle comunicazioni, delle pubblicazioni previste dalle leggi e dai regolamenti",
+      "L'identificazione dei casi nei quali il provvedimento deve essere motivato",
+      "L'identificazione dei casi e delle modalità della comunicazione del provvedimento all interessato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 6 1.241/1990, il responsabile del procedimento...",
+    "options": [
+      "Accerta di ufficio i fatti, disponendo il compimento degli atti all'uopo necessari, e adotta ogni misura per l'adeguato e sollecito svolgimento dell'istruttoria. In particolare, può chiedere il rilascio di dichiarazioni e la rettifica di dichiarazioni o istanze erronee o incomplete e può esperire accertamenti tecnici ed ispezioni ed ordinare esibizioni documentali",
+      "Accerta di ufficio i fatti, disponendo il compimento degli atti all'uopo necessari, ma non può adottare misure per l'adeguato e sollecito svolgimento dell'istruttoria.",
+      "Accerta di ufficio i fatti, disponendo il compimento degli atti all'uopo necessari, e adotta ogni misura per l'adeguato e sollecito svolgimento dell'istruttoria. In particolare, può chiedere il rilascio di dichiarazioni e la rettifica di dichiarazioni o istanze erronee o incomplete, ma non può esperire accertamenti tecnici ed ispezioni ed ordinare esibizioni documentali"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'art. 22, VI comma, della L. n. 241/1990 dispone che il diritto di accesso ai documenti amministrativi è esercitabile:",
+    "options": [
+      "fino a quando la pubblica amministrazione ha l'obbligo di detenere i documenti amministrativi a cui si chiede di accedere",
+      "soltanto prima della notifica del perfezionamento dei documenti amministrativi a cui si chiede di accedere",
+      "senza alcun limite temporale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quali casi la legge. n. 241/90 richiede la forma scritta per gli accordi amministrativi?",
+    "options": [
+      "Sempre",
+      "Solo per il rilascio delle concessioni",
+      "Solo nei casi espressamente previsti da circolari interne"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14, comma 2 1.241/1990, la conferenza di servizi decisoria...",
+    "options": [
+      "È sempre indetta dall'amministrazione procedente quando la conclusione positiva del procedimento è subordinata all'acquisizione di più pareri, intese, concerti, nulla osta o altri atti di assenso, comunque denominati, resi da diverse amministrazioni, inclusi i gestori di beni o servizi pubblici",
+      "Può essere indetta dall'amministrazione procedente quando la conclusione positiva del procedimento è subordinata all'acquisizione di più pareri, intese, concerti, nulla osta o altri atti di assenso, comunque denominati, resi da diverse amministrazioni, inclusi i gestori di beni o servizi pubblici",
+      "È sempre indetta dall'amministrazione procedente quando la conclusione positiva del procedimento è subordinata all'acquisizione di più pareri, intese, concerti, nulla osta o altri atti di assenso, comunque denominati, resi da diverse amministrazioni, esclusi i gestori di beni o servizi pubblici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'acquiescenza è...",
+    "options": [
+      "Una causa di conservazione soggettiva dell'atto amministrativo, che dipende da un comportamento con cui il soggetto privato, dimostrando, con manifestazioni espresse o per fatti concludenti, di essere d'accordo con l'operato della P.A., si preclude la possibilità di impugnare l'atto amministrativo",
+      "Una causa di conservazione oggettiva dell'atto amministrativo, che dipende dal decorso del termine perentorio entro il quale l'interessato avrebbe potuto proporre ricorso contro l'atto invalido, trascorso il quale l'atto diviene inoppugnabile",
+      "Una manifestazione di volontà non innovativa con cui l'autorità ribadisce una sua precedente determinazione, eventualmente ripetendone il contenuto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 24 comma 3 1.241/1990, le istanze di accesso preordinate ad un controllo generalizzato dell'operato delle pubbliche amministrazioni...",
+    "options": [
+      "Non sono ammissibili",
+      "Sono sempre ammissibili",
+      "Sono ammissibili solo nei casi espressamente previsti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il provvedimento amministrativo viziato da incompetenza relativa è:",
+    "options": [
+      "Annullabile",
+      "Nullo",
+      "Inesistente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Riguardo alle comunicazioni dell'unità organizzativa competente e del nominativo del responsabile del procedimento, la legge n. 241/1990 all'art. 5, dispone in particolare che:",
+    "options": [
+      "L'unità organizzativa competente e il nominativo del responsabile del procedimento sono comunicati ai soggetti di cui all'articolo 7 e, a richiesta, a chiunque vi abbia interesse",
+      "Le comunicazioni devono essere fornite d'ufficio a chiunque vi abbia interesse",
+      "Le comunicazioni devono essere fornite a richiesta a qualunque cittadino che possa subire effetti anche indiretti dal procedimento, anche se tali soggetti non siano individuati o facilmente individuabili"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La convalida dell'atto amministrativo:",
+    "options": [
+      "Si differenzia dalla conversione poiché mira esclusivamente a conservare alcuni effetti dell'atto medesimo; la convalida, invece, è volta a rendere l'atto stabile e sicuro relativamente agli effetti che gli sono propri",
+      "Elimina il vizio dell'atto, come l'acquiescenza",
+      "È un provvedimento nuovo, autonomo, costitutivo, con il quale si eliminano i vizi di legittimità di un atto invalido emanato in precedenza da diversa autorità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa s'intende per autotutela?",
+    "options": [
+      "Il potere della P.A. di annullare e revocare provvedimenti amministrativi già adottati",
+      "Il potere della P.A. di risolvere i conflitti di competenza tra poteri dello Stato",
+      "Il potere della P.A. di risolvere i conflitti tra cittadini"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della l. 241/90, chi ha facoltà di intervenire nel procedimento amministrativo?",
+    "options": [
+      "Chiunque sia portatore di interessi pubblici o privati e a cui possa derivare un pregiudizio dal provvedimento",
+      "Esclusivamente i soggetti portatori di interessi privati relativamente all'oggetto del procedimento",
+      "Esclusivamente i titolari di un diritto soggettivo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14-ter, comma 6, 1.241/1990, alle riunioni della conferenza dei servizi...",
+    "options": [
+      "Possono essere invitati gli interessati, inclusi i soggetti proponenti il progetto eventualmente dedotto in conferenza",
+      "Possono essere invitati gli interessati, esclusi i soggetti proponenti il progetto eventualmente dedotto in conferenza",
+      "Devono essere invitati gli interessati, inclusi i soggetti proponenti il progetto eventualmente dedotto in conferenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se la PA elimina un atto amministrativo illegittimo con efficacia retroattiva siamo in presenza di:",
+    "options": [
+      "Annullamento dell'atto",
+      "Abrogazione dell'atto",
+      "Revoca dell'atto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14, comma 3, 1.241/1990, per progetti di particolare complessità e di insediamenti produttivi di beni e servizi l'amministrazione procedente...",
+    "options": [
+      "Su motivata richiesta dell'interessato, corredata da uno studio di fattibilità, può indire una conferenza preliminare",
+      "Soltanto d'ufficio, corredata da uno studio di fattibilità, può indire una conferenza preliminare",
+      "Su motivata richiesta dell'interessato, corredata da uno studio di fattibilità, deve indire una conferenza preliminare"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 bis, comma 1 bis I. 241/1990, scaduto il termine per l'adozione del provvedimento, per ogni giorno di ritardo i cittadini potranno ricevere...",
+    "options": [
+      "30 euro fino ad un massimo di 2.000",
+      "30 euro fino ad un massimo di 5.000",
+      "30 euro fino ad un massimo di 1.000"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra le seguenti è la corretta definizione di interesse legittimo:",
+    "options": [
+      "L'interesse legittimo è la pretesa a che la P.A. eserciti i suoi poteri discrezionali o vincolati conformemente alla legge",
+      "L'interesse legittimo è la pretesa a che la P.A., nell'esercizio del suo potere discrezionale, si attenga ai criteri di opportunità e di convenienza afferenti al c.d. merito amministrativo",
+      "L'interesse legittimo è il potere di agire riconosciuto ad un soggetto al fine di soddisfare un interesse che l'ordinamento ritiene meritevole di tutela"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 25, V comma, della L. n. 241/1990, le controversie relative all'accesso ai documenti amministrativi sono disciplinate:",
+    "options": [
+      "dal codice del processo amministrativo",
+      "dal codice di procedura penale",
+      "dal codice di comportamento dei dipendenti pubblici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 bis 1. 241/90, la comunicazione dei motivi ostativi all'accoglimento dell'istanza...",
+    "options": [
+      "Interrompe i termini di conclusione del procedimento",
+      "Non interrompe i termini di conclusione del procedimento",
+      "Sospende i termini di conclusione del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti caratteristiche non è propria delle ordinanze di necessità ed urgenza?",
+    "options": [
+      "Tipicità",
+      "Necessità di adeguata motivazione",
+      "Efficacia limitata nel tempo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A norma della legge 241/1990 e s.m.i., nel caso in cui sia richiesta la VIA (valutazione di impatto ambientale), la conferenza di servizi si esprime:",
+    "options": [
+      "Entro trenta giorni dalla conclusione della fase preliminare di definizione dei contenuti dello studio d'impatto ambientale, secondo quanto previsto in materia di VIA",
+      "Entro 60 giorni dalla conclusione della fase esecutiva di definizione dei contenuti dello studio d'impatto ambientale, secondo quanto previsto in materia di VIA",
+      "Entro novanta giorni dalla conclusione della fase preliminare di definizione dei contenuti dello studio d'impatto ambientale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli atti amministrativi sono...",
+    "options": [
+      "Gli atti unilaterali aventi rilevanza esterna, posti in essere da una autorità amministrativa nell'esercizio di una funzione amministrativa",
+      "Gli atti plurilaterali aventi rilevanza esterna, posti in essere da una autorità amministrativa nell'esercizio di una funzione amministrativa congiuntamente al cittadino",
+      "Gli atti unilaterali aventi rilevanza esclusivamente interna, posti in essere da una autorità amministrativa nell'esercizio di una funzione amministrativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La comunicazione di avvio del procedimenti amministrativo deve contenere...",
+    "options": [
+      "La data entro cui deve concludersi il procedimento, in base ai termini previsti dalla legge",
+      "La data entro cui avrà inizio ipoteticamente il procedimento",
+      "La documentazione prodotta dall'amministrazione che procede"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I regolamenti, poiché sono atti amministrativi generali a contenuto normativo, necessitano di specifica motivazione in ordine alle ragioni che hanno portato a dare determinati contenuti e non altri alle proprie disposizioni. È corretto?",
+    "options": [
+      "No. L'obbligo di motivazione è espressamente escluso dalla legge n. 241/1990",
+      "Si, come tutti gli atti amministrativi, i regolamenti sono soggetti all'obbligo di motivazione",
+      "Non esistono al riguardo disposizioni legislative e la giurisprudenza è contrastante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Fatta salva l'applicazione dell'art. 19 della legge n. 241/1990, nei procedimenti ad istanza di parte per il rilascio di provvedimenti amministrativi, il silenzio dell'amministrazione competente equivale:",
+    "options": [
+      "Ad un provvedimento di accoglimento della domanda, se la medesima amministrazione non comunica all'interessato nei termini il provvedimento di diniego",
+      "Ad un provvedimento di diniego della domanda, se non è comunicato nei termini il provvedimento di accoglimento",
+      "A proroga dei termini quando esistono particolari situazioni giuridiche soggettive dei controinteressati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali tra i seguenti atti amministrativi non è un provvedimento amministrativo?",
+    "options": [
+      "I pareri",
+      "Le autorizzazioni",
+      "La delega"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I termini di conclusione del procedimento, ai sensi dell'art. 2, comma 7 d.lgs. 241/1990, possono essere sospesi?",
+    "options": [
+      "Si, per una sola volta e per un periodo non superiore a 30 giorni",
+      "No",
+      "Si, per una sola volta e per un periodo non superiore a 60 giomi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti non costituisce una fase del procedimento amministrativo?",
+    "options": [
+      "La fase dibattimentale",
+      "La fase istruttoria",
+      "La fase di iniziativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In merito alla disciplina dell'art. 19 comma 2 della legge 241/1990, relativa alla segnalazione certificata di inizio attività, quale delle seguenti affermazioni è corretta?",
+    "options": [
+      "L'attività oggetto della segnalazione può essere iniziata dalla data della presentazione della segnalazione all'amministrazione competente",
+      "L'art. 19 non si applica alle iscrizioni in albi o ruoli richieste per l'esercizio di attività imprenditoriale per le quali è prevista dal DL 78/2010 una procedura specifica",
+      "L'art. 19 si applica, nei limiti previsti dalla legge, anche alle attività economiche a prevalente carattere finanziario, ivi comprese quelle regolate dal testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5 1.241/1990, il dirigente di ciascuna unità organizzativa provvede ad assegnare la responsabilità della istruttoria e di ogni altro adempimento inerente il singolo procedimento nonché, eventualmente, dell'adozione del provvedimento finale",
+    "options": [
+      "A sé o ad altro dipendente addetto all'unità",
+      "Esclusivamente a sè",
+      "Esclusivamente ad altro dipendente addetto all'unità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti, nel procedimento amministrativo, ai sensi dell'art. 6 1. 241/1990, cura le comunicazioni, le pubblicazioni e notificazioni previste dalle leggi e dai regolamenti?",
+    "options": [
+      "Il responsabile del procedimento",
+      "I privati interessati dall'oggetto del procedimento",
+      "Il giudice amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'omissione da parte della P.A. della comunicazione di avvio del procedimento integra la fattispecie di...",
+    "options": [
+      "Illegittimità, che può essere fatta valere esclusivamente dal soggetto nel cui interesse la comunicazione è prevista",
+      "Vizio procedimentale da cui consegue la nullità del provvedimento",
+      "Vizio procedimentale, che può essere fatto valere da qualsiasi soggetto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dal mancato rispetto dell'obbligo di comunicazione di avvio del procedimento consegue:",
+    "options": [
+      "L'illegittimità degli atti del procedimento",
+      "La nullità degli atti del procedimento",
+      "L'inefficacia degli atti del procedimento amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La concessione è il provvedimento amministrativo con cui la p.a....",
+    "options": [
+      "Conferisce ex novo posizioni giuridiche attive al destinatario, ampliandone così la sfera giuridica",
+      "Legittima il destinatario ad esercitare il diritto di cui già risulta titolare",
+      "Conferisce ex novo posizioni giuridiche passive al destinatario, restringendone cosi la sfera giuridica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli accordi di cui all'art. 11 1.241/1990, devono essere motivati?",
+    "options": [
+      "Si",
+      "Esclusivamente quelli sostitutivi",
+      "Esclusivamente quelli integrativi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa stabilisce il principio di economicità dell'azione amministrativa?",
+    "options": [
+      "Che essa deve raggiungere i suoi scopi con il minor dispendio o impiego di mezzi economici",
+      "Che essa deve essere finalizzata a produrre un profitto per lo Stato",
+      "Che essa deve comportare un bilanciamento tra entrate e spese"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14-quater 1.241/1990, la determinazione motivata di conclusione della conferenza, adottata dall'amministrazione procedente all'esito della stessa...",
+    "options": [
+      "Sostituisce a ogni effetto tutti gli atti di assenso, comunque denominati, di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati.",
+      "Non sostituisce gli atti di assenso, comunque denominati, di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati.",
+      "Integra ma non sostituisce gli atti di assenso, comunque denominati, di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Chi è il project manager nella P.A.:",
+    "options": [
+      "una persona interna alla Pubblica Amministrazione che sappia progettare e abbia competenze di ricerca, prototipazione e sviluppo di servizi.",
+      "una persona interna alla Pubblica Amministrazione che sappia rappresentare gli obiettivi dell'Amministrazione e che abbia una chiara competenza sul servizio che si vuole digitalizzare e una chiara idea del risultato che si vuole ottenere.",
+      "una persona estema alla Pubblica Amministrazione che sappia rappresentare gli obiettivi dell'Amministrazione e che se pur non abbia una chiara competenza sul servizio che si vuole digitalizzare ha, però, una chiara idea del risultato che si vuole ottenere."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa s'intende per provvedimenti amministrativi?",
+    "options": [
+      "Gli atti tipici e nominati posti in essere dalla P.A. e consistenti in manifestazioni di volontà destinate ad influire unilateralmente sulla sfera giuridica dei soggetti cui sono destinati, mediante la costituzione, modificazione ed estinzione dei loro poteri e delle loro facoltà",
+      "Gli atti atipici e innominati posti in essere dalla P.A. e consistenti in manifestazioni di volontà destinate ad influire unilateralmente sulla sfera giuridica dei soggetti cui sono destinati, mediante la costituzione, modificazione ed estinzione dei loro poteri e delle loro facoltà",
+      "Gli atti tipici e nominati posti in essere dalla P.A. e consistenti in manifestazioni di volontà destinate ad influire sulla sfera giuridica dei soggetti cui sono destinati e che ne accettano volontariamente gli effetti, mediante la costituzione, modificazione ed estinzione dei loro poteri e delle loro facoltà"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della Legge 241 del 1990, la motivazione non è richiesta:",
+    "options": [
+      "per gli atti normativi e per quelli a contenuto generale",
+      "per gli atti normativi",
+      "per gli atti generalissimi e per quelli a contenuto generale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La responsabilità della p.a. può derivare da atto lecito?",
+    "options": [
+      "Si, nei casi in cui il soggetto pubblico svolgendo un attività perfettamente lecita e finalizzata al soddisfacimento di interessi pubblici, provochi il sacrificio di un diritto soggettivo del privato",
+      "No, salvo che la legge preveda diversamente",
+      "No, mai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cosa consiste la convalida?",
+    "options": [
+      "Consiste in un provvedimento nuovo, autonomo, costitutivo, che elimina i vizi di legittimità di un atto invalido precedentemente emanato dalla stessa autorità",
+      "Consiste nel considerare un atto nullo o illegittimo, come appartenente ad un altro tipo, di cui esso presenta i requisiti di forma e di sostanza",
+      "Consiste un comportamento con cui il soggetto privato dimostrando, con manifestazioni espresse o per fatti concludenti di essere d'accordo con l'operato della P.A., si preclude la possibilità di impugnare l'atto amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo il principio di chiarezza o comprensibilità degli enti pubblici:",
+    "options": [
+      "è necessaria una semplice e chiara classificazione delle poste finanziarie, economiche e patrimoniali",
+      "è necessaria una semplice, anche se non chiara, classificazione delle poste finanziarie, economiche e patrimoniali",
+      "è necessaria una chiara, anche se non semplice, classificazione delle poste finanziarie, economiche e patrimoniali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 29 della legge n. 241/1990, a quali soggetti si applicano di norma, in tutto il loro contenuto, le disposizioni della suddetta legge?",
+    "options": [
+      "Alle amministrazioni statali e agli enti pubblici nazionali, nonchè alle società con totale o prevalente capitale pubblico, limitatamente all'esercizio delle funzioni amministrative",
+      "Solo a tutte le amministrazioni pubbliche",
+      "Anche agli enti privati, qualora svolgano funzioni di rilevante interesse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'amministrazione, ai sensi della legge n.241/90, deve provvedere a dare notizia dell'avvio del procedimento amministrativo mediante comunicazione personale. Quali de seguenti dati deve contenere, tra gli altri, tale comunicazione?",
+    "options": [
+      "L'ufficio e la persona responsabile del procedimento",
+      "II nominativo di tutte le persone interessate al procedimento",
+      "Le tipologie di atti di cui è possibile prendere visione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dispone l'art. 21-octies della L. n. 241/1990 che il provvedimento amministrativo adottato in violazione di norme sul procedimento o sulla forma degli atti...",
+    "options": [
+      "Non è annullabile se, per la natura vincolata del provvedimento, sia palese che il suo contenuto dispositivo non avrebbe potuto essere diverso da quello in concreto adottato",
+      "Non è annullabile, sussistendo le ragioni di interesse pubblico",
+      "É nullo e non produce effetti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa avviene nell'ipotesi in cui nell'ambito della Conferenza dei servizi le amministrazioni non raggiungano l'accordo e il dissenso motivato sia espresso da una amministrazione statale preposta alla tutela ambientale?",
+    "options": [
+      "La decisione viene rimessa alla deliberazione del Consiglio dei Ministri",
+      "La decisione viene rimessa alla deliberazione della Corte dei Conti",
+      "La decisione viene rimessa alla deliberazione del Consiglio di Stato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti atti amministrativi non è un provvedimento?",
+    "options": [
+      "Certificazione",
+      "Autorizzazione",
+      "Concessione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il responsabile del procedimento è..",
+    "options": [
+      "Il responsabile dell'istruttoria e di ogni altro adempimento inerente il singolo procedimento",
+      "Il responsabile del servizio di prevenzioni e protezione (RSPP)",
+      "Il presidente del Tar delegato alla gestione della pratica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quali principi si ispira la Legge 241/1990?",
+    "options": [
+      "Giusto procedimento, trasparenza, semplificazione",
+      "Utilità e semplicità della Pubblica Amministrazione",
+      "Pubblicità e trasparenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 1. 241/1990, la p.a. ha l'obbligo di concludere il procedimento amministrativo con l'adozione di un provvedimento espresso...",
+    "options": [
+      "Sia nel caso di procedimenti iniziati ad istanza di parte che per quelli avviati d'ufficio",
+      "Soltanto nel caso di procedimenti avviati d'ufficio",
+      "Soltanto nel caso di procedimenti iniziati ad istanza di parte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 22 1.241/1990, per \"diritto d'accesso\" s'intende:",
+    "options": [
+      "II diritto degli interessati di prendere visione e di estrarre copia di documenti amministrativi",
+      "Il diritto degli interessati di prendere visione ma non di estrarre copia di documenti amministrativi",
+      "Il diritto degli interessati ad accedere ai locali della pubblica amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando il contenuto dell'atto amministrativo è illecito, l'atto è:",
+    "options": [
+      "Nullo",
+      "Illegittimo",
+      "Ineseguibile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra le seguenti non è una relazione interorganica?",
+    "options": [
+      "La supremazia",
+      "La gerarchia",
+      "La direzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In materia di organizzazione dei pubblici uffici, può essere emanato un regolamento governativo?",
+    "options": [
+      "Si, per l'esecuzione e integrazione della legge",
+      "Si, sempre",
+      "No, la materia deve essere regolata solo dalla legge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il responsabile del procedimento amministrativo:",
+    "options": [
+      "Non è necessariamente competente ad adottare il provvedimento",
+      "È sempre competente ad adottare il Provvedimento",
+      "Non è mai competente ad adottare il provvedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti è un criterio oggettivo di imputazione della responsabilità ad un ente?",
+    "options": [
+      "Criterio della posizione formale del soggetto agente",
+      "II criterio della mancata adozione di modelli di orgnizzazione",
+      "II criterio della omessa vigilanza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14-bis, comma 2 lett.c), 1.241/1990, l'amministrazione procedente comunica alle altre amministrazioni interessate il termine perentorio entro il quale le amministrazioni coinvolte devono rendere le proprie determinazioni relative alla decisione oggetto della conferenza, comunque non superiore a...",
+    "options": [
+      "45 giorni",
+      "30 giorni",
+      "20 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 19, comma 4-bis, 1.241/1990, il presente articolo...",
+    "options": [
+      "Non si applica alle attività economiche a prevalente carattere finanziario, ivi comprese quelle regolate dal testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385, e dal testo unico in materia di intermediazione finanziaria di cui al decreto legislativo 24 febbraio 1998, n. 58",
+      "Non si applica alle attività economiche a prevalente carattere finanziario, escluse quelle regolate dal testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1° settembre 1993, n. 385, e dal testo unico in materia di intermediazione finanziaria di cui al decreto legislativo 24 febbraio 1998, n. 58",
+      "Si applica alle attività economiche a prevalente carattere finanziario, ivi comprese quelle regolate dal testo unico delle leggi in materia bancaria e creditizia di cui al decreto legislativo 1º settembre 1993, n. 385, e dal testo unico in materia di intermediazione finanziaria di cui al decreto legislativo 24 febbraio 1998, n. 58"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale fase del procedimento amministrativo si colloca la richiesta?",
+    "options": [
+      "Fase d'iniziativa",
+      "Fase istruttoria",
+      "Fase integrativa dell'efficacia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della L. 241 del 1990, nei procedimenti ad istanza di parte il responsabile del procedimento o l'autorità competente, prima della formale adozione di un provvedimento negativo:",
+    "options": [
+      "Comunica tempestivamente agli istanti i motivi che ostano all'accoglimento della domanda. Entro il termine di dieci giorni dal ricevimento della comunicazione, gli istanti hanno il diritto di presentare per iscritto le loro osservazioni, eventualmente corredate da documenti",
+      "Comunica tempestivamente agli istanti i motivi che ostano all'accoglimento della domanda e, contestualmente, provvede a decidere nel merito",
+      "Anticipa per le vie brevi i motivi che ostano all'accoglimento della domanda, concordando in modo ufficioso i contenuti del merito amministrativo conseguente alle osservazioni pervenute"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra le seguenti non è una conseguenza del principio di legalità in senso sostanziale?",
+    "options": [
+      "L'atipicità dei provvedimenti amministrativi",
+      "La nominatività dei provvedimenti amministrativi",
+      "L'eccezionalità dell'esecutorietà degli atti amministrativi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale dei seguenti casi il provvedimento amministrativo è nullo?",
+    "options": [
+      "Inesistenza del soggetto",
+      "Sviamento di potere",
+      "Illogicità o contraddittorietà dell'atto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A norma dell'art. 22, I comma, lett. a, della L. n. 241/1990, cosa si intende per diritto di accesso ai documenti amministrativi?",
+    "options": [
+      "II diritto degli interessati di prendeme visione e di estrarne copia",
+      "Il diritto dei privati di ottenerne il rilascio in formato originale",
+      "Il diritto della collettività di prenderne visione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10-bis della legge n. 241 del 1990, dopo la comunicazione dei motivi ostativi all'accoglimento dell'istanza, entro quali termini gli istanti hanno il diritto di presentare le loro osservazioni?",
+    "options": [
+      "Entro 10 giomi",
+      "Entro 15 giorni",
+      "Entro 30 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa s'intende per esecutorietà?",
+    "options": [
+      "La particolare efficacia dell'atto che può essere eseguito direttamente dalla P.A. senza che sia necessaria, a tal fine, una pronuncia dell'autorità giudiziaria",
+      "L'attitudine dell'atto efficace, anche se illegittimo, di produrre unilateralmente effetti giuridici nella sfera dei destinatari, indipendentemente dal loro consenso e dalla loro volontà",
+      "Che i provvedimenti amministrativi sono solo quelli previsti dall'ordinamento e per ciascun interesse pubblico e particolare da realizzare è preordinato un tipo di atto definito e disciplinato dalla legge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La I. n. 241/1990 stabilisce che in ogni atto notificato al destinatario devono essere indicati:",
+    "options": [
+      "Il termine e l'autorità cui è possibile ricorrere",
+      "Le modalità per ottenere l'ottemperanza dell'amministrazione all'atto",
+      "I mezzi di impugnazione giurisdizionale dell'atto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La disciplina relativa all'indennizzo per mero ritardo, di cui di cui al comma 1bis dell'art. 2bis 1.241/1990...",
+    "options": [
+      "Non trova applicazione nelle ipotesi di silenzio qualificato e di concorsi pubblici",
+      "Si applica esclusivamente nelle ipotesi di silenzio qualificato e di concorsi pubblici",
+      "Trova sempre applicazione senza eccezioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I provvedimenti giurisdizionali devono essere:",
+    "options": [
+      "motivati",
+      "concisi",
+      "non motivati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 4 della vigente legge 241/90, la determinazione dell'unità organizzativa responsabile del procedimento:",
+    "options": [
+      "Viene resa pubblica in conformità ai singoli ordinamenti",
+      "Viene pubblicata all'albo della singola amministrazione",
+      "Resta tra i cosiddetti \"interna corporis\" dell'amministrazione, non avendo rilevanza esterna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qualora l'istanza non genera obblighi per la P.A., essa viene denominata...",
+    "options": [
+      "Esposto",
+      "Denuncia",
+      "Ricorso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 3 1.241/1990 per quali dei seguenti atti non è richiesta la motivazione?",
+    "options": [
+      "Per gli atti normativi e per quelli a contenuto generale",
+      "Per i provvedimenti amministrativi concernenti lo svolgimento di pubblici concorsi",
+      "Per i provvedimenti amministrativi concernenti l'organizzazione amministrativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è falsa:",
+    "options": [
+      "La revoca ha efficacia retroattiva (ex tunc)",
+      "La revoca deve essere motivata",
+      "La revoca è un provvedimento amministrativo di secondo grado"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa prevede la I. n. 241/90 una volta aperta la fase dell'iniziativa del procedimento amministrativo?",
+    "options": [
+      "Tre obblighi: la previsione di un termine di conclusione dell'iter procedimentale, l'individuazione del responsabile del procedimento e la comunicazione dell'avvio del procedimento agli interessati",
+      "L'obbligo di prevedere un termine di conclusione dell'iter procedimentale",
+      "L'obbligo di comunicazione dell'avvio del procedimento agli interessati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I lavori della conferenza dei servizi iniziano, di regola, entro...",
+    "options": [
+      "15 giorni dalla data di indizione",
+      "10 giorni dalla data di indizione",
+      "20 giorni dalla data di indizione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'obbligo di motivazione, di cui all'art. 3 della legge n. 241/1990 e successive modifiche ed integrazioni, riguarda anche i giudizi e le valutazioni dell'Amministrazione?",
+    "options": [
+      "No, riguarda solo l'attività provvedimentale dell'amministrazione",
+      "Si, riguarda anche i giudizi e le valutazioni",
+      "Riguarda anche le valutazioni ma non i giudizi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14-quinquies, comma 3, 1.241/1990, la proposizione dell'opposizione...",
+    "options": [
+      "Sospende l'efficacia della determinazione motivata di conclusione della conferenza dei servizi",
+      "Non sospende nè interrompe l'efficacia della determinazione motivata di conclusione della conferenza dei servizi",
+      "Interrompe l'efficacia della determinazione motivata di conclusione della conferenza dei servizi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Tra le seguenti opzioni, quale è esclusa dalla categoria dei provvedimenti amministrativi?",
+    "options": [
+      "Le operazioni",
+      "Le abilitazioni",
+      "Le licenze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 19, comma 6, 1.241/1990, ove il fatto non costituisca più grave reato, chiunque, nelle dichiarazioni o attestazioni o asseverazioni che corredano la segnalazione di inizio attività, dichiara o attesta falsamente l'esistenza dei requisiti o dei presupposti di cui al comma 1 è punito con...",
+    "options": [
+      "La reclusione da uno a tre anni",
+      "Una sanzione amministrativa pecuniaria fino a 2.546",
+      "La sanzione amministrativa pecuniaria da 2.546 a 15.784 euro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14, comma 3, 1.241/1990, la conferenza preliminare si svolge secondo le disposizioni dell'articolo 14-bis, con...",
+    "options": [
+      "Abbreviazione dei termini fino ad un terzo",
+      "Abbreviazione dei termini fino alla metà",
+      "Aumento dei termini fino al doppio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel recepire l'elaborazione giurisprudenziale in tema di nullità dell'atto amministrativo, il legislatore ha introdotto l'art. 21-septies nella legge n. 241/1990. Tale norma prevede la nullità per il provvedimento....",
+    "options": [
+      "Che è viziato da difetto assoluto di attribuzione",
+      "Che è viziato da eccesso di potere",
+      "Che è viziato da incompetenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale termine viene utilizzato per indicare la conservazione di un atto amministrativo invalido per la adesione tacita o espressa del soggetto interessato?",
+    "options": [
+      "Acquiescenza",
+      "Sanatoria",
+      "Consolidazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ex art. 25, IV comma, della L. n. 241/1990, se l'accesso ai documenti amministrativi è negato per motivi inerenti ai dati personali che si riferiscono a soggetti terzi, la Commissione per l'accesso ai documenti amministrativi provvede dopo aver sentito il Garante per la protezione dei dati personali, che si pronuncia entro:",
+    "options": [
+      "dieci giomi dalla richiesta",
+      "novanta giorni dalla richiesta",
+      "due giorni dalla richiesta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale fase del procedimento amministrativo possono essere collocate l'istanza e la proposta non vincolante?",
+    "options": [
+      "Nella fase d'iniziativa",
+      "Sia nella fase istruttoria sia nella fase integrativa dell'efficacia",
+      "Nella fase istruttoria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14, comma 3, 1.241/1990, l'amministrazione procedente, se ritiene di accogliere la richiesta motivata di indizione della conferenza preliminare, la indice entro...",
+    "options": [
+      "5 giorni lavorativi dalla ricezione della richiesta stessa",
+      "3 giorni lavorativi dalla ricezione della richiesta stessa",
+      "10 giorni lavorativi dalla ricezione della richiesta stessa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In presenza di particolari presupposti, ai sensi dell'art. 2, comma 4 I. 241/1990, per la conclusione dei procedimenti di competenza delle amministrazioni statali il termine di conclusione del procedimento può essere ampliato, con d.p.c.m. ...",
+    "options": [
+      "Fino ad un massimo di 180 giorni",
+      "Fino ad un massimo di 90 giomi",
+      "Di 90 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14, comma 2 1.241/1990, la conferenza di servizi è convocata, anche su richiesta dell'interessato, da una delle amministrazioni procedenti quando...",
+    "options": [
+      "L'attività del privato sia subordinata a più atti di assenso, comunque denominati, da adottare a conclusione di distinti procedimenti, di competenza di diverse amministrazioni pubbliche",
+      "L'attività del privato sia subordinata a più atti di assenso, comunque denominati, da adottare a conclusione di procedimenti congiunti, di competenza di diverse amministrazioni pubbliche",
+      "L'attività del privato sia subordinata ad un massimo di due atti di assenso, comunque denominati, da adottare a conclusione di distinti procedimenti, di competenza di diverse amministrazioni pubbliche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2bis, comma 1bis, restano escluse dall'applicazione della disciplina sull'indennizzo le ipotesi di...",
+    "options": [
+      "Silenzio qualificato (silenzio-assenso e silenzio-diniego) e dei concorsi pubblici",
+      "Silenzio-assenso, ma non di silenzio-diniego, e di concorsi pubblici",
+      "Silenzio qualificato (silenzio-assenso e silenzio-diniego) ma non quella dei concorsi pubblici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qualora sia decorso il termine perentorio di 45 giomi, entro il quale devono essere resi i pareri del Consiglio di Stato...",
+    "options": [
+      "L'amministrazione può procedere indipendentemente dall'acquisizione del parere stesso",
+      "L'amministrazione deve sollecitare il Consiglio di Stato ad esprimere il parere, entro il termine di 45 giorni",
+      "L'amministrazione deve archiviare il procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qualora venga emanato un atto da un organo diverso da quello competente ed entrambi appartengano allo stesso ente, tale atto è viziato da:",
+    "options": [
+      "Incompetenza relativa",
+      "Eccesso di potere",
+      "Violazione di legge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è la normativa fondamentale di riferimento in materia di procedimento amministrativo?",
+    "options": [
+      "La I. 241/1990",
+      "Il d.lgs.267/2000",
+      "Il d.lgs. 104/2010"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le fonti dell'ordinamento giuridico internazionale:",
+    "options": [
+      "vengono introdotte in quello nazionale",
+      "non vengono introdotte in quello nazionale",
+      "non rappresentano fonti del diritto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo quanto stabilito dall'art. 21- nonies della legge n. 241/1990, in quale condizione giuridica si trova il provvedimento amministrativo illegittimo ai sensi dell'articolo 21- octies della stessa legge?",
+    "options": [
+      "È annullabile d'ufficio, se sussistono le ragioni di interesse pubblico, dall'organo che lo ha emanato, ovvero da altro organo previsto dalla legge",
+      "È nullo",
+      "Può essere revocato, sussistendone le ragioni di interesse pubblico, entro il termine perentorio di sessanta giorni, tenendo conto degli interessi dei destinatari e dei controinteressati, solo da organo superiore a quello che lo ha emanato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 19, comma 6-ter, 1.241/1990, la segnalazione certificata di inizio attività, la denuncia e la dichiarazione di inizio attività...",
+    "options": [
+      "Non costituiscono provvedimenti taciti direttamente impugnabili",
+      "Costituiscono provvedimenti taciti direttamente impugnabili",
+      "Costituiscono provvedimenti taciti direttamente impugnabili, salvi i casi eccezionali espressamente previsti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della L. 241 del 1990, le pubbliche amministrazioni possono imporre coattivamente l'adempimento degli obblighi nei loro confronti:",
+    "options": [
+      "nei casi e con le modalità stabiliti dalla legge",
+      "nei casi stabiliti dalla legge",
+      "nei casi stabiliti dalla legge e da atti equiparati alla legge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2, comma 9bis 1.241/1990, al fine di scongiurare ipotesi di inefficienza nell'attività amministrativa l'organo di governo deve individuare...",
+    "options": [
+      "Il soggetto cui attribuire il potere sostitutivo in caso di inerzia, nell'ambito delle figure apicali dell'amministrazione",
+      "Il soggetto colpevole dell'inerzia, che subirà il licenziamento",
+      "Le sanzioni pecuniarie da infliggere nel caso di inerzia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il d.l. 5/2012, conv. In I. 35/2012 ha stabilito che le sentenze passate in giudicato che accolgono il ricorso avverso il silenzio inadempimento dell'amministrazione sono trasmesse, in via telematica, alla...",
+    "options": [
+      "Corte dei Conti",
+      "Corte di Cassazione",
+      "Corte Costituzionale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 19, comma 1 ult.pt., 1.241/1990, la SCIA, corredata delle dichiarazioni, attestazioni e asseverazioni nonchè dei relativi elaborati tecnici...",
+    "options": [
+      "Può essere presentata mediante posta raccomandata con avviso di ricevimento, ad eccezioni dei procedimenti per cui è previsto l'utilizzo esclusivo della modalità telematica",
+      "Dev'essere presentata, in ogni caso, esclusivamente con la modalità telematica",
+      "Dev'essere presentata, in ogni caso, esclusivamente con deposito personalmente effettuato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quali casi il procedimento può essere concluso dalla p.a. con un provvedimento in forma semplificata, ai sensi dell'art. 2 comma 11. 241/1990?",
+    "options": [
+      "Se le p.a. ravisano la manifesta irricevibilità, inammissibilità, improcedibilità o infondatezza della domanda",
+      "Se il provvedimento ha ad oggetto questioni normative",
+      "Se il provvedimento deve essere reso su questioni semplici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A norma della legge 241 del 1990, il responsabile del procedimento, può, tra l'altro, proporre l'indizione:",
+    "options": [
+      "Di conferenze di servizi",
+      "Di accordi di programma",
+      "Di intese istituzionali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Sulla responsabilità amministrativo-contabile giudica...",
+    "options": [
+      "La Corte dei Conti",
+      "II Consiglio di Stato",
+      "La Corte di Cassazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi delle norme sul procedimento amministrativo, il soggetto diverso dal destinatario che possa subire un pregiudizio dal provvedimento, ha il diritto di presentare memorie scritte e documenti all'amministrazione?",
+    "options": [
+      "Si e l'amministrazione ha l'obbligo di valutarli ove siano pertinenti all'oggetto del procedimento",
+      "No, in quanto si tratta di una prerogativa riconosciuta solo al destinatario diretto dell'atto",
+      "Si. In ogni caso l'amministrazione non ha alcun l'obbligo di valutarli anche nel caso siano pertinenti all'oggetto del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 19, comma 3, 1.241/1990, l'amministrazione competente, in caso di accertata carenza dei requisiti e dei presupposti di cui al comma 1, adotta motivati provvedimenti di divieto di prosecuzione dell'attività e di rimozione degli eventuali effetti dannosi di essa, nel termine di...",
+    "options": [
+      "Sessanta giorni dal ricevimento della segnalazione di cui al medesimo comma",
+      "Trenta giorni dal ricevimento della segnalazione di cui al medesimo comma",
+      "Novanta giorni dal ricevimento della segnalazione di cui al medesimo comma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'omessa comunicazione di avvio del procedimento, da luogo ad annullabilità del provvedimento?",
+    "options": [
+      "No, se l'amministrazione dimostra in giudizio che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato",
+      "No, mai",
+      "Si, sempre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nell'ambito del procedimento amministrativo, l'istanza è...",
+    "options": [
+      "Una domanda dei privati interessati, tendente ad ottenere un provvedimento a loro favore",
+      "Un reclamo dell'interessato inteso a provocare un riesame di legittimità o di merito degli atti della P.A., ritenuti lesivi di diritti o interessi legittimi",
+      "Una dichiarazione presentata da privati ad un'autorità amministrativa, al fine di provocare l'esercizio dei suoi poteri, con l'emanazione di un provvedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Per quale dei seguenti atti la normativa non chiede una specifica motivazione in ordine a tutti gli aspetti delle decisioni amministrative?",
+    "options": [
+      "Atti normativi e atti a contenuto generale",
+      "Atti amministrativi del Ministro dell'Interno",
+      "Atti amministrativi del Presidente del Consiglio dei Ministri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 4 1.241/1990, le pubbliche amministrazioni sono tenute a determinare per ciascun tipo di procedimento relativo ad atti di loro competenza l'unità organizzativa responsabile della istruttoria e di ogni altro adempimento procedimentale, nonché dell'adozione del provvedimento finale...",
+    "options": [
+      "Ove non sia già direttamente stabilito per legge o per regolamento",
+      "Anche se sia già direttamente stabilito per legge o per regolamento",
+      "Soltanto se sia già direttamente stabilito per legge o per regolamento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La P.A. può rifiutare l'accesso ai documenti amministrativi, è corretto?",
+    "options": [
+      "Si, in casi tassativamente previsti dall'art. 24 1.241/1990",
+      "No",
+      "Si, in quanto il diritto d'accesso rappresenta un'eccezione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 24, I comma, lett. d, della L. n. 241/1990, il diritto di accesso ai documenti amministrativi è escluso, tra l'altro:",
+    "options": [
+      "nei procedimenti selettivi, nei confronti dei documenti amministrativi contenenti informazioni di carattere psicoattitudinale relativi a terzi",
+      "quando ne fa richiesta l'interessato",
+      "quando vi è un interesse concreto, attuale e diretto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nelle Pubbliche Amministrazioni, tutti i procedimenti sono coperti dal segreto d'ufficio?",
+    "options": [
+      "No, solo in pochi casi, la regola è quella della trasparenza degli atti e delle procedure della Pubblica Amministrazione",
+      "No, mai",
+      "Si, in ogni caso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In tema di disposizioni sulla trasparenza amministrativa, il responsabile del procedimento, ai sensi della legge n. 241/90:",
+    "options": [
+      "Adotta, ove ne abbia la competenza, il provvedimento finale, ovvero trasmette gli atti all organo competente per l'adozione",
+      "Non può mai essere competente in materia di adozione del provvedimento finale",
+      "Non può esperire ispezioni od ordinare esibizioni di documenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il responsabile del procedimento, ai sensi dell'art. 6 1.241/1990, adotta, in ogni caso, il provvedimento finale. È corretto?",
+    "options": [
+      "No, il responsabile del procedimento adotta il provvedimento finale esclusivamente ove ne abbia la competenza, altrimenti dovrà trasmettere gli atti all'organo competente per l'adozione",
+      "No, il provvedimento finale, ai sensi dell'art. 6 1.24 1/1990, non può essere mai adottato dal responsabile del procedimento",
+      "Si"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel procedimento amministrativo, a norma di quanto dispone la legge n. 241/1990, chi accerta d'ufficio i fatti, disponendo il compimento degli atti necessari allo scopo?",
+    "options": [
+      "Il responsabile del procedimento",
+      "L'organo di vertice della P.A.",
+      "L'organo di governo della P.A."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 bis 1. 241/1990, il responsabile del procedimento o l'autorità competente, prima della formale adozione di un provvedimento negativo, deve comunicare tempestivamente agli interessati i motivi ostativi all'accoglimento della domanda, nei procedimenti....",
+    "options": [
+      "Ad istanza di parte",
+      "Avviati d'ufficio",
+      "Sia ad istanza di parte che avviati d'ufficio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La stipulazione degli accordi integrativi del procedimento è ancora consentita a seguito delle modifiche apportate dalla I. 15/2005 alla I. 241/90?",
+    "options": [
+      "Si, ma essa dev'essere preceduta da una determinazione dell'organo che sarebbe competente per l'adozione del provvedimento",
+      "Non più",
+      "Si ed è preceduta da un atto di indirizzo dell'organo politico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa contiene la legge 241 del 1990?",
+    "options": [
+      "Una disciplina generale del procedimento amministrativo",
+      "Una disciplina generale dei provvedimenti amministrativi",
+      "Principi generali in materia di organizzazione amministrativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cosa consiste l'indennizzo previsto dall'art. 2 bis, comma 1bis I. 241/1990?",
+    "options": [
+      "Consiste nel fatto che, scaduto il termine per l'adozione del provvedimento, per ogni giorno di ritardo i cittadini potranno ricevere 30 euro, fino ad un massimo di 2000 euro.",
+      "Consiste nel fatto che, scaduto il termine per l'adozione del provvedimento, per ogni giorno di ritardo i cittadini potranno ricevere 30 euro, fino ad un massimo di 200 euro.",
+      "Consiste nel fatto che, scaduto il termine per l'adozione del provvedimento, per ogni giorno di ritardo i cittadini potranno ricevere 50 euro, fino ad un massimo di 2000 euro."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è falsa:",
+    "options": [
+      "L'atto amministrativo annullabile è inefficace",
+      "L'atto amministrativo annullabile è giuridicamente esistente",
+      "L'atto amministrativo annullabile è sanabile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La competenza di un organo amministrativo viene distinta in tre categorie. Quale delle seguenti non costituisce una di esse?",
+    "options": [
+      "Competenza per connessione",
+      "Competenza per territorio",
+      "Competenza per materia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quali procedimenti non si applicano le disposizioni sulla comunicazione dei motivi ostativi all'accoglimento dell'istanza di cui all'art. 10-bis della legge n. 241/1990?",
+    "options": [
+      "Alle procedure concorsuali",
+      "L'art 10-bis non contiene preclusioni in tal senso, in quanto le relative disposizioni si applicano a tutti i procedimenti amministrativi a prescindere dall'istanza promossa e dall'oggetto",
+      "L'unico caso previsto dall'art. 10-bis riguarda i procedimenti in materia previdenziale e assistenziale sorti a seguito di istanza di parte e gestiti dagli enti previdenziali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del comma 9 ter, dell'art. 2 1. 241/1990, decorso inutilmente il termine per la conclusione del procedimento, il privato può rivolgersi al responsabile del rispetto della tempistica perchè concluda il procedimento attraverso le strutture competenti o con la nomina di un commissario ad acta...",
+    "options": [
+      "Entro un termine pari alla metà di quello originariamente previsto",
+      "Entro 180 giomi",
+      "Entro un termine che non può essere superiore al doppio di quello originariamente previsto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa s'intende per esecutorietà?",
+    "options": [
+      "L'attitudine del provvedimento ad essere attuato coattivamente",
+      "Il complesso delle attività intese a realizzare sul piano materiale gli effetti giuridici dell'atto",
+      "L'idoneità del provvedimento a produrre immediatamente e automaticamente i propri effetti, ove l'atto sia divenuto efficace"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cosa consistono gli atti ablativi?",
+    "options": [
+      "Sono quei provvedimenti mediante i quali la P.A. priva il titolare di un determinato diritto reale, o estinguendolo o trasferendolo coattivamente ad altro soggetto, o limitandolo",
+      "Sono quei provvedimenti mediante i quali la P.A. limita un determinato diritto reale in capo al suo titolare, ma non lo priva dello stesso",
+      "Sono quei provvedimenti mediante i quali la P.A. attribuisce od estende un determinato diritto reale in capo ad un soggetto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'attività amministrativa discrezionale è vincolata nel fine, rappresentato dall'interesse pubblico concreto. Come si individua l'interesse pubblico concreto?",
+    "options": [
+      "Mediante l'individuazione dell'interesse primario e il suo bilanciamento con gli interessi secondari alla luce del criterio di ragionevolezza",
+      "Mediante l'individuazione dell'interesse primario, ossia l'interesse pubblico alla cui cura è finalizzato il potere attribuito alla amministrazione",
+      "Facendo ricorso alle disposizioni di cui all'art. 27 della 1.241/1990"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'Art. 10-bis della Legge 241/1990, nel caso di procedimento amministrativo ad istanza di parte il responsabile del procedimento o l'autorità competente, prima della formale adozione di un provvedimento negativo, comunica tempestivamente agli istanti i motivi che ostano all'accoglimento della domanda. In tal caso:",
+    "options": [
+      "Entro il termine di dieci giorni dal ricevimento della comunicazione, gli istanti hanno il diritto di presentare per iscritto le loro osservazioni, eventualmente corredate da documenti",
+      "Entro il termine di trenta giorni dal ricevimento della comunicazione, gli istanti hanno il diritto di presentare per iscritto le loro osservazioni, eventualmente corredate da documenti",
+      "Entro il termine di sessanta giorni dal ricevimento della comunicazione, gli istanti hanno il diritto di presentare per iscritto le loro osservazioni, eventualmente corredate da documenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cosa consiste la discrezionalità tecnica?",
+    "options": [
+      "La discrezionalità tecnica consiste nell'esame di fatti e situazioni in virtù di cognizioni tecniche o scientifiche di carattere specialistico",
+      "La discrezionalità tecnica consiste nella valutazione di fatti e situazioni al fine di verificare la legittimità degli atti amministrativi",
+      "La discrezionalità tecnica consiste nella valutazione, attribuita in base alla legge all'amministrazione, di circostanze o fatti al fine dell'emissione di un atto."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando deve essere autenticato l'atto di iniziativa di un procedimento amministrativo presentato da un privato?",
+    "options": [
+      "Mai, salvo gli atti previsti da leggi speciali",
+      "Solo se trattasi di persona giuridica",
+      "Sempre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si tiene in considerazione nell'attribuzione delle funzioni amministrative ai diversi enti territoriali, in base al principio di adeguatezza?",
+    "options": [
+      "Le dimensioni e le capacità di govemo",
+      "Le differenti caratteristiche territoriali",
+      "Le differenti caratteristiche demografiche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 18 della legge n. 241/1990 sostituito dall'art 3 legge 80/2005, che cosa può richiedere l'amministrazione procedente agli interessati nel caso di acquisizione d'ufficio di documenti attestanti atti, fatti, qualità e stati soggettivi, necessari per l'istruttoria del procedimento e detenuti da altre P.A?",
+    "options": [
+      "L'amministrazione procedente può richiedere agli interessati i soli elementi necessari per la ricerca dei documenti",
+      "Può richiedere una copia autenticata di tutti i documenti necessari",
+      "Può richiedere una copia anche informale dei documenti con riserva di richiedere l'originale all'amministrazione competente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 20 1.241/1990, fatta salva l'applicazione dell'articolo 19, nei procedimenti ad istanza di parte per il rilascio di provvedimenti amministrativi il silenzio dell'amministrazione competente equivale a provvedimento...",
+    "options": [
+      "Di accoglimento della domanda, senza necessità di ulteriori istanze o diffide, se la medesima amministrazione non comunica all'interessato, nel termine di trenta gioni o del termine individuato con d.p.c.m., il provvedimento di diniego, ovvero non indice, entro trenta giorni dalla presentazione dell'istanza, una conferenza di servizi",
+      "Di accoglimento della domanda, con la necessità, tuttavia, di ulteriori istanze o diffide, se la medesima amministrazione non comunica all'interessato, nel termine di trenta giorni o del termine individuato con d.p.c.m., il provvedimento di diniego, ovvero non indice, entro trenta giorni dalla presentazione dell'istanza, una conferenza di servizi",
+      "Di rigetto della domanda, senza necessità di ulteriori istanze o diffide, se la medesima amministrazione non comunica all'interessato, nel termine di trenta giorni o del termine individuato con d.p.c.m., il provvedimento di diniego, ovvero non indice, entro trenta giorni dalla presentazione dell'istanza, una conferenza di servizi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nell'ambito di un procedimento amministrativo, i documenti relativi ad un soggetto già in possesso della Ρ.Α.?",
+    "options": [
+      "Sono acquisiti d'ufficio dal responsabile del procedimento amministrativo",
+      "Possono essere prodotti anche a conclusione del procedimento amministrativo",
+      "Possono essere prodotti solo nella fase istruttoria del procedimento amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per rapporto interorganico di coordinamento?",
+    "options": [
+      "È il rapporto intercorrente tra due o più organi posti in posizione di equiordinazione",
+      "È il rapporto in virtù del quale l'attività svolta da un organo viene vagliata da un altro organo",
+      "È il rapporto esterno intercorrente tra organi individuali di grado diverso, che si trovano generalmente all'interno di uno stesso ramo di amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base alle norme sul procedimento amministrativo è corretto affermare che:",
+    "options": [
+      "Il provvedimento amministrativo non é comunque annullabile per mancata comunicazione dell'avvio del procedimento qualora l'amministrazione dimostri in giudizio che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato",
+      "II provvedimento amministrativo é annullabile per mancata comunicazione dell'avvio del procedimento",
+      "È annullabile il provvedimento adottato in violazione di norme sul procedimento o sulla forma degli atti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I risultati dell'attività amministrativa discrezionale...",
+    "options": [
+      "non possono essere definiti preventivamente",
+      "possono essere definiti preventivamente in base a quanto previsto dalla legge",
+      "non possono essere definiti preventivamente, salvo che la legge disponga diversamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da quale dei seguenti soggetti non può essere disposta la revoca di cui all'art. 21 quinquies 1.241/1990?",
+    "options": [
+      "Dal Giudice",
+      "Da parte della stessa autorità che ha emanato l'atto",
+      "Da parte dell'autorità gerarchicamente superiore"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della L. 241 del 1990, i provvedimenti amministrativi efficaci:",
+    "options": [
+      "Sono eseguiti immediatamente, salvo che sia diversamente stabilito dalla legge o dal provvedimento medesimo",
+      "Sono eseguiti immediatamente",
+      "Sono eseguiti immediatamente, salvo che sia diversamente stabilito con provvedimento del Segretario generale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I beni costituenti demanio necessario...",
+    "options": [
+      "Sono di proprietà esclusiva dello Stato, ad eccezione dei porti lacuali che appartengono alle Regioni",
+      "Sono di proprietà esclusiva dei privati",
+      "Possono costituire proprietà dello Stato o dei privati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 1.241/1990, la conferenza di servizi istruttoria può essere indetta...",
+    "options": [
+      "Dall'amministrazione procedente, anche su richiesta di altra amministrazione coinvolta nel procedimento o del privato interessato",
+      "Dall'amministrazione procedente, soltanto d'ufficio e mai su richiesta di altra amministrazione coinvolta nel procedimento o del privato interessato",
+      "Dall'amministrazione procedente, anche su richiesta di altra amministrazione coinvolta nel procedimento, ma mai su richiesta del privato interessato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'interesse legittimo oppositivo legittima l'interessato...",
+    "options": [
+      "Ad opporsi a provvedimenti amministrativi che pregiudicano sostanzialmente la sua sfera giuridica",
+      "A pretendere un dato comportamento da parte della P.A.",
+      "Esclusivamente ad opporsi all'espropriazione per pubblica utilità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 19-bis, comma 2, 1.241/1990, l'amministrazione che riceve la SCIA la trasmette immediatamente alle altre amministrazioni interessate al fine di consentire, per quanto di loro competenza, il controllo sulla sussistenza dei requisiti e dei presupposti per lo svolgimento dell'attività e la presentazione di eventuali proposte motivate per l'adozione dei provvedimenti ivi previsti....",
+    "options": [
+      "Almeno cinque giorni prima della scadenza dei termini di cui all'articolo 19, commi 3 e 6-bis",
+      "Almeno due giorni prima della scadenza dei termini di cui all'articolo 19, commi 3 e 6-bis",
+      "Almeno dieci giorni prima della scadenza dei termini di cui all'articolo 19, commi 3 e 6-bis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In cosa si differenziano le autorizzazioni e le abilitazioni?",
+    "options": [
+      "Entrambe sono provvedimenti discrezionali, ma mentre nelle prime alla P.A. è riconosciuta una discrezionalità amministrativa nelle seconde ad essa è riconosciuta una discrezionalità tecnica",
+      "Le prime sono provvedimenti vincolati e le seconde sono provvedimenti discrezionali",
+      "Le prime sono provvedimenti discrezionali e le seconde sono provvedimenti vincolati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'atto amministrativo nullo...",
+    "options": [
+      "È insanabile",
+      "É esecutorio",
+      "È giuridicamente esistente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I giudizi di responsabilità amministrativa dinanzi alla Corte dei Conti si prescrivono nel termine di...",
+    "options": [
+      "Cinque anni",
+      "Tre anni",
+      "Due anni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come sono definiti i provvedimenti che attribuiscono al destinatario un diritto soggettivo nuovo di cui l'amministrazione non era titolare?",
+    "options": [
+      "Concessioni costitutive",
+      "Autorizzazioni",
+      "Concessioni traslative"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della L. 241 del 1990, il termine generale di conclusione del procedimento è di:",
+    "options": [
+      "30 giorni",
+      "60 giorni",
+      "15 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando la conferenza decisoria si svolge senza che siano convocate riunioni fisiche, ma mediante l'invio di documenti per via telematica, essa è detta...",
+    "options": [
+      "In forma semplificata e in modalità asincrona",
+      "In forma semplificata e in modalità sincrona",
+      "In forma simultanea e in modalità sincrona"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In merito alla segnalazione certificata di inizio attività, cosa stabilisce il comma 3 dell'art. 19 Legge 241/1990 nel caso in cui l'amministrazione competente, accerti la carenza dei requisiti e dei presupposti di cui al comma 1?",
+    "options": [
+      "Stabilisce che nel termine di sessanta giorni dal ricevimento della segnalazione di cui al comma 1, adotta motivati provvedimenti di divieto di prosecuzione dell'attività e di rimozione degli eventuali effetti dannosi di essa",
+      "Stabilisce che entro 30 giorni dal ricevimento della segnalazione di cui al medesimo comma, adotta motivati provvedimenti di divieto di prosecuzione dell'attività",
+      "Assegna al soggetto interessato un termine non inferiore a 60 giorni, per regolarizzare la sua posizione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della Legge 241 del 1990, l'attività amministrativa:",
+    "options": [
+      "persegue i fini determinati dalla legge",
+      "persegue i fini determinati dalla legge e dai regolamenti di cui alla legge 400 del 1988",
+      "persegue i fini emergenti dal caso concreto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 1.241/1990, la conferenza dei servizi istruttoria...",
+    "options": [
+      "Può essere indetta dall'amministrazione procedente quando lo ritenga opportuno per effettuare un esame contestuale degli interessi pubblici coinvolti in un procedimento amministrativo, o in più procedimenti connessi, riguardanti medesime attività o risultati",
+      "È sempre indetta dall'amministrazione procedente quando la conclusione positiva del procedimento è subordinata all'acquisizione di più pareri, intese, concerti, nulla osta o altri atti di assenso, comunque denominati, resi da diverse amministrazioni, inclusi i gestori di beni o servizi pubblici",
+      "Può essere indetta dall'amministrazione procedente, su motivata richiesta dell'interessato, corredata da uno studio di fattibilità, in relazione a progetti di particolare complessità e di insediamenti produttivi di beni e servizi. Serve ad indicare al richiedente, prima della presentazione di un'istanza o di un progetto definitivo, le condizioni per ottenere, alla loro presentazione, i necessari pareri, intese, concerti, nulla osta, autorizzazioni, concessioni o altri atti di assenso, comunque denominati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14-ter, comma 2, 1. 241/1990, i lavori della conferenza dei servizi si concludono...",
+    "options": [
+      "Non oltre quarantacinque gioni decorrenti dalla data della riunione di cui al comma 1",
+      "Non oltre novanta giomi decorrenti dalla data della riunione di cui al comma 1",
+      "Non prima di quarantacinque giorni decorrenti dalla data della riunione di cui al comma 1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14-bis, comma 1, 1.241/1990, la conferenza decisoria di cui all'articolo 14, comma 2, si svolge in forma...",
+    "options": [
+      "Semplificata e in modalità asincrona",
+      "Simultanea e in modalità sincrona",
+      "Semplificata e in modalità sincrona"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'attività amministrativa nell'esercizio dei poteri discrezionali è arbitraria. È corretto?",
+    "options": [
+      "No, l'attività dell'amministrazione nell'esercizio dei poteri discrezionali è sempre vincolata nel fine",
+      "Si, salvi i casi in cui a tali poteri siano posti dei limiti dalla legge",
+      "Si, nell'esercizio dei poteri discrezionali l'amministrazione può agire secondo il suo apprezzamento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale organo amministrativo può sospendere, con un provvedimento di secondo grado, l'efficacia di un provvedimento precedente?",
+    "options": [
+      "L'organo che ha emanato il provvedimento o altro organo previsto dalla legge",
+      "Esclusivamente l'organo che ha emanato il provvedimento",
+      "Esclusivamente l'organo gerarchicamente sovraordinato rispetto a quello che ha emanato il provvedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le pubbliche amministrazioni sono tenute a determinare per ciascun procedimento il termine entro cui esso deve essere concluso. Nel caso di inottemperanza a tale obbligo...",
+    "options": [
+      "Il termine deve essere inteso come limitato a 30 gioni",
+      "Il termine deve essere inteso come limitato a 15 giomi",
+      "Il termine deve essere inteso come limitato a 60 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La legge 241 del 1990:",
+    "options": [
+      "È stata modificata sia dalla legge n.15 del 2005 che dalla legge n.69 del 2009",
+      "È la prima legge quadro di riforma del processo amministrativo",
+      "Da facoltà alle PA di istituire la figura del responsabile del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I regolamenti sono atti...",
+    "options": [
+      "Formalmente amministrativi ma sostanzialmente normativi",
+      "Formalmente normativi ma sostanzialmente amministrativi",
+      "Formalmente e sostanzialmente normativi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Entro quale termine devono essere resi i pareri obbligatori?",
+    "options": [
+      "Entro 20 giorni dal ricevimento della richiesta",
+      "Entro 10 giorni dal ricevimento della richiesta",
+      "Entro 30 giomi dal ricevimento della richiesta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della L. 241 del 1990, ove il procedimento consegua obbligatoriamente ad un'istanza, ovvero debba essere iniziato d'ufficio, le pubbliche amministrazioni:",
+    "options": [
+      "Hanno il dovere di concluderlo mediante l'adozione di un provvedimento espresso",
+      "Hanno il potere di concluderlo mediante l'adozione di un provvedimento espresso",
+      "Hanno l'onere di concluderlo mediante l'adozione di un provvedimento espresso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il responsabile del procedimento:",
+    "options": [
+      "adotta anche il provvedimento finale, ove ne abbia la competenza",
+      "non adotta mai il provvedimento finale, che è sempre di competenza del dirigente",
+      "adotta solo il provvedimento privo di valenza all'esterno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si caratterizza la consuetudine?",
+    "options": [
+      "Essa deve consistere nella costante ed uniforme ripetizione di una data condotta e nella convinzione, da parte dei consociati, che tale condotta sia conforme a diritto",
+      "Essa deve consistere nella costante ed uniforme ripetizione di una data condotta o nella convinzione, da parte dei consociati, che una data condotta sia conforme a diritto",
+      "Essa deve consistere nella costante ed uniforme ripetizione di una data condotta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Da chi devono essere svolte le attività amministrative, in virtù del principio di sussidiarietà?",
+    "options": [
+      "Dall'ente territoriale che si trovi più vicino ai cittadini",
+      "Dall'ente territoriale che ha a disposizione dei mezzi più adeguati",
+      "Dall'ente territoriale che abbia le caratteristiche più adeguate a svolgerle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 21. 241/1990, la mancata o tardiva emanazione del provvedimento...",
+    "options": [
+      "Costituisce elemento di valutazione della performance individuale, nonché di responsabilità disciplinare e amministrativo contabile del dirigente e del funzionario inadempiente",
+      "Non costituisce elemento di valutazione della performance individuale, nonché di responsabilità disciplinare e amministrativo contabile del dirigente e del funzionario inadempiente",
+      "Costituisce elemento di valutazione della performance individuale, nonché di responsabilità disciplinare e amministrativo contabile del dirigente, ma non del funzionario inadempiente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La P.A. ha un obbligo generale di determinare l'unità organizzativa responsabile dell'istruttoria per ciascun tipo di procedimento?",
+    "options": [
+      "Si, è previsto espressamente dall'art. 4 1. 241/1990",
+      "No, la 1.241/90 prevede un'ampia discrezionalità dell'amministrazione circa la determinazione dell'unità responsabile.",
+      "No, tale obbligo sussiste solo per i provvedimenti a carattere generale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le norme contenute nel Capo III della legge n. 241/1990 (partecipazione al procedimento amministrativo) possono applicarsi anche ai procedimenti volti all'emanazione di atti di pianificazione e di programmazione?",
+    "options": [
+      "No, non trovano applicazione",
+      "Si, le norma contenute nel Capo III trovano applicazione a prescindere dal tipo di atto",
+      "Si, le norme contenute nel Capo III si applicano a tutti gli atti amministrativi eccetto quelli appartenenti alla categoria degli atti amministrativi generali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le attività di acquisizione degli interessi pubblici e privati coinvolti nel procedimento, sono proprie della fase:",
+    "options": [
+      "Istruttoria del procedimento amministrativo",
+      "Decisoria del procedimento amministrativo",
+      "Di iniziativa del procedimento amministrativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del disposto di cui all'art. 7 della legge n. 241/1990 l'avvio del procedimento amministrativo è comunicato...",
+    "options": [
+      "Ove non sussistano ragioni di impedimento derivanti da particolari esigenze di celerità del procedimento, anche a soggetti individuati o facilmente individuabili, diversi dai suoi diretti destinatari, qualora possa derivare ad essi un pregiudizio dal provvedimento",
+      "Con le modalità previste dall'articolo 8, solo ai soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti ed a quelli che per legge debbono intervenirvi",
+      "Solo ai soggetti nei confronti dei quali il provvedimento finale è destinato a produrre effetti diretti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale vizio si configura nell'ipotesi in cui la p.a. persegue l'interesse pubblico con un potere diverso da quello previsto a tal fine dalla legge?",
+    "options": [
+      "Eccesso di potere",
+      "Incompetenza",
+      "Violazione di legge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La proroga deve essere motivata?",
+    "options": [
+      "Si, sempre",
+      "No, mai",
+      "No, salva diversa previsione legislativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti affermazioni è falsa:",
+    "options": [
+      "L'annullamento d'ufficio non ha efficacia retroattiva, ma opera ex nunc",
+      "L'annullamento d'ufficio è un provvedimento amministrativo di secondo grado",
+      "L'annullamento d'ufficio è un potere generale della P.A. e non occorre una espressa previsione di legge per il suo esercizio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La legge 241/90 prevede un termine per il rilascio dei pareri obbligatori da parte degli organi consultivi delle pubbliche amministrazioni?",
+    "options": [
+      "Si, prevede un termine di venti giorni",
+      "No",
+      "Si, prevede un termine massimo di trenta giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel caso di difetto di motivazione o di motivazione insufficiente quale vizio sussiste?",
+    "options": [
+      "Violazione di legge",
+      "Eccesso di potere",
+      "Incompetenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il responsabile del procedimento amministrativo, tra le altre cose, deve:",
+    "options": [
+      "Accertare d'ufficio i fatti e adottare ogni misura per l'adeguato e sollecito svolgimento dell'istruttoria",
+      "Fissare il termine inderogabile entro cui il procedimento potrebbe concludersi",
+      "Adottare, anche se non ne abbia la competenza, il provvedimento finale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nel procedimento amministrativo, gli atti si suddividono in procedimentali e presupposti. Quali sono gli atti amministrativi procedimentali?",
+    "options": [
+      "Sono atti interni al procedimento stesso e finalizzati all'adozione del provvedimento finale e conclusivo del procedimento (si pensi ad esempio ad un parere non vincolante). In tal caso l'atto procedimentale non è autonomamente impugnabile",
+      "Sono gli atti posti a base di un diverso provvedimento amministrativo e tuttavia, di per sè, atti conclusivi di un autonomo procedimento amministrativo e, come tali, autonomamente impugnabili",
+      "Gli atti formati da più manifestazioni di volontà, strettamente connesse e tali da potersi considerare un solo atto. Questo comporta che il difetto di una di tali manifestazioni causa il difetto di tutto l'atto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 6 1.241/90, tra l'altro, il responsabile del procedimento...",
+    "options": [
+      "Valuta, ai fini istruttori, le condizioni di ammissibilità, i requisiti di legittimazione ed i presupposti che siano rilevanti per l'emanazione di provvedimento",
+      "Non può esperire accertamenti tecnici ed ispezioni ed ordinare esibizioni documentali",
+      "Non può adottarteli provvedimento finale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "II decentramento amministrativo si fonda sul riparto di competenze tra...",
+    "options": [
+      "Organi posti a vari livelli",
+      "Organi posti al medesimo livello",
+      "Uffici del medesimo organo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa deve indicare la motivazione dei provvedimenti amministrativi, ex art. 3 della legge n.241/1990?",
+    "options": [
+      "I presupposti di fatto e le ragioni giuridiche che hanno determinato la decisione dell'amministrazione, in relazione alle risultanze dell'istruttoria",
+      "Esclusivamente i presupposti di fatto e di diritto che hanno determinato l'amministrazione pubblica, ad iniziare il procedimento",
+      "Gli elementi essenziali dell'atto e, laddove siano presenti, gli elementi accidentali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'autorizzazione è il provvedimento...",
+    "options": [
+      "Discrezionale con cui la P.A. rimuove un limite che la legge pone all'esercizio di un diritto, legittimando il destinatario di tale provvedimento ad esercitare il diritto di cui già risulta titolare",
+      "Vincolato con cui la P.A. rimuove un limite che la legge pone all'esercizio di un diritto, legittimando il destinatario di tale provvedimento ad esercitare il diritto di cui già risulta titolare",
+      "Discrezionale con cui la P.A. rimuove un limite che la legge pone all'esercizio di un diritto, costituendo in capo al destinatario di tale provvedimento la titolarità del diritto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della l. 241/1990, a chi può essere assegnata la responsabilità del procedimento dal dirigente di ciascuna unità organizzativa?",
+    "options": [
+      "A sé o ad altro dipendente addetto all'unità organizzativa",
+      "Esclusivamente ad altro dipendente che ricopra il ruolo di dirigente",
+      "Esclusivamente a se stesso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa s'intende per \"interessi collettivi\"?",
+    "options": [
+      "Gli interessi facenti capo ad un ente esponenziale di un gruppo non occasionale ed omogeneo di soggetti, autonomamente individuabile ed organizzato per la realizzazione dei fini propri della categoria o del gruppo",
+      "Gli interessi comuni a tutti gli individui di una formazione sociale non organizzata e non individuabile autonomamente",
+      "Gli interessi appartenenti alla comunità nazionale o alle comunità minori, territoriali o meno, in cui si articola la plurisoggettività dell'ordinamento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa s'intende per \"decertificazione\" nel rapporto tra P.A. e cittadini?",
+    "options": [
+      "Che nessuna amministrazione può richiedere atti o certificati contenenti informazioni già in possesso della P.A.",
+      "Che le certificazioni rilasciate dalla P.A. in ordine a stati, qualità personali e fatti sono valide ed utilizzabili esclusivamente nei rapporti tra p.a. e cittadino",
+      "Che le amministrazioni possono richiedere atti o certificati sebbene essi contengano informazioni già in possesso della P.A."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa viene indicato, ai sensi delle norme sul procedimento amministrativo, in materia di comunicazioni dell'unità organizzativa competente e in merito al nominativo del responsabile del procedimento?",
+    "options": [
+      "Che le comunicazioni devono essere fornite d'ufficio ai soggetti interessati al procedimento di cui all'art. 7 e a richiesta a chiunque vi abbia interesse",
+      "Che le comunicazioni devono essere fornite d'ufficio a chiunque vi abbia interesse",
+      "Che le comunicazioni devono essere fornite, solo a richiesta, ai soggetti interessati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il termine generale per la conclusione dei procedimenti amministrativi, ai sensi dell'art. 2, comma 2 1.241/1990, è di...",
+    "options": [
+      "30 giorni",
+      "60 giorni",
+      "90 giomi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa regola il diritto amministrativo?",
+    "options": [
+      "I rapporti in cui interviene la P.A",
+      "I rapporti tra i singoli individui",
+      "I rapporti tra stati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14-ter, comma 4, 1.241/1990, ove alla conferenza partecipino anche amministrazioni non statali, le amministrazioni statali sono rappresentate...",
+    "options": [
+      "Da un unico soggetto abilitato ad esprimere definitivamente in modo univoco e vincolante la posizione di tutte le predette amministrazioni, nominato, anche preventivamente per determinate materie o determinati periodi di tempo, dal Presidente del Consiglio dei ministri, ovvero, ove si tratti soltanto di amministrazioni periferiche, dal Prefetto.",
+      "Da un unico soggetto abilitato ad esprimere definitivamente in modo univoco e vincolante la posizione di tutte le predette amministrazioni, nominato, anche preventivamente per determinate materie o determinati periodi di tempo, dal Presidente del Consiglio dei ministri, ovvero, ove si tratti soltanto di amministrazioni periferiche, dal Questore.",
+      "Da un unico soggetto abilitato ad esprimere definitivamente in modo univoco e vincolante la posizione di tutte le predette amministrazioni, nominato, anche preventivamente per determinate materie o determinati periodi di tempo, dal Ministro dell'Economia, ovvero, ove si tratti soltanto di amministrazioni periferiche, dal Prefetto."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le condizioni di ammissibilità sono elementi propri della fase istruttoria del procedimento amministrativo?",
+    "options": [
+      "Si assieme ai requisiti di legittimazione, le circostanze di fatto, ecc.",
+      "No",
+      "No, fanno parte della fase d'iniziativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le c.d. ordinanze di necessità ed urgenza:",
+    "options": [
+      "Non possono derogare a norme costituzionali o a principi generali dell'ordinamento, né regolare materie coperte da riserva assoluta di legge",
+      "In quanto emanate in condizioni straordinarie non necessitano di motivazione",
+      "Possiedono un'efficacia temporale determinata autonomamente dall'autorità amministrativa investita del potere di emanarle, prescindendo dal perdurare della necessità che ne ha legittimato l'emanazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Come si pone la P.A. quando agisce in qualità di soggetto di diritto privato?",
+    "options": [
+      "Essa si pone sullo stesso piano giuridico dei privati contrattando con essi",
+      "Essa si pone su un piano di supremazia rispetto al cittadino esercitando il suo potere attraverso atti unilaterali che il cittadino non può che subire",
+      "Essa si pone, a seconda dei casi previsti dall'art. 6 della 1.241/1990, in un piano di supremazia o sullo stesso piano giuridico dei privati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 1.241/1990, la conferenza di servizi istruttoria può essere indetta all'amministrazione procedente...",
+    "options": [
+      "Quando lo ritenga opportuno per effettuare un esame contestuale degli interessi pubblici coinvolti in un procedimento amministrativo, ovvero in più procedimenti amministrativi connessi, riguardanti medesime attività o risultati.",
+      "Quando lo ritenga opportuno per effettuare un esame contestuale degli interessi pubblici coinvolti in un procedimento amministrativo, riguardanti medesime attività o risultati, ma mai per effettuare un esame contestuale degli interessi pubblici coinvolti in procedimenti amministrativi connessi",
+      "Quando lo ritenga opportuno esclusivamente per effettuare un esame contestuale degli interessi pubblici coinvolti in più procedimenti amministrativi connessi, riguardanti medesime attività o risultati."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'annullamento d'ufficio è...",
+    "options": [
+      "Un provvedimento amministrativo di secondo grado con cui viene ritirato, con efficacia retroattiva, un atto amministrativo illegittimo, per la presenza di vizi di legittimità originari dell'atto",
+      "Un provvedimento amministrativo di secondo grado con cui viene ritirato, con efficacia retroattiva, un atto amministrativo inopportuno, per la presenza di vizi di merito dell'atto",
+      "Un provvedimento amministrativo di secondo grado con cui viene ritirato, con efficacia non retroattiva, un atto amministrativo illegittimo, per la presenza di vizi di legittimità originari dell'atto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa si intende per interessi diffusi?",
+    "options": [
+      "Gli interessi diffusi sono quelli comuni a tutti gli individui di una formazione sociale non organizzata e non individuabile autonomamente",
+      "Gli interessi diffusi sono quelli propri della comunità",
+      "Gli interessi diffusi sono quelli propri di un ente esponenziale di un gruppo di soggetti omogeneo, non occasionale, autonomamente individuabile ed organizzato per la realizzazione degli interessi del gruppo stesso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo la legge n. 241/90 l'amministrazione, nell'adozione del provvedimento finale, può discostarsi dalle risultanze dell'istruttoria condotta dal responsabile del procedimento?",
+    "options": [
+      "Si, ma deve essere indicata la motivazione nel provvedimento finale",
+      "No, deve attenersi sempre alle risultanze istruttorie condotte dal responsabile del procedimento.",
+      "Si, adottando diverse determinazione senza obbligo di motivazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 6, 1.241/1990, Il responsabile del procedimento...",
+    "options": [
+      "Valuta, ai fini istruttori, le condizioni di ammissibilità, i requisiti di legittimazione ed i presupposti che siano rilevanti per l'emanazione di provvedimento",
+      "Adotta, in ogni caso, il provvedimento finale",
+      "Non può accertare d'ufficio i fatti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti è un corollario del principio di legalità?",
+    "options": [
+      "Divieto di analogia",
+      "Principio di offensività",
+      "Principio di colpevolezza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quali obblighi sono previsti dalla legge n. 241/1990 una volta aperta la fase dell'iniziativa del procedimento amministrativo?",
+    "options": [
+      "Sono previsti tre obblighi ovvero: la previsione di un termine di conclusione dell'iter procedimentale, l'individuazione del responsabile del procedimento e la comunicazione dell'avvio del procedimento agli interessati.",
+      "Sono previsti due obblighi ovvero: la individuazione del responsabile del procedimento e la comunicazione dell'avvio del procedimento agli interessati.",
+      "È previsto l'obbligo della individuazione del responsabile del procedimento e la notificazione alle parti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A quali fini è stata istituita la Conferenza unificata?",
+    "options": [
+      "Al fine della trattazione dei compiti di interesse comune di Regioni, Province e Comuni",
+      "Al fine della trattazione dei compiti di interesse comune delle Unioni di Comuni",
+      "Al fine della trattazione dei compiti di interesse comune delle Città metropolitane"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quando un provvedimento amministrativo è perfetto ed efficace?",
+    "options": [
+      "Quando deve essere emanato dopo avere seguito un particolare iter, comprendente più atti e operazioni, che, nel loro complesso prendono il nome di procedimento amministrativo",
+      "Quando l'organo di controllo lo ha approvato",
+      "Quando è stato emanato entro il termine previsto dalla legge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale tra i seguenti compiti è attribuito in via eventuale al responsabile del procedimento, a noma della legge 241/90?",
+    "options": [
+      "L'indizione delle conferenze di servizi, avendone la competenza.",
+      "L'accertamento d'ufficio dei fatti.",
+      "La cura e l'invio delle comunicazioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'organo che lo ha emanato ovvero altro organo previsto dalla legge, può provvedere, nei casi previsti dall'art. 21-quinquies della legge 241/1990, alla revoca del provvedimento amministrativo. Se la revoca comporta pregiudizi in danno dei soggetti direttamente interessati cosa accade?",
+    "options": [
+      "Che l'amministrazione ha l'obbligo di provvedere al loro indennizzo",
+      "Che i soggetti interessati agiscono in giudizio per ottenere dal giudice amministrativo l'annullamento del provvedimento di revoca",
+      "Che l'organo provvede ad annullare la revoca"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'interesse legittimo pretensivo...",
+    "options": [
+      "È diretto al conseguimento di uno specifico provvedimento amministrativo e dell'utilità sostanziale ad esso connessa",
+      "È diretto ad impedire l'emanazione di provvedimenti amministrativi lesivi delle proprie situazioni soggettive",
+      "È diretto a impedire l'espropriazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Si ha silenzio assenso quando:",
+    "options": [
+      "la legge attribuisce all'inerzia della P.A. il significato di accoglimento di una istanza",
+      "la legge prevede come meramente facoltativo l'esercizio di una particolare competenza, per cui, trascorso inutilmente il termine previsto per l'esercizio di essa, si può procedere al compimento degli atti successivi senza pregiudizio per gli effetti finali",
+      "la legge conferisce all'inerzia della P.A. il significato di diniego di accoglimento di una istanza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Se l'organo competente per l'adozione del provvedimento finale è diverso dal responsabile del procedimento, a norma dell'art. 6 della legge n. 241/1990, può discostarsi dalle risultanze dell'istruttoria condotta dal responsabile del procedimento?",
+    "options": [
+      "Si, ma deve indicame la motivazione nel provvedimento finale",
+      "Si, ma solo nel caso in cui il responsabile del procedimento e l'organo competente all'adozione del provvedimento finale appartengono a due amministrazioni diverse.",
+      "No. Deve attenersi in ogni caso alle risultanze dell'istruttoria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 bis I. 241/1990, gli istanti hanno il diritto di presentare per iscritto le loro osservazioni, eventualmente corredate da documenti...",
+    "options": [
+      "Entro il termine di dieci giorni dal ricevimento della comunicazione dei motivi ostativi all'accoglimento dell'istanza",
+      "Entro il termine di venti giorni dal ricevimento della comunicazione dei motivi ostativi all'accoglimento dell'istanza",
+      "Non prima che sia decorso il termine di dieci giorni dal ricevimento della comunicazione dei motivi ostativi all'accoglimento dell'istanza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ha facoltà di intervenire nel procedimento amministrativo, secondo la legge 241/90:",
+    "options": [
+      "Chiunque possa subire un pregiudizio dall'emanazione del provvedimento",
+      "Esclusivamente chi non è titolare di posizioni giuridiche soggettive",
+      "Solo chi è titolare di diritti soggettivi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'atto amministrativo viziato da difetto assoluto di attribuzione è...",
+    "options": [
+      "Nullo",
+      "Annullabile",
+      "Sanabile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 61. 241/1990, il provvedimento finale viene adottato dal responsabile del procedimento?",
+    "options": [
+      "Soltanto qualora ne abbia la competenza, altrimenti trasmette gli atti all'organo competente",
+      "Si, sempre",
+      "No, mai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quali ipotesi, ai sensi dell'art. 21 octies, comma 2, I. 241/1990, la mancata comunicazione dell'avvio del procedimento non comporta l'annullabilità del provvedimento amministrativo?",
+    "options": [
+      "Qualora l'amministrazione dimostri in giudizio che il contenuto del provvedimento non avrebbe potuto essere diverso da quello in concreto adottato",
+      "La mancata comunicazione di avvio del procedimento non comporta mai l'annullabilità del provvedimento amministrativo, stante la non obbligatorietà della stessa",
+      "Qualora sia difficoltoso dare la comunicazione stessa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il preavviso di rigetto, di cui all'art. 10bis I. 241/1990...",
+    "options": [
+      "Interrompe i termini per la conclusione del procedimento",
+      "Sospende i termini per la conclusione del procedimento",
+      "Non he effetti sui termini per la conclusione del procedimento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In virtù dell'art. 16 della legge n. 241/1990, qual è il termine che gli organi consultivi delle pubbliche amministrazioni devono osservare per rendere il parere facoltativo ove esso sia richiesto?",
+    "options": [
+      "Il termine non può essere superiore ai venti giorni dal ricevimento della richiesta",
+      "Il termine non può essere mai superiore a trenta giomi dal ricevimento della richiesta",
+      "Non è previsto alcun termine ai sensi dell'art. 16"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I provvedimenti amministrativi sono atti....",
+    "options": [
+      "Tipici e nominati",
+      "Atipici e nominati",
+      "Atipici e autoritativi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14-quinquies 1.241/1990, avverso la determinazione motivata di conclusione della conferenza, le amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali o alla tutela della salute e della pubblica incolumità dei cittadini possono proporre opposizione al Presidente del Consiglio dei ministri, entro...",
+    "options": [
+      "10 giorni",
+      "5 giorni",
+      "30 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il provvedimento amministrativo carente degli elementi essenziali ė affetto da...",
+    "options": [
+      "Nullità",
+      "Imperfezione",
+      "Irregolarità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della Legge n. 241 del 1990, come modificata dalla legge 15 del 2005, l'amministrazione pubblica deve osservare le norme di diritto privato nell'adozione di:",
+    "options": [
+      "Atti di natura non autoritativa",
+      "Atti imperativi",
+      "Atti unilaterali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 25, comma 2, 1.241/1990, la richiesta di accesso ai documenti...",
+    "options": [
+      "Dev'essere motivata",
+      "Non dev'essere motivata",
+      "Dev'essere motivata nei soli casi previsti dalla legge"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il giudizio sull'antigiuridicità ha carattere:",
+    "options": [
+      "oggettivo",
+      "soggettivo",
+      "relativo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 19, comma 2, 1.241/1990, l'attività oggetto della SCIA può essere iniziata...",
+    "options": [
+      "Dalla data della presentazione della segnalazione all'amministrazione competente",
+      "Decorsi 10 giorni dalla data della presentazione della segnalazione all'amministrazione competente",
+      "Decorsi 30 giorni dalla data della presentazione della segnalazione all'amministrazione competente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La comunicazione di avvio del procedimento, di cui all'art. 7 1. 241/1990, è obbligatoria?",
+    "options": [
+      "Si, ad eccezione dei casi in cui sussistano ragioni di impedimento derivanti da particolari esigenze del procedimento",
+      "Si, senza eccezioni",
+      "No, è facoltativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cos'è il diritto amministrativo?",
+    "options": [
+      "È un ramo del diritto pubblico le cui norme regolano l'organizzazione dell'Amministrazione pubblica, le attività di perseguimento degli interessi pubblici e i rapporti tra le varie manifestazioni del potere pubblico e i cittadini",
+      "La disciplina giuridica che concerne l'organizzazione, i mezzi e le forme delle attività della P.A.",
+      "Il ramo del diritto pubblico che studia i principi e le norme fondamentali dell'attività dello stato, dei cittadini e di tutti gli altri soggetti della comunità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In caso di falsità nelle autocertificazioni volte al rilascio di un'autorizzazione, la successiva istanza di sanatoria, secondo quanto disposto dall'art. 21 della legge 241/90:",
+    "options": [
+      "Non è ammessa",
+      "È ammessa",
+      "È ammessa solo in caso di falsità non grave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 24, comma 7, 1.241/1990, nel caso di documenti contenenti dati sensibili e giudiziari, l'accesso...",
+    "options": [
+      "È consentito nei limiti in cui sia strettamente indispensabile e nei termini previsti dall'articolo 60 del decreto legislativo 30 giugno 2003, n. 196, in caso di dati idonei a rivelare lo stato di salute e la vita sessuale",
+      "Non è mai consentito",
+      "È sempre consentito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2, comma 11. 241/1990, la p.a. ha l'obbligo di concludere il procedimento amministrativo con l'adozione di un provvedimento....",
+    "options": [
+      "Sia nel caso di procedimenti iniziati ad istanza di parte che per quelli avviati d'ufficio",
+      "Soltanto nel caso di procedimenti iniziati ad istanza di parte",
+      "Soltanto nel caso di procedimenti avviati d'ufficio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale delle seguenti affermazioni di procedimento amministrativo è quella corretta?",
+    "options": [
+      "Il procedimento amministrativo è una serie di atti concatenati tra loro e diretti tutti allo scopo di pervenire ad un provvedimento finale",
+      "Il procedimento amministrativo è un insieme di attività informali precedenti all'adozione di un provvedimento finale",
+      "Il procedimento amministrativo è un insieme di comportamenti cui sono tenuti gli organi della Pubblica Amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Cosa dispone l'art. 19 della legge 241 del 1990 in materia di segnalazione certificata d'inizio attività, per il caso in cui nelle dichiarazioni o attestazioni o asseverazioni che corredano la segnalazione di inizio attività, il soggetto interessato dichiara o attesta falsamente l'esistenza dei requisiti o dei presupposti di cui al comma 1?",
+    "options": [
+      "Stabilisce che il responsabile è punito con la reclusione da uno a tre anni",
+      "Stabilisce che il responsabile deve corrispondere all'amministrazione interessata il pagamento di un'ammenda che varia da euro tremila a euro cinquemila, in base alla gravità della falsa dichiarazione ed è soggetto alla pena eventuale della reclusione che varia da tre mesi ad un anno",
+      "Stabilisce che chiunque dichiara o attesta falsamente l'esistenza dei requisiti o dei presupposti di cui al comma 1 è punito con la reclusione da sei mesi ad una anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La pubblica amministrazione, ai sensi della Legge 241 del 1990:",
+    "options": [
+      "non può aggravare il procedimento se non per straordinarie e motivate esigenze imposte dallo svolgimento dell'istruttoria",
+      "non può aggravare il procedimento istruttorio, salvo sia necessario secondo le ordinarie esigenze (dandone sintetica motivazione) che scaturiscano dall'istruttoria",
+      "può aggravare il procedimento, se necessario"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 6. 1.241/1990, il responsabile del procedimento...",
+    "options": [
+      "Propone l'indizione o, avendone la competenza, indice le conferenze di servizi di cui all'articolo 14",
+      "Non può indire le conferenze dei servizi di cui all'articolo 14, né proporne l'indizione",
+      "Indice, in ogni caso, le conferenze di servizi di cui all'articolo 14"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 6-bis 1.241/1990, il responsabile del procedimento e i titolari degli uffici competenti ad adottare i pareri, le valutazioni tecniche, gli atti endoprocedimentali e il provvedimento finale...",
+    "options": [
+      "Devono astenersi in caso di conflitto di interessi, segnalando ogni situazione di conflitto, anche potenziale",
+      "Non devono astenersi in caso di conflitto di interessi, segnalando ogni situazione di conflitto, anche potenziale",
+      "Possono ma non devono astenersi in caso di conflitto di interessi, segnalando ogni situazione di conflitto, anche potenziale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In quale fase del procedimento amministrativo si colloca la nomina del responsabile del procedimento?",
+    "options": [
+      "Istruttoria",
+      "Consultiva",
+      "Decisoria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 21 octies comma 2, della legge 241/1990, il provvedimento adottato in violazione di norme sul procedimento amministrativo o sulla forma degli atti",
+    "options": [
+      "Non è annullabile qualora sia palese che, per la natura vincolata del provvedimento, il suo contenuto non avrebbe potuto essere diverso da quello adottato",
+      "È inesistente, salvo il caso in cui l'amministrazione sani la violazione",
+      "È nullo, se si tratta di una violazione grave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2, comma 3, I. 241/1990, per le amministrazioni statali possono essere individuati termini di 90 giorni per la conclusione dei relativi procedimenti mediante...",
+    "options": [
+      "Decreto del Presidente del Consiglio dei ministri",
+      "Ordinanza dell'amministrazione stessa",
+      "Decreto del Presidente della Repubblica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della Legge 241 del 1990, la pubblica amministrazione, nell'adozione di atti di natura non autoritativa:",
+    "options": [
+      "agisce secondo le norme di diritto privato salvo che la legge disponga diversamente",
+      "agisce secondo regole e modalità pubblicistiche, quale ente pubblico",
+      "agisce nel modo più consono a perseguire l'interesse pubblico ed il buon andamento della pubblica amministrazione, preferibilmente secondo le norme di diritto privato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In virtù della disciplina posta dalla I. n.241/1990 in tema di silenzio-assenso, le relative disposizioni non si applicano:",
+    "options": [
+      "Tra l'altro agli atti e procedimenti concernenti la salute e la pubblica incolumità",
+      "Ai soli atti coperti da segreto di Stato",
+      "Ai soli atti e procedimenti concernenti l'immigrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Gli Uffici di relazione con il Pubblico devono svolgere indagini:",
+    "options": [
+      "sul grado di soddisfazione dell'utenza per i servizi erogati.",
+      "sul grado di benessere del territorio.",
+      "sull'evoluzione delle problematiche dei cittadini."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qual è il termine generale di conclusione del procedimento previsto dall'art. 2, comma 2 1.241/1990?",
+    "options": [
+      "30 giorni",
+      "10 giorni",
+      "60 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Qualora per l'adozione del provvedimento finale sia competente un organo diverso dal responsabile del procedimento, tale organo può discostarsi dalle risultanze dell'istruttoria condotta da quest'ultimo?",
+    "options": [
+      "Si, indicandone la motivazione nel provvedimento finale stesso",
+      "No, mai",
+      "Si, sempre, anche senza alcuna motivazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'organo dell'ente pubblico è...",
+    "options": [
+      "La persona fisica titolare di una certa funzione o carica all'interno dell'ente e destinata ad esercitarla, agendo all'esterno per l'ente ed impegnandolo validamente nei confronti dei terzi",
+      "II complesso degli individui e dei mezzi e beni materiali destinato ad assolvere compiti ausiliari o strumenti rispetto alle funzioni degli uffici",
+      "Soltanto la persona giuridica titolare di una certa funzione o carica all'interno dell'ente e destinata ad esercitarla, agendo all'esterno per l'ente ed impegnandolo validamente nei confronti dei terzi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo quanto dispone la legge 241 del 1990 Art. 7, la comunicazione dell'avvio del procedimento può essere omessa?",
+    "options": [
+      "Si, per particolari esigenze di celerità",
+      "Si, per particolari esigenze di efficacia procedimentale",
+      "No, in alcun caso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Dall'inosservanza dolosa o colposa dei termini di conclusione del procedimento stabiliti dall'art. 2 della legge 241 del 1990, discende il diritto al risarcimento del danno. Esso è soggetto a prescrizione?",
+    "options": [
+      "Si, quinquennale",
+      "No",
+      "Si, decennale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'esecutività del provvedimento amministrativo è:",
+    "options": [
+      "Un requisito di efficacia",
+      "Un elemento accidentale",
+      "Un requisito di legittimità"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "È corretto affermare che gli accordi sostitutivi di provvedimenti di cui all'art. 11 della legge n. 241/1990, sono soggetti ai medesimi controlli previsti per i provvedimenti stessi?",
+    "options": [
+      "Si, lo dispone espressamente il comma 3 del citato art. 11",
+      "Si, ma solo se esiste attorno all'accordo l'interessi di più soggetti privati",
+      "Si, ma solo quando l'accordo comporti un onere per l'amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 33 co. 4 del DPR 445/00 e ss.mm.ii., le firme sugli atti e documenti formati nello Stato e da valere nello Stato, rilasciati da una rappresentanza diplomatica o consolare estera residente nello Stato, sono legalizzate a cura...:",
+    "options": [
+      "delle prefetture",
+      "delle questure",
+      "del ministero dell'estero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 35 del DPR 445/00 e ss.mm.ii., nei documenti d'identità e di riconoscimento è necessaria l'attestazione dello stato civile?",
+    "options": [
+      "No, salvo specifica istanza del richiedente",
+      "No, è sufficiente l'indicazione",
+      "Si"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 38 co. 3 del DPR 445/00 e ss.mm.ii., le istanze e le dichiarazioni sostitutive di atto di notorietà da produrre agli organi della amministrazione pubblica o ai gestori di pubblici servizi sono sottoscritte dall'interessato in presenza del dipendente addetto?",
+    "options": [
+      "Si",
+      "No, devono essere sottoscritte e presentate unitamente a copia fotostatica non autenticata di un documento di identità del sottoscrittore",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 35 co. 2 del DPR 445/00 e ss.mm.ii., il libretto di pensione per essere equipollente alla carta di identità:",
+    "options": [
+      "deve essere munito di fotografia, di timbro o di altra segnatura equivalente, rilasciato da un'amministrazione dello Stato",
+      "deve essere munito di fotografia, di timbro o di altra segnatura equivalente, non necessariamente rilasciato da un'amministrazione dello Stato",
+      "deve avere il timbro del prefetto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 del DPR 445/00 e ss.mm.ii., qual è la definizione di \"legalizzazione di firma\"?",
+    "options": [
+      "L'attestazione ufficiale della legale qualità di chi ha apposto la propria firma sopra atti, certificati, copie ed estratti, nonché dell'autenticità della firma stessa",
+      "L'attestazione, da parte di un pubblico ufficiale, che la sottoscrizione è stata apposta in sua presenza, previo accertamento dell'identità del sottoscrivente",
+      "Il documento sottoscritto dall'interessato, concernente stati, qualità personali e fatti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 38 co. 3 del DPR 445/00 e ss.mm.ii., le istanze e le dichiarazioni sostitutive di atto di notorietà da produrre agli organi della amministrazione pubblica possono essere sottoscritte e presentate unitamente a copia fotostatica non autenticata di un documento di identità del sottoscritto?",
+    "options": [
+      "Si",
+      "No, devono essere sottoscritte dall'interessato esclusivamente in presenza del dipendente addetto",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 30 del DPR 445/00 e ss.mm.ii., nelle legalizzazione di firme il pubblico ufficiale deve apporre la propria firma per esteso?",
+    "options": [
+      "Si",
+      "No, è sufficiente la sigla",
+      "Solo se non è apposto il timbro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 30 del DPR 445/00 e ss.mm.ii., in materia di legalizzazione di firme che elemento deve essere indicato ?",
+    "options": [
+      "Il nome e il cognome di colui la cui firma si legalizza",
+      "Il nome e cognome di colui la cui firma si legalizza, con l'aggiunta della paternità",
+      "Solamente il cognome di colui la cui firma si legalizza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 35 del DPR 445/00 e ss.mm.ii., la patente nautica e le tessere di riconoscimento sono considerate equipollenti alla carta di identità?",
+    "options": [
+      "Si",
+      "No",
+      "E' equipollente esclusivamente la patente nautica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 36 co. 7 del DPR 445/00 e ss.mm.ii., la carta di identità può essere rinnovata a decorrere dal ______ giorno precedente la scadenza",
+    "options": [
+      "centottantesimo",
+      "novantesimo",
+      "centoventesimo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 18 del DPR 445/00 e ss.mm.ii., le copie autentiche, totali o parziali, di atti e documenti possono essere ottenute...:",
+    "options": [
+      "con qualsiasi procedimento che dia garanzia della riproduzione fedele e duratura dell'atto o documento",
+      "con la riproduzione fotografica",
+      "con un determinato procedimento stabilito da ciascuna amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 31 del DPR 445/00 e ss.mm.ii., le firme apposte da pubblici funzionari o pubblici ufficiali su atti, certificati, copie ed estratti dai medesimi rilasciati, sono soggette a legalizzazione?",
+    "options": [
+      "No, salvo diverse disposizioni della normativa stessa",
+      "Si, in ogni caso",
+      "No, salvo diversa disposizione del Sindaco"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 35 del DPR 445/00 e ss.mm.ii., in tutti i casi in cui viene richiesto un documento di identità esso può essere sostituito?",
+    "options": [
+      "Si, dal documento di riconoscimento equipollente",
+      "No",
+      "Si, da un'autocertificazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 36 co. 7 del DPR 445/00 e ss.mm.ii., le carte di identità elettroniche, rilasciate in conformità al D.M. 8 novembre 2007 recante \"regole tecniche della Carta d'identità elettronica\", possono essere rinnovate ancorché in corso di validità?",
+    "options": [
+      "Si, prima del centottantesimo giorno precedente la scadenza",
+      "No",
+      "Si, dal centottantesimo giomo precedente la scadenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 18 co. 2 del DPR 445/00 e ss.mm.ii., l'autenticazione delle copie può essere fatta da un cancelliere?",
+    "options": [
+      "Si",
+      "No, solo da un notaio",
+      "No, solo da un funzionario incaricato dal sindaco"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 38 co. 3 del DPR 445/00 e ss.mm.ii., chi sottoscrive le istanze e le dichiarazioni sostitutive di atto di notorietà da produrre agli organi della amministrazione pubblica o ai gestori o esercenti di pubblici servizi ?",
+    "options": [
+      "L'interessato in presenza del dipendente addetto ovvero sottoscritte e presentate unitamente a copia fotostatica non autenticata di un documento di identità del sottoscrittore",
+      "L'interessato in presenza di qualsiasi dipendente",
+      "Non devono essere sottoscritte da un soggetto predeterminato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 35 del DPR 445/00 e ss.mm.ii., NON è considerato equipollente alla carta di identità...:",
+    "options": [
+      "il codice fiscale",
+      "il libretto di pensione",
+      "il porto d'armi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 37 del DPR 445/00 e ss.mm.ii., le dichiarazioni sostitutive di certificazioni sono soggette all'imposta di bollo?",
+    "options": [
+      "No, sono esenti",
+      "Si",
+      "No, sono soggette ad imposta ridotta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 18 co. 2 del DPR 445/00 e ss.mm.ii., l'autenticazione delle copie può essere fatta...:",
+    "options": [
+      "dal pubblico ufficiale dal quale è stato emesso o presso il quale è depositato l'originale, nonché da un notaio, cancelliere, segretario comunale, o altro funzionario incaricato dal sindaco",
+      "solamente dal segretario comunale",
+      "esclusivamente da un funzionario incaricato dal Sindaco"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 36 del DPR 445/00 e ss.mm.ii., la carta di identità può essere rinnovata prima della sua scadenza?",
+    "options": [
+      "Si, dal centottantesimo giorno precedente la scadenza",
+      "Si, in qualsiasi momento",
+      "No"
+    ],
+    "correctIndex": 0
+  }
+]

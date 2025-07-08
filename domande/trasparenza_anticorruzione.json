@@ -1,0 +1,1920 @@
+[
+  {
+    "question": "Ai sensi dell'art. 1 del D. Lgs. 14 marzo 2013, n. 33 e ss.mm.ii, la trasparenza è intesa come:",
+    "options": [
+      "Accessibilità totale dei dati e documenti detenuti dalle pubbliche amministrazioni, allo scopo di tutelare I diritti dei cittadini, promuovere la partecipazione degli interessati all'attività amministrativa e favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche",
+      "Diritto di tutti i soggetti privati, compresi quelli portatori di interessi pubblici o diffusi che abbiano un interesse diretto, concreto e attuale, corrispondente ad una situazione giuridicamente tutelata e collegata ai dati ovvero ai documenti rispetto ai quali si richiede l'accesso",
+      "Accessibilità di chiunque sia portatore di interessi collettivi e che intende proporre ricorso giurisdizionale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "II D.lgs. 33/2013 dispone che l'accesso di cui all'articolo 5 comma 2:",
+    "options": [
+      "Non puo' essere negato",
+      "Puo' essere negato, tra l'altro, quando ricorra l'esigenza di evitare un pregiudizio concreto alla tutela degli interessi pubblici inerenti la sicurezza pubblica e l'ordine pubblico",
+      "Puo' essere negato solo per questioni di sicurezza nazionale, di difesa e per le questioni militari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "La trasparenza dell'attività amministrativa secondo la legge 190/2012 è...",
+    "options": [
+      "Non è configurabile come Livello essenziale delle prestazioni concernenti i diritti sociali e civili ai sensi dell'art. 117 comma 2, lett. m) della Costituzione",
+      "Livello essenziale delle prestazioni concernenti i diritti sociali e civili ai sensi dell'art. 117 comma 2, lett. m) della Costituzione",
+      "Una norma di principio inapplicabile"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Quali informazioni tra quelle sotto indicate devono essere fornite nell'apposita sezione del sito istituzionale?",
+    "options": [
+      "L'organizzazione intema, con riferimento solo all'articolazione degli uffici e dei relativi responsabili",
+      "L'organizzazione interna, con riferimento solo agli organi di indirizzo politico e di amministrazione e gestione",
+      "L'organizzazione interna, con riferimento sia agli organi di indirizzo politico e di amministrazione e gestione, che all'articolazione degli uffici e dei relativi responsabili"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 16 del D. Lgs. 33/13 e ss.mm.ii., cosa sono tenute a pubblicare le P.A. ogni tre mesi?",
+    "options": [
+      "I dati relativi ai tassi di assenza del personale distinti per uffici di livello dirigenziale",
+      "I dati e documenti detenuti dalle pubbliche amministrazioni",
+      "I dati concernenti l'organizzazione e l'attività delle pubbliche amministrazioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 co. 3 del D. Lgs. 33/13 e ss.mm.ii., nell'ambito del piano triennale per la prevenzione della corruzione, qual è l'obiettivo strategico di ogni amministrazione?",
+    "options": [
+      "La promozione di maggiori livelli di trasparenza",
+      "L'applicazione di criteri e strutture anti corruttivi",
+      "La presenza di un garante all'interno di ogni struttura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5 del D. Lgs. 33/13 e ss.mm.ii., allo scopo di favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche e di promuovere la partecipazione al dibattito pubblico...:",
+    "options": [
+      "Chiunque ha diritto di accedere ai dati ma non ai documenti detenuti dalle pubbliche amministrazioni",
+      "Chiunque ha diritto di accedere ai dati e ai documenti detenuti dalle pubbliche amministrazioni",
+      "Chiunque ha diritto di accedere solo ai documenti detenuti dalle pubbliche amministrazioni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 14 del D. Lgs. 33/13 e ss.mm.ii., quali informazioni, tra le altre, pubblicano lo Stato, le regioni e gli enti locali?",
+    "options": [
+      "I compensi di qualsiasi natura connessi all'assunzione della carica; gli importi di viaggi di servizio e missioni pagati con fondi pubblici",
+      "I compensi di qualsiasi natura connessi all'assunzione della carica; gli importi di viaggi di servizio e missioni pagati con fondi privati",
+      "Esclusivamente i compensi di qualsiasi natura connessi al raggiungimento degli obiettivi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 4-bis co. 2 del D. Lgs. 33/13 e ss.mm.ii., ciascuna amministrazione pubblica sul proprio sito istituzionale, in una parte chiaramente identificabile della sezione \"Amministrazione trasparente\"...:",
+    "options": [
+      "I dati sui propri pagamenti e ne permette la consultazione solamente in relazione all'ambito temporale di riferimento",
+      "I dati sui propri pagamenti e ne permette la consultazione solo in relazione alla tipologia di spesa sostenuta",
+      "I dati sui propri pagamenti e ne permette la consultazione in relazione alla tipologia di spesa sostenuta, all'ambito temporale di riferimento e ai beneficiari"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Al fine di garantire un adeguato livello di trasparenza il D.Lgs. n. 33/2013 prevede la pubblicazione del Piano triennale per la prevenzione della corruzione, sul sito istituzionale nella sezione \"Amministrazione trasparente\" per:",
+    "options": [
+      "Tutte le amministrazioni ad eccezione degli enti locali",
+      "Tutte le amministrazioni",
+      "Tutte le amministrazioni ad eccezione degli enti territoriali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "II D.Lgs. n. 33/2013, (c.d. decreto trasparenza):",
+    "options": [
+      "Ha introdotto il diritto di accedere con alcune limitazioni a tutti i dati e documenti detenuti dalla P.A. e non solo a quelli oggetto di pubblicazione obbligatoria on-line",
+      "Ha provveduto al riordino della disciplina riguardante gli obblighi di pubblicità, trasparenza e diffusione di informazione da parte delle pubbliche amministrazioni",
+      "Ha istituito l'Autorità Nazionale Anticorruzione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 9 del D. Lgs. 33/13 e ss.mm.ii., come deve essere denominata nella home page dei siti istituzionali la sezione dedicata ai dati, le informazioni e i documenti pubblicati Ai sensi della suddetta normativa?",
+    "options": [
+      "Amministrazione imparziale",
+      "Amministrazione intelligente",
+      "Amministrazione trasparente"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'omessa pubblicazione di documenti...",
+    "options": [
+      "Non viola il D.Lgs. 33 del 2013",
+      "Viola il D.Lgs. 33 del 2013",
+      "Viola il D.Lgs. 165 del 2001"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 18 D. Lgs. 33/13 e ss.mm.ii., le pubbliche amministrazioni pubblicano:",
+    "options": [
+      "l'elenco delle strutture sanitarie private accreditate",
+      "l'elenco degli incarichi conferiti o autorizzati a ciascuno dei propri dipendenti, con l'indicazione della durata e del compenso spettante per ogni incarico",
+      "l'elenco delle relazioni internazionali"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali è uno degli scopi per i quali si applica il principio di trasparenza ai sensi del D. Lgs. 33/13 e ss.mm.ii.?",
+    "options": [
+      "Si, è l'unico scopo del principio di trasparenza",
+      "No, no lo è",
+      "Si, è uno degli scopi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo l'art. 10 co.4 del D. Lgs. 33/13 e ss.mm.ii., le amministrazioni pubbliche garantiscono la massima trasparenza:",
+    "options": [
+      "In alcune fasi del ciclo di gestione della performance",
+      "In ogni fase del ciclo di gestione della performance",
+      "Solo in una fase del ciclo di gestione della performance"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 7 della L. 190/12 e ss.mm.ii., negli enti locali, tra chi è individuato, di norma, il Responsabile della prevenzione della corruzione e della trasparenza",
+    "options": [
+      "Qualsiasi dipendente che si candidi per la posizione",
+      "Esclusivamente tra i dipendenti del settore del personale",
+      "Nel segretario o nel dirigente apicale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quali documenti devono essere pubblicati sull'albo on-line delle PA?",
+    "options": [
+      "I documenti individuati dal responsabile della pubblicazione ed elencati negli appositi Regolamenti adottati dalle singole PA",
+      "Solamente i documenti previsti dall'ordinamento dei singoli enti",
+      "Tra gli altri i documenti dai quali possono nascere diritti, doveri, aspettative o interessi legittimi di terzi e dalla cui diffusione nei confronti di una indistinta pluralita' di soggetti potenzialmente interessati dipende la loro efficacia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "A chi spetta il compito di individuare il Responsabile della trasparenza e della prevenzione della corruzione di una P.A.?",
+    "options": [
+      "All'ANAC (Autorita' Nazionale Anticorruzione)",
+      "All'Organismo Indipendente di Valutazione",
+      "All'Organo di indirizzo della Pubblica Amministrazione interessata"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi della legge 190/2012, chi definisce gli obiettivi strategici in materia di prevenzione della corruzione e trasparenza per l'Amministrazione?",
+    "options": [
+      "L'organismo indipendente di valutazione",
+      "Sempre il Governo",
+      "L'organo di indirizzo dell'Amministrazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "La legge 190/2012 disciplina:",
+    "options": [
+      "La prevenzione e la repressione della corruzione e dell'illegalità nella Pubblica Amministrazione",
+      "L'ottimizzazione della produttività del lavoro pubblico e l'efficienza e la trasparenza delle Pubbliche Amministrazioni",
+      "Le disposizioni in materia di documentazione amministrativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'articolo 1, comma 28, della legge 190/2012. prevede che le amministrazioni:",
+    "options": [
+      "provvedano a eliminare le anomalie dei procedimenti, senza alcuna rilevazione dei tempi al fine di non inficiarne la qualità",
+      "provvedano al monitoraggio periodico del rispetto dei tempi procedimentali attraverso la tempestiva eliminazione delle anomalie",
+      "consentano il monitoraggio periodico del rispetto dei tempi procedimentali da parte del Dipartimento della Funzione Pubblica"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi del d.lgs. 33 del 2013 (in materia di accesso civico, obblighi di pubblicità, trasparenza, ecc...), l'accesso civico a dati e documenti può essere negato?",
+    "options": [
+      "Si in quanto l'esercizio del diritto di cui all'art. 5 è sottoposto ad alcune limitazioni quanto alla legittimazione soggettiva del richiedente",
+      "Si, se il diniego è necessario per evitare un pregiudizio concreto alla tutela di alcuni interessi pubblici elencati dal decreto",
+      "No, la norma non prevede alcuna situazione in cui esso possa subire delle limitazioni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In merito all'accesso civico è corretto affermare che:",
+    "options": [
+      "L'esercizio del diritto di cui ai commi 1 e 2 dell'art. 5 del d.lgs 33/2013 non è sottoposto ad alcuna limitazione relativamente alla legittimazione soggettiva purchè sia resa chiara la motivazione della richiesta di accesso",
+      "L'istanza di accesso civico identifica i dati, le informazioni o i documenti richiesti e non richiede la motivazione",
+      "L'accesso civico di cui all'articolo 5, comma 2, non puo' essere rifiutato se non per evitare un pregiudizio concreto alla tutela della sicurezza pubblica e dell'ordine pubblico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 5-bis del D. Lgs. 33/13 e ss.mm.ii., l'accesso civico puo' essere rifiutato?",
+    "options": [
+      "Si', per evitare un pregiudizio concreto alla tutela di uno degli interessi pubblici",
+      "No, no puo' essere rifiutato",
+      "Si', esclusivamente se è in pericolo la sicurezza pubblica e l'ordine pubblico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Il procedimento di accesso civico, ai sensi dell'art. 5 d.lgs 33/2013:",
+    "options": [
+      "Deve concludersi in 30 gioni",
+      "Deve concludersi in 10 giomi",
+      "Deve concludersi in 40 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I dati oggetto di pubblicazione obbligatoria, resi disponibili con la istanza di accesso civico, sono pubblicati:",
+    "options": [
+      "Con le modalita' di scelta indicate nel Regolamento approvato dall'Ente",
+      "In formato aperto e sono riutilizzabili",
+      "Con le modalita' definite dall'ANAC"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "L'accesso civico (co. 1, art. 5, D.Lgs. n. 33/2013):",
+    "options": [
+      "È un istituto distinto dall'accesso ai documenti amministrativi",
+      "Ha sostituito l'accesso generalizzato previsto dall'art. 5, co. 2 del decreto trasparenza",
+      "Richiede l'attivazione del contraddittorio in presenza di controinteressati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'accesso generalizzato (co. 2, art. 5, D.Lgs. n. 33/2013):",
+    "options": [
+      "Non incontra come limiti il rispetto della tutela degli interessi pubblici e/o privati e il rispetto delle norme che prevedono specifiche esclusioni",
+      "È un istituto distinto dall'accesso ai documenti amministrativi",
+      "Ha come finalità quella di porre i soggetti interessati in grado di esercitare al meglio le facoltà partecipative e/o oppositive e difensive - che l'ordinamento attribuisce loro a tutela delle posizioni giuridiche qualificate di cui sono titolari"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "II divieto di accesso generalizzato, di cui al co. 2, art. 5, riguarda (art. 5-bis, D.Lgs. n. 33/2013):",
+    "options": [
+      "Tra l'altro i documenti coperti da segreto di Stato",
+      "I documenti aventi rilevanza politica",
+      "I documenti concernenti l'attività di organi politici"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5-bis del D. Lgs. 33/13 e ss.mm.ii., l'accesso civico può essere rifiutato?",
+    "options": [
+      "No, anche se questo genera pericolo per la sicurezza pubblica e l'ordine pubblico",
+      "No",
+      "Si, per evitare un pregiudizio concreto alla tutela di uno degli interessi pubblici"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Il procedimento di accesso civico deve concludersi:",
+    "options": [
+      "Con provvedimento espresso e motivato, nel termine di 30 giorni dalla presentazione dell'istanza, con la comunicazione al richiedente ed agli eventuali controinteressati",
+      "Con provvedimento espresso e motivato, nel termine di 60 giorni dalla presentazione dell'istanza, con la comunicazione al richiedente ed agli eventuali controinteressati",
+      "Con provvedimento non motivato, nel termine di 40 giomi dalla presentazione dell'istanza, con la comunicazione al richiedente ed agli eventuali controinteressati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Relativamente all'accesso civico, le richieste \"massive o manifestamente irragionevoli\" possono essere rifiutate?",
+    "options": [
+      "No, mai",
+      "Si, sempre",
+      "Si, con motivazione e solo se comportano un carico di lavoro in grado di interferire con il buon funzionamento dell'amministrazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Tutti i documenti e dati oggetto di accesso civico possono essere conosciuti e fruiti:",
+    "options": [
+      "In maniera gratuita, con possibilita' di utilizzo e riutilizzo nel rispetto dei principi di tutela del trattamento dei dati personali e salvo il rimborso del costo effettivamente sostenuto e documentato dall'amministrazione per la riproduzione su supporti materiali",
+      "A pagamento dei diritti di segreteria e di estrazione copia, con possibilita' di riutilizzo secondo le modalita' stabilite nei regolamenti",
+      "n maniera gratuita, senza possibilita' di riutilizzo atteso che ogni utilizzo presuppone una richiesta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 8 del D Lgs. 33/13 e ss.mm.ii., i documenti contenenti atti oggetto di pubblicazione obbligatoria devono essere pubblicati sul sito istituzionale...:",
+    "options": [
+      "tempestivamente",
+      "entro 30 giorni dal parere vincolante",
+      "entro 45 giomi dalla data di emissione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 27 del D. Lgs. 33/13 e ss.mm.ii., la pubblicazione degli atti di concessione delle sovvenzioni, contributi, sussidi ed ausili finanziari alle imprese, e comunque di vantaggi economici di qualunque genere a persone ed enti pubblici e privati di importo superiore a mille euro, comprende necessariamente:",
+    "options": [
+      "l'importo del vantaggio economico corrisposto",
+      "i dati anagrafici del dirigente responsabile del relativo procedimento",
+      "il link al progetto e, facoltativamente, il curriculum del soggetto incaricato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 1 del D. Lgs. 33/13 e ss.mm.ii., quale scopo persegue la trasparenza amministrativa?",
+    "options": [
+      "Tutelare i diritti dei cittadini, promuovere la partecipazione degli interessati all'attività amministrativa",
+      "Unicamente controllare l'uso delle risorse pubbliche",
+      "Esercitare la vigilanza sull'operato del Governo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 16 co. 3 del D. Lgs. 33/13 e ss.mm.ii., le pubbliche amministrazioni pubblicano i dati relativi ai tassi di assenza del personale distinti per uffici di livello dirigenziale.",
+    "options": [
+      "trimestralmente",
+      "semestralmente",
+      "bimestralmente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 co. 4 del D. Lgs. 33/13 e ss.mm.ii., le amministrazioni pubbliche garantiscono la massima trasparenza...:",
+    "options": [
+      "in ogni fase del ciclo di gestione della performance",
+      "in determinate fasi del ciclo di gestione della performance",
+      "esclusivamente in una fase del ciclo di gestione della performance"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 45 del D. Lgs. 33/13 e ss.mm.ii., che cosa controlla l'autorità nazionale anticorruzione?",
+    "options": [
+      "L'operato dei responsabili per la trasparenza a cui può chiedere il rendiconto sui risultati del controllo svolto all'interno delle amministrazioni",
+      "L'esatto adempimento degli obblighi di pubblicazione previsti dalla normativa vigente mediante richiesta di notizie, informazioni ma non di atti e documenti alle amministrazioni pubbliche",
+      "I casi di mancata attuazione degli obblighi di pubblicazione, senza pubblicare i nominativi dei soggetti interessati per i quali non si è proceduto alla pubblicazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 7 del D. Lgs. 33/13 e ss.mm.ii., i documenti, le informazioni e i dati oggetto di pubblicazione obbligatoria, resi disponibili anche a seguito dell'accesso civico...:",
+    "options": [
+      "sono riutilizzabili, ma è obbligatorio citame la fonte e rispettame l'integrità",
+      "sono riutilizzabili e non è obbligatorio citarne la fonte",
+      "non sono riutilizzabili"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 13 D. Lgs. 33/13 e ss.mm.ii., le amministrazioni pubblicano i dati relativi...:",
+    "options": [
+      "all'illustrazione in forma semplificata, ai fini della piena accessibilità e comprensibilità dei dati, dell'organizzazione dell'amministrazione, mediante l'organigramma o analoghe rappresentazioni grafiche",
+      "solo all'illustrazione dell'organizzazione dei principali uffici dell'amministrazione",
+      "all'illustrazione, ai fini della piena comprensibilità dei dati, dell'organizzazione dell'amministrazione, esclusivamente mediante l'organigramma"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 2 del D. Lgs. 33/13 e ss.mm.ii., la trasparenza è condizione di garanzia...:",
+    "options": [
+      "delle libertà individuali e collettive, nonché dei diritti civili, politici e sociali",
+      "delle libertà prettamente collettive, ma non dei diritti civili, politici e sociali",
+      "dei diritti civili, politici e sociali ma non delle libertà collettive"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2-bis del D. Lgs. 33/13 e ss.mm.ii., la disciplina relativa alla libertà di accesso ai dati e ai documenti detenuti dalle pubbliche amministrazioni si applica agli ordini professionali?",
+    "options": [
+      "Si",
+      "Si, ma limitatamente agli ordini dei medici e dei farmacisti",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 30 del D. Lgs. 33/13 e ss.mm.ii., le pubbliche amministrazioni pubblicano le informazioni identificative degli immobili posseduti e di quelli detenuti?",
+    "options": [
+      "Si, e i canoni di locazione o di affitto versati o percepiti",
+      "No, solo le informazioni sui canoni di locazione o di affitto versati o percepiti",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 co. 3 del D. Lgs. 33/13 e ss.mm.ii., quale tra i seguenti è obiettivo strategico di ogni amministrazione?",
+    "options": [
+      "La promozione di maggiori livelli di trasparenza",
+      "La promozione di un maggiore produttività",
+      "La promozione di maggiore collaborazione tra più uffici appartenenti alla medesima amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 del D. Lgs. 33/13 e ss.mm.ii., quali informazioni, tra le altre, pubblicano lo Stato, le regioni e gli enti locali?",
+    "options": [
+      "I compensi di qualsiasi natura connessi all'assunzione della carica e gli importi di viaggi di servizio e missioni pagati con fondi pubblici",
+      "I compensi di qualsiasi natura connessi all'assunzione della carica e gli importi di viaggi di servizio e missioni pagati con fondi privati",
+      "Esclusivamente i compensi di qualsiasi natura connessi al raggiungimento degli obiettivi prefissati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 del D. Lgs. 33/13 e ss.mm.ii., la trasparenza è intesa come accessibilità...:",
+    "options": [
+      "totale dei dati e documenti detenuti dalle pubbliche amministrazioni",
+      "parziale dei documenti detenuti dalle pubbliche amministrazioni",
+      "eventuale dei dati e documenti detenuti dalle pubbliche amministrazioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 29 co. 1-bis del D. Lgs. 33/13 e ss.mm.ii., le pubbliche amministrazioni pubblicano e rendono accessibili, anche attraverso il ricorso ad un portale unico, i dati relativi...:",
+    "options": [
+      "alle entrate e alla spesa di cui ai propri bilanci preventivi e consuntivi in formato tabellare aperto che ne consenta l'esportazione, il trattamento e il riutilizzo",
+      "alla sola spesa di cui ai propri bilanci preventivi e consuntivi",
+      "alle sole entrate di cui ai propri bilanci consuntivi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 del D. Lgs. 33/13 e ss.mm.ii., con riferimento ai titolari di incarichi politici, anche se non di carattere elettivo, di livello statale regionale e locale, lo Stato, le regioni e gli enti locali pubblicano gli importi di viaggi di servizio e missioni pagati con fondi pubblici?",
+    "options": [
+      "Si",
+      "Si, ma anche quelli pagati con fondi privati",
+      "No"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5-bis del D. Lgs. 33/13 e ss.mm.ii., l'accesso civico può essere rifiutato ?",
+    "options": [
+      "Si, per evitare un pregiudizio concreto alla tutela di uno degli interessi pubblici",
+      "No",
+      "Si, esclusivamente se è in pericolo la sicurezza nazionale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 14 del D. Lgs. 33/13 e ss.mm.ii., con riferimento ai titolari di incarichi politici, anche se non di carattere elettivo, di livello statale regionale e locale, lo Stato, le regioni e gli enti locali pubblicano l'atto di nomina o di proclamazione?",
+    "options": [
+      "Si, con l'indicazione della durata dell'incarico o del mandato elettivo",
+      "No",
+      "Non ci sono disposizioni in merito"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 8 d.lgs. 33/2013, i documenti contenenti atti oggetto di pubblicazione obbligatoria:",
+    "options": [
+      "sono pubblicati trimestralmente sul sito dell'amministrazione",
+      "sono pubblicati annualmente sul sito dell'amministrazione",
+      "sono pubblicati tempestivamente sul sito dell'amministrazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In base all'art. 14 del D. Lgs. 33/13 e ss.mm.ii., lo Stato, le regioni e gli enti locali pubblicano una serie di documenti ed informazioni, con riferimento:",
+    "options": [
+      "ai titolari di incarichi politici di livello statale regionale e locale",
+      "ai titolari di incarichi politici, anche se non di carattere elettivo, di livello statale regionale e locale",
+      "ai titolari di incarichi politici di livello comunitario"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per specifica disposizione legislativa (co. 2 bis, art. 1, I. n. 190/2012), il Ρ.Ν.Α.:",
+    "options": [
+      "contiene il regolamento per eleggere le cariche direttive dell'ente",
+      "è documento programmatico adottato dall'Anac e validato dall'Oiv",
+      "contiene l'indicazione di obiettivi, tempi e modalità di adozione e attuazione delle misure di contrasto alla corruzione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi della L. 190/2012, come specificato dalla normativa, tra le attività maggiormente esposte a rischio di infiltrazione mafiosa rientra:",
+    "options": [
+      "i servizi ambientali, comprese le attività di raccolta, di trasporto nazionale e transfrontaliero",
+      "i servizi ambientali, escluse le attività di raccolta, di trasporto nazionale e transfrontaliero",
+      "esclusivamente i servizi di trasporto, con maggiore riguardo per quelli transfrontalieri"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 10 della L. 190/12 e s.m.i., il Responsabile della prevenzione della corruzione e della trasparenza, provvede:",
+    "options": [
+      "a disciplinare i propri sottoposti con la stesura di un apposito regolamento da divulgare a tutti gli Enti pubblici",
+      "alla verifica dell'efficace attuazione del piano di prevenzione alla corruzione e della sua idoneità",
+      "alla verifica dell'effettiva rotazione degli incarichi negli uffici con più alto rischio di corruzione, ma non ad individuare il personale da inserire nei programmi di formazione sui temi dell'etica, selezionato tra gli organi di Polizia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Per quanto attiene alla decorrenza e durata dell'obbligo di pubblicazione ai sensi dell'art 8 del D.lgs. 33/13 e ss.mm.ii.:",
+    "options": [
+      "i dati oggetto di pubblicazione obbligatoria sono pubblicati per un periodo variabile in funzione del tipo di dato e del periodo in cui gli atti pubblicati producono i loro effetti",
+      "i dati oggetto di pubblicazione obbligatoria sono pubblicati per un periodo di 10 anni dalla data in cui decorre l'obbligo di pubblicazione",
+      "i dati oggetto di pubblicazione obbligatoria sono pubblicati per un periodo di 5 anni decorrenti dal primo gennaio dell'anno successivo a quello da cui decorre l'obbligo di pubblicazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Nelle unioni di comuni, ai sensi dell'art. 1, comma 7, della Legge 190/2012 e s.m.i., quanti responsabili della prevenzione della corruzione e della trasparenza possono essere nominati?",
+    "options": [
+      "Tre",
+      "Sei",
+      "Uno"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi della legge 190/2012, chỉ definisce gli obiettivi strategici in materia di prevenzione della corruzione e trasparenza per l'Amministrazione?",
+    "options": [
+      "L'organo di indirizzo dell'Amministrazione",
+      "Sempre il Governo",
+      "L'organismo indipendente di valutazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 29, L. 190/2012, ogni amministrazione pubblica rende noto, tramite il proprio sito web istituzionale:",
+    "options": [
+      "l'agenda setting su cui ritrovare i contatti di ogni addetto all'attività della trasparenza amministrativa",
+      "l'indirizzo personale del proprio Segretario apicale",
+      "almeno un indirizzo di posta elettronica certificata cui il cittadino possa rivolgersi per trasmettere istanze e ricevere informazioni circa i provvedimenti ed i procedimenti amministrativi che lo riguardano"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Con riferimento alla prevenzione e repressione della corruzione e dell'illegalità nella pubblica amministrazione, l'ANAC nell'esercizio dei suoi poteri ispettivi (art. 1, legge n. 190/2012):",
+    "options": [
+      "può richiedere alle pubbliche amministrazioni la rimozione di comportamenti o atti contrastanti con i piani e le regole sulla trasparenza",
+      "non può richiedere alle pubbliche amministrazioni atti e documenti",
+      "può solo richiedere alle pubbliche amministrazioni notizie e informazioni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 26 co. 4 del D. Lgs. 33/13 e ss.mm.ii., è esclusa la pubblicazione dei dati identificativi delle persone fisiche destinatarie dei provvedimenti di concessione di sovvenzioni, contributi, sussidi e attribuzione di vantaggi economici:",
+    "options": [
+      "qualora siano personalità di spicco della politica nazionale, per evitare ritorsioni",
+      "qualora da tali dati sia possibile l'individuazione delle convinzioni politiche degli interessati e siano persone extra-comunitarie",
+      "qualora da tali dati sia possibile ricavare informazioni relative allo stato di salute ovvero alla situazione di disagio economico-sociale degli interessati"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 7 del d.lgs. 33/2013 e s.m.i., i documenti, le informazioni e i dati di cui è obbligatoria la pubblicazione, sono in formato:",
+    "options": [
+      "di tipo chiuso e siglato dal direttore operativo di settore",
+      "di tipo crittografato e sono riutilizzabili",
+      "di tipo aperto e sono riutilizzabili"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In base alle disposizioni dell'art. 18 del D.Lgs. n. 33/2013 e s.m.i., le pubbliche amministrazioni sono tenute a pubblicare un elenco degli incarichi conferiti o autorizzati ai propri dipendenti?",
+    "options": [
+      "E' un obbligo delle sole amministrazioni centrali, situate in comuni con 15.000 abitanti",
+      "No, le pubblica amministrazione non hanno questo obbligo di pubblicazione",
+      "Si, indicando durata e compenso spettante per ogni incarico"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 1 del D. Lgs. 33/13 e ss.mm.ii., la trasparenza è intesa come accessibilità totale dei dati e documenti detenuti dalle P. A., allo scopo di:",
+    "options": [
+      "tutelare i diritti dei cittadini, promuovere la partecipazione degli interessati all'attività amministrativa e favorire forme diffuse di controllo sul perseguimento delle funzioni istituzionali e sull'utilizzo delle risorse pubbliche",
+      "tutelare i diritti dei cittadini e promuovere la partecipazione degli interessi all'attività amministrativa senza consentire forme diffuse di controllo sul perseguimento delle funzioni istituzionali",
+      "promuovere la sola partecipazione degli interessi all'attività amministrativa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 16 co. 3 del D. Lgs. 33/13 e ss.mm.ii., le pubbliche amministrazioni sono tenute a pubblicare i dati relativi ai tassi di assenza del personale distinti per uffici di livello dirigenziale?",
+    "options": [
+      "Si, trimestralmente",
+      "Si, mensilmente",
+      "Si, annualmente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 10 del D. Lgs. 33/13 e ss.mm.ii., ogni amministrazione indica:",
+    "options": [
+      "in un'apposita sezione del Piano triennale per la prevenzione della corruzione, i responsabili dei singoli uffici tecnici",
+      "in un'apposita sezione del Piano triennale per la prevenzione della corruzione, i responsabili della trasmissione e della pubblicazione dei documenti, delle informazioni e dei dati",
+      "in un'apposita sezione del Piano triennale per la prevenzione della corruzione, i responsabili per la trasparenza"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo l'art. 14 del D. Lgs. 33/13 e ss.mm.ii., quali informazioni, tra le altre, pubblicano lo Stato, le regioni e gli enti locali?",
+    "options": [
+      "Esclusivamente i compensi di qualsiasi natura connessi al raggiungimento degli obiettivi",
+      "I compensi di qualsiasi natura connessi all'assunzione della carica; gli importi di viaggi di servizio e missioni pagati con fondi pubblici",
+      "Gli importi relativi al soggiomo nella sede dell'incarico ricoperto dai titolari di esso"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 1 comma 7 della legge 190/2012, il Responsabile della prevenzione della corruzione e della trasparenza di una Pubblica Amministrazione viene individuato:",
+    "options": [
+      "dal Direttore Generale della pubblica amministrazione",
+      "dall'Autorità nazionale anticorruzione",
+      "dall'organo di indirizzo della Pubblica Amministrazione interessata"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'art. 22 comma 4 d.lgs. 33/2013 prevede che nel caso di mancata:",
+    "options": [
+      "pubblicazione dei dati relativi agli enti pubblici vigilati, e agli enti di diritto privato in controllo pubblico, è prevista l'applicazione di una sanzione amministrativa",
+      "in caso di mancata pubblicazione dei dati relativi agli enti pubblici vigilati, e agli enti di diritto privato in controllo pubblico è dimezzata l'erogazione in loro favore di somme da parte della pubblica amministrazione interessata",
+      "o incompleta pubblicazione dei dati relativi agli enti pubblici vigilati, e agli enti di diritto privato in controllo pubblico, è vietata l'erogazione in loro favore di somme a qualsivoglia titolo da parte della pubblica amministrazione interessata ad esclusione dei pagamenti che le amministrazioni sono tenute ad erogare a fronte di obbligazioni contrattuali per prestazioni svolte in loro favore"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In base all'art. 1 comma 8 della legge 190/2012, il Piano triennale per la prevenzione della corruzione viene adottato:",
+    "options": [
+      "dall'Organismo indipendente di valutazione periferica, entro il 31 marzo di ogni anno, su proposta del Responsabile della prevenzione della corruzione e della trasparenza",
+      "entro il 31 gennaio di ogni anno, su proposta del Responsabile della prevenzione della corruzione e della trasparenza, da parte dell'organo di indirizzo, che ne cura la trasmissione all'Autorità nazionale anticorruzione",
+      "entro il 31 gennaio di ogni anno, su proposta dei singoli dirigenti competenti per le attività più esposte al rischio, a opera del Responsabile della prevenzione della corruzione e della trasparenza, che ne cura la trasmissione all'Autorità nazionale anticorruzione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In riferimento alle disposizioni dell'art. 28 co. 2 del D. Lgs. 33/13 e ss.mm.ii., la mancata pubblicazione dei rendiconti comporta la riduzione del:",
+    "options": [
+      "15% delle risorse da trasferire o da assegnare nel corso dell'anno",
+      "45% delle risorse da trasferire o da assegnare nel corso dell'anno",
+      "30% delle risorse da trasferire o da assegnare nel corso del trimestre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'art. 1, co. 75 della L. 190/12 e s.m.i. ha:",
+    "options": [
+      "introdotto ex novo il reato di \"Induzione indebita a dare o promettere utilità\"",
+      "introdotto ex novo il reato di \"Truffa aggravata per il conseguimento di erogazioni pubbliche\"",
+      "innalzato la pena minima per il reato di \"Traffico di influenze illecite\", che passa da tre a quattro anni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I responsabili della trasmissione e della pubblicazione dei documenti, delle informazioni e dei dati, ai sensi del presente D.lgs. 33/2013 e ss.mm.ii.:",
+    "options": [
+      "sono presentati alle associazioni di consumatori o utenti nell'ambito di apposite giomate della trasparenza",
+      "sono indicati in un'apposita sezione del Piano triennale per la prevenzione della corruzione",
+      "sono tutelati dall'anonimato"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In base alle disposizioni dell'art. 18 del D.Lgs. n. 33/2013 e s.m.i., le pubbliche amministrazioni sono tenute a pubblicare un elenco degli incarichi conferiti o autorizzati ai propri dipendenti?",
+    "options": [
+      "Si, ma senza indicazione della durata e del compenso spettante per ogni incarico",
+      "No, le pubblica amministrazione non hanno questo obbligo di pubblicazione",
+      "E' un obbligo delle sole amministrazioni centrali, situate in comuni con 15.000 abitanti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Quali Comuni possono aggregarsi per definire in comune il piano triennale per la prevenzione della corruzione?",
+    "options": [
+      "I Comuni con popolazione inferiore a 25.000 abitanti (art. 1, comma 6, Legge 190/2012 e s.m.i.)",
+      "I Comuni con popolazione inferiore a 15.000 abitanti (art. 1, comma 6, Legge 190/2012 e s.m.i.)",
+      "I Comuni con popolazione superiore a 15.000 abitanti (art. 1, comma 6, Legge 190/2012 e s.m.i.)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Nelle Unioni di Comuni, ai sensi dell'art. 1, comma 7, della Legge 190/2012 e s.m.i. può essere nominato un unico responsabile della prevenzione della corruzione e della trasparenza?",
+    "options": [
+      "Si, ma solo nel caso l'Unione di Comuni sia composta da più di due Comuni",
+      "No",
+      "Si, ma solo nel caso l'Unione di Comuni sia composta da più di cinque Comuni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo l'art. 28 co. 2 del D. Lgs. 33/13 e ss.mm.ii., che cosa comporta la mancata pubblicazione dei rendiconti?",
+    "options": [
+      "La riduzione del 50% delle risorse da trasferire o da assegnare nel corso dell'anno",
+      "La riduzione del 30 % delle risorse da trasferire o da assegnare nel corso del semestre",
+      "La riduzione del 45% delle risorse da trasferire o da assegnare nel corso dell'anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'articolo 1 comma 28 della legge 190/2012 prevede che le amministrazioni:",
+    "options": [
+      "provvedano al monitoraggio periodico del rispetto dei tempi procedimentali attraverso la tempestiva eliminazione delle anomalie",
+      "consentano il monitoraggio periodico del rispetto dei tempi procedimentali da parte del Dipartimento della Funzione Pubblica",
+      "non pubblichino sul sito web dati riferiti ai tempi procedimentali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Conformemente all'art. 1 co. 9 della L. 190/12 e ss.mm.ii., individuare le attività nell'ambito delle quali è più elevato il rischio di corruzione, e le relative misure di contrasto, è una esigenza alla quale risponde:",
+    "options": [
+      "il piano di prevenzione della corruzione",
+      "il Ministro della difesa",
+      "il Responsabile della prevenzione della corruzione e della trasparenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "II Piano nazionale anticorruzione, tenendo in considerazione quanto espresso dall'art. 1 L. 190/2012:",
+    "options": [
+      "ha durata triennale ed è aggiornato annualmente",
+      "ha durata annuale",
+      "ha durata semestrale ed è aggiomato mensilmente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo l'art. 35 co. 3 del D. Lgs. 33/13 e ss.mm.ii., perché le pubbliche amministrazioni pubblicano i recapiti telefonici e la casella di posta elettronica istituzionale?",
+    "options": [
+      "Per gestire, garantire e verificare la trasmissione dei dati o l'accesso diretto agli stessi da parte delle amministrazioni procedenti",
+      "Per garantire l'accesso civico da parte delle amministrazioni procedenti",
+      "Per facilitare solo l'esercizio del controllo contabile"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 co. 29 della L. 190/12 e s.m.i., ogni amministrazione pubblica rende noto, tramite il proprio sito web istituzionale, almeno un indirizzo di posta elettronica certificata cui il cittadino possa rivolgersi per ricevere informazioni circa i provvedimenti e i procedimenti amministrativi che lo riguardano?",
+    "options": [
+      "Si, lo rende noto",
+      "No, è sempre vietato",
+      "No, è sufficiente un numero di centralino"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "II Piano nazionale anticorruzione, di cui al comma 2-bis, art. 1, L. n. 190/2012 e s.m.i.:",
+    "options": [
+      "individua i principali rischi di corruzione e i relativi rimedi e contiene l'indicazione di obiettivi, tempi e modalità di adozione e attuazione delle misure di contrasto alla corruzione",
+      "costituisce atto di indirizzo per le PA ai fini dell'adozione dei propri piani biennali di prevenzione della corruzione",
+      "è adottato dal Ministro dell'Interno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 10 del D. Lgs. 33/2013 e s.m.i., ogni amministrazione indica in un'apposita sezione del Piano triennale per la prevenzione della corruzione:",
+    "options": [
+      "i direttori operativi di settore",
+      "i responsabili della trasmissione e della pubblicazione dei documenti, delle informazioni e dei dati",
+      "soltanto i responsabili della pubblicazione delle informazioni generiche"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma della L. 190/2012, possono aggregarsi per definire in comune il piano triennale per la prevenzione della corruzione, i comuni con popolazione:",
+    "options": [
+      "superiore a 20.000 abitanti",
+      "inferiore a 15.000 abitanti",
+      "inferiore a 10.000 abitanti"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 13 D. Lgs. 33/2013 e s.m.i., le amministrazioni pubblicano, tra gli altri, i dati relativi:",
+    "options": [
+      "all'articolazione degli uffici, le competenze di ciascun ufficio, anche di livello dirigenziale non generale, i nomi dei dirigenti responsabili dei singoli uffici",
+      "gli organi di amministrazione, compensazione e gestione della giustizia locale",
+      "gli organi di indirizzo generale, di amministrazione e giurisdizione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 43 co. 5 del D. Lgs. 33/13 e ss.mm.ii., chi segnala i casi di inadempimento degli obblighi in materia di pubblicazione previsti dalla normativa vigente, all'ufficio di disciplina?",
+    "options": [
+      "La magistratura ordinaria",
+      "L'Autorità Nazionale Anticorruzione",
+      "L'OIV"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "In relazione a quanto ripreso all'interno dell'art. 5 del D.Lgs. 33/2013 e s.m.i., il rilascio di dati o documenti in formato elettronico o cartaceo è completamente gratuito?",
+    "options": [
+      "Il rilascio di dati o documenti in formato elettronico o cartaceo è gratuito, salvo il rimborso del costo effettivamente sostenuto e documentato dall'amministrazione per la riproduzione su supporti materiali",
+      "E' gratuito solo nel caso di documentazioni di minori, per tutto il resto la tassa da pagare è di 50 euro più le marche da bollo",
+      "Non è mai gratuito, ma sempre a pagamento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Con riferimento alla prevenzione e repressione della corruzione e dell'illegalità nella p.a., l'ANAC nell'esercizio dei suoi poteri ispettivi (art. 1, legge n. 190/2012):",
+    "options": [
+      "può richiedere alle pubbliche amministrazioni la rimozione di comportamenti o atti contrastanti con i piani e le regole sulla trasparenza",
+      "non può richiedere alle pubbliche amministrazioni atti e documenti",
+      "può richiedere alle pubbliche amministrazioni solo la rimozione di comportamenti contrastanti con i piani e le regole sulla trasparenza, ma non la rimozione degli atti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "A norma di quanto dispone l'art. 1, comma 46 della legge n. 190/2012, coloro che sono stati condannati, con sentenza non passata in giudicato, per i reati previsti nel capo I del titolo II del libro secondo del codice penale possono fare parte di commissioni per l'accesso a pubblici impieghi?",
+    "options": [
+      "No, non possono fare parte, salvo che con compiti di segreteria, di commissioni per l'accesso a pubblici impieghi",
+      "Si, in quanto la sentenza non è passata in giudicato",
+      "Si, ma devono preventivamente firmare una dichiarazione con la quale si impegnano a presentare le dimissioni nel caso in cui la sentenza di condanna nei loro confronti passasse in giudicato"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 8, comma 1, del d.lgs. 33/2013 e s.m.i., i documenti contenenti atti oggetto di pubblicazione obbligatoria sono pubblicati:",
+    "options": [
+      "annualmente sul sito istituzionale dell'amministrazione",
+      "settimanalmente sul sito istituzionale dell'amministrazione",
+      "tempestivamente sul sito istituzionale dell'amministrazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Dispone l'art. 17, del D.Lgs. n. 33/2013, che fermo restando quanto previsto dall'art. 9- bis, le P.A. devono pubblicare, nell'ambito di quanto previsto dall'art. 16, co. 1, i dati relativi al personale con rapporto di lavoro non a tempo indeterminato, ivi compreso il personale assegnato agli uffici di diretta collaborazione con gli organi di indirizzo politico. Tali dati devono essere pubblicati:",
+    "options": [
+      "Annualmente",
+      "Trimestralmente",
+      "Semestralmente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La Legge 190/2012 e s.m.i. prevede l'aggiornamento del Piano nazionale anticorruzione?",
+    "options": [
+      "II Piano nazionale anticorruzione è aggiornato ogni cinque anni (art. 1, comma 2 bis)",
+      "II Piano nazionale anticorruzione è aggiornato ogni tre anni (art. 1, comma 2 bis)",
+      "II Piano nazionale anticorruzione è aggiornato annualmente (art. 1, comma 2 bis)"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Rientrano tra gli obblighi di pubblicazione concernenti l'organizzazione e l'attività delle pubbliche amministrazioni, previsti dal D.lgs. 33/2013 e ss.mm.ii., i criteri definiti nei sistemi di misurazione e valutazione della performance del personale?",
+    "options": [
+      "No, la pubblicazione dei criteri definiti nei sistemi di misurazione e valutazione della performance del personale, non è un obbligo, ma una facoltà",
+      "Si, ai sensi dell'art. 20, al fine di dare conto del livello di selettività utilizzato nella distribuzione dei premi e degli incentivi",
+      "No, ma tali criteri possono essere esplicitati su richiesta del destinatario della valutazione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 14, della Legge 190/2012 e s.m.i., il dirigente che ricopre il ruolo di responsabile della prevenzione della corruzione, riferisce sull'attività svolta all'organo di indirizzo?",
+    "options": [
+      "Si, è obbligato",
+      "Si, ma solo nei casi previsti dal d.lgs. 245/2000",
+      "No, mai"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 1 comma 15 della Legge 190/2012, la trasparenza dell'attività amministrativa, che costituisce livello essenziale delle prestazioni concementi i diritti sociali e civili ai sensi dell'articolo 117, secondo comma, lettera m), della Costituzione, secondo quanto previsto all'articolo 11 del D.Lgs. 150/2009, è assicurata mediante:",
+    "options": [
+      "la pubblicazione, nei siti web istituzionali delle pubbliche amministrazioni, delle informazioni relative ai procedimenti amministrativi, secondo criteri di facile accessibilità, completezza e semplicità di consultazione, nel rispetto delle disposizioni in materia di segreto di Stato, di segreto d'ufficio e di protezione dei dati personali",
+      "la pubblicazione, nei siti web delle pubbliche amministrazioni, delle informazioni relative ai procedimenti amministrativi, secondo criteri di pronta e liquida acquisizione dei dati, nel rispetto delle disposizioni in materia di segreto d'ufficio e di protezione dei dati personali",
+      "la pubblicazione, nel sito web dell'ente, di qualsiasi utile ed analitica informazione finalizzata teleologicamente a conoscere la struttura e la nomenclatura sostanziale comunale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le pubbliche amministrazioni sono tenute a pubblicare l'elenco degli incarichi conferiti o autorizzati ai propri dipendenti (art. 18, D.Lgs. n. 33/2013)?",
+    "options": [
+      "Solo le amministrazioni centrali dello Stato sono tenute a pubblicare l'elenco degli incarichi conferiti o autorizzati ai propri dipendenti",
+      "No, le p.a. non sono tenute a pubblicare l'elenco degli incarichi conferiti o autorizzati ai propri dipendenti",
+      "Si, se la durata ecceda i 30 giorni, in tal caso deve essere pubblicato anche il compenso spettante"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo il D.Lgs. 33/2013 e s.m.i., le Pubbliche Amministrazioni:",
+    "options": [
+      "non devono garantire la massima trasparenza in ogni fase del ciclo di gestione delle performance (art. 10)",
+      "garantiscono la massima trasparenza in ogni fase del ciclo di gestione delle performance (art. 10)",
+      "possono decidere, discrezionalmente, se garantire la massima trasparenza in alcune o in tutte le fasi del ciclo di gestione delle performance (art. 10)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo quanto prescritto dall'articolo 5 del D.lgs. n. 33/2013 e s.m.i., cosi come modificato dall'art. 6 del D.lgs. n. 97/2016 e s.m.i., il procedimento di accesso civico deve concludersi con provvedimento espresso:",
+    "options": [
+      "e motivato nel termine di trenta giomi dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati",
+      "entro due giomi, affinché non si producano effetti penali contro la pubblica amministrazione stessa",
+      "e motivato nel termine di sessanta giorni dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La richiesta di accesso generalizzato, ai sensi del d.lgs. n. 33/2013 e s.m.i., va presentata:",
+    "options": [
+      "solo all'ufficio relazioni con il pubblico",
+      "alternativamente anche all'ufficio relazioni con il pubblico",
+      "esclusivamente al Sindaco o al Prefetto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "In base all'art. 5 del D. Lgs. 33/13 e ss.mm.ii., i controinteressati alla richiesta di accesso entro quale termine possono opposizione?",
+    "options": [
+      "Entro 30 giorni dalla ricezione della comunicazione",
+      "Entro 30 giorni dalla richiesta di accesso civico",
+      "Entro 15 giorni lavorativi dalla ricezione della comunicazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "L'art. 5 d.lgs. 33/2013 prevede che:",
+    "options": [
+      "il rifiuto, il differimento e la limitazione dell'accesso devono essere motivati quando vi è opposizione dei controinteressati con espresso richiamo al contenuto della opposizione medesima",
+      "il rifiuto, il differimento e la limitazione dell'accesso devono essere motivati con riferimento ai casi ed ai limiti di cui all'art. 5 bis stesso decreto",
+      "il rifiuto, il differimento e la limitazione dell'accesso non devono essere motivati"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo quanto stabilito dall'art. 5, comma 3 del D.Lgs. 33/2013 e s.m.i., l'istanza di accesso civico a dati e documenti può essere trasmessa per via telematica e presentata:",
+    "options": [
+      "al Sindaco",
+      "al Garante della privacy",
+      "al Prefetto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(art. 16, co.1, del D.Lgs. 33/2013 e s.m.i.) Nel conto annuale del personale e delle relative spese sostenute che le pubbliche amministrazioni devono pubblicare:",
+    "options": [
+      "sono rappresentati i dati relativi alla dotazione organica, ma è vietato rappresentare quelli relativi al personale effettivamente in servizio e al relativo costo",
+      "sono rappresentati i dati relativi alla dotazione organica e al personale effettivamente in servizio e al relativo costo",
+      "nessuna delle altre risposte è corretta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "(art. 43, co. 3, D. Lgs. 33/13 e ss.mm.ii.)\" degli uffici dell'amministrazione garantiscono il tempestivo e regolare flusso delle informazioni da pubblicare ai fini del rispetto dei termini stabiliti dalla legge\": quale opzione completa la frase?",
+    "options": [
+      "I referenti del Tar",
+      "I commissari di settore",
+      "I dirigenti responsabili"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo quanto disposto dall'art. 1, co. 7, della Legge 190/2012 e s.m.i., il Responsabile della prevenzione della corruzione e della trasparenza segnala all'organo di indirizzo e all'organismo indipendente di valutazione:",
+    "options": [
+      "le disfunzioni inerenti all'attuazione delle misure in materia di prevenzione della corruzione e di trasparenza",
+      "le funzionalità efficienti inerenti all'attuazione delle misure in materia di prevenzione della corruzione e di trasparenza",
+      "l'impossibilità a votare per gli emendamenti in materia di trasparenza, nel caso in cui debba presiedere alla seduta di votazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, co. 6, della Legge 190/2012 e s.m.i., ai fini della predisposizione del piano di prevenzione della corruzione, chi fornisce il necessario supporto tecnico e informativo agli enti locali?",
+    "options": [
+      "II Comitato di giudizio, su richiesta",
+      "II Ministro degli Interni, su richiesta",
+      "II Prefetto, su richiesta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 1, co. 7, della L. 190/12 e s.m.i., il Responsabile della prevenzione della corruzione e della trasparenza di una Pubblica Amministrazione viene individuato:",
+    "options": [
+      "dall'Organo di indirizzo della Pubblica Amministrazione interessata",
+      "dalla Commissione cautelare",
+      "dall'Esponente di maggioranza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "In base all'art. 8, co. 3, del D. Lgs. 33/13 e ss.mm.ii., i documenti contenenti atti oggetto di pubblicazione obbligatoria sono pubblicati per un periodo di:",
+    "options": [
+      "un anno",
+      "cinque anni",
+      "almeno due anni"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 8, comma 3-bis del D. Lgs. 33/2013 e s.m.i., quale autorità determina i casi in cui la durata della pubblicazione del dato e del documento può essere inferiore a 5 anni?",
+    "options": [
+      "Nessuna delle altre risposte è corretta",
+      "II Direttore operativo dell'ente locale di riferimento",
+      "L'Autorità nazionale anticorruzione, anche su proposta del Garante per la protezione dei dati personali"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 2-bis della Legge 190/2012 e s.m.i., qual è la durata del Piano nazionale anticorruzione?",
+    "options": [
+      "Tre anni ed è aggiornato annualmente",
+      "Venti anni con rinnovo",
+      "Dieci anni con rinnovo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'art. 39, co. 1, lett. a), del D.lgs. 33/103 prevede l'obbligo di trasparenza dell'attività di pianificazione e governo del territorio. In particolare stabilisce che le pubbliche amministrazioni pubblicano:",
+    "options": [
+      "nessuna delle altre risposte è corretta",
+      "gli atti di governo territoriale ad eccezione dei piani territoriali",
+      "gli atti di govemo del territorio con esclusione degli strumenti urbanistici di attuazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo l'art. 10, co. 1, del D. Lgs. 33/13 e ss.mm.ii., ogni amministrazione indica:",
+    "options": [
+      "in un'apposita sezione del Piano triennale per la prevenzione della corruzione, i responsabili della trasmissione e della pubblicazione dei documenti, delle informazioni e dei dati",
+      "in un'apposita sezione del Piano triennale per la prevenzione della corruzione, i responsabili dei singoli uffici tecnici",
+      "in un'apposita sezione del Piano triennale per la prevenzione della corruzione, i responsabili per la trasparenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, co. 29, L. 190/2012 e s.m.i., ogni amministrazione pubblica rende noto, tramite il proprio sito web istituzionale:",
+    "options": [
+      "l'indirizzo personale del proprio Segretario apicale",
+      "l'agenda setting su cui ritrovare i contatti di ogni addetto all'attività della trasparenza amministrativa",
+      "almeno un indirizzo di posta elettronica certificata cui il cittadino possa rivolgersi per trasmettere istanze e ricevere informazioni circa i provvedimenti ed i procedimenti amministrativi che lo riguardano"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo quanto normato dall'art. 6, co. 2, del D.Lgs. 33/2013 e s.m.i., l'esigenza di assicurare adeguata qualità delle informazioni diffuse:",
+    "options": [
+      "può, in ogni caso, costituire motivo per l'omessa o ritardata pubblicazione dei dati, delle informazioni e dei documenti",
+      "giustifica sempre il ritardo nella pubblicazione delle informazioni e dei documenti",
+      "non può, in ogni caso, costituire motivo per l'omessa o ritardata pubblicazione dei dati, delle informazioni e dei documenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Ai sensi dell'art. 23, co. 1, del d.lgs. 33/2013 e s.m.i., le pubbliche amministrazioni pubblicano e aggiomano gli elenchi dei provvedimenti adottati dagli organi di indirizzo politico e dai dirigenti ogni:",
+    "options": [
+      "sei mesi",
+      "sette mesi",
+      "anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "(art. 1, co. 2, lett. c, L. 190/2012 e s.m.i.) \"La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche \": quale risposta completa la frase?",
+    "options": [
+      "incrementa i fattori della corruzione",
+      "analizza le cause e i fattori della corruzione",
+      "non analizza le cause e i fattori della corruzione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Secondo l'art. 32, co. 2, lett. a), del D. Lgs. 33/13 e ss.mm.ii., in materia di obblighi di pubblicazione concementi i servizi erogati, le pubbliche amministrazioni e i gestori di pubblici servizi, pubblicano:",
+    "options": [
+      "i costi non contabilizzati, individuati i servizi erogati agli utenti, sia finali che intermedi",
+      "la previsione dei debiti fuori bilancio, individuati i servizi erogati agli utenti, sia finali che intermedi",
+      "l'ammontare complessivo dei debiti, individuati i servizi erogati agli utenti, sia finali che intermedi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo quanto stabilito dalla L. 190/12 e ss.mm.ii., l'attività di elaborazione del Piano triennale per la prevenzione della corruzione:",
+    "options": [
+      "non può essere affidata a soggetti estranei all'amministrazione (art. 1, comma 8)",
+      "può essere affidata sia a dipendenti dell'amministrazione che a consulenti esterni (art. 2, comma 3)",
+      "deve essere affidata a soggetti estranei all'amministrazione (art. 1, comma 2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo quanto stabilito dalla L. 190/12 e ss.mm.ii., l'attività di elaborazione del Piano triennale per la prevenzione della corruzione può essere affidata a soggetti estranei all'amministrazione?",
+    "options": [
+      "No, non può essere affidata a soggetti estranei all'amministrazione (art. 1, comma 8)",
+      "Deve essere affidata a soggetti estranei all'amministrazione (art. 1, comma 2)",
+      "Deve essere affidata ad un gruppo anonimo e scelto di cittadini (art. 2, comma 3)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo quanto stabilito dall'art. 16, co.3, del D.Lgs. 33/2013 e s.m.i., le pubbliche amministrazioni ogni quanto tempo devono pubblicare i dati relativi ai tassi di assenza del personale distinti per uffici di livello dirigenziale?",
+    "options": [
+      "Trimestralmente",
+      "Mensilmente",
+      "Annualmente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "(art. 16, co.3, del D.Lgs. 33/2013 e s.m.i.)\"Le pubbliche amministrazioni pubblicano i dati relativi ai tassi di assenza del personale distinti per uffici di livello dirigenziale\": quale risposta completa la frase?",
+    "options": [
+      "trimestralmente",
+      "semestralmente",
+      "annualmente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 43, co. 3, D. Lgs. 33/13 e ss.mm.ii., il tempestivo e regolare flusso delle informazioni da pubblicare ai fini del rispetto dei termini stabiliti dalla legge è garantito:",
+    "options": [
+      "dal Commissario specifico di distretto",
+      "dai Dirigenti responsabili degli uffici di amministrazione",
+      "dall'Oiv"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "(art. 23, co. 1, del d.lgs. 33/2013 e s.m.i.) Dove sono pubblicati e aggiornati gli elenchi dei provvedimenti adottati dagli organi di indirizzo politico e dai dirigenti?",
+    "options": [
+      "In numeri speciali della Gazzetta Ufficiale",
+      "Sui registri di flusso",
+      "In apposite sezioni delle riviste specializzate"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(art. 1, co. 2, L. 190/2012 e s.m.i.) \"La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche \": quale risposta completa la frase?",
+    "options": [
+      "opera quale Autorità di incremento per la finanza pubblica",
+      "è l'unico organo che rappresenta processualmente lo Stato",
+      "non può operare quale Autorità nazionale anticorruzione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(art. 1, co. 2, lett. c, L. 190/2012 e s.m.i.) Tra le altre cose, la Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche:",
+    "options": [
+      "analizza le cause e i fattori della corruzione",
+      "non analizza le cause e i fattori della corruzione",
+      "incrementa i fattori della corruzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "(art. 8, co. 1, D.Lgs. 33/2013 e s.m.i.) I documenti contenenti atti oggetto di pubblicazione obbligatoria ai sensi della normativa vigente sono pubblicati sul sito istituzionale dell'amministrazione\": quale risposta completa la frase?",
+    "options": [
+      "tempestivamente",
+      "dopo ventiquattro mesi",
+      "dopo un anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "I dati, le informazioni e i documenti oggetto di pubblicazione obbligatoria ai sensi della normativa vigente sono pubblicati per un periodo di:",
+    "options": [
+      "5 anni (art. 8, co. 3, D.Lgs. 33/2013 e s.m.i.)",
+      "2 anni (art. 8, co. 3, D.Lgs. 33/2013 e s.m.i.)",
+      "1 anno (art. 8, co. 3, D.Lgs. 33/2013 e s.m.i.)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "(art. 1, co. 7, L. 190/2012 e s.m.i.) II Responsabile della prevenzione della corruzione e della trasparenza:",
+    "options": [
+      "non è mai individuato dall'organo di indirizzo, di norma tra i dirigenti di ruolo in servizio",
+      "è stato sostituito dal Questore per la trasparenza",
+      "è individuato sempre dal Presidente del Comitato di quartiere, di norma tra i dirigenti di ruolo in servizio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "\"Le pubbliche amministrazioni garantiscono delle informazioni riportate nei siti istituzionali nel rispetto degli obblighi di pubblicazione previsti dalla legge\": quale risposta completa la frase, secondo l'art. 6 del D.Lgs. 33/2013 e s.m.i.?",
+    "options": [
+      "la qualità",
+      "il difetto",
+      "l'inefficienza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Le misure in materia di prevenzione della corruzione (Legge 190/2012 e s.m.i.) trovano piena applicazione:",
+    "options": [
+      "solo nei confronti dei soggetti privati",
+      "solo nei confronti dei soggetti pubblici",
+      "nessuna delle altre risposte è corretta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo l'art. 6, co. 2, del D.Lgs. 33/2013 e s.m.i., l'esigenza di assicurare adeguata qualità delle informazioni diffuse:",
+    "options": [
+      "giustifica sempre il ritardo nella pubblicazione delle informazioni e dei documenti",
+      "nessuna delle altre risposte è corretta",
+      "può, in ogni caso, costituire motivo per l'omessa o ritardata pubblicazione dei dati, delle informazioni e dei documenti"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "II Piano nazionale anticorruzione:",
+    "options": [
+      "costituisce atto di indirizzo per le pubbliche amministrazioni ai fini dell'adozione dei propri piani triennali di prevenzione della corruzione (art. 1, co. 2 bis, L. 190/2012 e s.m.i.)",
+      "non è aggiornato annualmente, perché è intoccabile (art. 1, co. 2 bis, L. 190/2012 e s.m.i.)",
+      "non ha durata triennale (art. 1, co. 2 bis, L. 190/2012 e s.m.i.)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "\"Il Piano nazionale anticorruzione costituisce \": quale risposta completa la frase, secondo quanto riportato dalla L. 190/2012 e s.m.i.?",
+    "options": [
+      "atto ininfluente",
+      "atto di indirizzo",
+      "atto finanziario"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Con quale acronimo si indica l'Autorità nazionale anticorruzione?",
+    "options": [
+      "ANAC",
+      "ACDP",
+      "ANUE"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo la Legge 190/2012 e s.m.i., la Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche adotta",
+    "options": [
+      "il Piano nazionale anticorruzione",
+      "il Bilancio di aggregazione",
+      "il Giustificativo avanzato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Secondo la Legge 190/2012 e s.m.i., delle amministrazioni pubbliche adotta il Piano nazionale anticorruzione.",
+    "options": [
+      "la Commissione per la valutazione, la trasparenza e l'integrità",
+      "il Distretto suppletivo",
+      "il Comitato di distretto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "(art. 1, co. 2, L. 190/2012 e s.m.i.) La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche:",
+    "options": [
+      "opera quale Autorità di incremento per la finanza pubblica",
+      "non può operare quale Autorità nazionale anticorruzione",
+      "è l'unico organo che rappresenta processualmente lo Stato"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(art. 23, co. 1, del d.lgs. 33/2013 e s.m.i.) Gli elenchi dei provvedimenti adottati dagli organi di indirizzo politico e dai dirigenti sono pubblicati e aggiomati:",
+    "options": [
+      "in apposite sezioni delle riviste specializzate",
+      "sui registri di flusso",
+      "in numeri speciali della Gazzetta Ufficiale"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(art. 1, co. 2, L. 190/2012 e s.m.i.) La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche:",
+    "options": [
+      "adotta il Piano nazionale anticorruzione",
+      "non adotta il Piano nazionale anticorruzione",
+      "adotta il Piano anticorruzione solo se il Presidente della Repubblica è impossibilitato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cos'è l'ANAC?",
+    "options": [
+      "L'acronimo con cui si indica l'ufficio personale del sindaco",
+      "L'Autorità Nazionale di Sviluppo Commerciale",
+      "L'acronimo con cui si indica il regolamento dell'ente"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(art. 2, co. 2, del D. Lgs. 33/13 e ss.mm.ii.) Per si intende la pubblicazione nei siti istituzionali delle pubbliche amministrazioni dei documenti, delle informazioni e dei dati concernenti l'organizzazione e l'attività delle pubbliche amministrazioni.",
+    "options": [
+      "ricognizione",
+      "sostituzione aggiunta",
+      "scansione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Per s'intende generalmente il portale di accesso di istituzioni pubbliche e private, oppure di grandi organizzazioni.",
+    "options": [
+      "sito web di anonimizzazione",
+      "sito web di applicazione",
+      "sito web di predestinazione"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "(art. 1 del D. Lgs. 33/13 e ss.mm.ii.) La è intesa come accessibilità totale dei dati e documenti detenuti dalle pubbliche amministrazioni per promuovere la partecipazione degli interessati all'attività amministrativa.",
+    "options": [
+      "gestione esecutiva",
+      "trasparenza",
+      "giustizia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "(art. 2, co. 2, del D. Lgs. 33/13 e ss.mm.ii.) All'attività di pubblicazione sui siti istituzionali, per le amministrazioni pubbliche, corrisponde il diritto di chiunque di accedere ai siti direttamente ed immediatamente:",
+    "options": [
+      "senza autenticazione ed identificazione",
+      "solo con identificazione e mai con autentificazione",
+      "sempre con autenticazione ed identificazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Che cosa s'intende, nell'ambito della trasparenza, per sito istituzionale?",
+    "options": [
+      "Generalmente s'intende l'indirizzo fisico della sede di un ente",
+      "Generalmente s'intende il punto vendita di una istituzione pubblica",
+      "Generalmente s'intende l'indirizzo legale della sede di un ente"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Chi analizza le cause e i fattori della corruzione e individua gli interventi che ne possono favorire la prevenzione e il contrasto secondo la Legge 190/2012 e s.m.i.?",
+    "options": [
+      "II Distretto suppletivo",
+      "La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche",
+      "II Messo apicale"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "A norma della Legge 6 novembre 2012 n° 190 e s.m.i., art. 1, co. 8, negli enti locali, il Piano triennale per la prevenzione della corruzione da chi viene approvato?",
+    "options": [
+      "Dagli organi di Polizia urbana",
+      "Dalla Giunta",
+      "Dal Consiglio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 13, co. 1, lett. d), del d.lgs. n. 33/2013 e s.m.i., le amministrazioni pubblicano, tra gli altri, i dati relativi:",
+    "options": [
+      "agli organi di Polizia urbana, con l'indicazione di chi detiene le rispettive competenze, a seconda dei curricula registrati",
+      "ai direttori operativi di sistema, addetti all'ambito della corruzione",
+      "alle giacenze suppletive dei fondi utilizzati nelle operazioni extra-locali degli ultimi tre anni"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "question": "Secondo l'art. 13, co. 1, lett b), D. Lgs. 33/13 e ss.mm.ii., le amministrazioni pubblicano, tra gli altri, i dati relativi:",
+    "options": [
+      "alle plusvalenze di settore, con il confronto agli ultimi cinque anni, per permettere al cittadino di verificare eventuali sprechi economici",
+      "all'articolazione degli uffici, alle competenze di ciascun ufficio, anche di livello dirigenziale non generale, i nomi dei dirigenti responsabili dei singoli uffici",
+      "dei soli organi di amministrazione e gestione"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "question": "Ai sensi dell'art. 20, co.2, del D.Lgs. 33/2013 e s.m.i., le Pubbliche Amministrazioni:",
+    "options": [
+      "pubblicano i dati relativi all'ammontare complessivo dei premi collegati alla performance stanziati e l'ammontare dei premi effettivamente distribuiti",
+      "non hanno obbligo di pubblicazione dei dati relativi all'ammontare complessivo dei premi collegati alla performance stanziati e l'ammontare dei premi effettivamente distribuiti",
+      "pubblicano i dati relativi all'ammontare complessivo dei premi collegati alla performance stanziati ma hanno il divieto di pubblicare l'ammontare dei premi effettivamente distribuiti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 10, I. 190/2012, chi provvede alla verifica, d'intesa con il dirigente competente, dell'effettiva rotazione degli incarichi negli uffici preposti allo svolgimento delle attività nel cui ambito è più elevato il rischio che siano commessi reati di corruzione?",
+    "options": [
+      "II Responsabile della prevenzione della corruzione e della trasparenza",
+      "L'Organismo indipendente di valutazione",
+      "L'Autorità nazionale anticorruzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5, comma 6, d.lgs. 33/2013, il procedimento di accesso civico deve concludersi con provvedimento espresso e motivato nel termine di...",
+    "options": [
+      "Trenta giorni dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati",
+      "Venti giomi dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati",
+      "Dieci giorni dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 10, I. 190/2012 chi provvede alla verifica dell'efficace attuazione del piano e della sua idoneità, nonché a proporre la modifica dello stesso quando sono accertate significative violazioni delle prescrizioni ovvero quando intervengono mutamenti nell'organizzazione o nell'attività dell'amministrazione?",
+    "options": [
+      "II Responsabile della prevenzione della corruzione e della trasparenza",
+      "L'Organismo indipendente di valutazione",
+      "L'Autorità nazionale anticorruzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti, ai sensi dell'art. 3 d.lgs. 33/2013, con propria delibera adottata, previa consultazione pubblica, in conformità con i principi di proporzionalità e di semplificazione, e all'esclusivo fine di ridurre gli oneri gravanti sui soggetti di cui all'articolo 2-bis, può identificare i dati, le informazioni e i documenti oggetto di pubblicazione obbligatoria ai sensi della disciplina vigente per i quali la pubblicazione in forma integrale è sostituita con quella di informazioni riassuntive, elaborate per aggregazione?",
+    "options": [
+      "L'Autorità nazionale anticorruzione",
+      "II Garante per la protezione dei dati personali",
+      "II Ministro dell'Interno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5, comma 7, d.lgs. 33/2013, nei casi di diniego totale o parziale dell'accesso o di mancata risposta entro il termine di 30 giorni dalla presentazione dell'istanza, il richiedente può presentare richiesta di riesame al responsabile della prevenzione della corruzione e della trasparenza, che decide con provvedimento motivato, entro...",
+    "options": [
+      "Il termine di 20 giomi",
+      "Il termine di 15 giorni",
+      "Il termine di 10 giorni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5 d.lgs. 33/2013, l'istanza di accesso civico richiede motivazione?",
+    "options": [
+      "No",
+      "Si",
+      "Si, salvo i casi espressamente previsti in cui non è richiesta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 29 d.lgs. 33/2013, fermo restando quanto previsto dall'articolo 9-bis, le pubbliche amministrazioni pubblicano i documenti e gli allegati del bilancio preventivo e del conto consuntivo entro...",
+    "options": [
+      "30 giorni dalla loro adozione",
+      "20 giorni dalla loro adozione",
+      "15 giomi dalla loro adozione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 44 d.lgs. 33/2013, quale tra i seguenti soggetti verifica la coerenza tra gli obiettivi previsti nel piano triennale per la prevenzione della corruzione e quelli indicati nel Piano della performance?",
+    "options": [
+      "L'organismo indipendente di valutazione",
+      "L'Autorità nazionale anticorruzione",
+      "Il responsabile per la trasparenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1 comma 6 1.190/2012, quali comuni possono aggregarsi per definire in comune, tramite accordi ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241, il piano triennale per la prevenzione della corruzione?",
+    "options": [
+      "Quelli con popolazione inferiore a 15.000 abitanti",
+      "Quelli con popolazione superiore a 15.000 abitanti",
+      "Quelli con popolazione inferiore a 1.500 abitanti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti, ai sensi dell'art. 1 comma 4, 1.190/2012, coordina l'attuazione delle strategie di prevenzione e contrasto della corruzione e dell'illegalità nella p.a. elaborate a livello nazionale ed internazionale?",
+    "options": [
+      "II Dipartimento della funzione pubblica",
+      "Il responsabile per la trasparenza",
+      "La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5-bis d.lgs. 33/2013, l'accesso civico è rifiutato se il diniego è necessario per evitare un pregiudizio concreto alla tutela di..",
+    "options": [
+      "Uno degli interessi pubblici o privati elencati nella medesima norma",
+      "Interessi discrezionalmente individuati dall'amministrazione",
+      "Interessi relativi esclusivamente alla sicurezza e all'ordine pubblico"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 18 d.lgs. 33/2013, fermi restando gli altri obblighi di pubblicità legale, le pp.aa. pubblicano...",
+    "options": [
+      "I bandi di concorso per il reclutamento, a qualsiasi titolo, di personale presso l'amministrazione, nonché i criteri di valutazione della Commissione e le tracce delle prove scritte",
+      "I bandi di concorso per il reclutamento, a qualsiasi titolo, di personale presso l'amministrazione, ma non i criteri di valutazione della Commissione e le tracce delle prove scritte",
+      "I bandi di concorso per il reclutamento, a qualsiasi titolo, di personale presso l'amministrazione, nonché i criteri di valutazione della Commissione ma non le tracce delle prove scritte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 3, 1.190/2012, quale dei seguenti soggetti esercita poteri ispettivi mediante richiesta di notizie, informazioni, atti e documenti alle pubbliche amministrazioni?",
+    "options": [
+      "L'Autorità nazionale anticorruzione",
+      "L'Organismo indipendente di valutazione",
+      "II Responsabile della prevenzione della corruzione e della trasparenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "La sezione \"Amministrazione Trasparente\" dei siti istituzionali delle Amministrazioni",
+    "options": [
+      "è collocata sulla home page dei siti istituzionali delle Amministrazioni.",
+      "può essere predisposta facoltativamente sul proprio sito istituzionale dalle Amministrazioni.",
+      "è collocata all'interno della sezione del sito dell'Ufficio per le Relazioni con il Pubblico."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del D.lgs. 33 del 2013, relativamente agli obblighi di pubblicazione degli atti di concessione di sovvenzioni, contributi, sussidi e attribuzione di vantaggi economici a persone fisiche ed enti pubblici e privati:",
+    "options": [
+      "Detta pubblicazione costituisce condizione legale di efficacia dei provvedimenti che dispongano concessioni e attribuzioni di importo complessivo superiore a mille euro nel corso dell'anno solare al medesimo beneficiario",
+      "Detta pubblicazione, qualora non avvenga, costituisce motivo di risoluzione per inadempimento del provvedimento che abbia disposto la concessione o l'attribuzione di importo complessivo superiore a quarantamila euro nel corso dell'anno solare al medesimo beneficiario",
+      "Detta pubblicazione costituisce condizione legale di risoluzione dei contratti o dei provvedimenti che dispongano concessioni e attribuzioni di importo complessivo superiore a diecimila euro nel corso dell'anno solare al medesimo beneficiario"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 12, 1.190/2012, nel caso di commissione, all'interno dell'amministrazione, di un reato di corruzione accertato con sentenza passata in giudicato ne risponde il responsabile della prevenzione della corruzione e della trasparenza?",
+    "options": [
+      "Si, salvo che provi di avere predisposto, prima della commissione del fatto, il piano di prevenzione della corruzione e di aver osservato le prescrizioni di cui ai commi 9 e 10 del presente articolo, nonchè di aver vigilato sul funzionamento e sull'osservanza del piano.",
+      "No, mai",
+      "Si, in ogni caso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti, ai sensi dell'art. 1 comma 10 1.190/2012, provvede alla verifica, d'intesa con il dirigente competente, dell'effettiva rotazione degli incarichi negli uffici preposti allo svolgimento delle attività nel cui ambito è più elevato il rischio che siano commessi reati di corruzione?",
+    "options": [
+      "II Responsabile della prevenzione della corruzione e della trasparenza",
+      "L'Organismo indipendente di valutazione",
+      "L'Autorità nazionale anticorruzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5-bis d.lgs. 33/2013, l'accesso civico deve essere sempre negato a tutela degli interessi ivi indicati?",
+    "options": [
+      "No, se è sufficiente fare ricorso al potere di differimento",
+      "Si",
+      "No, non deve essere mai negato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti, ai sensi dell'art. 4-bis d.lgs. 33/2013, gestisce il sito internet denominato \"Soldi pubblici\"?",
+    "options": [
+      "L'Agenzia per l'Italia digitale",
+      "II Garante per la protezione dei dati personali",
+      "L'Autorità nazionale anticorruzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi della Legge 190/2012, la trasparenza dell'attività amministrativa, che costituisce livello essenziale delle prestazioni concernenti i diritti sociali e civili ai sensi dell'articolo 117, secondo comma, lettera m), della Costituzione, secondo quanto previsto all'articolo 11 del decreto legislativo 27 ottobre 2009, n. 150, è assicurata mediante:",
+    "options": [
+      "la pubblicazione, nei siti web istituzionali delle pubbliche amministrazioni, delle informazioni relative ai procedimenti amministrativi, secondo criteri di facile accessibilità, completezza e semplicità di consultazione, nel rispetto delle disposizioni in materia di segreto di Stato, di segreto d'ufficio e di protezione dei dati personali",
+      "la pubblicazione, nei siti web delle pubbliche amministrazioni, delle informazioni relative ai procedimenti amministrativi, secondo criteri di pronta e liquida acquisizione dei dati, nel rispetto delle disposizioni in materia di segreto e di protezione dei dati personali",
+      "la pubblicazione, nel sito web istituzionale dell'ente e degli enti partecipati, delle informazioni in materia di pubblicità e trasparenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'art. 9 del vigente Decreto Legislativo 14 marzo 2013, n. 33, ai fini della piena accessibilità delle informazioni pubblicate, dispone:",
+    "options": [
+      "la collocazione all'interno dei siti istituzionali delle Amministrazioni di un'apposita sezione detta \"Amministrazione Trasparente\".",
+      "la pubblicazione di tutti i provvedimenti degli organi di governo e degli uffici sulle fonti ufficiali (GUCE, GURI, Bollettini Ufficiali, Albi Pretori, ecc.).",
+      "l'alimentazione con informazioni e documenti di un unico sito istituzionale comune a tutte le Amministrazioni detto \"Amministrazione trasparente\"."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 6, 1. 190/2012, quali dei seguenti comuni possono aggregarsi per definire in comune, tramite accordi ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241, il piano triennale per la prevenzione della corruzione, secondo le indicazioni contenute nel Piano nazionale anticorruzione di cui al comma 2-bis?",
+    "options": [
+      "Quelli con popolazione inferiore a 15.000 abitanti",
+      "Quelli con popolazione superiore a 15.000 abitanti",
+      "Tutti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del D.Lgs. 33/2013, i documenti contenenti atti oggetto di pubblicazione obbligatoria ai sensi della normativa vigente sono pubblicati:",
+    "options": [
+      "tempestivamente sul sito istituzionale dell'amministrazione",
+      "entro e non oltre sette giomi decorrenti dalla adozione dell'atto",
+      "tempestivamente e, comunque, entro e non oltre quindici giorni decorrenti dalla adozione dell'atto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 7 1.190/2012, nelle unioni di comuni...",
+    "options": [
+      "Può essere nominato un unico responsabile della prevenzione della corruzione e della trasparenza",
+      "Non può essere nominato un unico responsabile della prevenzione della corruzione e della trasparenza",
+      "Deve essere nominato un responsabile della prevenzione della corruzione e della trasparenza per ogni comune che vi fa parte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5, comma 5, d.lgs. 33/2013, salvi i casi di pubblicazione obbligatoria, l'amministrazione cui è indirizzata la richiesta di accesso, se individua soggetti controinteressati, ai sensi dell'articolo 5-bis, comma 2, è tenuta a dare comunicazione agli stessi, mediante invio di copia con raccomandata con avviso di ricevimento, o per via telematica per coloro che abbiano consentito tale forma di comunicazione. I controinteressati possono presentare una motivata opposizione, anche per via telematica, alla richiesta di accesso, entro...",
+    "options": [
+      "10 giomi dalla ricezione della comunicazione",
+      "5 giomi dalla ricezione della comunicazione",
+      "15 giorni dalla ricezione della comunicazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Nella sezione \"amministrazione trasparente\" dei siti istituzionali, al fine di evitare eventuali duplicazioni, la pubblicazione obbligatoria di documenti e informazioni ai sensi della normativa vigente può essere",
+    "options": [
+      "sostituita da un collegamento ipertestuale alla sezione del sito in cui sono presenti i relativi dati, informazioni o documenti.",
+      "sostituita dai riferimenti dell'ufficio ove è possibile acquisire i documenti e le informazioni la cui pubblicazione è obbligatoria.",
+      "sostituita dall'indicazione dell'indirizzo mail e pec dell'ufficio ove è possibile acquisire i documenti e le informazioni la cui pubblicazione è obbligatoria."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 8, comma 3, d.lgs. 33/2013, i dati, le informazioni e i documenti oggetto di pubblicazione obbligatoria ai sensi della normativa vigente sono pubblicati per un periodo di...",
+    "options": [
+      "5 anni, decorrenti dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo di pubblicazione, e comunque fino a che gli atti pubblicati producono i loro effetti, fatti salvi i diversi termini previsti dalla normativa in materia di trattamento dei dati personali e quanto previsto dagli articoli 14, comma 2, e 15, comma 4.",
+      "2 anni, decorrenti dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo di pubblicazione, e comunque fino a che gli atti pubblicati producono i loro effetti, fatti salvi i diversi termini previsti dalla normativa in materia di trattamento dei dati personali e quanto previsto dagli articoli 14, comma 2, e 15, comma 4.",
+      "10 anni, decorrenti dal 1° gennaio dell'anno successivo a quello da cui decorre l'obbligo di pubblicazione, e comunque fino a che gli atti pubblicati producono i loro effetti, fatti salvi i diversi termini previsti dalla normativa in materia di trattamento dei dati personali e quanto previsto dagli articoli 14, comma 2, e 15, comma 4."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 13, 1.190/2012, la sanzione disciplinare a carico del responsabile della prevenzione della corruzione e della trasparenza...",
+    "options": [
+      "Non può essere inferiore alla sospensione dal servizio con privazione della retribuzione da un minimo di un mese ad un massimo di sei mesi",
+      "Non può essere inferiore alla sospensione dal servizio con privazione della retribuzione da un minimo di sei mesi ad un massimo di un anno",
+      "Dev'essere inferiore alla sospensione dal servizio con privazione della retribuzione da un minimo di un mese ad un massimo di sei mesi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 8, comma 3-bis, d.lgs. 33/2013, l'Autorità nazionale anticorruzione, sulla base di una valutazione del rischio corruttivo, delle esigenze di semplificazione e delle richieste di accesso, determina, anche su proposta del Garante per la protezione dei dati personali, i casi in cui la durata della pubblicazione del dato e del documento...",
+    "options": [
+      "Può essere inferiore a 5 anni",
+      "Deve essere inferiore a 5 anni",
+      "Non può essere inferiore a 5 anni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti, ai sensi dell'art. 1, comma 2, I. 190/2012, esprime parere obbligatorio sugli atti di direttiva e di indirizzo, nonché sulle circolari del Ministro per la pubblica amministrazione e la semplificazione in materia di conformità di atti e comportamenti dei funzionari pubblici alla legge, ai codici di comportamento e ai contratti, collettivi e individuali, regolanti il rapporto di lavoro pubblico?",
+    "options": [
+      "La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche",
+      "II Responsabile della prevenzione della corruzione e della trasparenza",
+      "L'Organismo indipendente di valutazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 7, I. 190/2012, negli enti locali, il Responsabile della prevenzione della corruzione e della trasparenza è individuato, di norma...",
+    "options": [
+      "Nel segretario o nel dirigente apicale, salva diversa e motivata determinazione",
+      "Nel vicesindaco, salva diversa e motivata determinazione",
+      "Nel questore, salva diversa e motivata determinazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 7, comma 5, d.lgs. 33/2013, le notizie concernenti la natura dell'infermità e degli impedimenti personali o familiari che causino l'astensione dal lavoro, sono ostensibili?",
+    "options": [
+      "No, se non nei casi previsti dalla legge",
+      "No, mai",
+      "Si, sempre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5, comma 5, d.lgs.33/2013, in materia di accesso civico, i controinteressati possono presentare una motivata opposizione alla richiesta d'accesso, entro...",
+    "options": [
+      "10 giorni dalla ricezione della comunicazione da parte dell'amministrazione cui è indirizzata la richiesta d'accesso",
+      "5 giomi dalla ricezione della comunicazione da parte dell'amministrazione cui è indirizzata la richiesta d'accesso",
+      "15 giorni dalla ricezione della comunicazione da parte dell'amministrazione cui è indirizzata la richiesta d'accesso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 35, comma 2, d.lgs. 33/2013, le pubbliche amministrazioni possono richiedere l'uso di moduli e formulari che non siano stati pubblicati?",
+    "options": [
+      "No",
+      "Si",
+      "Si, salvi i casi espressamente previsti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 5, 1.190/2012, chi definisce e trasmette al Dipartimento della funzione pubblica procedure appropriate per selezionare e formare, in collaborazione con la Scuola superiore della pubblica amministrazione, i dipendenti chiamati ad operare in settori particolarmente esposti alla corruzione, prevedendo, negli stessi settori, la rotazione di dirigenti e funzionari?",
+    "options": [
+      "Le pubbliche amministrazioni centrali",
+      "L'Autorità nazionale anticorruzione",
+      "L'Organismo indipendente di valutazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 8, I. 190/2012, il responsabile della prevenzione della corruzione e della trasparenza definisce procedure appropriate per selezionare e formare, ai sensi del comma 10, i dipendenti destinati ad operare in settori particolarmente esposti alla corruzione entro il...",
+    "options": [
+      "31 gennaio di ogni anno",
+      "31 luglio di ogni anno",
+      "31 ottobre di ogni anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 2 1.190/2012, dall'attuazione della legge medesima...",
+    "options": [
+      "Non devono derivare nuovi e maggiori oneri a carico della finanza pubblica",
+      "Possono derivare nuovi e maggiori oneri a carico della finanza pubblica",
+      "Devono derivare nuovi e maggiori oneri a carico della finanza pubblica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti può, ai sensi dell'art. 3 d.lgs. 33/2013, precisare gli obblighi di pubblicazione e le relative modalità di attuazione, in relazione alla natura dei soggetti, alla loro dimensione organizzativa e alle attività svolte, prevedendo in particolare modalità semplificate per i comuni con popolazione inferiore a 15.000 abitanti, per gli ordini e collegi professionali?",
+    "options": [
+      "L'Autorità nazionale anticorruzione",
+      "II Garante per la protezione dei dati personali",
+      "II Ministro dell'Interno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5, comma 6, d.lgs. 33/2013, in caso di accoglimento della richiesta di accesso civico nonostante l'opposizione del controinteressato, salvi i casi di comprovata indifferibilità, l'amministrazione ne dà comunicazione al controinteressato e provvede a trasmettere al richiedente i dati o i documenti richiesti...",
+    "options": [
+      "Non prima di quindici giomi dalla ricezione della stessa comunicazione da parte del controinteressato",
+      "Entro quindici giorni dalla ricezione della stessa comunicazione da parte del controinteressato",
+      "Entro venti giomi dalla ricezione della stessa comunicazione da parte del controinteressato"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi del D.lgs. 33/2013, fermi restando gli altri obblighi di pubblicità legale, le pubbliche amministrazioni:",
+    "options": [
+      "Pubblicano i bandi di concorso per il reclutamento, a qualsiasi titolo, di personale presso l'amministrazione, nonché i criteri di valutazione della Commissione e le tracce delle prove scritte",
+      "Pubblicano soltanto i bandi di concorso",
+      "Pubblicano i bandi di concorso solo per il reclutamento a tempo indeterminato di personale presso l'amministrazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 6, 1. 190/2012, quali dei seguenti comuni possono aggregarsi per definire in comune, tramite accordi ai sensi dell'articolo 15 della legge 7 agosto 1990, n. 241, il piano triennale per la prevenzione della corruzione, secondo le indicazioni contenute nel Piano nazionale anticorruzione di cui al comma 2-bis?",
+    "options": [
+      "Quelli con popolazione inferiore a 15.000 abitanti",
+      "Quelli con popolazione superiore a 15.000 abitanti",
+      "Quelli con popolazione superiore a 20.000 abitanti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 14, 1.190/2012, il Responsabile della prevenzione della corruzione e della trasparenza, trasmette all'organismo indipendente di valutazione e all'organo di indirizzo dell'amministrazione una relazione recante i risultati dell'attività svolta e la pubblica nel sito web dell'amministrazione, entro il...",
+    "options": [
+      "15 dicembre di ogni anno",
+      "31 dicembre di ognno",
+      "15 gennaio di ogni anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 2-bis, 1.190/2012, il Piano nazionale anticorruzione è aggiornato...",
+    "options": [
+      "Annualmente",
+      "Ogni due anni",
+      "Ogni tre anni"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 2-bis, I. 190/2012, il Piano nazionale anticorruzione ha durata...",
+    "options": [
+      "Triennale",
+      "Biennale",
+      "Annuale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5, comma 4, d.lgs. 33/2013, il rilascio di dati e documenti in formato elettronico o cartaceo....",
+    "options": [
+      "È gratuito, salvo il rimborso del costo effettivamente sostenuto e documentato dall'amministrazione per la riproduzione su supporti materiali",
+      "È oneroso",
+      "È gratuito e non è dovuto il rimborso del costo effettivamente sostenuto e documentato dall'amministrazione per la riproduzione su supporti materiali"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti, ai sensi dell'art. 1, comma 5, I. 190/2012, definisce e trasmette al Dipartimento della funzione pubblica un piano di prevenzione della corruzione che fornisce una valutazione del diverso livello di esposizione degli uffici al rischio di corruzione e indica gli interventi organizzativi volti a prevenire il medesimo rischio?",
+    "options": [
+      "Le pubbliche amministrazioni centrali",
+      "L'Autorità nazionale anticorruzione",
+      "L'Organismo indipendente di valutazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 6, 1.190/2012, chi formisce, su richiesta, il necessario supporto tecnico e informativo agli enti locali, anche al fine di assicurare che i piani siano formulati e adottati nel rispetto delle linee guida contenute nel Piano nazionale approvato dalla Commissione, ai fini della predisposizione del piano triennale per la prevenzione della corruzione?",
+    "options": [
+      "II Prefetto",
+      "II Questore",
+      "L'ANAC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti stabilisce, ai sensi dell'art. 5-ter d.lgs. 33/2013, i criteri di ammissibilità dei progetti di ricerca avuto riguardo allo scopo della ricerca, alla necessità di disporre dei dati richiesti, ai risultati e benefici attesi e ai metodi impiegati per la loro analisi e diffusione?",
+    "options": [
+      "II Comstat",
+      "II Garante per la protezione dei dati personali",
+      "II Ministero dell'economia e delle finanze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5, comma 5, d.lgs. 33/2013, l'amministrazione cui è indirizzata la richiesta di accesso, se individua soggetti controinteressati, ai sensi dell'articolo 5-bis, comma 2, è tenuta a dare comunicazione agli stessi, mediante invio di copia con raccomandata con avviso di ricevimento, o per via telematica per coloro che abbiano consentito tale forma di comunicazione?",
+    "options": [
+      "Si, salvi i casi di pubblicazione obbligatoria",
+      "Si, in ogni caso",
+      "No, mai"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "L'istanza di accesso civico, ai sensi dell'art 5, comma 3, d.lgs. 33/2013, è presentata...",
+    "options": [
+      "Alternativamente ad uno degli uffici indicati nella norma medesima, tra cui, ad esempio, l'Ufficio relazioni col pubblico",
+      "Esclusivamente all'Ufficio relazioni col pubblico",
+      "Esclusivamente all'Ufficio che detiene i dati, le informazioni o i documenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5, comma 6, d.lgs. 33/2013, il procedimento di accesso civico deve concludersi con un provvedimento espresso e motivato nel termine di...",
+    "options": [
+      "30 giorni dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati",
+      "10 giorni dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati",
+      "60 giorni dalla presentazione dell'istanza con la comunicazione al richiedente e agli eventuali controinteressati"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti stabilisce, ai sensi dell'art. 5-ter d.lgs. 33/2013, i criteri per l'accreditamento dei gestori dei laboratori virtuali, avuto riguardo agli scopi istituzionali, all'adeguatezza della struttura organizzativa e alle misure adottate per la gestione e la sicurezza dei dati?",
+    "options": [
+      "II Comstat",
+      "II Garante per la protezione dei dati personali",
+      "II Ministero dell'economia e delle finanze"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 8, 1.190/2012, l'organo di indirizzo adotta il Piano triennale per la prevenzione della corruzione su proposta del Responsabile della prevenzione della corruzione e della trasparenza entro il...",
+    "options": [
+      "31 gennaio di ogni anno",
+      "31 luglio di ogni anno",
+      "31 ottobre di ogni anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 2, 1.190/2012, la Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche riferisce al Parlamento sull'attività di contrasto della corruzione e dell'illegalità nella pubblica amministrazione e sull'efficacia delle disposizioni vigenti in materia, presentando una relazione entro il",
+    "options": [
+      "31 dicembre di ciascun anno",
+      "31 ottobre di ciascun anno",
+      "31 gennaio di ciascun anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 10, I. 190/2012, chi provvede alla verifica, d'intesa con il dirigente competente, dell'effettiva rotazione degli incarichi negli uffici preposti allo svolgimento delle attività nel cui ambito è più elevato il rischio che siano commessi reati di corruzione?",
+    "options": [
+      "II Responsabile della prevenzione della corruzione e della trasparenza",
+      "L'Organismo indipendente di valutazione",
+      "L'Autorità nazionale anticorruzione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 1, comma 8, I. 190/2012, il responsabile della prevenzione della corruzione e della trasparenza definisce procedure appropriate per selezionare e formare, ai sensi del comma 10, i dipendenti destinati ad operare in settori particolarmente esposti alla corruzione entro il...",
+    "options": [
+      "31 gennaio di ogni anno",
+      "31 luglio di ogni anno",
+      "31 ottobre di ogni anno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 6, comma 2, d.lgs. 33/2013, l'esigenza di assicurare adeguata qualità delle informazioni diffuse...",
+    "options": [
+      "Non può, in ogni caso, costituire motivo per l'omessa o ritardata pubblicazione dei dati, delle informazioni e dei documenti",
+      "Può, nei casi previsti dal comma 3, costituire motivo per l'omessa o ritardata pubblicazione dei dati, delle informazioni e dei documenti",
+      "Può, in ogni caso, costituire motivo per l'omessa o ritardata pubblicazione dei dati, delle informazioni e dei documenti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 5 d.lgs. 33/2013, l'obbligo previsto dalla normativa vigente in capo alle pubbliche amministrazioni di pubblicare documenti, informazioni o dati comporta...",
+    "options": [
+      "II diritto di chiunque di richiedere i medesimi, nei casi in cui sia stata omessa la loro pubblicazione",
+      "L'obbligo di chiunque di richiedere i medesimi, nei casi in cui sia stata omessa la loro pubblicazione",
+      "Il dovere di chiunque di richiedere i medesimi, nei casi in cui sia stata omessa la loro pubblicazione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Ai sensi dell'art. 45 d.lgs. 33/2013, quale tra i seguenti soggetti controlla l'esatto adempimento degli obblighi di pubblicazione previsti dalla normativa vigente?",
+    "options": [
+      "L'Autorità nazionale anticorruzione",
+      "L'organismo indipendente di valutazione",
+      "Il responsabile per la trasparenza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "question": "Quale dei seguenti soggetti, ai sensi dell'art. 1, comma 2, I. 190/2012, adotta il Piano nazionale anticorruzione?",
+    "options": [
+      "La Commissione per la valutazione, la trasparenza e l'integrità delle amministrazioni pubbliche",
+      "II Responsabile della prevenzione della corruzione e della trasparenza",
+      "L'Organismo indipendente di valutazione"
+    ],
+    "correctIndex": 0
+  }
+]
+
